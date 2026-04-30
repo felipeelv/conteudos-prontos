@@ -2,7 +2,7 @@
 
 ## Se um mapa está "virado" com o sul em cima, quem decidiu que o norte era para cima?
 
-No pátio da escola, um aluno gira a planta entre as mãos. Ele percebe que a sala continua no mesmo lugar, mesmo quando o papel muda de posição. Ao lado, outro colega olha o sol e segura uma bússola pequena. Para saber para onde ir, é preciso entender o que significa "norte" e como medir o que o mapa mostra. 💭
+No pátio da escola, um aluno gira a planta entre as mãos. Ele percebe que a sala continua no mesmo lugar, mesmo quando o papel muda de posição. Ao lado, outro colega olha o Sol e segura uma bússola pequena. Para saber para onde ir, é preciso entender o que significa "norte" e como medir o que o mapa mostra. 💭
 
 > 💬 **Para Conversar:**  
 > Quando você chega a um lugar novo, o que usa para descobrir para onde ir?
@@ -11,24 +11,24 @@ No pátio da escola, um aluno gira a planta entre as mãos. Ele percebe que a sa
 
 ## 1. As Direções Principais
 
-Para encontrar o caminho em qualquer lugar, é preciso saber para onde se está olhando. As pessoas combinaram quatro direções principais que servem em todo o planeta. Elas são chamadas de pontos cardeais.
+Para encontrar o caminho em qualquer lugar, é preciso saber para onde se está olhando. As pessoas combinaram quatro direções principais que servem em todo o planeta. Essas direções são chamadas de pontos cardeais.
 
 ### 1.1 Norte, Sul, Leste e Oeste
 
-Um **ponto cardeal** é uma das quatro direções principais usadas para a **orientação**, que é o modo de descobrir direção e posição em um espaço. Os pontos cardeais são **Norte (N)**, **Sul (S)**, **Leste (L)** e **Oeste (O)**. Eles funcionam como um acordo entre todas as pessoas: todo mundo combina que essas mesmas direções têm os mesmos nomes — assim fica fácil dizer onde fica algo, sem precisar apontar com o dedo.
+Um **ponto cardeal** é uma das quatro direções principais usadas para a **orientação**, que é o modo de descobrir direção e posição em um espaço. Os pontos cardeais são **Norte (N)**, **Sul (S)**, **Leste (L)** e **Oeste (O)**. Eles funcionam como um acordo entre todas as pessoas: todo mundo combina que essas direções têm os mesmos nomes — assim fica fácil dizer onde fica algo, sem precisar apontar com o dedo.
 
-Numa sala de aula, podemos descobrir as direções olhando ao redor:
+Em uma sala de aula, podemos descobrir as direções olhando ao redor:
 
-- a parede onde o sol nasce está a **Leste**;
+- a parede onde o Sol nasce está a **Leste**;
 - a parede oposta está a **Oeste**;
 - ficando de frente para o Leste, o **Norte** fica à esquerda e o **Sul**, à direita.
 
 > 💡 **Você sabia?**  
-> Em quase todos os mapas, o Norte é desenhado para cima por costume — mas é só um combinado. Há mapas com o Sul para cima, e o espaço continua o mesmo.
+> Em quase todos os mapas, o Norte é desenhado para cima por costume — é só um combinado. Há mapas com o Sul para cima, e o espaço continua o mesmo.
 
 ### 1.2 Usando o Sol como pista
 
-O **Sol** é a pista mais antiga de orientação. Ele nasce sempre por uma direção próxima ao **Leste**, sobe no céu durante o dia e se põe em uma direção próxima ao **Oeste**. Essa observação serve em qualquer lugar do mundo, mesmo sem mapa, sem celular e sem bússola.
+O **Sol** é a pista mais antiga de orientação. Ele aparece pela manhã em uma direção próxima ao **Leste**, sobe no céu durante o dia e some em uma direção próxima ao **Oeste**, no fim da tarde. Essa observação serve em qualquer lugar do mundo, mesmo sem mapa, sem celular e sem bússola.
 
 Para usar o Sol como pista, basta:
 
@@ -86,7 +86,7 @@ Na escola ou em casa, a bússola pode ajudar a:
 
 ### 3.2 Legenda: a chave do mapa
 
-A **legenda** é a parte do mapa que explica os símbolos, as cores e as linhas usadas no desenho. Cada **símbolo** é um sinal que representa algo no mapa, como uma casa, uma escola ou um rio. Sem a legenda, dois mapas parecidos podem parecer falar coisas diferentes.
+A **legenda** é a parte do mapa que explica os símbolos, as cores e as linhas usados no desenho. Cada **símbolo** é um sinal que representa algo no mapa, como uma casa, uma escola ou um rio. Sem a legenda, dois mapas parecidos podem parecer falar coisas diferentes.
 
 Em uma planta da sala, a legenda costuma mostrar:
 
@@ -189,7 +189,7 @@ O Norte não precisa ficar sempre em cima do mapa para o desenho representar o e
 
 ## Simplificando
 
-**Pontos cardeais** e **colaterais** indicam direções, e a **rosa dos ventos** os organiza num símbolo só. A **bússola** aponta o norte, a **legenda** explica os símbolos do mapa e a **escala** mostra a relação entre o desenho e o tamanho real do lugar.
+**Pontos cardeais** e **colaterais** indicam direções, e a **rosa dos ventos** os organiza num símbolo só; a **bússola** aponta o norte, a **legenda** explica os símbolos do mapa e a **escala** mostra a relação entre o desenho e o tamanho real do lugar.
 
 ---
 

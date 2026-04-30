@@ -2,7 +2,7 @@
 
 ## Por que existem mapas diferentes do mesmo Brasil — qual é o "certo"?
 
-Sobre a mesa, quatro imagens do Brasil aparecem lado a lado: uma com estados pintados, uma com rios e montanhas, uma com cores que mostram onde chove mais e uma redonda, como um globo. Todas falam do mesmo país, mas cada uma conta uma história diferente. Nenhuma está errada — só foi feita para responder a uma pergunta diferente. 💭
+Sobre a mesa, quatro imagens do Brasil aparecem lado a lado: uma com estados pintados, outra com rios e montanhas, outra com cores que mostram onde chove mais e uma redonda, como um globo. Todas falam do mesmo país, mas cada uma conta uma história diferente. Nenhuma está errada — cada uma foi feita para responder a uma pergunta diferente. 💭
 
 > 💬 **Para Conversar:**  
 > Se você fosse explicar onde fica sua escola, usaria um mapa do Brasil, do bairro ou uma planta da escola? Por quê?
@@ -15,41 +15,41 @@ Um mapa nunca mostra tudo. Ele escolhe o que cabe no papel e o que vai ficar de 
 
 ### 1.1 O que é um mapa
 
-Um **mapa** é um desenho que mostra um espaço visto de cima, em tamanho reduzido. Ele cabe no papel porque é menor que a realidade, mas guarda a forma e a posição dos lugares. Pense no mapa do Brasil pendurado na parede da sala: o país inteiro coube ali, mas em proporção bem menor que o real.
+Um **mapa** é um desenho que mostra um espaço visto de cima, em tamanho reduzido. Ele cabe no papel porque é menor que a realidade, mas guarda a forma e a posição dos lugares. Pense no mapa do Brasil pendurado na parede da sala: o país inteiro coube ali, em proporção bem menor que o real.
 
 Para fazer um mapa, é preciso decidir três coisas:
 
-- o que vai ser mostrado (estados, rios, ruas, casas);
+- o que vai aparecer (estados, rios, ruas, casas);
 - o que vai ficar de fora;
 - como representar cada elemento com símbolos e cores.
 
 > 💡 **Você sabia?**  
-> A palavra "mapa" vem do latim *mappa*, que era o nome de um pano onde antigos romanos desenhavam terras e caminhos.
+> A palavra "mapa" vem do latim *mappa*, nome de um pano onde os antigos romanos desenhavam terras e caminhos.
 
 ### 1.2 Todo mapa responde a uma pergunta
 
-Cada mapa nasce de uma pergunta diferente. Um motorista quer saber qual estrada pegar, um estudante quer saber onde fica a Bahia e um agricultor quer saber onde chove mais. Não existe um único mapa que responda a todas essas perguntas ao mesmo tempo.
+Cada mapa nasce de uma pergunta diferente. Um motorista quer saber qual estrada pegar; um estudante quer saber onde fica a Bahia; um agricultor quer saber onde chove mais. Não existe um único mapa que responda a todas essas perguntas ao mesmo tempo.
 
-Por isso, mapas diferentes do mesmo lugar não estão "errados" — eles foram feitos para usos diferentes. Três perguntas comuns guiam mapas distintos:
+Mapas diferentes do mesmo lugar não estão "errados" — foram feitos para usos diferentes. Veja três perguntas que pedem mapas distintos:
 
 - "Quais são as fronteiras dos estados?";
 - "Onde estão os rios e as montanhas?";
-- "Onde acontece tal coisa, como chuva ou produção de soja?".
+- "Onde acontece tal coisa, como chuva ou plantação de soja?".
 
 > 💭 **Pense um pouco:**  
-> Se você precisasse achar o caminho da sua casa até a padaria, qual mapa ajudaria mais: o do Brasil ou o do bairro?
+> Para achar o caminho da sua casa até a padaria, qual mapa ajudaria mais: o do Brasil ou o do bairro?
 
 ---
 
 ## 2. Mapas do Brasil: político, físico e temático
 
-O mesmo Brasil aparece de jeitos bem diferentes em cada mapa. Cada um destaca um tipo de informação. Vamos ver os três tipos mais comuns.
+O mesmo Brasil aparece de jeitos bem diferentes em cada mapa. Cada um destaca um tipo de informação. Vamos conhecer os três tipos mais comuns.
 
 ### 2.1 Mapa político: limites e lugares
 
-O **mapa político** mostra divisões feitas pelas pessoas, como países, estados e cidades. Esse tipo de mapa destaca **fronteiras**, que são linhas que marcam o limite entre dois territórios. No mapa político do Brasil, cada estado costuma aparecer com uma cor diferente para que a divisão fique clara.
+O **mapa político** mostra divisões feitas pelas pessoas, como países, estados e cidades. Ele destaca **fronteiras**, que são linhas que marcam o limite entre dois territórios. No mapa político do Brasil, cada estado costuma aparecer com uma cor diferente para a divisão ficar clara.
 
-Esse é o mapa que serve para:
+Esse é o mapa que ajuda a:
 
 - localizar estados e capitais;
 - ver os países que fazem fronteira com o Brasil;
@@ -57,7 +57,7 @@ Esse é o mapa que serve para:
 
 ### 2.2 Mapa físico: natureza e relevo
 
-O **mapa físico** mostra elementos naturais: rios, montanhas, planaltos e vegetação. Em vez de pintar estados, ele usa cores para representar o **relevo**, que é o conjunto das formas do terreno: áreas altas, baixas ou planas. Geralmente, áreas baixas ficam verdes e áreas mais altas ficam marrons ou amarelas.
+O **mapa físico** mostra elementos naturais: rios, montanhas, planaltos e vegetação. Em vez de pintar estados, ele usa cores para representar o **relevo**, que é o conjunto das formas do terreno — áreas altas, baixas ou planas. Em geral, áreas baixas ficam verdes e áreas mais altas ficam marrons ou amarelas.
 
 No mapa físico do Brasil aparecem coisas que não dependem das pessoas:
 
@@ -66,13 +66,13 @@ No mapa físico do Brasil aparecem coisas que não dependem das pessoas:
 - as planícies do Pantanal.
 
 > ⏸️ **Pare e Pense:**  
-> Por que o mesmo país pode parecer cheio de pedaços (estados) num mapa e cheio de rios e montanhas em outro?
+> Por que o mesmo país pode parecer cheio de pedaços (estados) em um mapa e cheio de rios e montanhas em outro?
 
 ### 2.3 Mapa temático: um assunto em destaque
 
-O **mapa temático** é um mapa que mostra um assunto específico. Em vez de mostrar tudo, ele escolhe um **tema** — como clima, chuva, população ou produção agrícola — e usa cores para destacar onde esse tema é maior ou menor. Um mapa temático de chuva, por exemplo, pinta de azul forte as regiões mais chuvosas.
+O **mapa temático** mostra um assunto específico. Em vez de mostrar tudo, ele escolhe um **tema** — clima, chuva, população ou produção agrícola — e usa cores para destacar onde esse tema é maior ou menor. Um mapa temático de chuva, por exemplo, pinta de azul forte as regiões mais chuvosas.
 
-Os mapas temáticos servem para responder a perguntas pontuais:
+Os mapas temáticos respondem a perguntas pontuais:
 
 - onde chove mais no Brasil?
 - quais regiões têm mais habitantes?
@@ -86,9 +86,9 @@ Nem toda representação da Terra é uma folha de papel. O globo terrestre repre
 
 ### 3.1 Globo terrestre: a Terra em forma arredondada
 
-O **globo terrestre** é um modelo redondo que representa a Terra com a forma parecida com a do planeta de verdade. Como a Terra é arredondada, o globo mostra os continentes e oceanos sem distorcer suas formas. Por isso, ele é mais fiel ao formato da Terra do que um mapa-múndi plano.
+O **globo terrestre** é um modelo redondo que representa a Terra com a forma parecida com a do planeta de verdade. Como a Terra é arredondada, o globo mostra os continentes e oceanos sem distorcer o formato deles. Por isso, ele é mais fiel à forma da Terra do que um mapa-múndi plano.
 
-A vantagem do globo é, ao mesmo tempo, sua dificuldade. Ele:
+A vantagem do globo é, ao mesmo tempo, a sua dificuldade. Ele:
 
 - é fiel à forma redonda do planeta;
 - não cabe na mochila nem na parede da sala;
@@ -115,7 +115,7 @@ Fazer uma planta é olhar a sala como se fosse um pássaro voando bem em cima de
 
 ### 4.1 O que precisa aparecer
 
-A planta da sala deve mostrar os elementos importantes do espaço, todos vistos de cima. O desenho não pinta caderno, lápis ou cartaz — só o que está fixo. Os elementos básicos costumam ser:
+A planta da sala deve mostrar os elementos importantes do espaço, todos vistos de cima. Ela não desenha caderno, lápis ou cartaz — só o que está fixo. Os elementos básicos costumam ser:
 
 - porta e janelas;
 - quadro;
@@ -134,7 +134,7 @@ Para a planta ficar clara, é bom organizar:
 - uma legenda escrita em um cantinho da folha.
 
 > 💭 **Pense um pouco:**  
-> Se outro aluno olhasse só a sua planta, sem você explicar, ele conseguiria entender o que cada símbolo quer dizer?
+> Se outro aluno olhasse só a sua planta, sem você explicar, ele entenderia o que cada símbolo quer dizer?
 
 ---
 
@@ -171,7 +171,7 @@ Fazer um mapa é uma tarefa de muitos detalhes pequenos: uma legenda que falta, 
 - não precisa ser cartógrafo profissional para representar com honestidade;
 - escolher o que mostrar não é esconder — é deixar claro o objetivo do mapa.
 
-Quem aprende a ser fiel num desenho da sala também aprende a ser fiel em coisas maiores, no estudo e na vida.
+Quem aprende a ser fiel no desenho da sala também aprende a ser fiel em coisas maiores, no estudo e na vida.
 
 > 💬 **Para Conversar:**  
 > Se um colega vai usar a planta que você desenhou para encontrar a porta da sala, o que você precisa cuidar para não confundi-lo?
