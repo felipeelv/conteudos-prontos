@@ -2,7 +2,11 @@
 
 ## Antes de calcular a chance, você sabe listar tudo o que pode acontecer?
 
-Dois dados estão sobre a mesa, e alguém torce para sair soma 7. Parece simples olhar só para os pares que ajudam. Mas existem muitos pares possíveis antes de qualquer conta. A lista completa vem antes da torcida.
+Dois dados estão sobre a mesa. Alguém torce para sair soma 7.
+
+Parece simples olhar só para os pares que ajudam. Mas existem muitos pares possíveis antes de qualquer conta.
+
+A lista completa vem antes da torcida.
 
 > 💭 **Pense um pouco:**  
 > Você costuma pensar em todas as possibilidades ou só nas que quer que aconteçam?

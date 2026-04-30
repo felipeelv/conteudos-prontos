@@ -2,7 +2,11 @@
 
 ## Uma chance em cem é a mesma coisa que 1%?
 
-Na rifa da escola, há 100 números, e cada número custa R$ 2. Um aluno compra 1 número, outro compra 5 e outro compra 10. Todos querem ganhar, mas a chance de cada um não é igual. A conta precisa traduzir essa diferença sem aumentar nem diminuir a verdade.
+Na rifa da escola, há 100 números, e cada número custa R$ 2.
+
+Um aluno compra 1 número, outro compra 5 e outro compra 10. Todos querem ganhar, mas a chance de cada um não é igual.
+
+A conta precisa mostrar essa diferença sem aumentar nem diminuir a verdade.
 
 > 💭 **Pense um pouco:**  
 > Por que 0,2, 20% e 1 em 5 parecem diferentes se dizem a mesma chance?
@@ -182,7 +186,9 @@ Probabilidade exige diligência: contar antes de concluir. Um numerador inflado 
 
 ## Simplificando
 
-Probabilidade clássica é a comparação entre casos favoráveis e casos possíveis em situações finitas e equiprováveis. Fração, decimal e porcentagem podem dizer a mesma chance com escritas diferentes.
+Probabilidade clássica compara casos favoráveis e casos possíveis.
+
+Fração, decimal e porcentagem podem dizer a mesma chance com escritas diferentes.
 
 ---
 

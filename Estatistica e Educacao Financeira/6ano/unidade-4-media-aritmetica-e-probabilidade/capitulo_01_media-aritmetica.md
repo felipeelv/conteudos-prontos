@@ -2,7 +2,11 @@
 
 ## Onde está a média quando ninguém tirou exatamente aquela nota?
 
-No boletim, apareceram as notas 7, 8, 6, 9 e 5. A média ficou 7, mas esse número parece escondido no meio das notas. Ele não conta a história de uma prova só. Ele funciona como uma balança que reparte o resultado de todas.
+No boletim, apareceram as notas 7, 8, 6, 9 e 5. A média ficou 7.
+
+Esse número parece escondido no meio das notas. Ele não conta a história de uma prova só.
+
+Ele funciona como uma balança que reparte o resultado de todas.
 
 > 💭 **Pense um pouco:**  
 > A média da turma conta a história de todos os alunos?
@@ -169,7 +173,9 @@ $$ \overline{x} \approx 1{,}33\;\mathrm{livros} $$
 
 O erro mais comum é dividir pelo número de linhas da tabela. Aqui são 4 linhas, mas 12 alunos.
 
-Adolphe Quetelet usou médias para resumir características de populações. A ideia do "homem médio" mostra que a média ajuda a enxergar o conjunto, mas não descreve cada pessoa sozinha.
+Adolphe Quetelet usou médias para resumir características de populações.
+
+A ideia do "homem médio" mostra uma coisa importante: a média ajuda a enxergar o grupo, mas não descreve cada pessoa sozinha.
 
 > 💡 **Você sabia?**  
 > Quetelet foi astrônomo e estatístico, e usou médias para estudar grupos de pessoas no século XIX.
@@ -196,7 +202,9 @@ A média funciona como uma balança dos dados. Se um valor é escondido, a conta
 
 ## Simplificando
 
-A média aritmética reparte a soma dos valores pela quantidade correta de valores. Ela mostra um ponto de equilíbrio do conjunto, mas não conta sozinha toda a história dos dados.
+A média aritmética reparte a soma dos valores pela quantidade correta de valores.
+
+Ela mostra um ponto de equilíbrio do conjunto, mas não conta sozinha toda a história dos dados.
 
 ---
 
