@@ -1,58 +1,120 @@
-# Conteúdos Prontos
+# Conteudos Prontos
 
-Este repositório é a pasta de destino dos conteúdos produzidos pelos autores do projeto [`autores-material`](https://github.com/felipeelv/autores-material.git).
+Repositorio final dos conteudos gerados pelos autores.
 
-Os materiais são gerados por scripts mantidos no repositório de autores e salvos aqui automaticamente, organizados em pastas por componente curricular, ano/série e unidade.
+Este repositorio armazena os capitulos prontos para revisao editorial final, diagramacao, publicacao ou uso nos proximos fluxos de producao.
 
-## Finalidade deste repositório
-
-Este repositório funciona como área de armazenamento dos conteúdos já produzidos ou gerados pelos autores.
-
-Ele não é, prioritariamente, o local onde os scripts de criação dos conteúdos são mantidos. A lógica de geração, automação e autoria fica no repositório:
-
-- [`felipeelv/autores-material`](https://github.com/felipeelv/autores-material.git)
-
-## Organização das pastas
-
-A estrutura segue, em geral, o padrão:
+## Papel no fluxo
 
 ```text
-Disciplina/
-  ano-ou-serie/
-    unidade-nome-da-unidade/
-      arquivos-de-conteudo.md
+material-didatico
+   |
+   | gera blueprints
+   v
+material-blueprints
+   |
+   | dispara n8n
+   v
+autores-material
+   |
+   | gera e publica
+   v
+conteudos-prontos
 ```
 
-Exemplos:
+## Responsabilidade deste repositorio
+
+- Armazenar o conteudo final gerado pelos autores.
+- Manter organizacao por disciplina, ano e unidade.
+- Preservar rastreabilidade entre conteudo final e blueprint de origem.
+- Servir como ponto de revisao final da linha editorial.
+
+Este repositorio nao deve conter frameworks, prompts de autor ou blueprints tecnicos como fonte primaria.
+
+## Estrutura esperada
 
 ```text
-Portugues 1/
-  4ano/
-    unidade-4-verbos/
-      capitulo_01_tempos-verbais-do-indicativo.md
-
-Filosofia/
-  2serie/
-    bimestre-4-pos-modernidade-e-apologetica/
-      capitulo_07_pos-modernismo-e-desconstrucao.md
+<Disciplina>
+└── <Ano>
+    └── <Unidade>
+        ├── capitulo_01_*.md
+        ├── capitulo_02_*.md
+        └── metadata.json
 ```
 
-## Fluxo de produção
+Exemplo:
 
-1. Os autores trabalham no repositório [`autores-material`](https://github.com/felipeelv/autores-material.git).
-2. Os scripts desse repositório geram ou atualizam conteúdos educacionais.
-3. Os arquivos finais são gravados neste repositório, dentro da pasta correspondente à disciplina, ano/série e unidade.
-4. Este repositório passa a concentrar os conteúdos prontos para consulta, revisão, versionamento ou distribuição.
+```text
+Filosofia
+└── 2serie
+    └── bimestre-1-iluminismo-e-critica
+        ├── capitulo_01_empirismo-britanico-e-critica-do-conhecimento.md
+        ├── capitulo_02_kant-e-a-sintese-critica.md
+        └── metadata.json
+```
 
-## Observações importantes
+## Entrada
 
-- Evite alterar manualmente arquivos gerados sem verificar se eles serão sobrescritos pelos scripts do repositório de autores.
-- Ao criar uma nova disciplina, série, unidade ou capítulo, mantenha o padrão de organização já existente.
-- Arquivos `.gitkeep` podem existir apenas para preservar pastas vazias no versionamento.
-- Conteúdos em Markdown (`.md`) representam materiais textuais gerados ou revisados.
+Este repositorio recebe publicacoes diretas do pipeline de autoria no repositorio `autores-material`.
 
-## Relação com o repositório de autores
+Cada publicacao deve vir de um blueprint existente no repositorio `material-blueprints`.
 
-Este repositório depende do fluxo de geração definido em [`autores-material`](https://github.com/felipeelv/autores-material.git). Portanto, mudanças estruturais nesta pasta devem ser compatíveis com os caminhos esperados pelos scripts de origem.
+## Saida
 
-Antes de renomear, mover ou excluir pastas, confirme se os scripts dos autores também foram ajustados para refletir a nova estrutura.
+A saida deste repositorio e o conteudo final organizado.
+
+Ele pode ser usado para:
+
+- revisao editorial final;
+- ajustes pontuais de texto;
+- diagramacao;
+- empacotamento para material didatico;
+- auditoria de producao por disciplina, ano e unidade.
+
+## Rastreabilidade
+
+Cada unidade deve conter um `metadata.json`:
+
+```json
+{
+  "disciplina": "Filosofia",
+  "ano": "2serie",
+  "unidade": "bimestre-1-iluminismo-e-critica",
+  "blueprint_repo": "felipeelv/material-blueprints",
+  "blueprint_sha": "SHA_DO_COMMIT",
+  "blueprint_path": "blueprints/Filosofia/2serie/bimestre-1-iluminismo-e-critica",
+  "autor": "filosofia",
+  "generated_at": "2026-04-30T00:00:00-03:00"
+}
+```
+
+Esse arquivo permite responder:
+
+- qual blueprint gerou o conteudo;
+- qual autor foi usado;
+- quando a unidade foi gerada;
+- qual caminho de origem deve ser consultado em caso de revisao.
+
+## Publicacao
+
+Nesta fase, a publicacao e direta na branch principal.
+
+Motivo: os autores ainda estao sendo afinados, e a revisao editorial fina acontece no final da linha, sobre o conteudo ja gerado.
+
+Mensagem de commit sugerida:
+
+```text
+Add conteudo Filosofia/2serie/bimestre-1-iluminismo-e-critica
+
+Origem: felipeelv/material-blueprints@SHA_DO_COMMIT
+Autor: filosofia
+```
+
+## Regras importantes
+
+- Nao apagar manualmente `metadata.json`.
+- Nao misturar conteudos de unidades diferentes na mesma pasta.
+- Evitar commits manuais que nao indiquem a origem da alteracao.
+- Ajustes editoriais finais podem ser feitos neste repositorio, mas devem preservar a estrutura da unidade.
+- Quando houver reprocessamento automatico, o novo commit deve apontar para o novo SHA do blueprint.
+
