@@ -1,173 +1,153 @@
 # Capítulo 3 — Cálculo de Probabilidade
 
 ## Uma chance em cem é a mesma coisa que 1%?
-Na rifa da escola, há 100 números, e um aluno comprou apenas 1. Outro comprou 5, e um terceiro comprou 10. Todos querem ganhar, mas a comparação precisa ser feita com a mesma medida. Fração, decimal e porcentagem são três modos de dizer a mesma chance.
+
+Na rifa da escola, há 100 números, e cada número custa R$ 2. Um aluno compra 1 número, outro compra 5 e outro compra 10. Todos querem ganhar, mas a chance de cada um não é igual. A conta precisa traduzir essa diferença sem aumentar nem diminuir a verdade.
 
 > 💭 **Pense um pouco:**  
 > Por que 0,2, 20% e 1 em 5 parecem diferentes se dizem a mesma chance?
 
 ## 1. Da Lista Para a Fração
-A probabilidade clássica nasce da comparação entre a parte favorável e o total possível.
+
+Probabilidade começa com a lista completa e termina com uma comparação.
 
 ### 1.1 Retomando espaço amostral e evento
-Antes de calcular, precisamos saber qual é o espaço amostral e qual é o evento. O espaço amostral é o todo; o evento é a parte que interessa.
 
-Em um dado comum:
+No lançamento de um dado, o espaço amostral é:
 
 $$ \Omega = \{1, 2, 3, 4, 5, 6\} $$
 
-O total de casos possíveis é:
-
-$$ n(\Omega) = 6 $$
-
-Se o evento for "sair número maior que 4", então:
+Se a pergunta é "sair número maior que 4", o evento é:
 
 $$ E = \{5, 6\} $$
 
-O número de casos favoráveis é:
+Agora contamos os dois grupos:
+
+$$ n(\Omega) = 6 $$
 
 $$ n(E) = 2 $$
 
 ### 1.2 Casos favoráveis sobre casos possíveis
-Probabilidade é a medida da chance de um evento acontecer. No cálculo clássico, usamos a razão entre casos favoráveis e casos possíveis.
 
-A leitura é direta:
+Casos favoráveis são os resultados que fazem o evento acontecer. Casos possíveis são todos os resultados do espaço amostral.
+
+A probabilidade compara esses dois números:
 
 $$ P = \frac{\mathrm{favoraveis}}{\mathrm{possiveis}} $$
 
-Para o dado do exemplo:
+No dado, há 2 casos favoráveis em 6 possíveis:
 
 $$ P = \frac{2}{6} $$
 
 $$ P = \frac{1}{3} $$
 
-A chance de sair número maior que 4 é de 1 em 3.
+Isso significa 1 chance em cada 3 partes iguais.
 
-> 📐 **Fazendo as Contas:**  
-> Em uma moeda, sair cara tem $$ 1 $$ caso favorável em $$ 2 $$ possíveis, então $$ P = \frac{1}{2} $$.
+> 📈 **No Dia a Dia:**  
+> Em uma rifa com 100 números, comprar 1 número significa ter 1 caso favorável entre 100 possíveis.
 
 ## 2. A Fórmula Clássica
-A fórmula da probabilidade organiza a mesma comparação: favoráveis divididos por possíveis.
+
+A fórmula organiza a mesma ideia com símbolos curtos.
 
 ### 2.1 O que significa cada parte da fórmula
-A fórmula clássica é:
+
+A probabilidade do evento E pode ser escrita assim:
 
 $$ P(E) = \frac{n(E)}{n(\Omega)} $$
 
-Nessa fórmula, $$ P(E) $$ é a probabilidade do evento, $$ n(E) $$ é o número de casos favoráveis e $$ n(\Omega) $$ é o número total de casos possíveis.
+Nessa fórmula, $$ P(E) $$ é a probabilidade do evento E. O número $$ n(E) $$ conta os casos favoráveis, e $$ n(\Omega) $$ conta todos os casos possíveis.
 
-Veja em uma urna com 3 bolas azuis e 2 bolas verdes. O evento é sortear uma bola verde.
+Veja o caso de uma urna com 3 bolas azuis e 2 bolas verdes. Se queremos tirar uma bola azul, há 3 casos favoráveis em 5 possíveis.
 
-O total de bolas é:
+$$ P(E) = \frac{3}{5} $$
 
-$$ n(\Omega) = 5 $$
-
-Os casos favoráveis são:
-
-$$ n(E) = 2 $$
-
-Aplicando a fórmula:
-
-$$ P(E) = \frac{2}{5} $$
-
-A chance de sortear uma bola verde é de 2 em 5.
+A resposta deve voltar para a situação. A chance de tirar uma bola azul é 3 em 5.
 
 ### 2.2 Quando a fórmula pode ser usada
-A fórmula clássica deve ser usada quando o espaço amostral é finito e os resultados são equiprováveis. Equiprovável significa que cada resultado possível tem a mesma chance de acontecer.
 
-Uma moeda comum é um bom exemplo: cara e coroa têm a mesma chance. Já uma brincadeira em que algumas pessoas recebem mais bilhetes que outras precisa de cuidado, porque os participantes não têm necessariamente a mesma chance.
+Essa fórmula vale quando o espaço amostral é finito e os resultados são equiprováveis.
 
-Pierre-Simon Laplace, matemático francês, ficou ligado à definição clássica de probabilidade no início do século XIX. A ideia central é simples: contar corretamente a parte favorável e o todo possível.
+Finito significa que dá para contar todos os resultados. Equiprovável significa que todos têm a mesma chance.
+
+Veja dois exemplos:
+
+| Situação | Pode usar a fórmula? | Motivo |
+|---|---|---|
+| Dado comum | Sim | seis faces com mesma chance |
+| Rifa com números iguais | Sim | cada número tem a mesma chance |
+| Corrida entre alunos | Não diretamente | os alunos podem ter habilidades diferentes |
 
 > ⏸️ **Pare e Pense:**  
-> Se um resultado tem mais chance que outro, ainda faz sentido tratar todos como iguais?
+> Se os resultados não têm a mesma chance, por que a divisão simples pode enganar?
 
 ## 3. Probabilidade Entre 0 e 1
-Toda probabilidade clássica fica entre 0 e 1.
+
+Toda probabilidade fica entre impossível e certo.
 
 ### 3.1 Impossível, certo e provável
-Quando um evento não pode acontecer, sua probabilidade é 0. Quando o evento acontece com certeza, sua probabilidade é 1.
 
-Essa ideia aparece assim:
+Se um evento não pode acontecer, sua probabilidade é 0.
 
-$$ 0 \leq P \leq 1 $$
-
-Em um dado comum, sair 8 é impossível:
+No dado comum, sair 8 é impossível:
 
 $$ P = 0 $$
 
-No mesmo dado, sair um número de 1 a 6 é certo:
+Se um evento sempre acontece, sua probabilidade é 1.
+
+No dado comum, sair número menor que 7 é certo:
 
 $$ P = 1 $$
 
-A maioria dos eventos fica entre 0 e 1. Sair número par, por exemplo, não é impossível nem certo.
+Entre 0 e 1 ficam as chances possíveis:
+
+$$ 0 \leq P \leq 1 $$
 
 ### 3.2 Conferindo erros de conta
-Uma probabilidade maior que 1 indica erro, porque a parte não pode ser maior que o todo. O mesmo vale para porcentagem maior que 100%.
 
-Veja o erro:
+Uma probabilidade maior que 1 indica erro. O mesmo vale para uma chance maior que 100%.
 
-$$ P = \frac{8}{6} $$
+Veja a conferência:
 
-Essa escrita diria que existem 8 casos favoráveis em apenas 6 possíveis. A contagem precisa ser revista.
+| Resultado da conta | Faz sentido? | Por quê |
+|---:|---|---|
+| 0 | Sim | evento impossível |
+| 0,5 | Sim | chance no meio |
+| 1 | Sim | evento certo |
+| 1,4 | Não | passou do certo |
 
-Para conferir, faça sempre três perguntas:
-
-- o denominador veio do espaço amostral completo?
-- o numerador veio apenas do evento?
-- os resultados são equiprováveis?
+Pierre-Simon Laplace ajudou a formular a definição clássica de probabilidade. Ela depende de contar corretamente os casos favoráveis e possíveis.
 
 > 💡 **Você sabia?**  
-> Se a probabilidade passou de 1, a conta está avisando que a parte ficou maior que o todo.
+> Laplace escreveu sobre probabilidade no século XIX e ajudou a organizar essa ideia em forma matemática.
 
 ## 4. Fração, Decimal e Porcentagem
-Uma mesma probabilidade pode ser escrita como fração, decimal ou porcentagem.
+
+A mesma chance pode ser escrita de três formas.
 
 ### 4.1 Três formas de dizer a mesma chance
-Porcentagem significa "em cada 100". Por isso, 1% é o mesmo que 1 em cada 100.
 
-Algumas conversões aparecem com frequência:
+Em uma moeda comum, sair cara tem 1 caso favorável em 2 possíveis.
+
+$$ P(E) = \frac{1}{2} $$
 
 $$ \frac{1}{2} = 0{,}5 $$
 
 $$ 0{,}5 = 50\% $$
 
+As três escritas dizem a mesma chance: 1 em 2, ou metade, ou 50%.
+
+Veja outro exemplo:
+
 $$ \frac{1}{4} = 0{,}25 $$
 
 $$ 0{,}25 = 25\% $$
 
-$$ \frac{1}{6} \approx 0{,}167 $$
-
-$$ 0{,}167 \approx 16{,}7\% $$
-
-As formas mudam, mas a chance representada continua a mesma.
+Isso significa 1 em cada 4, ou 25 em cada 100.
 
 ### 4.2 Comparando chances em situações reais
-Em uma rifa com 100 números, comprar 1 número dá:
 
-$$ P(E) = \frac{1}{100} $$
-
-$$ \frac{1}{100} = 0{,}01 $$
-
-$$ 0{,}01 = 1\% $$
-
-Comprar 5 números dá:
-
-$$ P(E) = \frac{5}{100} $$
-
-$$ \frac{5}{100} = 0{,}05 $$
-
-$$ 0{,}05 = 5\% $$
-
-Comprar 10 números dá:
-
-$$ P(E) = \frac{10}{100} $$
-
-$$ \frac{10}{100} = 0{,}10 $$
-
-$$ 0{,}10 = 10\% $$
-
-O quadro resume as três escritas; os demais seguem o mesmo padrão.
+Na rifa com 100 números, a comparação fica direta:
 
 | Números comprados | Fração | Decimal | Percentual |
 |---:|---:|---:|---:|
@@ -175,33 +155,39 @@ O quadro resume as três escritas; os demais seguem o mesmo padrão.
 | 5 | $$ \frac{5}{100} $$ | 0,05 | 5% |
 | 10 | $$ \frac{10}{100} $$ | 0,10 | 10% |
 
-> 📈 **No Dia a Dia:**  
-> Conferir a chance antes de comprar mais números ajuda a decidir sem impulso.
+Comprar mais números aumenta os casos favoráveis. O total de casos possíveis continua sendo 100.
+
+> 📐 **Fazendo as Contas:**  
+> Em um dado, sair 6 tem $$ P(E) = \frac{1}{6} $$ e $$ \frac{1}{6} \approx 16{,}7\% $$.
 
 ---
 
 ## NA VIDA REAL
-Probabilidade aparece em rifas, sorteios, jogos com dados e decisões em que há incerteza. Ela não garante o resultado, mas ajuda a comparar chances com uma contagem honesta.
+
+Antes de comprar uma rifa, compare quantos números você terá com quantos números existem ao todo. A porcentagem só muda a escrita da chance, não muda a chance real.
 
 ---
 
 ## E A BÍBLIA NISSO?
+
 > "Os planos do diligente tendem à abundância, mas a pressa excessiva, à pobreza." (Provérbios 21:5)
 
-Calcular probabilidade exige diligência: conferir o todo, marcar a parte e só depois concluir. A pressa troca contagem por palpite e pode fazer uma chance pequena parecer grande.
+Probabilidade exige diligência: contar antes de concluir. Um numerador inflado ou um denominador esquecido muda a verdade da chance. A pressa pode transformar cálculo em palpite.
 
-- **Confira antes de decidir.** A sabedoria aparece quando a escolha passa por cuidado, paciência e verdade nos números (Lucas 14:28).
+- **Confira os dois números antes de decidir.** Uma decisão íntegra olha os casos favoráveis e também todos os casos possíveis, sem maquiar a conta (Provérbios 10:9).
 
-> 💬 **Para Conversar:** Que decisão melhora quando você confere os números antes de agir?
+> 💬 **Para Conversar:** Quando uma porcentagem parece grande, que pergunta você pode fazer antes de acreditar nela?
 
 ---
 
 ## Simplificando
-Probabilidade clássica é a razão entre casos favoráveis e casos possíveis em um espaço amostral finito e equiprovável. Fração, decimal e porcentagem são formas diferentes de escrever a mesma chance.
+
+Probabilidade clássica é a comparação entre casos favoráveis e casos possíveis em situações finitas e equiprováveis. Fração, decimal e porcentagem podem dizer a mesma chance com escritas diferentes.
 
 ---
 
 ## Para não esquecer
+
 - **Probabilidade:** medida da chance de um evento acontecer;
 - **Casos favoráveis:** resultados que fazem o evento acontecer;
-- **Percentual:** escrita de uma razão em cada 100.
+- **Percentual:** escrita da razão em cada 100.
