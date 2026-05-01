@@ -1,0 +1,209 @@
+#!/usr/bin/env bash
+#
+# Validador editorial de capitulos didaticos do Eleve.
+# Usa o caminho do arquivo (recebido via stdin como JSON do hook ou via $1 direto)
+# para identificar disciplina/ano e aplicar as validacoes correspondentes.
+#
+# Uso direto:   ./validar-capitulo "Conteudos Prontos/.../capitulo_01_x.md"
+# Uso via hook: cat hook-input.json | ./validar-capitulo
+
+set -euo pipefail
+
+# Forca locale UTF-8 para que regex com classes [ÍI], [ãa] etc. casem
+# caracteres multibyte. Sem isso, em locale C o grep nao reconhece Í, ã, etc.
+export LC_ALL="${LC_ALL:-en_US.UTF-8}"
+
+# --- Parse input ---
+file=""
+if [[ $# -ge 1 && -n "${1:-}" ]]; then
+  file="$1"
+elif [[ ! -t 0 ]]; then
+  # stdin is JSON from a Claude Code hook
+  file="$(jq -r '.tool_input.file_path // empty' 2>/dev/null || true)"
+fi
+
+if [[ -z "$file" ]]; then
+  exit 0  # nada a validar
+fi
+
+# So validamos arquivos cujo basename bate o padrao de capitulo
+if [[ ! "$(basename "$file")" =~ ^capitulo_[0-9]+_.+\.md$ ]]; then
+  exit 0
+fi
+
+if [[ ! -f "$file" ]]; then
+  echo "[validar-capitulo] arquivo nao encontrado: $file" >&2
+  exit 0
+fi
+
+# --- Detectar disciplina e ano pelo caminho ---
+# Suporta dois layouts:
+#  1) Novo (apos reorganizacao):  .../<Disciplina>/<Ano>/<Unidade>/capitulo_*.md
+#     onde <Disciplina> e uma das pastas conhecidas na raiz do repo conteudos-prontos
+#  2) Legado: .../Conteudos Prontos/<Disciplina>/<Ano>/<Unidade>/capitulo_*.md
+disciplina=""
+ano=""
+if [[ "$file" == *"Conteudos Prontos/"* ]]; then
+  disciplina="$(echo "$file" | awk -F'Conteudos Prontos/' '{print $2}' | awk -F'/' '{print $1}')"
+  ano="$(echo "$file" | awk -F'Conteudos Prontos/' '{print $2}' | awk -F'/' '{print $2}')"
+else
+  # Procura no path por uma das disciplinas conhecidas e extrai disciplina/ano.
+  # Aceita tanto caminho relativo (`<Disciplina>/...`) quanto absoluto (`.../<Disciplina>/...`).
+  for disc in "Estatistica e Educacao Financeira" "Biologia" "Ciencias" "Educacao Crista" "Vida e Proposito" "Estudos Sociais" "Filosofia" "Fisica" "Geografia" "Geometria" "Historia" "Matematica" "Portugues 1" "Portugues 2" "Quimica" "Sociologia"; do
+    if [[ "$file" == *"/$disc/"* || "$file" == "$disc/"* ]]; then
+      disciplina="$disc"
+      ano="$(echo "$file" | awk -F"/?$disc/" '{print $2}' | awk -F'/' '{print $1}')"
+      break
+    fi
+  done
+fi
+
+# Sem disciplina detectada, sai sem validar
+if [[ -z "$disciplina" ]]; then
+  exit 0
+fi
+
+violacoes=()
+
+add_violacao() {
+  violacoes+=("$1")
+}
+
+# --- Regras gerais (todas as disciplinas) ---
+if ! head -1 "$file" | grep -qE '^# '; then
+  add_violacao "G1: arquivo nao comeca com heading H1 (# Capitulo X — TEMA)"
+fi
+
+# --- Regras de Estatistica e Educacao Financeira ---
+if [[ "$disciplina" == "Estatistica e Educacao Financeira" ]]; then
+
+  # 1. Sem ## Sua Parte / Exercicios / Atividades
+  if grep -nE '^##+ *(Sua Parte|Exerc[íi]cios?|Atividades?)\b' "$file" > /dev/null; then
+    linha=$(grep -nE '^##+ *(Sua Parte|Exerc[íi]cios?|Atividades?)\b' "$file" | head -1 | cut -d: -f1)
+    add_violacao "R1 (linha $linha): heading proibido com exercicios"
+  fi
+
+  # 2. Emoji em headings
+  if grep -nP '^##+.*[\x{1F300}-\x{1FAFF}\x{2600}-\x{27BF}]' "$file" > /dev/null 2>&1; then
+    linha=$(grep -nP '^##+.*[\x{1F300}-\x{1FAFF}\x{2600}-\x{27BF}]' "$file" | head -1 | cut -d: -f1)
+    add_violacao "R2 (linha $linha): emoji em heading"
+  fi
+
+  # 3. \text{} dentro de blocos $$
+  # Conta ocorrencias de $$ por linha (lida com $$ ... $$ na mesma linha)
+  linha=$(awk 'BEGIN{flag=0} {n=gsub(/\$\$/,"&"); if(flag==1 && /\\text\{/){print NR; exit} if(n>0) flag=(flag+n)%2}' "$file")
+  if [[ -n "$linha" ]]; then
+    add_violacao "R3 (linha $linha): \\text{} dentro de bloco LaTeX"
+  fi
+
+  # 4. Acentos dentro de blocos $$
+  linha=$(awk 'BEGIN{flag=0} {n=gsub(/\$\$/,"&"); if(flag==1 && /[áàâãéêíóôõúüçÁÀÂÃÉÊÍÓÔÕÚÜÇ]/){print NR; exit} if(n>0) flag=(flag+n)%2}' "$file")
+  if [[ -n "$linha" ]]; then
+    add_violacao "R4 (linha $linha): acento dentro de bloco LaTeX"
+  fi
+
+  # 5. Headings pos-conteudo na ordem
+  ordem_esperada=("NA VIDA REAL" "E A B[ÍI]BLIA NISSO" "Simplificando" "Para n[ãa]o esquecer")
+  pos_anterior=0
+  for h in "${ordem_esperada[@]}"; do
+    pos=$(grep -nE "^## *$h" "$file" | head -1 | cut -d: -f1 || true)
+    if [[ -z "$pos" ]]; then
+      add_violacao "R5: heading pos-conteudo ausente: $h"
+      continue
+    fi
+    if [[ "$pos" -lt "$pos_anterior" ]]; then
+      add_violacao "R5: heading $h fora de ordem (linha $pos vem antes de $pos_anterior)"
+      break  # nao cascatear
+    fi
+    pos_anterior="$pos"
+  done
+
+  # 6. ## Para nao esquecer com exatamente 3 bullets
+  bullets=$(awk '
+    /^## *Para n[ãa]o esquecer/{flag=1; next}
+    flag && /^## /{flag=0}
+    flag && /^[-*] /{count++}
+    END{print count+0}
+  ' "$file")
+  if [[ "$bullets" -ne 3 ]]; then
+    add_violacao "R6: 'Para nao esquecer' tem $bullets bullets (esperado: 3)"
+  fi
+
+  # 7. ## E A BIBLIA NISSO? contem > 💬 **Para Conversar:**
+  if ! awk '/^## *E A B[ÍI]BLIA NISSO/{flag=1; next} flag && /^## /{flag=0} flag' "$file" | grep -qE '> *💬 \*\*Para Conversar:'; then
+    add_violacao "R7: 'E A BIBLIA NISSO?' sem bloco '> 💬 **Para Conversar:**'"
+  fi
+
+  # 8. ## Simplificando com no maximo 2 frases
+  # Sanitiza antes de contar: remove reticencias, URLs e separadores numericos
+  frases=$(awk '
+    /^## *Simplificando/{flag=1; next}
+    flag && /^## /{flag=0}
+    flag && /^[A-Za-zÁ-ú]/{print}
+  ' "$file" \
+    | sed -E 's/\.\.\.//g; s|https?://[^ ]+||g; s/([0-9]),([0-9])/\1\2/g; s/([0-9])\.([0-9])/\1\2/g' \
+    | tr -d '\n' | grep -oE '[.!?]' | wc -l | tr -d ' ')
+  if [[ "$frases" -gt 2 ]]; then
+    add_violacao "R8: 'Simplificando' tem $frases frases (max: 2)"
+  fi
+
+  # 9. Sem ## NA PRATICA
+  if grep -qE '^## *NA PR[ÁA]TICA' "$file"; then
+    linha=$(grep -nE '^## *NA PR[ÁA]TICA' "$file" | head -1 | cut -d: -f1)
+    add_violacao "R9 (linha $linha): bloco 'NA PRATICA' proibido"
+  fi
+
+  # 10. Formulas do capitulo: REMOVIDO do projeto - proibido em todas as series
+  if grep -qE '^## *F[óo]rmulas do cap[íi]tulo' "$file"; then
+    linha=$(grep -nE '^## *F[óo]rmulas do cap[íi]tulo' "$file" | head -1 | cut -d: -f1)
+    add_violacao "R10 (linha $linha): bloco 'Formulas do capitulo' proibido (removido do projeto)"
+  fi
+
+  # 11. Abertura proibida nas primeiras linhas pos-H1
+  linha=$(awk 'NR==1{next} NR<=6 && /[Nn]este cap[íi]tulo vamos|[Vv]eremos a seguir|[Aa]o longo deste cap[íi]tulo/{print NR; exit}' "$file")
+  if [[ -n "$linha" ]]; then
+    add_violacao "R11 (linha $linha): abertura proibida ('Neste capitulo vamos...' / 'Veremos a seguir...' / 'Ao longo deste capitulo...')"
+  fi
+
+  # 12. Rotulos mecanicos
+  if grep -nE '(Exemplo resolvido|Exerc[íi]cio resolvido):' "$file" > /dev/null; then
+    linha=$(grep -nE '(Exemplo resolvido|Exerc[íi]cio resolvido):' "$file" | head -1 | cut -d: -f1)
+    add_violacao "R12 (linha $linha): rotulo mecanico ('Exemplo resolvido:' / 'Exercicio resolvido:')"
+  fi
+
+  # 13. "Lembre-se de:" como rotulo do bloco biblico
+  if awk '/^## *E A B[ÍI]BLIA NISSO/{flag=1; next} flag && /^## /{flag=0} flag' "$file" | grep -qE '\*\*Lembre-se de:\*\*'; then
+    add_violacao "R13: 'Lembre-se de:' como rotulo do bloco biblico (usar frase contextual em negrito)"
+  fi
+
+  # 14. Maximo 1 box (linha "> EMOJI **TITULO:**") por secao "## N."
+  violacoes_r14=$(awk '
+    /^## [0-9]+\./{section=$0; count[section]=0; next}
+    /^## /{section=""}
+    section && /^> [^ ]+ \*\*[^*]+:\*\*/{
+      count[section]++
+      if (count[section] > 1) print NR": secao \""section"\" tem mais de 1 box"
+    }
+  ' "$file")
+  if [[ -n "$violacoes_r14" ]]; then
+    while IFS= read -r v; do
+      add_violacao "R14 (linha $v)"
+    done <<< "$violacoes_r14"
+  fi
+fi
+
+# --- Saida ---
+if [[ ${#violacoes[@]} -eq 0 ]]; then
+  echo "[validar-capitulo] OK: $file"
+  exit 0
+fi
+
+echo "[validar-capitulo] FALHA em: $file" >&2
+echo "Disciplina: $disciplina | Ano: $ano" >&2
+echo "Violacoes:" >&2
+for v in "${violacoes[@]}"; do
+  echo "  - $v" >&2
+done
+
+# Exit code 2 = bloqueio com feedback ao Claude (PostToolUse)
+exit 2

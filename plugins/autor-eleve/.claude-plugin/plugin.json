@@ -1,0 +1,11 @@
+{
+  "name": "autor-eleve",
+  "description": "Gera capitulos didaticos finais a partir de blueprints aprovados, seguindo as regras editoriais de cada disciplina do Colegio Eleve. Cada disciplina tem uma skill propria com seu prompt-autor e CLAUDE.md, alem de um revisor editorial automatico.",
+  "version": "0.4.0",
+  "author": {
+    "name": "Felipe Rosa",
+    "email": "felipe.rosa@colegioeleve.com.br"
+  },
+  "homepage": "https://github.com/felipeelv/conteudos-prontos",
+  "repository": "https://github.com/felipeelv/conteudos-prontos"
+}
