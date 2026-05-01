@@ -42,14 +42,16 @@ Aplique TODAS as 10 validacoes especificas:
 
 1. **Sem topico numerado >= 5** (`## 5.`, `## 6.` ...) — capitulo tem exatamente 4 topicos numerados.
 2. **Sem heading `## Explorando os Conceitos`** — fluxo direto da introducao para `## 1.`.
-3. **Headings pos-conteudo na ordem exata**: `## 🤝 Sua Parte` -> `#### 📚 Curiosidade dos Estudos Sociais` -> `## Enquanto isso...` -> `## E para hoje...` -> `## Esse foi o "cara"` -> `## Você já pensou nisso?` -> `## Simplificando` -> `## Para não esquecer`.
+3. **Headings pos-conteudo na ordem exata** (6 blocos): `## 🤝 Sua Parte` -> `## Enquanto isso...` -> `## E para hoje...` -> `## Esse foi o "cara"` -> `## Simplificando` -> `## Para não esquecer`. *(`Você já pensou nisso?` e `Curiosidade dos Estudos Sociais` viraram boxes especiais — ver regras 11 e 12.)*
 4. **`## Para não esquecer` tem 3 a 4 bullets** (estilo memory triggers — palavras-chave, nao frases completas).
 5. **`## E para hoje...` contem `> 💬 **Para Conversar:**`** (segundo `Para Conversar` do capitulo, depois do da introducao).
 6. **`## E para hoje...` NAO contem `**Valores para nossa vida:**`** — rotulo proibido. Usar transicao narrativa contextual ("Com esse versiculo, podemos aprender que:", etc.).
 7. **`## Esse foi o "cara"` contem `🏛️ **Legado:**`**.
 8. **Introducao contem `> 💬 **Para Conversar:**`** antes do `## 1.` (primeiro `Para Conversar` do capitulo).
 9. **Maximo 2 tabelas** no capitulo. Tabelas substituem prosa/lista, nunca acrescentam conteudo novo.
-10. **Boxes em blockquote** — `💭 **Pense um pouco`, `⏸️ **Pare e Pense`, `💡 **Você sabia`, `💬 **Para Conversar` precisam estar em linha que comece com `>`.
+10. **Boxes em blockquote** — `💭 **Pense um pouco`, `⏸️ **Pare e Pense`, `💡 **Você sabia`, `💬 **Para Conversar`, `🤔 **Você já pensou nisso`, `📚 **Curiosidade` precisam estar em linha que comece com `>`.
+11. **Box `> 🤔 **Você já pensou nisso?**` obrigatório** — exatamente 1 por capítulo, problematização de julgamento simplista (1-2 frases). Convencionalmente após `## Esse foi o "cara"`. NUNCA como heading `## Você já pensou nisso?`.
+12. **Box `> 📚 **Curiosidade:**` obrigatório** — exatamente 1 por capítulo, fato curioso pontual que amplia o tema (1-2 frases). Convencionalmente após `## 🤝 Sua Parte`. NUNCA como heading `#### 📚 Curiosidade dos Estudos Sociais`.
 
 **Regras adicionais (fora do hook automatico):**
 - Personagem-chave do `## Esse foi o "cara"` = exatamente o do blueprint (nao substituir, nao inventar).

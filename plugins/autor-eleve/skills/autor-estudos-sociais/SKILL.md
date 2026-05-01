@@ -99,14 +99,17 @@ Para cada blueprint_capitulo:
 |---|---|---|
 | 1 | **Sem `## 5.` ou superior** — exatamente 4 tópicos numerados | `grep` por `^## [5-9]\.` |
 | 2 | **Sem heading `## Explorando os Conceitos`** | `grep` por heading |
-| 3 | **Headings pós-conteúdo na ordem exata**: `## 🤝 Sua Parte` → `#### 📚 Curiosidade dos Estudos Sociais` → `## Enquanto isso...` → `## E para hoje...` → `## Esse foi o "cara"` → `## Você já pensou nisso?` → `## Simplificando` → `## Para não esquecer` | `grep` por cada |
+| 3 | **Headings pós-conteúdo na ordem exata** (6 blocos): `## 🤝 Sua Parte` → `## Enquanto isso...` → `## E para hoje...` → `## Esse foi o "cara"` → `## Simplificando` → `## Para não esquecer` | `grep` por cada |
 | 4 | **`## Para não esquecer` tem 3 a 4 bullets** (estilo memory triggers) | contar `- ` na seção |
 | 5 | **`## E para hoje...` contém `> 💬 **Para Conversar:**`** (segundo do capítulo) | `grep` na seção |
 | 6 | **`## E para hoje...` NÃO contém `**Valores para nossa vida:**`** — rótulo proibido | `grep -v` |
 | 7 | **`## Esse foi o "cara"` contém `🏛️ **Legado:**`** | `grep` na seção |
 | 8 | **Introdução contém `> 💬 **Para Conversar:**`** (primeiro do capítulo, antes do `## 1.`) | `grep` na faixa antes de `## 1.` |
 | 9 | **Máximo 2 tabelas no capítulo** | contar grupos de linhas iniciadas com `\|` |
-| 10 | **Boxes em blockquote** — `💭 **Pense um pouco`, `⏸️ **Pare e Pense`, `💡 **Você sabia`, `💬 **Para Conversar` precisam estar em linha começando com `>` | `grep -nE` |
+| 10 | **Boxes em blockquote** — `💭 **Pense um pouco`, `⏸️ **Pare e Pense`, `💡 **Você sabia`, `💬 **Para Conversar`, `🤔 **Você já pensou nisso`, `📚 **Curiosidade` precisam estar em linha começando com `>` | `grep -nE` |
+| 11 | **Box `> 🤔 **Você já pensou nisso?**` presente no capítulo** (problematização — 1 por capítulo, geralmente após `## Esse foi o "cara"`) | `grep -E '^> *🤔 \*\*Você já pensou nisso'` |
+| 12 | **Box `> 📚 **Curiosidade:**` presente no capítulo** (fato curioso pontual — 1 por capítulo, geralmente após `## 🤝 Sua Parte`) | `grep -E '^> *📚 \*\*Curiosidade'` |
+| 13 | **Subtópico `###` enxuto** — máximo 50 palavras de prosa por subtópico em EF2 (≤40 em EF1). Se ultrapassar, há frase de aquecimento ou redundância para cortar | medir prosa entre `###` e próxima lista/heading |
 
 **Se alguma validação falhar:** corrija o capítulo e rode novamente. Não salve um capítulo que falha em validações.
 
@@ -129,6 +132,7 @@ Para cada blueprint_capitulo:
 10. **NUNCA** trocar o personagem-chave do `## Esse foi o "cara"` — vem literal do blueprint.
 11. **NUNCA** trocar ou parafrasear o versículo do `## E para hoje...` — vem literal do blueprint.
 12. **NUNCA** confundir conexão cristã com cristianização forçada da história (Atenas pagã, Roma imperial, civilizações pré-colombianas, Iluminismo) — preserve integridade histórica antes de apontar paralelos.
+13. **NUNCA** escrever subtópico `###` com mais de 50 palavras de prosa em EF2 (40 em EF1). Cada frase entrega informação ou sai. Cortar: "Para os egípcios...", "Logo depois", "tradicionalmente", "Mesmo assim", aposições redundantes, adjetivos cumulativos. **Densidade > suavidade.**
 
 ## Estrutura fixa do capítulo
 
@@ -155,9 +159,8 @@ Para cada blueprint_capitulo:
 ## 🤝 Sua Parte
 [Aplicação prática + cidadania — máximo 1 frase]
 
----
-#### 📚 Curiosidade dos Estudos Sociais
-[Fato que amplia o tema — máximo 2 frases]
+> 📚 **Curiosidade:**  
+> [Fato pontual que amplia o tema — máximo 1-2 frases]
 
 ---
 ## Enquanto isso...
@@ -168,11 +171,15 @@ Para cada blueprint_capitulo:
 
 ---
 ## Esse foi o "cara"
-[Personagem histórico — 3 bullets biográficos focados + 🏛️ **Legado:** uma linha curta]
 
----
-## Você já pensou nisso?
-[Problematização — máximo 2-3 frases]
+**Nome do personagem (datas)**
+
+[3 bullets biográficos focados, sem rótulos `Origem:`/`Contribuição:`/`Marco:`]
+
+🏛️ **Legado:** uma linha curta.
+
+> 🤔 **Você já pensou nisso?**  
+> [Problematização pontual — máximo 1-2 frases questionando julgamento simplista ou contradição]
 
 ---
 ## Simplificando
@@ -204,19 +211,20 @@ Para cada blueprint_capitulo:
 > ⏸️ **Pare e Pense:**         — dilema ético/político/decisão histórica
 > 💡 **Você sabia?**           — curiosidade histórica em uma frase
 > 💬 **Para Conversar:**       — pergunta reflexiva em segunda pessoa (introdução + "E para hoje...")
+> 🤔 **Você já pensou nisso?** — box ESPECIAL obrigatório (1 por capítulo): problematização de julgamento simplista ou contradição. Convencionalmente após o bloco `## Esse foi o "cara"`.
+> 📚 **Curiosidade:**          — box ESPECIAL obrigatório (1 por capítulo): fato pontual que amplia o tema. Convencionalmente após `## 🤝 Sua Parte`.
 ```
 
 **Formato obrigatório:** título na 1ª linha com 2 espaços ao final, conteúdo na 2ª linha — ambos dentro do blockquote.
 
-## Blocos pós-conteúdo (NESTA ORDEM)
+## Blocos pós-conteúdo (NESTA ORDEM — 6 headings + 2 boxes especiais)
 
 ```
 ## 🤝 Sua Parte                                      (1 frase)
-#### 📚 Curiosidade dos Estudos Sociais             (1-2 frases, H4)
+> 📚 **Curiosidade:**                                (box especial obrigatório — fato pontual, 1-2 frases)
 ## Enquanto isso...                                  (paralelo histórico-cristão + lista "O que estava em jogo:")
-## E para hoje...                                    (versículo + comentário + transição contextual + bullets + Para Conversar)
-## Esse foi o "cara"                                 (3 bullets + 🏛️ **Legado:**)
-## Você já pensou nisso?                             (2-3 frases problematizando)
+## E para hoje...                                    (versículo + comentário + transição contextual + 2 bullets + Para Conversar)
+## Esse foi o "cara"                                 (linha de identificação **Nome (datas)** + 3 bullets + 🏛️ **Legado:** + box > 🤔 **Você já pensou nisso?**)
 ## Simplificando                                     (EM: 1 parágrafo denso; EF: máx. 2 frases)
 ## Para não esquecer                                 (3-4 bullets memory-trigger)
 ```
@@ -225,7 +233,7 @@ Para cada blueprint_capitulo:
 
 Quando o blueprint pedir conteúdo que não cabe na estrutura padrão:
 - **Estrutura:** segue `prompt-autor.md` (4 tópicos + 8 blocos pós-conteúdo na ordem fixa)
-- **Conteúdo factual** (data, personagem secundário, conceito): EMBUTIR no bloco mais natural — `## Esse foi o "cara"` (personagem principal), `#### 📚 Curiosidade` (fato pontual), `## Enquanto isso...` (paralelo histórico-cristão) ou dentro dos tópicos numerados
+- **Conteúdo factual** (data, personagem secundário, conceito): EMBUTIR no bloco mais natural — `## Esse foi o "cara"` (personagem principal), box `> 📚 **Curiosidade:**` (fato pontual), `## Enquanto isso...` (paralelo histórico-cristão) ou dentro dos tópicos numerados
 - **Exercícios pedidos pelo blueprint:** DESCARTADOS (caderno de atividades separado)
 - **Conexão bíblica explícita:** SEMPRE em `## E para hoje...` — `## Enquanto isso...` é paralelo histórico, não comentário escriturístico
 - **Personagem histórico do blueprint:** literal e inegociável em `## Esse foi o "cara"`

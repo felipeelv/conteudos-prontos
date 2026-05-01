@@ -207,8 +207,8 @@ if [[ "$disciplina" == "Estudos Sociais" || "$disciplina" == "Historia" ]]; then
     add_violacao "ES2 (linha $linha): heading 'Explorando os Conceitos' proibido (fluxo direto da intro para ## 1.)"
   fi
 
-  # ES3. Headings pos-conteudo na ordem
-  ordem_es=("🤝 Sua Parte" "📚 Curiosidade dos Estudos Sociais" "Enquanto isso\\.\\.\\." "E para hoje\\.\\.\\." "Esse foi o \"cara\"" "Você já pensou nisso\\?" "Simplificando" "Para n[ãa]o esquecer")
+  # ES3. Headings pos-conteudo na ordem (6 blocos; "Voce ja pensou nisso?" e "Curiosidade" viraram boxes)
+  ordem_es=("🤝 Sua Parte" "Enquanto isso\\.\\.\\." "E para hoje\\.\\.\\." "Esse foi o \"cara\"" "Simplificando" "Para n[ãa]o esquecer")
   pos_anterior_es=0
   for h in "${ordem_es[@]}"; do
     pos=$(grep -nE "^#{2,4} *$h" "$file" | head -1 | cut -d: -f1 || true)
@@ -265,12 +265,34 @@ if [[ "$disciplina" == "Estudos Sociais" || "$disciplina" == "Historia" ]]; then
   fi
 
   # ES10. Boxes precisam estar em blockquote (linha comeca com > antes do emoji+titulo)
-  violacoes_es10=$(grep -nE '^[^>]*[💭⏸️💡💬] +\*\*(Pense um pouco|Pare e Pense|Voc[êe] sabia|Para Conversar)' "$file" || true)
+  violacoes_es10=$(grep -nE '^[^>]*[💭⏸️💡💬🤔📚] +\*\*(Pense um pouco|Pare e Pense|Voc[êe] sabia|Para Conversar|Voc[êe] j[áa] pensou|Curiosidade)' "$file" || true)
   if [[ -n "$violacoes_es10" ]]; then
     while IFS= read -r v; do
       n=$(echo "$v" | cut -d: -f1)
       add_violacao "ES10 (linha $n): box sem '>' (precisa estar em blockquote)"
     done <<< "$violacoes_es10"
+  fi
+
+  # ES11. Box "> 🤔 **Voce ja pensou nisso?**" obrigatorio (1 por capitulo)
+  if ! grep -qE '^> *🤔 *\*\*Voc[êe] j[áa] pensou nisso' "$file"; then
+    add_violacao "ES11: box obrigatorio '> 🤔 **Voce ja pensou nisso?**' ausente (1 por capitulo)"
+  fi
+
+  # ES12. Heading proibido "## Voce ja pensou nisso?" (deve ser box, nao heading)
+  if grep -qE '^## *Voc[êe] j[áa] pensou nisso' "$file"; then
+    linha=$(grep -nE '^## *Voc[êe] j[áa] pensou nisso' "$file" | head -1 | cut -d: -f1)
+    add_violacao "ES12 (linha $linha): 'Voce ja pensou nisso?' deve ser box (> 🤔), nao heading (##)"
+  fi
+
+  # ES13. Box "> 📚 **Curiosidade:**" obrigatorio (1 por capitulo)
+  if ! grep -qE '^> *📚 *\*\*Curiosidade' "$file"; then
+    add_violacao "ES13: box obrigatorio '> 📚 **Curiosidade:**' ausente (1 por capitulo)"
+  fi
+
+  # ES14. Heading proibido "#### 📚 Curiosidade dos Estudos Sociais" (deve ser box, nao heading)
+  if grep -qE '^#{2,4} *📚 *Curiosidade' "$file"; then
+    linha=$(grep -nE '^#{2,4} *📚 *Curiosidade' "$file" | head -1 | cut -d: -f1)
+    add_violacao "ES14 (linha $linha): 'Curiosidade' deve ser box (> 📚), nao heading (####)"
   fi
 fi
 
