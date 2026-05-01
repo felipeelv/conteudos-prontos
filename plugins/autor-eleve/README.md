@@ -36,12 +36,12 @@ conteudos-prontos/
 | Estatistica e Educacao Financeira | `autor-estatistica` | ✅ v0.1.0 |
 | Biologia | `autor-biologia` | ⏳ |
 | Ciencias | `autor-ciencias` | ⏳ |
-| Estudos Sociais | `autor-estudos-sociais` | ⏳ |
+| Estudos Sociais (EF + Historia EM) | `autor-estudos-sociais` | ✅ v0.5.0 |
 | Filosofia | `autor-filosofia` | ⏳ |
 | Fisica | `autor-fisica` | ⏳ |
-| Geografia | `autor-geografia` | ⏳ |
+| Geografia (EM 1a-3a serie) | `autor-geografia` | ✅ v0.7.0 |
 | Geometria | `autor-geometria` | ⏳ |
-| Historia | `autor-historia` | ⏳ |
+| Historia | coberto por `autor-estudos-sociais` | ✅ v0.5.0 |
 | Matematica | `autor-matematica` | ⏳ |
 | Portugues 1 | `autor-portugues-1` | ⏳ |
 | Portugues 2 | `autor-portugues-2` | ⏳ |

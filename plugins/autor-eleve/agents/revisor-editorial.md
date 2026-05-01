@@ -59,6 +59,28 @@ Aplique TODAS as 10 validacoes especificas:
 - Sem bloco de exercicios (vai em outro material).
 - Maximo 2 boxes por secao principal `##` numerada.
 
+### Geografia (Ensino Medio 1a-3a serie)
+
+Aplique TODAS as 9 validacoes especificas:
+
+1. **Sem topico numerado >= 5** (`## 5.`, `## 6.` ...) — capitulo tem exatamente 4 topicos numerados.
+2. **Sem emoji em heading `##` ou `###`** — exceto duas excecoes nomeadas: `## 🤝 Sua Parte` (H2) e `#### 📚 Curiosidade Geográfica` (H4 — unico H4 do capitulo).
+3. **Headings pos-conteudo na ordem exata** (8 blocos): `## 🤝 Sua Parte` -> `#### 📚 Curiosidade Geográfica` -> `## Em outros lugares do mundo...` -> `## E para hoje...` -> `## Esse foi o "cara"` -> `## Você já pensou nisso?` -> `## Simplificando` -> `## Para não esquecer`. *(Diferente de Estudos Sociais, em Geografia `Você já pensou nisso?` e `Curiosidade Geográfica` permanecem como headings, nao boxes.)*
+4. **`## Para não esquecer` tem 3 a 4 bullets** (formato "Termo: explicacao breve em uma frase").
+5. **`## E para hoje...` contem `> 💬 **Para Conversar:**`** (segundo `Para Conversar` do capitulo, depois do da introducao).
+6. **Introducao contem `> 💬 **Para Conversar:**`** antes de `## Explorando os Conceitos` (primeiro `Para Conversar` do capitulo).
+7. **`## Esse foi o "cara"` contem `🏛️ **Legado:**`**.
+8. **`## Em outros lugares do mundo...` contem `Diferenças relevantes:`** — heuristica de presenca da lista comparativa.
+9. **Pelo menos um box de ancoragem espacial** — `> 📍 **No Mapa:**`, `> 🌍 **Em Escala:**` ou `> 📊 **Em Números:**` presente no capitulo. Geografia sem ancoragem espacial vira teoria.
+
+**Regras adicionais (fora do hook automatico):**
+- Geografo/cartografo do `## Esse foi o "cara"` = exatamente o do blueprint (preferir Ratzel, Vidal de la Blache, Milton Santos, Aziz Ab'Sáber, Josué de Castro, Yi-Fu Tuan, Jean Tricart). Nao substituir, nao inventar.
+- Versiculo do `## E para hoje...` = exatamente o do blueprint (nao trocar, nao parafrasear). Preferir versiculos sobre criacao, mordomia da terra, justica territorial, povos e nacoes.
+- Sem bloco de exercicios (vai em outro material).
+- `## Explorando os Conceitos` e **obrigatorio** entre a introducao e `## 1.` — diferente de Estudos Sociais.
+- Tabelas pontuais sao permitidas (biomas, climas, blocos economicos, indicadores) quando forem o jeito mais claro de apresentar — sem teto rigido como em ES.
+- Nao tratar paises como atores monoliticos; nao relativizar consenso cientifico em meio ambiente; nao apresentar geopolitica controversa com uma unica perspectiva.
+
 ### Outras disciplinas
 
 Por enquanto, apenas estrutura basica:

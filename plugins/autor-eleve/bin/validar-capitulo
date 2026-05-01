@@ -296,6 +296,84 @@ if [[ "$disciplina" == "Estudos Sociais" || "$disciplina" == "Historia" ]]; then
   fi
 fi
 
+# --- Regras de Geografia (EM 1a-3a serie) ---
+if [[ "$disciplina" == "Geografia" ]]; then
+
+  # GEO1. Sem topico numerado >= 5 (capitulo tem exatamente 4)
+  if grep -nE '^## [5-9]\.' "$file" > /dev/null; then
+    linha=$(grep -nE '^## [5-9]\.' "$file" | head -1 | cut -d: -f1)
+    add_violacao "GEO1 (linha $linha): topico numerado >= 5 (capitulo deve ter exatamente 4)"
+  fi
+
+  # GEO2. Emoji em heading ## ou ### exceto duas excecoes nomeadas:
+  #   - "## 🤝 Sua Parte" (H2)
+  #   - "#### 📚 Curiosidade Geográfica" (H4)
+  # Nota: awk byte-level porque o grep BSD do macOS nao suporta -P (PCRE).
+  # Bytes \xE2 e \xF0 cobrem prefixos UTF-8 de emojis (BMP simbolos e planos suplementares),
+  # sem casar acentos latinos (que comecam com \xC3).
+  while IFS= read -r v; do
+    [[ -z "$v" ]] && continue
+    n=$(echo "$v" | cut -d: -f1)
+    linha_txt=$(echo "$v" | cut -d: -f2-)
+    # Whitelist exata (com $'...' para preservar emojis literais)
+    if [[ "$linha_txt" == $'## 🤝 Sua Parte' ]]; then continue; fi
+    if [[ "$linha_txt" == $'#### 📚 Curiosidade Geográfica' ]]; then continue; fi
+    add_violacao "GEO2 (linha $n): emoji em heading nao permitido (exceto '## 🤝 Sua Parte' e '#### 📚 Curiosidade Geográfica')"
+  done < <(LC_ALL=C awk '/^#{2,4}[ \t]/ && /[\xE2\xF0]/ { print NR ":" $0 }' "$file" 2>/dev/null || true)
+
+  # GEO3. Headings pos-conteudo na ordem (8 blocos):
+  ordem_geo=("🤝 Sua Parte" "📚 Curiosidade Geogr[áa]fica" "Em outros lugares do mundo\\.\\.\\." "E para hoje\\.\\.\\." "Esse foi o \"cara\"" "Voc[êe] j[áa] pensou nisso\\?" "Simplificando" "Para n[ãa]o esquecer")
+  pos_anterior_geo=0
+  for h in "${ordem_geo[@]}"; do
+    pos=$(grep -nE "^#{2,4} *$h" "$file" | head -1 | cut -d: -f1 || true)
+    if [[ -z "$pos" ]]; then
+      add_violacao "GEO3: heading pos-conteudo ausente: $h"
+      continue
+    fi
+    if [[ "$pos" -lt "$pos_anterior_geo" ]]; then
+      add_violacao "GEO3: heading $h fora de ordem (linha $pos vem antes de $pos_anterior_geo)"
+      break
+    fi
+    pos_anterior_geo="$pos"
+  done
+
+  # GEO4. ## Para nao esquecer com 3 a 4 bullets
+  bullets_geo=$(awk '
+    /^## *Para n[ãa]o esquecer/{flag=1; next}
+    flag && /^#{1,4} /{flag=0}
+    flag && /^[-*] /{count++}
+    END{print count+0}
+  ' "$file")
+  if [[ "$bullets_geo" -lt 3 || "$bullets_geo" -gt 4 ]]; then
+    add_violacao "GEO4: 'Para nao esquecer' tem $bullets_geo bullets (esperado: 3-4)"
+  fi
+
+  # GEO5. ## E para hoje... contem > 💬 **Para Conversar:**
+  if ! awk '/^## *E para hoje/{flag=1; next} flag && /^## /{flag=0} flag' "$file" | grep -qE '> *💬 \*\*Para Conversar:'; then
+    add_violacao "GEO5: 'E para hoje...' sem bloco '> 💬 **Para Conversar:**'"
+  fi
+
+  # GEO6. Introducao (antes de ## Explorando os Conceitos) contem > 💬 **Para Conversar:**
+  if ! awk '/^## *Explorando os Conceitos/{exit} {print}' "$file" | grep -qE '> *💬 \*\*Para Conversar:'; then
+    add_violacao "GEO6: introducao sem '> 💬 **Para Conversar:**' antes de '## Explorando os Conceitos'"
+  fi
+
+  # GEO7. ## Esse foi o "cara" contem 🏛️ **Legado:**
+  if ! awk '/^## *Esse foi o "cara"/{flag=1; next} flag && /^## /{flag=0} flag' "$file" | grep -qE '🏛️ *\*\*Legado:'; then
+    add_violacao "GEO7: 'Esse foi o \"cara\"' sem '🏛️ **Legado:**'"
+  fi
+
+  # GEO8. ## Em outros lugares do mundo... contem "Diferenças relevantes:"
+  if ! awk '/^## *Em outros lugares do mundo/{flag=1; next} flag && /^## /{flag=0} flag' "$file" | grep -qE 'Diferen[çc]as relevantes:'; then
+    add_violacao "GEO8: 'Em outros lugares do mundo...' sem lista 'Diferenças relevantes:'"
+  fi
+
+  # GEO9. Pelo menos um box de ancoragem espacial
+  if ! grep -qE '^> *(📍 *\*\*No Mapa|🌍 *\*\*Em Escala|📊 *\*\*Em N[úu]meros)' "$file"; then
+    add_violacao "GEO9: nenhum box de ancoragem espacial ('> 📍 **No Mapa:**', '> 🌍 **Em Escala:**' ou '> 📊 **Em Números:**')"
+  fi
+fi
+
 # --- Saida ---
 if [[ ${#violacoes[@]} -eq 0 ]]; then
   echo "[validar-capitulo] OK: $file"

@@ -33,6 +33,7 @@ Disciplinas que ainda nao migraram para esse layout continuam usando os caminhos
    - `Estatistica e Educacao Financeira` -> use a skill `autor-eleve:autor-estatistica`
    - `Estudos Sociais` -> use a skill `autor-eleve:autor-estudos-sociais`
    - `Historia` -> use a skill `autor-eleve:autor-estudos-sociais` (cobre Historia EM 1a-3a serie)
+   - `Geografia` -> use a skill `autor-eleve:autor-geografia` (cobre apenas Geografia do EM 1a-3a serie; Geografia do EF e coberta por `autor-estudos-sociais`)
    - (outras disciplinas serao adicionadas em versoes futuras)
 5. **Ler blueprint completo**: leia `blueprint_unidade.md` e cada `blueprint_capitulo_*.md` da pasta.
 6. **Apresentar plano de capitulos**: liste titulos e temas dos capitulos a gerar e aguarde confirmacao do usuario.
