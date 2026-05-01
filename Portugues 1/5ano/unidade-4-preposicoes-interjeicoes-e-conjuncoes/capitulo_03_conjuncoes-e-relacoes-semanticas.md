@@ -1,4 +1,4 @@
-# Capítulo 3 — Conjunções e Relações Semânticas
+# CAPÍTULO 3 — CONJUNÇÕES E RELAÇÕES SEMÂNTICAS
 
 ---
 
@@ -6,153 +6,149 @@
 
 ## ***"Estudou, mas não passou": o que muda se trocarmos a conjunção?***
 
-Pedro escreveu "Treinei bastante, mas melhorei" no caderno e percebeu que a frase soava estranha. Quando ele trocou para "Treinei bastante, por isso melhorei", a relação entre as duas ideias ficou clara.
+Bruno escreveu no caderno: "Treinei bastante, mas melhorei." A frase soou estranha porque "mas" prepara o leitor para um contraste — quando ele trocou para "Treinei bastante, por isso melhorei", a relação entre as ideias ficou clara.
 
 ## 1. Conjunções Ligam Ideias
 
-A conjunção é uma palavra ou expressão que conecta termos ou orações e indica a relação de sentido entre as ideias.
+A conjunção é uma palavra ou expressão que conecta partes do texto e mostra a relação entre elas.
 
 ### 1.1 Conectivos e coesão
 
-O **conectivo** é a palavra que une partes do texto e ajuda o leitor a seguir o raciocínio. A conjunção é o conectivo principal: ela liga ideias e marca a relação entre elas — soma, contraste, causa, condição ou tempo.
+A **conjunção** é um **conectivo** que une termos ou orações e marca a **relação semântica** entre as ideias. Ela ajuda o texto a ter **coesão** — ligação clara entre as partes.
 
 Observe as frases:
 
-- *Estudou bastante **e** passou na prova de matemática.*  
-  (conjunção **e** — adição: as duas ideias se somam)
-- *Estudou bastante, **mas** não passou na prova de matemática.*  
-  (conjunção **mas** — oposição: a segunda ideia contrasta com a primeira)
+- *Estudei muito **e** passei na prova.*  
+  (conjunção "e" — relação de soma entre as duas ideias)
+- *Estudei muito, **mas** não passei na prova.*  
+  (conjunção "mas" — relação de contraste entre as duas ideias)
 
 ### 1.2 Preposição ou conjunção?
 
-A preposição liga **termos** dentro de uma só ideia; a conjunção liga **ideias** ou **orações** inteiras. As duas são invariáveis, mas trabalham em níveis diferentes.
+A **preposição** liga termos dentro da oração; a **conjunção** liga ideias ou orações inteiras. Por isso, as duas classes têm funções diferentes.
 
-Compare os usos:
+Compare:
 
-- *O caderno **de** Maria ficou na mesa da sala.*  
-  (preposição **de** — liga "caderno" a "Maria" dentro de uma só ideia)
-- *Maria fez a tarefa, **mas** esqueceu o caderno em casa.*  
-  (conjunção **mas** — liga duas ideias diferentes)
+- *Caderno **de** Ana ficou na mesa.*  
+  (preposição "de" — liga dois termos: "caderno" e "Ana")
+- *Ana fez a tarefa **e** guardou o caderno na mochila.*  
+  (conjunção "e" — liga duas orações: "Ana fez a tarefa" e "guardou o caderno na mochila")
 
 > ✅ **Conjunção:**  
-> É a palavra invariável que conecta ideias ou orações e mostra a relação de sentido entre elas.
+> Palavra ou expressão que conecta ideias e mostra a relação entre elas.
 
-## 2. Somar ou Contrastar
+## 2. Somar e Contrastar
 
-A conjunção pode indicar que duas ideias se somam ou que uma contrasta com a outra.
+As conjunções de adição e oposição organizam ideias que somam ou que contrastam entre si.
 
 ### 2.1 Adição: e, nem, também
 
-As conjunções de **adição** somam uma ideia à outra. As mais comuns são **e**, **nem** e **também**.
+A **adição** é a relação em que uma ideia se soma à outra. As conjunções **e**, **nem** e **também** marcam essa soma.
 
-Observe as frases:
+Observe:
 
-- *Júlia fez o tema **e** ainda revisou tudo antes de dormir.*  
-  (conjunção **e** — adição: a segunda ideia se soma à primeira)
-- *A turma não correu **nem** brincou no recreio chuvoso.*  
-  (conjunção **nem** — adição negativa: soma duas ações que não aconteceram)
+- *Trouxe o livro **e** o caderno para a aula.*  
+  (conjunção "e" — soma duas coisas trazidas)
+- *Não estudei **nem** revisei a matéria.*  
+  (conjunção "nem" — soma duas ações não realizadas)
 
 ### 2.2 Oposição: mas, porém, contudo
 
-As conjunções de **oposição** mostram contraste entre as ideias. As mais comuns são **mas**, **porém** e **contudo**.
+A **oposição** é a relação em que uma ideia contrasta com outra. As conjunções **mas**, **porém** e **contudo** marcam esse contraste.
 
-Compare os usos:
+Compare:
 
-- *Treinou bastante, **mas** o time perdeu na final do campeonato.*  
-  (conjunção **mas** — oposição: o resultado contraria o esforço)
-- *O céu estava limpo; **contudo**, a chuva chegou de repente à tarde.*  
-  (conjunção **contudo** — oposição: a chuva contraria a previsão)
-
-| Relação | Conjunções comuns | Sentido criado |
-|---|---|---|
-| Adição | **e**, **nem**, **também** | soma uma ideia a outra |
-| Oposição | **mas**, **porém**, **contudo** | mostra contraste |
-| Tempo | **quando**, **enquanto** | situa no tempo |
-| Causa | **porque**, **pois**, **já que** | indica a razão |
-| Condição | **se**, **caso** | mostra hipótese |
-| Finalidade | **para que**, **a fim de** | mostra objetivo |
-| Conclusão | **portanto**, **logo**, **por isso** | indica resultado |
-
-## 3. Tempo, Causa, Condição e Finalidade
-
-Cada família de conjunções marca uma relação diferente entre as ideias, e a escolha certa deixa o raciocínio claro.
-
-### 3.1 Tempo e causa
-
-As conjunções de **tempo** (**quando**, **enquanto**) situam as ideias no tempo; as de **causa** (**porque**, **pois**, **já que**) mostram a razão de algo acontecer.
-
-Observe as frases:
-
-- *A turma silenciou **quando** a professora pediu atenção.*  
-  (conjunção **quando** — tempo: marca o momento da ação)
-- *Não fui ao treino **porque** estava chovendo muito.*  
-  (conjunção **porque** — causa: explica a razão da ausência)
-
-### 3.2 Condição e finalidade
-
-As conjunções de **condição** (**se**, **caso**) mostram hipóteses; as de **finalidade** (**para que**, **a fim de**) mostram o objetivo de uma ação.
-
-Compare os usos:
-
-- ***Se** chover de manhã, o passeio será adiado.*  
-  (conjunção **se** — condição: indica hipótese para o passeio)
-- *A escola distribuiu lanches **para que** ninguém ficasse com fome.*  
-  (conjunção **para que** — finalidade: mostra o objetivo da escola)
+- *Estudei muito, **mas** errei a última questão.*  
+  (conjunção "mas" — esforço × resultado inesperado)
+- *Cheguei cedo, **porém** o portão ainda estava fechado.*  
+  (conjunção "porém" — chegada × situação contrária ao previsto)
 
 > 💡 **Dica:**  
-> Para escolher a conjunção certa, pergunte: as ideias se somam, contrastam, explicam uma razão, marcam tempo, mostram condição ou apresentam objetivo?
+> Antes de escolher a conjunção, pergunte: as ideias somam ou contrastam?
 
-## 4. Concluir com Coerência
+## 3. Tempo e Causa
 
-Algumas conjunções apresentam uma conclusão a partir das ideias anteriores e fecham o raciocínio do texto.
+As conjunções de tempo organizam o quando; as de causa explicam o porquê de um acontecimento.
 
-### 4.1 Portanto, logo e por isso
+### 3.1 Quando e enquanto
 
-As conjunções de **conclusão** indicam o resultado lógico das ideias já apresentadas. As mais comuns são **portanto**, **logo** e **por isso**.
+As conjunções **quando** e **enquanto** marcam a relação de **tempo** entre duas ações.
 
-Observe as frases:
+Observe:
 
-- *Choveu durante toda a tarde; **portanto**, o jogo foi adiado.*  
-  (conjunção **portanto** — conclusão: o adiamento é resultado da chuva)
-- *Tiago estudou bastante; **por isso**, foi bem na prova de matemática.*  
-  (conjunção **por isso** — conclusão: o bom desempenho é resultado do estudo)
+- ***Quando** o sinal tocou, todos saíram da sala.*  
+  (conjunção "quando" — momento em que a ação acontece)
+- *Os alunos liam **enquanto** a professora corrigia a tarefa.*  
+  (conjunção "enquanto" — duas ações que acontecem ao mesmo tempo)
 
-### 4.2 A conjunção certa para a ideia certa
+### 3.2 Porque, pois e por isso
 
-Na fala do dia a dia, é comum usar **aí** para juntar quase tudo: causa, tempo, conclusão e adição. A escrita formal pede um conectivo mais preciso, que mostre exatamente a relação entre as ideias.
+A **causa** explica a razão de um acontecimento; conjunções como **porque**, **pois** e **já que** introduzem a causa. Quando a relação se inverte, a conjunção **portanto**, **logo** ou **por isso** apresenta o resultado — a **conclusão**.
 
-Compare os usos:
+Compare:
 
-- *Eu cheguei em casa, **aí** comecei a tarefa.*  
-  (registro informal — **aí** une as ideias sem mostrar bem a relação)
-- *Eu cheguei em casa; **por isso**, comecei a tarefa logo.*  
-  (registro formal — **por isso** marca conclusão e deixa a ligação clara)
+- *Não fui ao treino **porque** choveu.*  
+  (conjunção "porque" — causa: a chuva é a razão de não ter ido)
+- *Choveu, **portanto** não fui ao treino.*  
+  (conjunção "portanto" — conclusão: o resultado da chuva)
+
+> 📌 **Aplicação prática:**  
+> "Porque" explica a causa; "portanto" e "por isso" apresentam o resultado.
+
+## 4. Condição e Finalidade
+
+As conjunções de condição mostram uma situação necessária; as de finalidade mostram o objetivo de uma ação.
+
+### 4.1 Se e caso
+
+A **condição** é a situação necessária para que algo possa acontecer. As conjunções **se** e **caso** marcam essa relação.
+
+Observe:
+
+- ***Se** chover amanhã, a aula de educação física será na quadra coberta.*  
+  (conjunção "se" — condição: depende da chuva)
+- *A turma irá ao zoológico **caso** todos entreguem a autorização.*  
+  (conjunção "caso" — condição: depende da entrega)
+
+### 4.2 Para que e a fim de
+
+A **finalidade** mostra o **objetivo** de uma ação. As conjunções **para que** e **a fim de** indicam essa intenção.
+
+Compare:
+
+- *Estudei a noite toda **para que** chegasse seguro à prova.*  
+  (conjunção "para que" — objetivo: chegar preparado)
+- *A escola criou um clube de leitura **a fim de** incentivar o gosto pelos livros.*  
+  (conjunção "a fim de" — objetivo: incentivar a leitura)
+
+> ⚠️ **Atenção:**  
+> Trocar uma conjunção por outra de família diferente muda totalmente o raciocínio da frase.
 
 ---
 
 ## A LÍNGUA NO DIA A DIA
 
-Quando você escreve "estudei muito, por isso fui bem na prova" em vez de "estudei muito, aí fui bem na prova", o leitor percebe com clareza que a primeira ideia explica a segunda. Othon Moacyr Garcia (1912-2002), professor e escritor brasileiro, publicou em 1967 *Comunicação em Prosa Moderna* e ensinou gerações de estudantes a escolher conectivos para deixar a relação entre ideias coerente.
+Em uma carta ou em uma redação escolar, a conjunção certa ajuda o leitor a entender se as ideias somam, contrastam, dependem uma da outra ou explicam um resultado. Othon Moacyr Garcia (1912–2002), professor e escritor brasileiro, publicou em 1967 a *Comunicação em Prosa Moderna*, obra que tratou os conectivos como instrumentos de coesão lógica.
 
 ---
 
 ## E A BÍBLIA NISSO?
 
-> *"Quem anda em integridade anda seguro."*  
+> *"Quem anda em integridade anda seguro, mas o que perverte os seus caminhos será conhecido."*  
 > — **Provérbios 10:9**
 
-A conjunção certa não distorce a relação entre as ideias e ajuda quem lê a entender o que foi pensado. Trocar "porque" por "mas" muda o raciocínio: o texto íntegro escolhe o conectivo que combina com o que se quer dizer.
+Escolher a conjunção certa é não distorcer a relação entre as ideias; quem escreve com integridade assume a ligação que realmente existe entre os fatos.
 
-> 💬 **Para Conversar:** Quando você usa "porque", quer somar uma ideia, explicar uma causa ou mostrar uma condição?
+> 💬 **Para Conversar:** Em qual situação do seu dia a dia uma palavra como "porque" ou "portanto" mudaria a forma como uma pessoa entende o que você quer dizer?
 
 ---
 
 ## Simplificando
 
-Conjunção é a palavra invariável que conecta ideias ou orações e marca a relação entre elas: adição, oposição, tempo, causa, condição, finalidade ou conclusão. Trocar a conjunção troca a relação de sentido, e o texto passa a dizer outra coisa.
+A conjunção é uma palavra que conecta ideias e marca a relação entre elas — adição, oposição, tempo, causa, conclusão, condição ou finalidade — e a escolha da conjunção certa muda o raciocínio da frase.
 
 ## Para não esquecer
 
-- **Conjunção** — conecta ideias ou orações com sentido lógico
-- **Famílias** — adição, oposição, tempo, causa, condição, finalidade, conclusão
-- **Conjunção certa** — escolha o conectivo que mostra a relação verdadeira
+- **Conjunção** — conecta ideias com sentido lógico
+- **Famílias** — adição (e), oposição (mas), tempo (quando), causa (porque), conclusão (portanto), condição (se), finalidade (para que)
+- **Trocar a conjunção** — muda a relação entre as ideias

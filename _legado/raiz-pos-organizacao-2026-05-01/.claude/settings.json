@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "extraKnownMarketplaces": {
+    "conteudos-prontos": {
+      "source": {
+        "source": "local",
+        "path": "."
+      }
+    }
+  },
+  "enabledPlugins": {
+    "autor-eleve@conteudos-prontos": true
+  }
+}

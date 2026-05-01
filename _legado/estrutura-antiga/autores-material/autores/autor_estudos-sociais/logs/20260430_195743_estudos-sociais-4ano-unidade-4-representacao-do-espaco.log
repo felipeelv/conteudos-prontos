@@ -1,0 +1,14 @@
+Os dois capítulos passaram em todos os 10 critérios de validação do CLAUDE.md específico de Estudos Sociais.
+
+**Arquivos gerados:**
+- `capitulo_01_tipos-de-mapas.md` — Ortelius como personagem; Lucas 16:10; Jó 38:4-5 em "Enquanto isso"; planta da sala como coração do capítulo (peso 30%).
+- `capitulo_02_orientacao-e-escala.md` — Pedro Nunes como personagem; Lucas 16:10; Provérbios 11:1 em "Enquanto isso"; escala como coração do capítulo (peso 20%).
+
+**Conformidade verificada:**
+- 4 tópicos numerados em cada capítulo (sem `## 5.`)
+- 8 blocos pós-conteúdo na ordem fixa
+- Personagem-chave e versículo literais ao blueprint
+- Boxes em blockquote dentro do limite (máx. 2 por seção `##`)
+- Introduções dentro da extensão de 4º ano EF I (3-4 frases)
+- Linguagem ancorada em mapa do Brasil, globo da sala, planta da sala, pátio com bússola
+- Sem antecipação de conteúdo proibido (coordenadas, projeções, declinação, cálculo formal de escala)

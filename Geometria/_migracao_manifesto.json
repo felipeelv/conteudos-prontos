@@ -1,0 +1,1438 @@
+{
+  "discipline": "Geometria",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_geometria"
+    ],
+    "blueprints": [
+      "Blueprints/geometria",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Geometria"
+    ],
+    "contents": [
+      "Conteudos Prontos/Geometria",
+      "Unidade 3-/Matemática 2"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_geometria": {
+      "copied": 5,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::Blueprints::geometria": {
+      "copied": 29,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 1
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Geometria": {
+      "copied": 56,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Geometria": {
+      "copied": 56,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Matemática 2": {
+      "copied": 6,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_geometria/_shared/lib_common.sh",
+      "destination": "Geometria/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_geometria/CLAUDE.md",
+      "destination": "Geometria/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "03bef6b987feaf49abf458740d70c40f6fad4012bf1d04e75306684448b24dc1"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_geometria/memoria-autor.md",
+      "destination": "Geometria/_autor/memoria-autor.md",
+      "relative_path": "memoria-autor.md",
+      "action": "copied",
+      "sha256": "b9e84447d54b0056f824ded85ea4a6adabd35ce5301a61c2a0202f312bd0aae8"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_geometria/prompt-autor.md",
+      "destination": "Geometria/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "c0f5c65f36085031cb1a17dc09c2fdaa4ee172e79adc856a9827e2e7c62b26d6"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_geometria/scripts/criar_capitulos.sh",
+      "destination": "Geometria/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "1bfa4a3fccee525ad71d6d093c4a315f6a1365b8b9a04a4bad5830070da2a35f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/.DS_Store",
+      "destination": null,
+      "relative_path": ".DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/1serie/unidade-4-quadrilateros/blueprint_capitulo_01_classificacao-e-propriedades-gerais.md",
+      "destination": "Geometria/_blueprints/1serie/unidade-4-quadrilateros/blueprint_capitulo_01_classificacao-e-propriedades-gerais.md",
+      "relative_path": "1serie/unidade-4-quadrilateros/blueprint_capitulo_01_classificacao-e-propriedades-gerais.md",
+      "action": "copied",
+      "sha256": "cd39cffd29c56faac01670b7b5b66374af7dc1dc333e50d47e144dca3d3f6f4f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/1serie/unidade-4-quadrilateros/blueprint_capitulo_02_paralelogramos-e-trapezios.md",
+      "destination": "Geometria/_blueprints/1serie/unidade-4-quadrilateros/blueprint_capitulo_02_paralelogramos-e-trapezios.md",
+      "relative_path": "1serie/unidade-4-quadrilateros/blueprint_capitulo_02_paralelogramos-e-trapezios.md",
+      "action": "copied",
+      "sha256": "36e5f14ad8f6e962ee216853e86fd99e0bf49a428bf67dd32634bc881c9e08d9"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/1serie/unidade-4-quadrilateros/blueprint_unidade.md",
+      "destination": "Geometria/_blueprints/1serie/unidade-4-quadrilateros/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-quadrilateros/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "22d2f967c26fddacc1d12f4a2afa693d27b1b5e056a3aca7cc052b5b20cadb91"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/2serie/unidade-4-piramides/blueprint_capitulo_01_elementos-e-classificacao.md",
+      "destination": "Geometria/_blueprints/2serie/unidade-4-piramides/blueprint_capitulo_01_elementos-e-classificacao.md",
+      "relative_path": "2serie/unidade-4-piramides/blueprint_capitulo_01_elementos-e-classificacao.md",
+      "action": "copied",
+      "sha256": "65fb3f04a43426be0a922332e27a53175e89099714e995c77db215dd69f0483b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/2serie/unidade-4-piramides/blueprint_capitulo_02_areas-volumes-e-tronco-de-piramide.md",
+      "destination": "Geometria/_blueprints/2serie/unidade-4-piramides/blueprint_capitulo_02_areas-volumes-e-tronco-de-piramide.md",
+      "relative_path": "2serie/unidade-4-piramides/blueprint_capitulo_02_areas-volumes-e-tronco-de-piramide.md",
+      "action": "copied",
+      "sha256": "d88322b3fecf4c88a9f3514d0ffdceeb2c81e34b59421351982a1b65a9225bb1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/2serie/unidade-4-piramides/blueprint_unidade.md",
+      "destination": "Geometria/_blueprints/2serie/unidade-4-piramides/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-piramides/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "9dfcebd1dac9f060807d10f1d09d1e7fcfdffa204f6ac3e7de298f9bb0f1d6de"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/3serie/unidade-4-conicas-elipse/blueprint_capitulo_01_definicao-e-elementos-da-elipse.md",
+      "destination": "Geometria/_blueprints/3serie/unidade-4-conicas-elipse/blueprint_capitulo_01_definicao-e-elementos-da-elipse.md",
+      "relative_path": "3serie/unidade-4-conicas-elipse/blueprint_capitulo_01_definicao-e-elementos-da-elipse.md",
+      "action": "copied",
+      "sha256": "5d518635d996ce4b122840c92df8aad7d4f0ca316598bd12a17d88c2b508b6c7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/3serie/unidade-4-conicas-elipse/blueprint_capitulo_02_equacoes-e-propriedades-da-elipse.md",
+      "destination": "Geometria/_blueprints/3serie/unidade-4-conicas-elipse/blueprint_capitulo_02_equacoes-e-propriedades-da-elipse.md",
+      "relative_path": "3serie/unidade-4-conicas-elipse/blueprint_capitulo_02_equacoes-e-propriedades-da-elipse.md",
+      "action": "copied",
+      "sha256": "e57ddeacde044381a65609540df078ff632f08b47d0897156091be323b089507"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/3serie/unidade-4-conicas-elipse/blueprint_unidade.md",
+      "destination": "Geometria/_blueprints/3serie/unidade-4-conicas-elipse/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-conicas-elipse/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "88b92ea95fad9cf40b8b67a4e587eb8b617b9650bd6160c3dad69b5009ea65ab"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_01_elementos-dos-triangulos.md",
+      "destination": "Geometria/_blueprints/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_01_elementos-dos-triangulos.md",
+      "relative_path": "6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_01_elementos-dos-triangulos.md",
+      "action": "copied",
+      "sha256": "c52c1ead8197b497f6a8be9e1117309f67ec23cd19fcc6f6af56e74793dbaf08"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_02_classificacao-dos-triangulos.md",
+      "destination": "Geometria/_blueprints/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_02_classificacao-dos-triangulos.md",
+      "relative_path": "6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_02_classificacao-dos-triangulos.md",
+      "action": "copied",
+      "sha256": "680630b3a9fe4801f9bfddbac5bde8a160eb4ab0033541fa6dcb96249204bf91"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_03_propriedades-dos-triangulos.md",
+      "destination": "Geometria/_blueprints/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_03_propriedades-dos-triangulos.md",
+      "relative_path": "6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_03_propriedades-dos-triangulos.md",
+      "action": "copied",
+      "sha256": "f1b07a24892f0c431c2200f0bdea695efd3b07eb5942131b1048b8b89b4f5ca5"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_04_medidas-de-capacidade.md",
+      "destination": "Geometria/_blueprints/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_04_medidas-de-capacidade.md",
+      "relative_path": "6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_04_medidas-de-capacidade.md",
+      "action": "copied",
+      "sha256": "1e19341faff5e68ea18bec36321c8bbe1bae6152441294cfb147e31da00af030"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_05_medidas-de-tempo.md",
+      "destination": "Geometria/_blueprints/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_05_medidas-de-tempo.md",
+      "relative_path": "6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_capitulo_05_medidas-de-tempo.md",
+      "action": "copied",
+      "sha256": "3a082155c808e389c9e658c996012811626400091254d621bd6bf2514d2ebe59"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_unidade.md",
+      "destination": "Geometria/_blueprints/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "8899127fe325e0f064b9ac9536a2d389495dd2a32f89fd72b6692ee0d743d98b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_01_classificacao-de-quadrilateros.md",
+      "destination": "Geometria/_blueprints/7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_01_classificacao-de-quadrilateros.md",
+      "relative_path": "7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_01_classificacao-de-quadrilateros.md",
+      "action": "copied",
+      "sha256": "d8f32718b6fc8190b11ba653c916b59231dc6a0c3f7f6e4091013ff4e746a51c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_02_propriedades-dos-quadrilateros.md",
+      "destination": "Geometria/_blueprints/7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_02_propriedades-dos-quadrilateros.md",
+      "relative_path": "7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_02_propriedades-dos-quadrilateros.md",
+      "action": "copied",
+      "sha256": "39f860c76a37c366a6898f760146b8f548adf469c2159f7bf72f5948e122de1a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_03_angulos-internos-de-poligonos-regulares.md",
+      "destination": "Geometria/_blueprints/7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_03_angulos-internos-de-poligonos-regulares.md",
+      "relative_path": "7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_03_angulos-internos-de-poligonos-regulares.md",
+      "action": "copied",
+      "sha256": "4f9a9e49e1f4227c289c75944000cac87d5275943f31544ac36e6f12de4cc20e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_04_construcao-de-poligonos-regulares.md",
+      "destination": "Geometria/_blueprints/7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_04_construcao-de-poligonos-regulares.md",
+      "relative_path": "7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_capitulo_04_construcao-de-poligonos-regulares.md",
+      "action": "copied",
+      "sha256": "0a6766b66f00305b110301c19254ddf56103f1f546759f321ef40397e6a50693"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_unidade.md",
+      "destination": "Geometria/_blueprints/7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_unidade.md",
+      "relative_path": "7ano/unidade-4-quadrilateros-e-poligonos-regulares/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "0a9a760caafd41b3931811f3f9b806bb3128ea5131b39b0ec9359ebd1977c570"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_capitulo_01_poligonos-angulos.md",
+      "destination": "Geometria/_blueprints/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_capitulo_01_poligonos-angulos.md",
+      "relative_path": "8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_capitulo_01_poligonos-angulos.md",
+      "action": "copied",
+      "sha256": "e1fbe355e5d0fc3e54c807353f2bfb61a19e8f0eba45ad9f3029cd8bbe105965"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_capitulo_02_poligonos-regulares.md",
+      "destination": "Geometria/_blueprints/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_capitulo_02_poligonos-regulares.md",
+      "relative_path": "8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_capitulo_02_poligonos-regulares.md",
+      "action": "copied",
+      "sha256": "933bd4ac2ce86cddbcf596cf9d9400c6a198ec52a0629f5294310a51834f12ab"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_capitulo_03_construcao-de-poligonos-regulares.md",
+      "destination": "Geometria/_blueprints/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_capitulo_03_construcao-de-poligonos-regulares.md",
+      "relative_path": "8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_capitulo_03_construcao-de-poligonos-regulares.md",
+      "action": "copied",
+      "sha256": "e1f5922f84084eddafcbee31325f1d60a1b690a04e8a27db958e16595fe9a4d9"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_unidade.md",
+      "destination": "Geometria/_blueprints/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "0d6f1991dc558320eb47d7f8473db766768f057478b3ba1bdbfd0e0ff58b1c1b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_01_poligonos-regulares.md",
+      "destination": "Geometria/_blueprints/9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_01_poligonos-regulares.md",
+      "relative_path": "9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_01_poligonos-regulares.md",
+      "action": "copied",
+      "sha256": "0ab891f5a2bb20f4dcf72eb1378d5dfe7e44c50591c1a03f046b8415575235a1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_02_construcao-de-poligonos-regulares.md",
+      "destination": "Geometria/_blueprints/9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_02_construcao-de-poligonos-regulares.md",
+      "relative_path": "9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_02_construcao-de-poligonos-regulares.md",
+      "action": "copied",
+      "sha256": "13e227674f62611abcb39a16372d884366bf8af975020d9467491c3608d06f9c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_03_algoritmos-de-construcao.md",
+      "destination": "Geometria/_blueprints/9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_03_algoritmos-de-construcao.md",
+      "relative_path": "9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_03_algoritmos-de-construcao.md",
+      "action": "copied",
+      "sha256": "87354c67d8976ee5cf05784922b673184d07991d3995de0e823fd161b1e5b603"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_04_geometria-analitica-basica.md",
+      "destination": "Geometria/_blueprints/9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_04_geometria-analitica-basica.md",
+      "relative_path": "9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_capitulo_04_geometria-analitica-basica.md",
+      "action": "copied",
+      "sha256": "2c5892bb59ec2f5ce6fa151415c68a5b0cce6ddd48424778ab81c5863066e7a6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_unidade.md",
+      "destination": "Geometria/_blueprints/9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-poligonos-e-construcoes-geometricas/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "b533d56c43ae0824018da09ff58f2fb9a14f78d608797c4bce333b92d50bfc89"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/1serie/unidade-1-conceitos-fundamentais-da-geometria-plana/.gitkeep",
+      "destination": "Geometria/_blueprints/1serie/unidade-1-conceitos-fundamentais-da-geometria-plana/.gitkeep",
+      "relative_path": "1serie/unidade-1-conceitos-fundamentais-da-geometria-plana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/1serie/unidade-2-poligonos/.gitkeep",
+      "destination": "Geometria/_blueprints/1serie/unidade-2-poligonos/.gitkeep",
+      "relative_path": "1serie/unidade-2-poligonos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/1serie/unidade-3-triangulos/.gitkeep",
+      "destination": "Geometria/_blueprints/1serie/unidade-3-triangulos/.gitkeep",
+      "relative_path": "1serie/unidade-3-triangulos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/1serie/unidade-4-quadrilateros/.gitkeep",
+      "destination": "Geometria/_blueprints/1serie/unidade-4-quadrilateros/.gitkeep",
+      "relative_path": "1serie/unidade-4-quadrilateros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/1serie/unidade-5-circunferencia/.gitkeep",
+      "destination": "Geometria/_blueprints/1serie/unidade-5-circunferencia/.gitkeep",
+      "relative_path": "1serie/unidade-5-circunferencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/1serie/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "destination": "Geometria/_blueprints/1serie/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "relative_path": "1serie/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/1serie/unidade-7-relacoes-metricas-no-triangulo-retangulo/.gitkeep",
+      "destination": "Geometria/_blueprints/1serie/unidade-7-relacoes-metricas-no-triangulo-retangulo/.gitkeep",
+      "relative_path": "1serie/unidade-7-relacoes-metricas-no-triangulo-retangulo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/1serie/unidade-8-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "destination": "Geometria/_blueprints/1serie/unidade-8-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "relative_path": "1serie/unidade-8-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/2serie/unidade-1-geometria-espacial-de-posicao/.gitkeep",
+      "destination": "Geometria/_blueprints/2serie/unidade-1-geometria-espacial-de-posicao/.gitkeep",
+      "relative_path": "2serie/unidade-1-geometria-espacial-de-posicao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/2serie/unidade-2-paralelismo-perpendicularismo-e-poliedros/.gitkeep",
+      "destination": "Geometria/_blueprints/2serie/unidade-2-paralelismo-perpendicularismo-e-poliedros/.gitkeep",
+      "relative_path": "2serie/unidade-2-paralelismo-perpendicularismo-e-poliedros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/2serie/unidade-3-prismas/.gitkeep",
+      "destination": "Geometria/_blueprints/2serie/unidade-3-prismas/.gitkeep",
+      "relative_path": "2serie/unidade-3-prismas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/2serie/unidade-4-piramides/.gitkeep",
+      "destination": "Geometria/_blueprints/2serie/unidade-4-piramides/.gitkeep",
+      "relative_path": "2serie/unidade-4-piramides/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/2serie/unidade-5-cilindros/.gitkeep",
+      "destination": "Geometria/_blueprints/2serie/unidade-5-cilindros/.gitkeep",
+      "relative_path": "2serie/unidade-5-cilindros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/2serie/unidade-6-cones/.gitkeep",
+      "destination": "Geometria/_blueprints/2serie/unidade-6-cones/.gitkeep",
+      "relative_path": "2serie/unidade-6-cones/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/2serie/unidade-7-esferas/.gitkeep",
+      "destination": "Geometria/_blueprints/2serie/unidade-7-esferas/.gitkeep",
+      "relative_path": "2serie/unidade-7-esferas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/2serie/unidade-8-solidos-semelhantes-e-transformacoes/.gitkeep",
+      "destination": "Geometria/_blueprints/2serie/unidade-8-solidos-semelhantes-e-transformacoes/.gitkeep",
+      "relative_path": "2serie/unidade-8-solidos-semelhantes-e-transformacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/3serie/unidade-1-geometria-analitica-o-ponto/.gitkeep",
+      "destination": "Geometria/_blueprints/3serie/unidade-1-geometria-analitica-o-ponto/.gitkeep",
+      "relative_path": "3serie/unidade-1-geometria-analitica-o-ponto/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/3serie/unidade-2-geometria-analitica-a-reta/.gitkeep",
+      "destination": "Geometria/_blueprints/3serie/unidade-2-geometria-analitica-a-reta/.gitkeep",
+      "relative_path": "3serie/unidade-2-geometria-analitica-a-reta/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/3serie/unidade-3-geometria-analitica-a-circunferencia/.gitkeep",
+      "destination": "Geometria/_blueprints/3serie/unidade-3-geometria-analitica-a-circunferencia/.gitkeep",
+      "relative_path": "3serie/unidade-3-geometria-analitica-a-circunferencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/3serie/unidade-4-conicas-elipse/.gitkeep",
+      "destination": "Geometria/_blueprints/3serie/unidade-4-conicas-elipse/.gitkeep",
+      "relative_path": "3serie/unidade-4-conicas-elipse/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/3serie/unidade-5-conicas-hiperbole/.gitkeep",
+      "destination": "Geometria/_blueprints/3serie/unidade-5-conicas-hiperbole/.gitkeep",
+      "relative_path": "3serie/unidade-5-conicas-hiperbole/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/3serie/unidade-6-conicas-parabola-e-reconhecimento/.gitkeep",
+      "destination": "Geometria/_blueprints/3serie/unidade-6-conicas-parabola-e-reconhecimento/.gitkeep",
+      "relative_path": "3serie/unidade-6-conicas-parabola-e-reconhecimento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/3serie/unidade-7-revisao-integrada-de-geometria/.gitkeep",
+      "destination": "Geometria/_blueprints/3serie/unidade-7-revisao-integrada-de-geometria/.gitkeep",
+      "relative_path": "3serie/unidade-7-revisao-integrada-de-geometria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "destination": "Geometria/_blueprints/3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "relative_path": "3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/6ano/unidade-1-conceitos-fundamentais-da-geometria/.gitkeep",
+      "destination": "Geometria/_blueprints/6ano/unidade-1-conceitos-fundamentais-da-geometria/.gitkeep",
+      "relative_path": "6ano/unidade-1-conceitos-fundamentais-da-geometria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/6ano/unidade-2-angulos-e-sistema-de-medidas-i/.gitkeep",
+      "destination": "Geometria/_blueprints/6ano/unidade-2-angulos-e-sistema-de-medidas-i/.gitkeep",
+      "relative_path": "6ano/unidade-2-angulos-e-sistema-de-medidas-i/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/6ano/unidade-3-angulos-e-poligonos/.gitkeep",
+      "destination": "Geometria/_blueprints/6ano/unidade-3-angulos-e-poligonos/.gitkeep",
+      "relative_path": "6ano/unidade-3-angulos-e-poligonos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/.gitkeep",
+      "destination": "Geometria/_blueprints/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/.gitkeep",
+      "relative_path": "6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/6ano/unidade-5-quadrilateros-e-circunferencia/.gitkeep",
+      "destination": "Geometria/_blueprints/6ano/unidade-5-quadrilateros-e-circunferencia/.gitkeep",
+      "relative_path": "6ano/unidade-5-quadrilateros-e-circunferencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/6ano/unidade-6-area-de-figuras-planas/.gitkeep",
+      "destination": "Geometria/_blueprints/6ano/unidade-6-area-de-figuras-planas/.gitkeep",
+      "relative_path": "6ano/unidade-6-area-de-figuras-planas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/6ano/unidade-7-solidos-geometricos-e-volume/.gitkeep",
+      "destination": "Geometria/_blueprints/6ano/unidade-7-solidos-geometricos-e-volume/.gitkeep",
+      "relative_path": "6ano/unidade-7-solidos-geometricos-e-volume/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/6ano/unidade-8-plano-cartesiano/.gitkeep",
+      "destination": "Geometria/_blueprints/6ano/unidade-8-plano-cartesiano/.gitkeep",
+      "relative_path": "6ano/unidade-8-plano-cartesiano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/7ano/unidade-1-angulos-fundamentos-e-classificacao/.gitkeep",
+      "destination": "Geometria/_blueprints/7ano/unidade-1-angulos-fundamentos-e-classificacao/.gitkeep",
+      "relative_path": "7ano/unidade-1-angulos-fundamentos-e-classificacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/7ano/unidade-2-relacoes-entre-angulos-e-retas-paralelas/.gitkeep",
+      "destination": "Geometria/_blueprints/7ano/unidade-2-relacoes-entre-angulos-e-retas-paralelas/.gitkeep",
+      "relative_path": "7ano/unidade-2-relacoes-entre-angulos-e-retas-paralelas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/7ano/unidade-3-triangulos/.gitkeep",
+      "destination": "Geometria/_blueprints/7ano/unidade-3-triangulos/.gitkeep",
+      "relative_path": "7ano/unidade-3-triangulos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/.gitkeep",
+      "destination": "Geometria/_blueprints/7ano/unidade-4-quadrilateros-e-poligonos-regulares/.gitkeep",
+      "relative_path": "7ano/unidade-4-quadrilateros-e-poligonos-regulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/7ano/unidade-5-circunferencia-e-circulo/.gitkeep",
+      "destination": "Geometria/_blueprints/7ano/unidade-5-circunferencia-e-circulo/.gitkeep",
+      "relative_path": "7ano/unidade-5-circunferencia-e-circulo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/7ano/unidade-6-area-e-perimetro/.gitkeep",
+      "destination": "Geometria/_blueprints/7ano/unidade-6-area-e-perimetro/.gitkeep",
+      "relative_path": "7ano/unidade-6-area-e-perimetro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/7ano/unidade-7-volume-e-capacidade/.gitkeep",
+      "destination": "Geometria/_blueprints/7ano/unidade-7-volume-e-capacidade/.gitkeep",
+      "relative_path": "7ano/unidade-7-volume-e-capacidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/7ano/unidade-8-aplicacoes-de-medidas/.gitkeep",
+      "destination": "Geometria/_blueprints/7ano/unidade-8-aplicacoes-de-medidas/.gitkeep",
+      "relative_path": "7ano/unidade-8-aplicacoes-de-medidas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/8ano/unidade-1-angulos-e-construcoes-geometricas-basicas/.gitkeep",
+      "destination": "Geometria/_blueprints/8ano/unidade-1-angulos-e-construcoes-geometricas-basicas/.gitkeep",
+      "relative_path": "8ano/unidade-1-angulos-e-construcoes-geometricas-basicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/8ano/unidade-2-mediatriz-bissetriz-e-lugares-geometricos/.gitkeep",
+      "destination": "Geometria/_blueprints/8ano/unidade-2-mediatriz-bissetriz-e-lugares-geometricos/.gitkeep",
+      "relative_path": "8ano/unidade-2-mediatriz-bissetriz-e-lugares-geometricos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/8ano/unidade-3-triangulos-e-congruencia/.gitkeep",
+      "destination": "Geometria/_blueprints/8ano/unidade-3-triangulos-e-congruencia/.gitkeep",
+      "relative_path": "8ano/unidade-3-triangulos-e-congruencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/.gitkeep",
+      "destination": "Geometria/_blueprints/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/.gitkeep",
+      "relative_path": "8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/8ano/unidade-5-transformacoes-geometricas/.gitkeep",
+      "destination": "Geometria/_blueprints/8ano/unidade-5-transformacoes-geometricas/.gitkeep",
+      "relative_path": "8ano/unidade-5-transformacoes-geometricas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/8ano/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "destination": "Geometria/_blueprints/8ano/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "relative_path": "8ano/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/8ano/unidade-7-grandezas-e-medidas-de-capacidade-e-volume/.gitkeep",
+      "destination": "Geometria/_blueprints/8ano/unidade-7-grandezas-e-medidas-de-capacidade-e-volume/.gitkeep",
+      "relative_path": "8ano/unidade-7-grandezas-e-medidas-de-capacidade-e-volume/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/8ano/unidade-8-plano-cartesiano-e-problemas-integrados/.gitkeep",
+      "destination": "Geometria/_blueprints/8ano/unidade-8-plano-cartesiano-e-problemas-integrados/.gitkeep",
+      "relative_path": "8ano/unidade-8-plano-cartesiano-e-problemas-integrados/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/9ano/unidade-1-angulos-e-retas/.gitkeep",
+      "destination": "Geometria/_blueprints/9ano/unidade-1-angulos-e-retas/.gitkeep",
+      "relative_path": "9ano/unidade-1-angulos-e-retas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/9ano/unidade-2-semelhanca-de-triangulos/.gitkeep",
+      "destination": "Geometria/_blueprints/9ano/unidade-2-semelhanca-de-triangulos/.gitkeep",
+      "relative_path": "9ano/unidade-2-semelhanca-de-triangulos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/9ano/unidade-3-relacoes-metricas-e-circunferencia/.gitkeep",
+      "destination": "Geometria/_blueprints/9ano/unidade-3-relacoes-metricas-e-circunferencia/.gitkeep",
+      "relative_path": "9ano/unidade-3-relacoes-metricas-e-circunferencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/.gitkeep",
+      "destination": "Geometria/_blueprints/9ano/unidade-4-poligonos-e-construcoes-geometricas/.gitkeep",
+      "relative_path": "9ano/unidade-4-poligonos-e-construcoes-geometricas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/9ano/unidade-5-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "destination": "Geometria/_blueprints/9ano/unidade-5-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "relative_path": "9ano/unidade-5-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/9ano/unidade-6-geometria-espacial-e-representacoes/.gitkeep",
+      "destination": "Geometria/_blueprints/9ano/unidade-6-geometria-espacial-e-representacoes/.gitkeep",
+      "relative_path": "9ano/unidade-6-geometria-espacial-e-representacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/9ano/unidade-7-prismas-e-cilindros/.gitkeep",
+      "destination": "Geometria/_blueprints/9ano/unidade-7-prismas-e-cilindros/.gitkeep",
+      "relative_path": "9ano/unidade-7-prismas-e-cilindros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geometria/9ano/unidade-8-aplicacoes-e-problemas-integrados/.gitkeep",
+      "destination": "Geometria/_blueprints/9ano/unidade-8-aplicacoes-e-problemas-integrados/.gitkeep",
+      "relative_path": "9ano/unidade-8-aplicacoes-e-problemas-integrados/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/1serie/unidade-1-conceitos-fundamentais-da-geometria-plana/.gitkeep",
+      "destination": "Geometria/1serie/unidade-1-conceitos-fundamentais-da-geometria-plana/.gitkeep",
+      "relative_path": "1serie/unidade-1-conceitos-fundamentais-da-geometria-plana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/1serie/unidade-2-poligonos/.gitkeep",
+      "destination": "Geometria/1serie/unidade-2-poligonos/.gitkeep",
+      "relative_path": "1serie/unidade-2-poligonos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/1serie/unidade-3-triangulos/.gitkeep",
+      "destination": "Geometria/1serie/unidade-3-triangulos/.gitkeep",
+      "relative_path": "1serie/unidade-3-triangulos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/1serie/unidade-4-quadrilateros/.gitkeep",
+      "destination": "Geometria/1serie/unidade-4-quadrilateros/.gitkeep",
+      "relative_path": "1serie/unidade-4-quadrilateros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/1serie/unidade-5-circunferencia/.gitkeep",
+      "destination": "Geometria/1serie/unidade-5-circunferencia/.gitkeep",
+      "relative_path": "1serie/unidade-5-circunferencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/1serie/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "destination": "Geometria/1serie/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "relative_path": "1serie/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/1serie/unidade-7-relacoes-metricas-no-triangulo-retangulo/.gitkeep",
+      "destination": "Geometria/1serie/unidade-7-relacoes-metricas-no-triangulo-retangulo/.gitkeep",
+      "relative_path": "1serie/unidade-7-relacoes-metricas-no-triangulo-retangulo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/1serie/unidade-8-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "destination": "Geometria/1serie/unidade-8-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "relative_path": "1serie/unidade-8-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/2serie/unidade-1-geometria-espacial-de-posicao/.gitkeep",
+      "destination": "Geometria/2serie/unidade-1-geometria-espacial-de-posicao/.gitkeep",
+      "relative_path": "2serie/unidade-1-geometria-espacial-de-posicao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/2serie/unidade-2-paralelismo-perpendicularismo-e-poliedros/.gitkeep",
+      "destination": "Geometria/2serie/unidade-2-paralelismo-perpendicularismo-e-poliedros/.gitkeep",
+      "relative_path": "2serie/unidade-2-paralelismo-perpendicularismo-e-poliedros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/2serie/unidade-3-prismas/.gitkeep",
+      "destination": "Geometria/2serie/unidade-3-prismas/.gitkeep",
+      "relative_path": "2serie/unidade-3-prismas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/2serie/unidade-4-piramides/.gitkeep",
+      "destination": "Geometria/2serie/unidade-4-piramides/.gitkeep",
+      "relative_path": "2serie/unidade-4-piramides/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/2serie/unidade-5-cilindros/.gitkeep",
+      "destination": "Geometria/2serie/unidade-5-cilindros/.gitkeep",
+      "relative_path": "2serie/unidade-5-cilindros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/2serie/unidade-6-cones/.gitkeep",
+      "destination": "Geometria/2serie/unidade-6-cones/.gitkeep",
+      "relative_path": "2serie/unidade-6-cones/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/2serie/unidade-7-esferas/.gitkeep",
+      "destination": "Geometria/2serie/unidade-7-esferas/.gitkeep",
+      "relative_path": "2serie/unidade-7-esferas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/2serie/unidade-8-solidos-semelhantes-e-transformacoes/.gitkeep",
+      "destination": "Geometria/2serie/unidade-8-solidos-semelhantes-e-transformacoes/.gitkeep",
+      "relative_path": "2serie/unidade-8-solidos-semelhantes-e-transformacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/3serie/unidade-1-geometria-analitica-o-ponto/.gitkeep",
+      "destination": "Geometria/3serie/unidade-1-geometria-analitica-o-ponto/.gitkeep",
+      "relative_path": "3serie/unidade-1-geometria-analitica-o-ponto/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/3serie/unidade-2-geometria-analitica-a-reta/.gitkeep",
+      "destination": "Geometria/3serie/unidade-2-geometria-analitica-a-reta/.gitkeep",
+      "relative_path": "3serie/unidade-2-geometria-analitica-a-reta/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/3serie/unidade-3-geometria-analitica-a-circunferencia/.gitkeep",
+      "destination": "Geometria/3serie/unidade-3-geometria-analitica-a-circunferencia/.gitkeep",
+      "relative_path": "3serie/unidade-3-geometria-analitica-a-circunferencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/3serie/unidade-4-conicas-elipse/.gitkeep",
+      "destination": "Geometria/3serie/unidade-4-conicas-elipse/.gitkeep",
+      "relative_path": "3serie/unidade-4-conicas-elipse/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/3serie/unidade-5-conicas-hiperbole/.gitkeep",
+      "destination": "Geometria/3serie/unidade-5-conicas-hiperbole/.gitkeep",
+      "relative_path": "3serie/unidade-5-conicas-hiperbole/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/3serie/unidade-6-conicas-parabola-e-reconhecimento/.gitkeep",
+      "destination": "Geometria/3serie/unidade-6-conicas-parabola-e-reconhecimento/.gitkeep",
+      "relative_path": "3serie/unidade-6-conicas-parabola-e-reconhecimento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/3serie/unidade-7-revisao-integrada-de-geometria/.gitkeep",
+      "destination": "Geometria/3serie/unidade-7-revisao-integrada-de-geometria/.gitkeep",
+      "relative_path": "3serie/unidade-7-revisao-integrada-de-geometria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "destination": "Geometria/3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "relative_path": "3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/6ano/unidade-1-conceitos-fundamentais-da-geometria/.gitkeep",
+      "destination": "Geometria/6ano/unidade-1-conceitos-fundamentais-da-geometria/.gitkeep",
+      "relative_path": "6ano/unidade-1-conceitos-fundamentais-da-geometria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/6ano/unidade-2-angulos-e-sistema-de-medidas-i/.gitkeep",
+      "destination": "Geometria/6ano/unidade-2-angulos-e-sistema-de-medidas-i/.gitkeep",
+      "relative_path": "6ano/unidade-2-angulos-e-sistema-de-medidas-i/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/6ano/unidade-3-angulos-e-poligonos/.gitkeep",
+      "destination": "Geometria/6ano/unidade-3-angulos-e-poligonos/.gitkeep",
+      "relative_path": "6ano/unidade-3-angulos-e-poligonos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/.gitkeep",
+      "destination": "Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/.gitkeep",
+      "relative_path": "6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/6ano/unidade-5-quadrilateros-e-circunferencia/.gitkeep",
+      "destination": "Geometria/6ano/unidade-5-quadrilateros-e-circunferencia/.gitkeep",
+      "relative_path": "6ano/unidade-5-quadrilateros-e-circunferencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/6ano/unidade-6-area-de-figuras-planas/.gitkeep",
+      "destination": "Geometria/6ano/unidade-6-area-de-figuras-planas/.gitkeep",
+      "relative_path": "6ano/unidade-6-area-de-figuras-planas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/6ano/unidade-7-solidos-geometricos-e-volume/.gitkeep",
+      "destination": "Geometria/6ano/unidade-7-solidos-geometricos-e-volume/.gitkeep",
+      "relative_path": "6ano/unidade-7-solidos-geometricos-e-volume/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/6ano/unidade-8-plano-cartesiano/.gitkeep",
+      "destination": "Geometria/6ano/unidade-8-plano-cartesiano/.gitkeep",
+      "relative_path": "6ano/unidade-8-plano-cartesiano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/7ano/unidade-1-angulos-fundamentos-e-classificacao/.gitkeep",
+      "destination": "Geometria/7ano/unidade-1-angulos-fundamentos-e-classificacao/.gitkeep",
+      "relative_path": "7ano/unidade-1-angulos-fundamentos-e-classificacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/7ano/unidade-2-relacoes-entre-angulos-e-retas-paralelas/.gitkeep",
+      "destination": "Geometria/7ano/unidade-2-relacoes-entre-angulos-e-retas-paralelas/.gitkeep",
+      "relative_path": "7ano/unidade-2-relacoes-entre-angulos-e-retas-paralelas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/7ano/unidade-3-triangulos/.gitkeep",
+      "destination": "Geometria/7ano/unidade-3-triangulos/.gitkeep",
+      "relative_path": "7ano/unidade-3-triangulos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/.gitkeep",
+      "destination": "Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/.gitkeep",
+      "relative_path": "7ano/unidade-4-quadrilateros-e-poligonos-regulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/7ano/unidade-5-circunferencia-e-circulo/.gitkeep",
+      "destination": "Geometria/7ano/unidade-5-circunferencia-e-circulo/.gitkeep",
+      "relative_path": "7ano/unidade-5-circunferencia-e-circulo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/7ano/unidade-6-area-e-perimetro/.gitkeep",
+      "destination": "Geometria/7ano/unidade-6-area-e-perimetro/.gitkeep",
+      "relative_path": "7ano/unidade-6-area-e-perimetro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/7ano/unidade-7-volume-e-capacidade/.gitkeep",
+      "destination": "Geometria/7ano/unidade-7-volume-e-capacidade/.gitkeep",
+      "relative_path": "7ano/unidade-7-volume-e-capacidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/7ano/unidade-8-aplicacoes-de-medidas/.gitkeep",
+      "destination": "Geometria/7ano/unidade-8-aplicacoes-de-medidas/.gitkeep",
+      "relative_path": "7ano/unidade-8-aplicacoes-de-medidas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/8ano/unidade-1-angulos-e-construcoes-geometricas-basicas/.gitkeep",
+      "destination": "Geometria/8ano/unidade-1-angulos-e-construcoes-geometricas-basicas/.gitkeep",
+      "relative_path": "8ano/unidade-1-angulos-e-construcoes-geometricas-basicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/8ano/unidade-2-mediatriz-bissetriz-e-lugares-geometricos/.gitkeep",
+      "destination": "Geometria/8ano/unidade-2-mediatriz-bissetriz-e-lugares-geometricos/.gitkeep",
+      "relative_path": "8ano/unidade-2-mediatriz-bissetriz-e-lugares-geometricos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/8ano/unidade-3-triangulos-e-congruencia/.gitkeep",
+      "destination": "Geometria/8ano/unidade-3-triangulos-e-congruencia/.gitkeep",
+      "relative_path": "8ano/unidade-3-triangulos-e-congruencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/.gitkeep",
+      "destination": "Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/.gitkeep",
+      "relative_path": "8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/8ano/unidade-5-transformacoes-geometricas/.gitkeep",
+      "destination": "Geometria/8ano/unidade-5-transformacoes-geometricas/.gitkeep",
+      "relative_path": "8ano/unidade-5-transformacoes-geometricas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/8ano/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "destination": "Geometria/8ano/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "relative_path": "8ano/unidade-6-areas-de-figuras-planas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/8ano/unidade-7-grandezas-e-medidas-de-capacidade-e-volume/.gitkeep",
+      "destination": "Geometria/8ano/unidade-7-grandezas-e-medidas-de-capacidade-e-volume/.gitkeep",
+      "relative_path": "8ano/unidade-7-grandezas-e-medidas-de-capacidade-e-volume/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/8ano/unidade-8-plano-cartesiano-e-problemas-integrados/.gitkeep",
+      "destination": "Geometria/8ano/unidade-8-plano-cartesiano-e-problemas-integrados/.gitkeep",
+      "relative_path": "8ano/unidade-8-plano-cartesiano-e-problemas-integrados/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/9ano/unidade-1-angulos-e-retas/.gitkeep",
+      "destination": "Geometria/9ano/unidade-1-angulos-e-retas/.gitkeep",
+      "relative_path": "9ano/unidade-1-angulos-e-retas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/9ano/unidade-2-semelhanca-de-triangulos/.gitkeep",
+      "destination": "Geometria/9ano/unidade-2-semelhanca-de-triangulos/.gitkeep",
+      "relative_path": "9ano/unidade-2-semelhanca-de-triangulos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/9ano/unidade-3-relacoes-metricas-e-circunferencia/.gitkeep",
+      "destination": "Geometria/9ano/unidade-3-relacoes-metricas-e-circunferencia/.gitkeep",
+      "relative_path": "9ano/unidade-3-relacoes-metricas-e-circunferencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/.gitkeep",
+      "destination": "Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/.gitkeep",
+      "relative_path": "9ano/unidade-4-poligonos-e-construcoes-geometricas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/9ano/unidade-5-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "destination": "Geometria/9ano/unidade-5-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "relative_path": "9ano/unidade-5-trigonometria-no-triangulo-retangulo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/9ano/unidade-6-geometria-espacial-e-representacoes/.gitkeep",
+      "destination": "Geometria/9ano/unidade-6-geometria-espacial-e-representacoes/.gitkeep",
+      "relative_path": "9ano/unidade-6-geometria-espacial-e-representacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/9ano/unidade-7-prismas-e-cilindros/.gitkeep",
+      "destination": "Geometria/9ano/unidade-7-prismas-e-cilindros/.gitkeep",
+      "relative_path": "9ano/unidade-7-prismas-e-cilindros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geometria/9ano/unidade-8-aplicacoes-e-problemas-integrados/.gitkeep",
+      "destination": "Geometria/9ano/unidade-8-aplicacoes-e-problemas-integrados/.gitkeep",
+      "relative_path": "9ano/unidade-8-aplicacoes-e-problemas-integrados/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 2/1ª Série (2026)/Unidade 3 - Triângulos/Unidade 3 — Triângulos concluída.gdoc",
+      "destination": "Geometria/1ª Série (2026)/Unidade 3 - Triângulos/Unidade 3 — Triângulos concluída.gdoc",
+      "relative_path": "1ª Série (2026)/Unidade 3 - Triângulos/Unidade 3 — Triângulos concluída.gdoc",
+      "action": "copied",
+      "sha256": "7731101712eacf5244ea712698340c134cfe070c40a08f7a46aaf45f4c8c6186"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 2/2ª Série (2026)/Unidade 3 - Prismas/Unidade 3 - Prismas.gdoc",
+      "destination": "Geometria/2ª Série (2026)/Unidade 3 - Prismas/Unidade 3 - Prismas.gdoc",
+      "relative_path": "2ª Série (2026)/Unidade 3 - Prismas/Unidade 3 - Prismas.gdoc",
+      "action": "copied",
+      "sha256": "159eeb2e98378533ec86de6169f4b59ec800327298b4467deb1070c25c0a92c6"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 2/6º Ano (2026)/Unidade 3 - Ângulos e Polígonos/Unidade 3: Ângulos e Polígonos (6º Ano).gdoc",
+      "destination": "Geometria/6º Ano (2026)/Unidade 3 - Ângulos e Polígonos/Unidade 3: Ângulos e Polígonos (6º Ano).gdoc",
+      "relative_path": "6º Ano (2026)/Unidade 3 - Ângulos e Polígonos/Unidade 3: Ângulos e Polígonos (6º Ano).gdoc",
+      "action": "copied",
+      "sha256": "9d13500fcd6a34f56bd645b2a47ffb13c89ff3eec0eb693d1ee4d9d76eaf40f4"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 2/7º Ano (2026)/Unidade 3 - Triângulos/Unidade 3 — Triângulos | 7º Ano.gdoc",
+      "destination": "Geometria/7º Ano (2026)/Unidade 3 - Triângulos/Unidade 3 — Triângulos | 7º Ano.gdoc",
+      "relative_path": "7º Ano (2026)/Unidade 3 - Triângulos/Unidade 3 — Triângulos | 7º Ano.gdoc",
+      "action": "copied",
+      "sha256": "de255f811de0676f0198b71d4ef197e4bc264362ac57a6c3ab2ee9647e54534c"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 2/8º Ano (2026)/Unidade 3 - Triângulos e Congruência/Unidade 3 — Triângulos e Congruência | 8º Ano.gdoc",
+      "destination": "Geometria/8º Ano (2026)/Unidade 3 - Triângulos e Congruência/Unidade 3 — Triângulos e Congruência | 8º Ano.gdoc",
+      "relative_path": "8º Ano (2026)/Unidade 3 - Triângulos e Congruência/Unidade 3 — Triângulos e Congruência | 8º Ano.gdoc",
+      "action": "copied",
+      "sha256": "1aacebb7ae1386c076b08d2ce82694fad760476d9324c04287e90641a1c596c0"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 2/9º Ano (2026)/Unidade 3 - Relações Métricas e Circunferência/Unidade 3 — Relações Métricas e Circunferência.gdoc",
+      "destination": "Geometria/9º Ano (2026)/Unidade 3 - Relações Métricas e Circunferência/Unidade 3 — Relações Métricas e Circunferência.gdoc",
+      "relative_path": "9º Ano (2026)/Unidade 3 - Relações Métricas e Circunferência/Unidade 3 — Relações Métricas e Circunferência.gdoc",
+      "action": "copied",
+      "sha256": "05e2e60a1ba856811aec4f6ba92ff918753ea692b20fa465bbff17f40c04b93c"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Geometria/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": []
+}

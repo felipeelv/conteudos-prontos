@@ -1,0 +1,10 @@
+{
+  "disciplina": "Estudos Sociais",
+  "ano": "4ano",
+  "unidade": "unidade-4-representacao-do-espaco",
+  "blueprint_path": "Estudos Sociais/_blueprints/4ano/unidade-4-representacao-do-espaco",
+  "autor_path": "Estudos Sociais/_autor",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "status": "migrado",
+  "migration_note": "metadata criado automaticamente durante migração estrutural segura"
+}

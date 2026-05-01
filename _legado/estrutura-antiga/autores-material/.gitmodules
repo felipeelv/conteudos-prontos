@@ -1,0 +1,6 @@
+[submodule "PRODUCAO/Blueprint"]
+	path = PRODUCAO/Blueprint
+	url = https://github.com/felipeelv/material-blueprints.git
+[submodule "PRODUCAO/CONTEUDOS PRONTOS"]
+	path = PRODUCAO/CONTEUDOS PRONTOS
+	url = https://github.com/felipeelv/conteudos-prontos.git

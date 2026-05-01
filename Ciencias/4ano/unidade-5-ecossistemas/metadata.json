@@ -1,0 +1,10 @@
+{
+  "disciplina": "Ciencias",
+  "ano": "4ano",
+  "unidade": "unidade-5-ecossistemas",
+  "blueprint_path": "Ciencias/_blueprints/4ano/unidade-5-ecossistemas",
+  "autor_path": "Ciencias/_autor",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "status": "migrado",
+  "migration_note": "metadata criado automaticamente durante migração estrutural segura"
+}

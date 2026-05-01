@@ -1,0 +1,1267 @@
+{
+  "discipline": "Fisica",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_fisica"
+    ],
+    "blueprints": [
+      "Blueprints/fisica",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Fisica"
+    ],
+    "contents": [
+      "Conteudos Prontos/Fisica",
+      "Unidade 3-/Física"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_fisica": {
+      "copied": 5,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::Blueprints::fisica": {
+      "copied": 19,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 2
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Fisica": {
+      "copied": 50,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Fisica": {
+      "copied": 50,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Física": {
+      "copied": 8,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_fisica/_shared/lib_common.sh",
+      "destination": "Fisica/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_fisica/CLAUDE.md",
+      "destination": "Fisica/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "3c38a9cb05f306d394cbe3a25e7f3c966a19920037c43b92d3abd165ff761472"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_fisica/memoria-autor.md",
+      "destination": "Fisica/_autor/memoria-autor.md",
+      "relative_path": "memoria-autor.md",
+      "action": "copied",
+      "sha256": "04d2260341ba5af362827d3b7587dfbb03d4836dd7c521ba06e12e61849bfb95"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_fisica/prompt-autor.md",
+      "destination": "Fisica/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "1be47f9562960d65b61af577a80377c057ccf59e5cdc6075eb96d44e6fa51e28"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_fisica/scripts/criar_capitulos.sh",
+      "destination": "Fisica/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "33c0ca48573dc1541387830978dbf9e208d1da0e9aabc71b9aeb41b9838363b0"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/.DS_Store",
+      "destination": null,
+      "relative_path": ".DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/1serie/unidade-4-cinematica-vetorial/blueprint_capitulo_07_movimentos-compostos.md",
+      "destination": "Fisica/_blueprints/1serie/unidade-4-cinematica-vetorial/blueprint_capitulo_07_movimentos-compostos.md",
+      "relative_path": "1serie/unidade-4-cinematica-vetorial/blueprint_capitulo_07_movimentos-compostos.md",
+      "action": "copied",
+      "sha256": "97f8786c2e3c8a5b7b9a1514d5f31e42419b56d9ab5ec8cc8265d1cc2ec99cb3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/1serie/unidade-4-cinematica-vetorial/blueprint_unidade.md",
+      "destination": "Fisica/_blueprints/1serie/unidade-4-cinematica-vetorial/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-cinematica-vetorial/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "7c49875da70938031f45fa0d7f35453253d98e949fcd23e0a360af3013631b6f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/2serie/.DS_Store",
+      "destination": null,
+      "relative_path": "2serie/.DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/2serie/unidade-4-termodinamica/blueprint_capitulo_07_leis-da-termodinamica.md",
+      "destination": "Fisica/_blueprints/2serie/unidade-4-termodinamica/blueprint_capitulo_07_leis-da-termodinamica.md",
+      "relative_path": "2serie/unidade-4-termodinamica/blueprint_capitulo_07_leis-da-termodinamica.md",
+      "action": "copied",
+      "sha256": "bde47a35f501587b0ec87b583c19cdbf1f95544929d044eb6dc800bd8eda967f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/2serie/unidade-4-termodinamica/blueprint_capitulo_08_maquinas-termicas.md",
+      "destination": "Fisica/_blueprints/2serie/unidade-4-termodinamica/blueprint_capitulo_08_maquinas-termicas.md",
+      "relative_path": "2serie/unidade-4-termodinamica/blueprint_capitulo_08_maquinas-termicas.md",
+      "action": "copied",
+      "sha256": "88e99825b3fbbc3261a5fd6e1644aa06cc13400116f02e23a218f29be78d2ec4"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/2serie/unidade-4-termodinamica/blueprint_unidade.md",
+      "destination": "Fisica/_blueprints/2serie/unidade-4-termodinamica/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-termodinamica/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "1a2c605c770215c75c341dcb774178349fb317b2500f0ac5fd26236348e6bb8f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/3serie/unidade-4-geradores-e-circuitos/blueprint_capitulo_07_geradores-e-receptores.md",
+      "destination": "Fisica/_blueprints/3serie/unidade-4-geradores-e-circuitos/blueprint_capitulo_07_geradores-e-receptores.md",
+      "relative_path": "3serie/unidade-4-geradores-e-circuitos/blueprint_capitulo_07_geradores-e-receptores.md",
+      "action": "copied",
+      "sha256": "a4a58ac32398c954c40826e7fb91c3cd781d2273a79b83cc98e035441a4726fe"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/3serie/unidade-4-geradores-e-circuitos/blueprint_capitulo_08_medidas-eletricas.md",
+      "destination": "Fisica/_blueprints/3serie/unidade-4-geradores-e-circuitos/blueprint_capitulo_08_medidas-eletricas.md",
+      "relative_path": "3serie/unidade-4-geradores-e-circuitos/blueprint_capitulo_08_medidas-eletricas.md",
+      "action": "copied",
+      "sha256": "6673439ba820d3c8809adcd583ce3ec828bde6f309c563561a2a95bcf10af489"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/3serie/unidade-4-geradores-e-circuitos/blueprint_unidade.md",
+      "destination": "Fisica/_blueprints/3serie/unidade-4-geradores-e-circuitos/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-geradores-e-circuitos/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "910fb727d39403ade6d4905b6698fd701121d844b60463b4106678e3619e6fb3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/6ano/unidade-4-velocidade/blueprint_capitulo_01_conceito-de-velocidade.md",
+      "destination": "Fisica/_blueprints/6ano/unidade-4-velocidade/blueprint_capitulo_01_conceito-de-velocidade.md",
+      "relative_path": "6ano/unidade-4-velocidade/blueprint_capitulo_01_conceito-de-velocidade.md",
+      "action": "copied",
+      "sha256": "ea7d3121db0a6d6d49afe1468fc657a9182fd96eef7b30673b7df4122a9de6e0"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/6ano/unidade-4-velocidade/blueprint_capitulo_02_unidades-de-velocidade.md",
+      "destination": "Fisica/_blueprints/6ano/unidade-4-velocidade/blueprint_capitulo_02_unidades-de-velocidade.md",
+      "relative_path": "6ano/unidade-4-velocidade/blueprint_capitulo_02_unidades-de-velocidade.md",
+      "action": "copied",
+      "sha256": "79444a4ad7774250618da4433afec0c587748d258ae8e44863917f98beb42b7b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/6ano/unidade-4-velocidade/blueprint_unidade.md",
+      "destination": "Fisica/_blueprints/6ano/unidade-4-velocidade/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-4-velocidade/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "4ab5dd41eccce7a448f90ebe3604f5434717f1250a0c98d60580b39d0dbf2a1d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/8ano/unidade-4-fontes-e-sustentabilidade/blueprint_capitulo_01_fontes-de-energia.md",
+      "destination": "Fisica/_blueprints/8ano/unidade-4-fontes-e-sustentabilidade/blueprint_capitulo_01_fontes-de-energia.md",
+      "relative_path": "8ano/unidade-4-fontes-e-sustentabilidade/blueprint_capitulo_01_fontes-de-energia.md",
+      "action": "copied",
+      "sha256": "68fcb8f81d788844c9a87ff8e366b3607e9d493e6dca28e3cb38f73768a81f21"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/8ano/unidade-4-fontes-e-sustentabilidade/blueprint_capitulo_02_usinas-de-geracao-de-energia.md",
+      "destination": "Fisica/_blueprints/8ano/unidade-4-fontes-e-sustentabilidade/blueprint_capitulo_02_usinas-de-geracao-de-energia.md",
+      "relative_path": "8ano/unidade-4-fontes-e-sustentabilidade/blueprint_capitulo_02_usinas-de-geracao-de-energia.md",
+      "action": "copied",
+      "sha256": "dbf582c72ade06acca106e53346577c82a37a83147d59cc0b0570462f591a128"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/8ano/unidade-4-fontes-e-sustentabilidade/blueprint_capitulo_03_uso-consciente-de-energia.md",
+      "destination": "Fisica/_blueprints/8ano/unidade-4-fontes-e-sustentabilidade/blueprint_capitulo_03_uso-consciente-de-energia.md",
+      "relative_path": "8ano/unidade-4-fontes-e-sustentabilidade/blueprint_capitulo_03_uso-consciente-de-energia.md",
+      "action": "copied",
+      "sha256": "c0e861aa581e21446570d028b1f54e85bd4f3ee7d0936285978b2a3032e174bc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/8ano/unidade-4-fontes-e-sustentabilidade/blueprint_unidade.md",
+      "destination": "Fisica/_blueprints/8ano/unidade-4-fontes-e-sustentabilidade/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-4-fontes-e-sustentabilidade/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "af781d5510d9e4a15f07430be7a59d6406e3483eebbc64208cbcff1aab082623"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/9ano/unidade-4-gravitacao-universal/blueprint_capitulo_01_lei-da-gravitacao-universal.md",
+      "destination": "Fisica/_blueprints/9ano/unidade-4-gravitacao-universal/blueprint_capitulo_01_lei-da-gravitacao-universal.md",
+      "relative_path": "9ano/unidade-4-gravitacao-universal/blueprint_capitulo_01_lei-da-gravitacao-universal.md",
+      "action": "copied",
+      "sha256": "b18b03699d4cec8b52706cec01cd991a4efa8a44eacce503b654dd73ad48d475"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/9ano/unidade-4-gravitacao-universal/blueprint_capitulo_02_sistema-solar-leis-de-kepler-e-vida-no-universo.md",
+      "destination": "Fisica/_blueprints/9ano/unidade-4-gravitacao-universal/blueprint_capitulo_02_sistema-solar-leis-de-kepler-e-vida-no-universo.md",
+      "relative_path": "9ano/unidade-4-gravitacao-universal/blueprint_capitulo_02_sistema-solar-leis-de-kepler-e-vida-no-universo.md",
+      "action": "copied",
+      "sha256": "03e200f766d27bec1ed46dbb8a6857acc40f12d468601879c70605d4eea42823"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/9ano/unidade-4-gravitacao-universal/blueprint_capitulo_03_ciclo-evolutivo-do-sol.md",
+      "destination": "Fisica/_blueprints/9ano/unidade-4-gravitacao-universal/blueprint_capitulo_03_ciclo-evolutivo-do-sol.md",
+      "relative_path": "9ano/unidade-4-gravitacao-universal/blueprint_capitulo_03_ciclo-evolutivo-do-sol.md",
+      "action": "copied",
+      "sha256": "10aaa7f89e897427892f5286a4531c5c4cba0b3b03284f854ebb8a06a3871137"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/fisica/9ano/unidade-4-gravitacao-universal/blueprint_unidade.md",
+      "destination": "Fisica/_blueprints/9ano/unidade-4-gravitacao-universal/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-gravitacao-universal/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "9702bc3edd24fdb5e62a0211c8deb4d0f6739a5fbebf10cf1bb22e53c00a198b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/1serie/unidade-1-introducao-e-cinematica-escalar/.gitkeep",
+      "destination": "Fisica/_blueprints/1serie/unidade-1-introducao-e-cinematica-escalar/.gitkeep",
+      "relative_path": "1serie/unidade-1-introducao-e-cinematica-escalar/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/1serie/unidade-2-movimento-variado-e-queda-livre/.gitkeep",
+      "destination": "Fisica/_blueprints/1serie/unidade-2-movimento-variado-e-queda-livre/.gitkeep",
+      "relative_path": "1serie/unidade-2-movimento-variado-e-queda-livre/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/1serie/unidade-3-vetores-e-movimento-circular/.gitkeep",
+      "destination": "Fisica/_blueprints/1serie/unidade-3-vetores-e-movimento-circular/.gitkeep",
+      "relative_path": "1serie/unidade-3-vetores-e-movimento-circular/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/1serie/unidade-4-cinematica-vetorial/.gitkeep",
+      "destination": "Fisica/_blueprints/1serie/unidade-4-cinematica-vetorial/.gitkeep",
+      "relative_path": "1serie/unidade-4-cinematica-vetorial/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/1serie/unidade-5-dinamica-leis-de-newton/.gitkeep",
+      "destination": "Fisica/_blueprints/1serie/unidade-5-dinamica-leis-de-newton/.gitkeep",
+      "relative_path": "1serie/unidade-5-dinamica-leis-de-newton/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/1serie/unidade-6-aplicacoes-da-dinamica/.gitkeep",
+      "destination": "Fisica/_blueprints/1serie/unidade-6-aplicacoes-da-dinamica/.gitkeep",
+      "relative_path": "1serie/unidade-6-aplicacoes-da-dinamica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/1serie/unidade-7-trabalho-e-energia/.gitkeep",
+      "destination": "Fisica/_blueprints/1serie/unidade-7-trabalho-e-energia/.gitkeep",
+      "relative_path": "1serie/unidade-7-trabalho-e-energia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/1serie/unidade-8-topicos-complementares/.gitkeep",
+      "destination": "Fisica/_blueprints/1serie/unidade-8-topicos-complementares/.gitkeep",
+      "relative_path": "1serie/unidade-8-topicos-complementares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/2serie/unidade-1-termometria-e-dilatacao/.gitkeep",
+      "destination": "Fisica/_blueprints/2serie/unidade-1-termometria-e-dilatacao/.gitkeep",
+      "relative_path": "2serie/unidade-1-termometria-e-dilatacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/2serie/unidade-2-calorimetria-e-propagacao/.gitkeep",
+      "destination": "Fisica/_blueprints/2serie/unidade-2-calorimetria-e-propagacao/.gitkeep",
+      "relative_path": "2serie/unidade-2-calorimetria-e-propagacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/2serie/unidade-3-estudo-dos-gases/.gitkeep",
+      "destination": "Fisica/_blueprints/2serie/unidade-3-estudo-dos-gases/.gitkeep",
+      "relative_path": "2serie/unidade-3-estudo-dos-gases/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/2serie/unidade-4-termodinamica/.gitkeep",
+      "destination": "Fisica/_blueprints/2serie/unidade-4-termodinamica/.gitkeep",
+      "relative_path": "2serie/unidade-4-termodinamica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/2serie/unidade-5-reflexao-da-luz/.gitkeep",
+      "destination": "Fisica/_blueprints/2serie/unidade-5-reflexao-da-luz/.gitkeep",
+      "relative_path": "2serie/unidade-5-reflexao-da-luz/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/2serie/unidade-6-refracao-e-lentes/.gitkeep",
+      "destination": "Fisica/_blueprints/2serie/unidade-6-refracao-e-lentes/.gitkeep",
+      "relative_path": "2serie/unidade-6-refracao-e-lentes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/2serie/unidade-7-ondulatoria/.gitkeep",
+      "destination": "Fisica/_blueprints/2serie/unidade-7-ondulatoria/.gitkeep",
+      "relative_path": "2serie/unidade-7-ondulatoria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/2serie/unidade-8-acustica/.gitkeep",
+      "destination": "Fisica/_blueprints/2serie/unidade-8-acustica/.gitkeep",
+      "relative_path": "2serie/unidade-8-acustica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/3serie/unidade-1-cargas-e-campos/.gitkeep",
+      "destination": "Fisica/_blueprints/3serie/unidade-1-cargas-e-campos/.gitkeep",
+      "relative_path": "3serie/unidade-1-cargas-e-campos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/3serie/unidade-2-potencial-e-trabalho/.gitkeep",
+      "destination": "Fisica/_blueprints/3serie/unidade-2-potencial-e-trabalho/.gitkeep",
+      "relative_path": "3serie/unidade-2-potencial-e-trabalho/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/3serie/unidade-3-eletrodinamica-resistores/.gitkeep",
+      "destination": "Fisica/_blueprints/3serie/unidade-3-eletrodinamica-resistores/.gitkeep",
+      "relative_path": "3serie/unidade-3-eletrodinamica-resistores/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/3serie/unidade-4-geradores-e-circuitos/.gitkeep",
+      "destination": "Fisica/_blueprints/3serie/unidade-4-geradores-e-circuitos/.gitkeep",
+      "relative_path": "3serie/unidade-4-geradores-e-circuitos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/3serie/unidade-5-magnetismo/.gitkeep",
+      "destination": "Fisica/_blueprints/3serie/unidade-5-magnetismo/.gitkeep",
+      "relative_path": "3serie/unidade-5-magnetismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/3serie/unidade-6-eletromagnetismo/.gitkeep",
+      "destination": "Fisica/_blueprints/3serie/unidade-6-eletromagnetismo/.gitkeep",
+      "relative_path": "3serie/unidade-6-eletromagnetismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/3serie/unidade-7-fisica-moderna/.gitkeep",
+      "destination": "Fisica/_blueprints/3serie/unidade-7-fisica-moderna/.gitkeep",
+      "relative_path": "3serie/unidade-7-fisica-moderna/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/3serie/unidade-8-fisica-nuclear/.gitkeep",
+      "destination": "Fisica/_blueprints/3serie/unidade-8-fisica-nuclear/.gitkeep",
+      "relative_path": "3serie/unidade-8-fisica-nuclear/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/6ano/unidade-1-introducao-a-fisica-e-grandezas/.gitkeep",
+      "destination": "Fisica/_blueprints/6ano/unidade-1-introducao-a-fisica-e-grandezas/.gitkeep",
+      "relative_path": "6ano/unidade-1-introducao-a-fisica-e-grandezas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/6ano/unidade-2-sistema-internacional-de-unidades/.gitkeep",
+      "destination": "Fisica/_blueprints/6ano/unidade-2-sistema-internacional-de-unidades/.gitkeep",
+      "relative_path": "6ano/unidade-2-sistema-internacional-de-unidades/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/6ano/unidade-3-movimento-e-repouso/.gitkeep",
+      "destination": "Fisica/_blueprints/6ano/unidade-3-movimento-e-repouso/.gitkeep",
+      "relative_path": "6ano/unidade-3-movimento-e-repouso/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/6ano/unidade-4-velocidade/.gitkeep",
+      "destination": "Fisica/_blueprints/6ano/unidade-4-velocidade/.gitkeep",
+      "relative_path": "6ano/unidade-4-velocidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/6ano/unidade-5-forca/.gitkeep",
+      "destination": "Fisica/_blueprints/6ano/unidade-5-forca/.gitkeep",
+      "relative_path": "6ano/unidade-5-forca/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/6ano/unidade-6-estrutura-da-terra/.gitkeep",
+      "destination": "Fisica/_blueprints/6ano/unidade-6-estrutura-da-terra/.gitkeep",
+      "relative_path": "6ano/unidade-6-estrutura-da-terra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/6ano/unidade-7-formas-de-energia-e-transformacoes/.gitkeep",
+      "destination": "Fisica/_blueprints/6ano/unidade-7-formas-de-energia-e-transformacoes/.gitkeep",
+      "relative_path": "6ano/unidade-7-formas-de-energia-e-transformacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/6ano/unidade-8-terra-no-espaco/.gitkeep",
+      "destination": "Fisica/_blueprints/6ano/unidade-8-terra-no-espaco/.gitkeep",
+      "relative_path": "6ano/unidade-8-terra-no-espaco/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/7ano/unidade-1-energia-e-suas-formas/.gitkeep",
+      "destination": "Fisica/_blueprints/7ano/unidade-1-energia-e-suas-formas/.gitkeep",
+      "relative_path": "7ano/unidade-1-energia-e-suas-formas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/7ano/unidade-2-fontes-de-energia/.gitkeep",
+      "destination": "Fisica/_blueprints/7ano/unidade-2-fontes-de-energia/.gitkeep",
+      "relative_path": "7ano/unidade-2-fontes-de-energia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/7ano/unidade-5-fundamentos-da-mecanica/.gitkeep",
+      "destination": "Fisica/_blueprints/7ano/unidade-5-fundamentos-da-mecanica/.gitkeep",
+      "relative_path": "7ano/unidade-5-fundamentos-da-mecanica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/8ano/unidade-1-energia-conceitos-fundamentais/.gitkeep",
+      "destination": "Fisica/_blueprints/8ano/unidade-1-energia-conceitos-fundamentais/.gitkeep",
+      "relative_path": "8ano/unidade-1-energia-conceitos-fundamentais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/8ano/unidade-2-transformacoes-de-energia/.gitkeep",
+      "destination": "Fisica/_blueprints/8ano/unidade-2-transformacoes-de-energia/.gitkeep",
+      "relative_path": "8ano/unidade-2-transformacoes-de-energia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/8ano/unidade-3-energia-eletrica/.gitkeep",
+      "destination": "Fisica/_blueprints/8ano/unidade-3-energia-eletrica/.gitkeep",
+      "relative_path": "8ano/unidade-3-energia-eletrica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/8ano/unidade-4-fontes-e-sustentabilidade/.gitkeep",
+      "destination": "Fisica/_blueprints/8ano/unidade-4-fontes-e-sustentabilidade/.gitkeep",
+      "relative_path": "8ano/unidade-4-fontes-e-sustentabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/8ano/unidade-5-som-e-luz/.gitkeep",
+      "destination": "Fisica/_blueprints/8ano/unidade-5-som-e-luz/.gitkeep",
+      "relative_path": "8ano/unidade-5-som-e-luz/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/8ano/unidade-6-sistema-sol-terra-lua/.gitkeep",
+      "destination": "Fisica/_blueprints/8ano/unidade-6-sistema-sol-terra-lua/.gitkeep",
+      "relative_path": "8ano/unidade-6-sistema-sol-terra-lua/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/8ano/unidade-7-clima-e-tempo/.gitkeep",
+      "destination": "Fisica/_blueprints/8ano/unidade-7-clima-e-tempo/.gitkeep",
+      "relative_path": "8ano/unidade-7-clima-e-tempo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/8ano/unidade-8-mudancas-climaticas-e-sustentabilidade/.gitkeep",
+      "destination": "Fisica/_blueprints/8ano/unidade-8-mudancas-climaticas-e-sustentabilidade/.gitkeep",
+      "relative_path": "8ano/unidade-8-mudancas-climaticas-e-sustentabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/9ano/unidade-1-1-e-2-lei-de-newton-introducao/.gitkeep",
+      "destination": "Fisica/_blueprints/9ano/unidade-1-1-e-2-lei-de-newton-introducao/.gitkeep",
+      "relative_path": "9ano/unidade-1-1-e-2-lei-de-newton-introducao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/9ano/unidade-2-forcas-especificas/.gitkeep",
+      "destination": "Fisica/_blueprints/9ano/unidade-2-forcas-especificas/.gitkeep",
+      "relative_path": "9ano/unidade-2-forcas-especificas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/9ano/unidade-3-2-e-3-lei-de-newton/.gitkeep",
+      "destination": "Fisica/_blueprints/9ano/unidade-3-2-e-3-lei-de-newton/.gitkeep",
+      "relative_path": "9ano/unidade-3-2-e-3-lei-de-newton/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/9ano/unidade-4-gravitacao-universal/.gitkeep",
+      "destination": "Fisica/_blueprints/9ano/unidade-4-gravitacao-universal/.gitkeep",
+      "relative_path": "9ano/unidade-4-gravitacao-universal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/9ano/unidade-5-trabalho-e-maquinas-simples/.gitkeep",
+      "destination": "Fisica/_blueprints/9ano/unidade-5-trabalho-e-maquinas-simples/.gitkeep",
+      "relative_path": "9ano/unidade-5-trabalho-e-maquinas-simples/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/9ano/unidade-6-energia-mecanica-e-potencia/.gitkeep",
+      "destination": "Fisica/_blueprints/9ano/unidade-6-energia-mecanica-e-potencia/.gitkeep",
+      "relative_path": "9ano/unidade-6-energia-mecanica-e-potencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Fisica/9ano/unidade-8-eletromagnetismo/.gitkeep",
+      "destination": "Fisica/_blueprints/9ano/unidade-8-eletromagnetismo/.gitkeep",
+      "relative_path": "9ano/unidade-8-eletromagnetismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/1serie/unidade-1-introducao-e-cinematica-escalar/.gitkeep",
+      "destination": "Fisica/1serie/unidade-1-introducao-e-cinematica-escalar/.gitkeep",
+      "relative_path": "1serie/unidade-1-introducao-e-cinematica-escalar/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/1serie/unidade-2-movimento-variado-e-queda-livre/.gitkeep",
+      "destination": "Fisica/1serie/unidade-2-movimento-variado-e-queda-livre/.gitkeep",
+      "relative_path": "1serie/unidade-2-movimento-variado-e-queda-livre/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/1serie/unidade-3-vetores-e-movimento-circular/.gitkeep",
+      "destination": "Fisica/1serie/unidade-3-vetores-e-movimento-circular/.gitkeep",
+      "relative_path": "1serie/unidade-3-vetores-e-movimento-circular/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/1serie/unidade-4-cinematica-vetorial/.gitkeep",
+      "destination": "Fisica/1serie/unidade-4-cinematica-vetorial/.gitkeep",
+      "relative_path": "1serie/unidade-4-cinematica-vetorial/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/1serie/unidade-5-dinamica-leis-de-newton/.gitkeep",
+      "destination": "Fisica/1serie/unidade-5-dinamica-leis-de-newton/.gitkeep",
+      "relative_path": "1serie/unidade-5-dinamica-leis-de-newton/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/1serie/unidade-6-aplicacoes-da-dinamica/.gitkeep",
+      "destination": "Fisica/1serie/unidade-6-aplicacoes-da-dinamica/.gitkeep",
+      "relative_path": "1serie/unidade-6-aplicacoes-da-dinamica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/1serie/unidade-7-trabalho-e-energia/.gitkeep",
+      "destination": "Fisica/1serie/unidade-7-trabalho-e-energia/.gitkeep",
+      "relative_path": "1serie/unidade-7-trabalho-e-energia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/1serie/unidade-8-topicos-complementares/.gitkeep",
+      "destination": "Fisica/1serie/unidade-8-topicos-complementares/.gitkeep",
+      "relative_path": "1serie/unidade-8-topicos-complementares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/2serie/unidade-1-termometria-e-dilatacao/.gitkeep",
+      "destination": "Fisica/2serie/unidade-1-termometria-e-dilatacao/.gitkeep",
+      "relative_path": "2serie/unidade-1-termometria-e-dilatacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/2serie/unidade-2-calorimetria-e-propagacao/.gitkeep",
+      "destination": "Fisica/2serie/unidade-2-calorimetria-e-propagacao/.gitkeep",
+      "relative_path": "2serie/unidade-2-calorimetria-e-propagacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/2serie/unidade-3-estudo-dos-gases/.gitkeep",
+      "destination": "Fisica/2serie/unidade-3-estudo-dos-gases/.gitkeep",
+      "relative_path": "2serie/unidade-3-estudo-dos-gases/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/2serie/unidade-4-termodinamica/.gitkeep",
+      "destination": "Fisica/2serie/unidade-4-termodinamica/.gitkeep",
+      "relative_path": "2serie/unidade-4-termodinamica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/2serie/unidade-5-reflexao-da-luz/.gitkeep",
+      "destination": "Fisica/2serie/unidade-5-reflexao-da-luz/.gitkeep",
+      "relative_path": "2serie/unidade-5-reflexao-da-luz/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/2serie/unidade-6-refracao-e-lentes/.gitkeep",
+      "destination": "Fisica/2serie/unidade-6-refracao-e-lentes/.gitkeep",
+      "relative_path": "2serie/unidade-6-refracao-e-lentes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/2serie/unidade-7-ondulatoria/.gitkeep",
+      "destination": "Fisica/2serie/unidade-7-ondulatoria/.gitkeep",
+      "relative_path": "2serie/unidade-7-ondulatoria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/2serie/unidade-8-acustica/.gitkeep",
+      "destination": "Fisica/2serie/unidade-8-acustica/.gitkeep",
+      "relative_path": "2serie/unidade-8-acustica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/3serie/unidade-1-cargas-e-campos/.gitkeep",
+      "destination": "Fisica/3serie/unidade-1-cargas-e-campos/.gitkeep",
+      "relative_path": "3serie/unidade-1-cargas-e-campos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/3serie/unidade-2-potencial-e-trabalho/.gitkeep",
+      "destination": "Fisica/3serie/unidade-2-potencial-e-trabalho/.gitkeep",
+      "relative_path": "3serie/unidade-2-potencial-e-trabalho/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/3serie/unidade-3-eletrodinamica-resistores/.gitkeep",
+      "destination": "Fisica/3serie/unidade-3-eletrodinamica-resistores/.gitkeep",
+      "relative_path": "3serie/unidade-3-eletrodinamica-resistores/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/3serie/unidade-4-geradores-e-circuitos/.gitkeep",
+      "destination": "Fisica/3serie/unidade-4-geradores-e-circuitos/.gitkeep",
+      "relative_path": "3serie/unidade-4-geradores-e-circuitos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/3serie/unidade-5-magnetismo/.gitkeep",
+      "destination": "Fisica/3serie/unidade-5-magnetismo/.gitkeep",
+      "relative_path": "3serie/unidade-5-magnetismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/3serie/unidade-6-eletromagnetismo/.gitkeep",
+      "destination": "Fisica/3serie/unidade-6-eletromagnetismo/.gitkeep",
+      "relative_path": "3serie/unidade-6-eletromagnetismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/3serie/unidade-7-fisica-moderna/.gitkeep",
+      "destination": "Fisica/3serie/unidade-7-fisica-moderna/.gitkeep",
+      "relative_path": "3serie/unidade-7-fisica-moderna/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/3serie/unidade-8-fisica-nuclear/.gitkeep",
+      "destination": "Fisica/3serie/unidade-8-fisica-nuclear/.gitkeep",
+      "relative_path": "3serie/unidade-8-fisica-nuclear/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/6ano/unidade-1-introducao-a-fisica-e-grandezas/.gitkeep",
+      "destination": "Fisica/6ano/unidade-1-introducao-a-fisica-e-grandezas/.gitkeep",
+      "relative_path": "6ano/unidade-1-introducao-a-fisica-e-grandezas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/6ano/unidade-2-sistema-internacional-de-unidades/.gitkeep",
+      "destination": "Fisica/6ano/unidade-2-sistema-internacional-de-unidades/.gitkeep",
+      "relative_path": "6ano/unidade-2-sistema-internacional-de-unidades/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/6ano/unidade-3-movimento-e-repouso/.gitkeep",
+      "destination": "Fisica/6ano/unidade-3-movimento-e-repouso/.gitkeep",
+      "relative_path": "6ano/unidade-3-movimento-e-repouso/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/6ano/unidade-4-velocidade/.gitkeep",
+      "destination": "Fisica/6ano/unidade-4-velocidade/.gitkeep",
+      "relative_path": "6ano/unidade-4-velocidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/6ano/unidade-5-forca/.gitkeep",
+      "destination": "Fisica/6ano/unidade-5-forca/.gitkeep",
+      "relative_path": "6ano/unidade-5-forca/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/6ano/unidade-6-estrutura-da-terra/.gitkeep",
+      "destination": "Fisica/6ano/unidade-6-estrutura-da-terra/.gitkeep",
+      "relative_path": "6ano/unidade-6-estrutura-da-terra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/6ano/unidade-7-formas-de-energia-e-transformacoes/.gitkeep",
+      "destination": "Fisica/6ano/unidade-7-formas-de-energia-e-transformacoes/.gitkeep",
+      "relative_path": "6ano/unidade-7-formas-de-energia-e-transformacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/6ano/unidade-8-terra-no-espaco/.gitkeep",
+      "destination": "Fisica/6ano/unidade-8-terra-no-espaco/.gitkeep",
+      "relative_path": "6ano/unidade-8-terra-no-espaco/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/7ano/unidade-1-energia-e-suas-formas/.gitkeep",
+      "destination": "Fisica/7ano/unidade-1-energia-e-suas-formas/.gitkeep",
+      "relative_path": "7ano/unidade-1-energia-e-suas-formas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/7ano/unidade-2-fontes-de-energia/.gitkeep",
+      "destination": "Fisica/7ano/unidade-2-fontes-de-energia/.gitkeep",
+      "relative_path": "7ano/unidade-2-fontes-de-energia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/7ano/unidade-5-fundamentos-da-mecanica/.gitkeep",
+      "destination": "Fisica/7ano/unidade-5-fundamentos-da-mecanica/.gitkeep",
+      "relative_path": "7ano/unidade-5-fundamentos-da-mecanica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/8ano/unidade-1-energia-conceitos-fundamentais/.gitkeep",
+      "destination": "Fisica/8ano/unidade-1-energia-conceitos-fundamentais/.gitkeep",
+      "relative_path": "8ano/unidade-1-energia-conceitos-fundamentais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/8ano/unidade-2-transformacoes-de-energia/.gitkeep",
+      "destination": "Fisica/8ano/unidade-2-transformacoes-de-energia/.gitkeep",
+      "relative_path": "8ano/unidade-2-transformacoes-de-energia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/8ano/unidade-3-energia-eletrica/.gitkeep",
+      "destination": "Fisica/8ano/unidade-3-energia-eletrica/.gitkeep",
+      "relative_path": "8ano/unidade-3-energia-eletrica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/8ano/unidade-4-fontes-e-sustentabilidade/.gitkeep",
+      "destination": "Fisica/8ano/unidade-4-fontes-e-sustentabilidade/.gitkeep",
+      "relative_path": "8ano/unidade-4-fontes-e-sustentabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/8ano/unidade-5-som-e-luz/.gitkeep",
+      "destination": "Fisica/8ano/unidade-5-som-e-luz/.gitkeep",
+      "relative_path": "8ano/unidade-5-som-e-luz/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/8ano/unidade-6-sistema-sol-terra-lua/.gitkeep",
+      "destination": "Fisica/8ano/unidade-6-sistema-sol-terra-lua/.gitkeep",
+      "relative_path": "8ano/unidade-6-sistema-sol-terra-lua/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/8ano/unidade-7-clima-e-tempo/.gitkeep",
+      "destination": "Fisica/8ano/unidade-7-clima-e-tempo/.gitkeep",
+      "relative_path": "8ano/unidade-7-clima-e-tempo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/8ano/unidade-8-mudancas-climaticas-e-sustentabilidade/.gitkeep",
+      "destination": "Fisica/8ano/unidade-8-mudancas-climaticas-e-sustentabilidade/.gitkeep",
+      "relative_path": "8ano/unidade-8-mudancas-climaticas-e-sustentabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/9ano/unidade-1-1-e-2-lei-de-newton-introducao/.gitkeep",
+      "destination": "Fisica/9ano/unidade-1-1-e-2-lei-de-newton-introducao/.gitkeep",
+      "relative_path": "9ano/unidade-1-1-e-2-lei-de-newton-introducao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/9ano/unidade-2-forcas-especificas/.gitkeep",
+      "destination": "Fisica/9ano/unidade-2-forcas-especificas/.gitkeep",
+      "relative_path": "9ano/unidade-2-forcas-especificas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/9ano/unidade-3-2-e-3-lei-de-newton/.gitkeep",
+      "destination": "Fisica/9ano/unidade-3-2-e-3-lei-de-newton/.gitkeep",
+      "relative_path": "9ano/unidade-3-2-e-3-lei-de-newton/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/9ano/unidade-4-gravitacao-universal/.gitkeep",
+      "destination": "Fisica/9ano/unidade-4-gravitacao-universal/.gitkeep",
+      "relative_path": "9ano/unidade-4-gravitacao-universal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/9ano/unidade-5-trabalho-e-maquinas-simples/.gitkeep",
+      "destination": "Fisica/9ano/unidade-5-trabalho-e-maquinas-simples/.gitkeep",
+      "relative_path": "9ano/unidade-5-trabalho-e-maquinas-simples/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/9ano/unidade-6-energia-mecanica-e-potencia/.gitkeep",
+      "destination": "Fisica/9ano/unidade-6-energia-mecanica-e-potencia/.gitkeep",
+      "relative_path": "9ano/unidade-6-energia-mecanica-e-potencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Fisica/9ano/unidade-8-eletromagnetismo/.gitkeep",
+      "destination": "Fisica/9ano/unidade-8-eletromagnetismo/.gitkeep",
+      "relative_path": "9ano/unidade-8-eletromagnetismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Física/1serie/Unidade 3 - Movimento Uniformemente Variado/Unidade 3 — Vetores e Movimento Circular | 1ª Série EM.gdoc",
+      "destination": "Fisica/1serie/Unidade 3 - Movimento Uniformemente Variado/Unidade 3 — Vetores e Movimento Circular | 1ª Série EM.gdoc",
+      "relative_path": "1serie/Unidade 3 - Movimento Uniformemente Variado/Unidade 3 — Vetores e Movimento Circular | 1ª Série EM.gdoc",
+      "action": "copied",
+      "sha256": "ac045cae9ac567c0c80f3613b0bd9c81684d5191d3ff3705f1e0881b8bff8c5e"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Física/2serie/Unidade 3 - Estudo dos Gases/Capítulo 1 — Gases Perfeitos.gdoc",
+      "destination": "Fisica/2serie/Unidade 3 - Estudo dos Gases/Capítulo 1 — Gases Perfeitos.gdoc",
+      "relative_path": "2serie/Unidade 3 - Estudo dos Gases/Capítulo 1 — Gases Perfeitos.gdoc",
+      "action": "copied",
+      "sha256": "c6039b22eb36ecf61b5605f3a4e1eec9555364638604ee8801ca544ceaf34498"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Física/2serie/Unidade 3 - Estudo dos Gases/Capítulo 2 — Transformações Gasosas.gdoc",
+      "destination": "Fisica/2serie/Unidade 3 - Estudo dos Gases/Capítulo 2 — Transformações Gasosas.gdoc",
+      "relative_path": "2serie/Unidade 3 - Estudo dos Gases/Capítulo 2 — Transformações Gasosas.gdoc",
+      "action": "copied",
+      "sha256": "be3ea1437f5b386b1766fb5de107e7212a52ac8a8277e56976497d88e9c7a167"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Física/2serie/Unidade 3 - Estudo dos Gases/Unidade 3 - Estudo dos Gases.gdoc",
+      "destination": "Fisica/2serie/Unidade 3 - Estudo dos Gases/Unidade 3 - Estudo dos Gases.gdoc",
+      "relative_path": "2serie/Unidade 3 - Estudo dos Gases/Unidade 3 - Estudo dos Gases.gdoc",
+      "action": "copied",
+      "sha256": "dd3a19bdcac7cd5c43c64d4d10a55de4df2c326922065cd263719b7930bbb205"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Física/6ano/Unidade 3 - Movimento e Repouso/Unidade 3 — Movimento e Repouso | 6º Ano | 2º Bimestre.gdoc",
+      "destination": "Fisica/6ano/Unidade 3 - Movimento e Repouso/Unidade 3 — Movimento e Repouso | 6º Ano | 2º Bimestre.gdoc",
+      "relative_path": "6ano/Unidade 3 - Movimento e Repouso/Unidade 3 — Movimento e Repouso | 6º Ano | 2º Bimestre.gdoc",
+      "action": "copied",
+      "sha256": "3a2165b0407ba19da865bb23e26713ad52c98d653a83010a6125af6be30e61bd"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Física/7ano/Unidade 3 - Temperatura/Unidade 3 — Temperatura (7º Ano, 2º Bimestre).gdoc",
+      "destination": "Fisica/7ano/Unidade 3 - Temperatura/Unidade 3 — Temperatura (7º Ano, 2º Bimestre).gdoc",
+      "relative_path": "7ano/Unidade 3 - Temperatura/Unidade 3 — Temperatura (7º Ano, 2º Bimestre).gdoc",
+      "action": "copied",
+      "sha256": "bad366caba5486c6532c288133b1997cc7864b4be32a40587eda8ab9c2079b5e"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Física/8ano/Unidade 3 - Energia Elétrica/Unidade 3 — Energia Elétrica | 8º Ano.gdoc",
+      "destination": "Fisica/8ano/Unidade 3 - Energia Elétrica/Unidade 3 — Energia Elétrica | 8º Ano.gdoc",
+      "relative_path": "8ano/Unidade 3 - Energia Elétrica/Unidade 3 — Energia Elétrica | 8º Ano.gdoc",
+      "action": "copied",
+      "sha256": "d3a7a9bfe2a1f6728fafc3d5c16a86bb3efc07183fcb8ab3f07fe32efe6b4ed6"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Física/9ano/Unidade 3 - 2ª e 3ª Lei de Newton/Unidade 3 — 2ª e 3ª Lei de Newton .gdoc",
+      "destination": "Fisica/9ano/Unidade 3 - 2ª e 3ª Lei de Newton/Unidade 3 — 2ª e 3ª Lei de Newton .gdoc",
+      "relative_path": "9ano/Unidade 3 - 2ª e 3ª Lei de Newton/Unidade 3 — 2ª e 3ª Lei de Newton .gdoc",
+      "action": "copied",
+      "sha256": "03a67f9685e5cdbd1b858e71dc4a24bf52c405bd485acc2bd0338fb3aa7cae81"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Fisica/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": []
+}

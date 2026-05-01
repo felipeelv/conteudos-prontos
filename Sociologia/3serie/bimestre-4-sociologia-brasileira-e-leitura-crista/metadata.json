@@ -1,0 +1,10 @@
+{
+  "disciplina": "Sociologia",
+  "ano": "3serie",
+  "unidade": "bimestre-4-sociologia-brasileira-e-leitura-crista",
+  "blueprint_path": "Sociologia/_blueprints/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista",
+  "autor_path": "Sociologia/_autor",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "status": "migrado",
+  "migration_note": "metadata criado automaticamente durante migração estrutural segura"
+}

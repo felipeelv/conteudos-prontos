@@ -2,214 +2,179 @@
 
 ## Onde está a média quando ninguém tirou exatamente aquela nota?
 
-No boletim, apareceram as notas 7, 8, 6, 9 e 5. A média ficou 7.
-
-Esse número parece escondido no meio das notas. Ele não conta a história de uma prova só.
-
-Ele funciona como uma balança que reparte o resultado de todas.
+Sexta-feira, dia de boletim. Sua mãe pergunta como foi em Matemática e você lê em voz alta as notas do bimestre: 5, 8, 6, 8 e 8. Embaixo aparece "Média do bimestre: 7,0" — mas em prova nenhuma você tirou 7. De onde veio esse número?
 
 > 💭 **Pense um pouco:**  
-> A média da turma conta a história de todos os alunos?
+> A média da turma conta a história de cada aluno?
+
+---
 
 ## 1. Somar e Repartir
 
-Média começa com a ideia de juntar tudo e repartir igualmente.
+A média é a maneira de repartir um total igualmente entre todas as partes.
 
 ### 1.1 A ideia de dividir igualmente
 
-Imagine que quatro amigos juntaram suas economias para comprar lanche.
+Imagine 4 amigos com chocolates. Veja o que acontece quando eles dividem por igual:
 
-| Amigo | Valor guardado |
-|---|---:|
-| Ana | R$ 8 |
-| Bia | R$ 6 |
-| Caio | R$ 10 |
-| Davi | R$ 4 |
+1. cada um tem uma quantidade diferente — 6, 4, 5 e 1 chocolates;
+2. juntam tudo na mesa: 6 + 4 + 5 + 1 = 16 chocolates;
+3. repartem em partes iguais entre os 4: 16 ÷ 4 = 4 chocolates para cada.
 
-Ao todo, o grupo tem R$ 28. Se esse valor fosse repartido igualmente, cada um ficaria com R$ 7.
-
-Essa repartição igual ajuda a entender a média. Ela mostra quanto caberia a cada pessoa se todos tivessem o mesmo valor.
-
-> 📈 **No Dia a Dia:**  
-> A média da mesada mostra um valor típico, mesmo quando ninguém recebe exatamente aquele valor.
+Esse 4 é a média do grupo.
 
 ### 1.2 A fórmula da média
 
 A média aritmética é a soma dos valores dividida pela quantidade de valores.
 
-$$ \overline{x} = \frac{x_1 + x_2 + \ldots + x_n}{n} $$
+$$ \bar{x} = \frac{x_1 + x_2 + \ldots + x_n}{n} $$
 
-Nessa escrita, $$ \overline{x} $$ é a média. Os valores são $$ x_1, x_2, \ldots, x_n $$, e $$ n $$ é a quantidade de valores.
+Onde $$\bar{x}$$ é a média; $$x_1, x_2, \ldots, x_n$$ são os valores; e $$n$$ é a quantidade de valores.
 
-Veja o exemplo das notas 7, 8, 6, 9 e 5:
+Veja só, no caso dos chocolates:
 
-$$ \overline{x} = \frac{7 + 8 + 6 + 9 + 5}{5} $$
+$$ \bar{x} = \frac{6 + 4 + 5 + 1}{4} $$
 
-$$ \overline{x} = \frac{35}{5} $$
+$$ \bar{x} = \frac{16}{4} $$
 
-$$ \overline{x} = 7 $$
+$$ \bar{x} = 4 $$
 
-A média é 7 porque a soma das cinco notas foi repartida por cinco.
+A média é 4 chocolates por amigo.
+
+> 📐 **Fazendo as Contas:**  
+> Boletim 5, 8, 6, 8, 8: soma = 35 e $$\bar{x} = 35 \div 5 = 7$$.
+
+---
 
 ## 2. O Que a Média Representa
 
-A média resume o conjunto, mas não substitui cada valor.
+A média descreve o conjunto inteiro, não cada valor isolado.
 
 ### 2.1 Valor típico
 
-Um valor típico ajuda a enxergar o comportamento geral dos dados.
+A média é um **valor típico**: um número que representa o comportamento geral do conjunto.
 
-Veja duas listas de tempo de tela em um sábado:
-
-| Aluno | Tempo de tela |
-|---|---:|
-| A | 1 h |
-| B | 2 h |
-| C | 3 h |
-| D | 4 h |
-
-$$ \overline{x} = \frac{1 + 2 + 3 + 4}{4} $$
-
-$$ \overline{x} = \frac{10}{4} $$
-
-$$ \overline{x} = 2{,}5\;\mathrm{h} $$
-
-A média foi 2,5 h. Ela fica entre o menor valor, 1 h, e o maior valor, 4 h.
+No boletim, "média 7,0" significa que, se todas as provas tivessem a mesma nota, essa nota seria 7.
 
 ### 2.2 Média não é sempre um valor real da lista
 
-Nenhum aluno da tabela usou exatamente 2,5 h de tela.
+> No boletim com notas 5, 8, 6, 8 e 8, a média é 7. Mas nenhuma prova tem nota 7.
 
-Mesmo assim, 2,5 h representa o conjunto. A média pode ser decimal e pode não aparecer na lista original.
+Isso acontece porque:
 
-> ⏸️ **Pare e Pense:**  
-> Se uma média parece boa, mas alguns valores são muito baixos, o que ainda precisa ser observado?
+- a média é um cálculo, não uma cópia de um dado;
+- ela representa o conjunto inteiro, não um valor específico;
+- ela sempre fica entre o menor e o maior valor da lista — no boletim, entre 5 e 8.
+
+> 💡 **Você sabia?**  
+> O belga Adolphe Quetelet (1796-1874) usou médias para estudar populações inteiras — e chamou isso de "homem médio".
+
+---
 
 ## 3. Calculando em Situações Simples
 
-Toda média precisa responder a uma pergunta: somei todos os valores e dividi pela quantidade certa?
+A média aparece em qualquer situação onde queremos resumir um grupo de números.
 
 ### 3.1 Notas escolares
 
-Veja as notas de Lia em cinco atividades:
+Suas notas em História foram 8, 7 e 9.
 
-| Atividade | Nota |
-|---|---:|
-| 1 | 6 |
-| 2 | 8 |
-| 3 | 7 |
-| 4 | 9 |
-| 5 | 10 |
+$$ \bar{x} = \frac{8 + 7 + 9}{3} $$
 
-$$ \overline{x} = \frac{6 + 8 + 7 + 9 + 10}{5} $$
+$$ \bar{x} = \frac{24}{3} $$
 
-$$ \overline{x} = \frac{40}{5} $$
+$$ \bar{x} = 8 $$
 
-$$ \overline{x} = 8 $$
-
-A média de Lia foi 8. Esse número mostra o resultado geral dela nas cinco atividades.
+Sua média em História é 8.
 
 ### 3.2 Mesada, consumo e tempo de tela
 
-Veja agora os gastos de Jonas em três semanas:
+Em quatro semanas, você ganhou de mesada: R$ 20, R$ 30, R$ 25 e R$ 25.
 
-| Semana | Gasto |
-|---|---:|
-| 1 | R$ 12 |
-| 2 | R$ 18 |
-| 3 | R$ 15 |
+$$ \bar{x} = \frac{20 + 30 + 25 + 25}{4} $$
 
-$$ \overline{x} = \frac{12 + 18 + 15}{3} $$
+$$ \bar{x} = \frac{100}{4} $$
 
-$$ \overline{x} = \frac{45}{3} $$
+$$ \bar{x} = 25 $$
 
-$$ \overline{x} = 15\;\mathrm{reais} $$
+A média semanal de mesada foi R$ 25.
 
-Jonas gastou em média R$ 15 por semana. Esse valor ajuda a planejar se ele quer poupar uma parte da mesada.
+> 📈 **No Dia a Dia:**  
+> Quando o app de celular mostra "tempo médio de tela: 2h por dia", ele somou as horas da semana e dividiu por 7.
 
-> 📐 **Fazendo as Contas:**  
-> Se os gastos foram R$ 10, R$ 14 e R$ 12, então $$ \overline{x} = \frac{10 + 14 + 12}{3} $$ e $$ \overline{x} = 12\;\mathrm{reais} $$.
+---
 
 ## 4. Média em Tabelas de Frequência
 
-Uma tabela de frequência mostra quantas vezes cada valor aparece.
+Quando um valor aparece várias vezes, a tabela de frequência organiza os dados sem repetir tudo.
 
 ### 4.1 Quando um valor aparece várias vezes
 
-Veja a quantidade de livros lidos por alunos de uma turma no mês:
+A turma respondeu: "quantos livros você leu nas férias?". Veja a tabela abaixo.
 
-| Livros lidos | Frequência |
-|---:|---:|
-| 0 | 2 |
-| 1 | 5 |
+| Livros lidos | Quantidade de alunos (frequência) |
+|:---:|:---:|
+| 0 | 5 |
+| 1 | 8 |
 | 2 | 4 |
-| 3 | 1 |
+| 3 | 3 |
 
-O valor 0 aparece 2 vezes. O valor 1 aparece 5 vezes, o valor 2 aparece 4 vezes e o valor 3 aparece 1 vez.
+A turma tem 20 alunos (5 + 8 + 4 + 3).
 
-Podemos calcular a soma pensando nas repetições:
+Para calcular a média, cada valor entra na soma tantas vezes quanto sua frequência:
 
-$$ 0 \cdot 2 = 0 $$
+$$ \bar{x} = \frac{0 \cdot 5 + 1 \cdot 8 + 2 \cdot 4 + 3 \cdot 3}{20} $$
 
-$$ 1 \cdot 5 = 5 $$
+$$ \bar{x} = \frac{0 + 8 + 8 + 9}{20} $$
 
-$$ 2 \cdot 4 = 8 $$
+$$ \bar{x} = \frac{25}{20} $$
 
-$$ 3 \cdot 1 = 3 $$
+$$ \bar{x} = 1{,}25 $$
 
-$$ 0 + 5 + 8 + 3 = 16 $$
-
-Agora contamos todos os alunos:
-
-$$ 2 + 5 + 4 + 1 = 12 $$
-
-Por fim, dividimos a soma pela quantidade de alunos:
-
-$$ \overline{x} = \frac{16}{12} $$
-
-$$ \overline{x} \approx 1{,}33\;\mathrm{livros} $$
+Em média, cada aluno leu 1,25 livros — um valor que ninguém leu exatamente, mas que descreve o conjunto.
 
 ### 4.2 Conferir se todos os dados entraram
 
-O erro mais comum é dividir pelo número de linhas da tabela. Aqui são 4 linhas, mas 12 alunos.
+Antes de concluir uma média, faça a verificação:
 
-Adolphe Quetelet usou médias para resumir características de populações.
+- somei todos os valores?
+- dividi pela quantidade certa de valores?
+- não esqueci ninguém na lista?
 
-A ideia do "homem médio" mostra uma coisa importante: a média ajuda a enxergar o grupo, mas não descreve cada pessoa sozinha.
+Qualquer "não" muda o resultado.
 
-> 💡 **Você sabia?**  
-> Quetelet foi astrônomo e estatístico, e usou médias para estudar grupos de pessoas no século XIX.
+> ⏸️ **Pare e Pense:**  
+> Se um aluno faltou e a nota dele não entrou na média da turma, a média mostra a turma de verdade?
 
 ---
 
 ## NA VIDA REAL
 
-Uma média de gastos ajuda a decidir quanto guardar antes de comprar algo maior. Mas ela só ajuda de verdade quando todos os gastos entram na conta.
+O boletim resume cinco notas em um número só, e a média é uma balança: o que ficou acima compensa o que ficou abaixo. O mesmo cálculo aparece em "tempo médio de tela", "gasto médio do mês" e "média de gols por jogo".
 
 ---
 
 ## E A BÍBLIA NISSO?
 
-> "Balança enganosa é abominação para o Senhor, mas o peso justo é o seu prazer." (Provérbios 11:1)
+> "O Senhor abomina balanças desonestas, mas os pesos exatos lhe são agradáveis." (Provérbios 11:1)
 
-A média funciona como uma balança dos dados. Se um valor é escondido, a conta perde a verdade do conjunto. Integridade também aparece quando aceitamos a conta completa.
+Integridade é aceitar a conta completa. Esconder um valor para subir a média não muda a verdade do conjunto — só muda o número que sai.
 
-- **Inclua todos os valores antes de concluir.** Uma resposta justa não escolhe apenas os dados convenientes; ela confere o todo com honestidade (Lucas 16:10).
+- **Pese tudo, mesmo o que pesa contra você.** Pesos justos não escolhem o que medir (Provérbios 11:1).
 
-> 💬 **Para Conversar:** Em que situação esconder um número pequeno poderia mudar a impressão sobre um resultado?
+> 💬 **Para Conversar:**  
+> Que valor da sua vida você gostaria de tirar da conta — e por quê?
 
 ---
 
 ## Simplificando
 
-A média aritmética reparte a soma dos valores pela quantidade correta de valores.
-
-Ela mostra um ponto de equilíbrio do conjunto, mas não conta sozinha toda a história dos dados.
+Média aritmética é o total repartido igualmente entre todos os valores: soma dividida pela quantidade. Ela representa o conjunto inteiro, mesmo quando ninguém tem exatamente o valor calculado.
 
 ---
 
 ## Para não esquecer
 
-- **Média aritmética:** soma dos valores dividida pela quantidade;
-- **Valor típico:** número que representa o comportamento geral;
-- **Frequência:** quantidade de vezes que um valor aparece.
+- **Soma:** todos os valores entram, sem exceção;
+- **Quantidade:** divida pelo número total de valores, não pelo número de linhas da tabela;
+- **Valor típico:** a média descreve o conjunto e pode não estar na lista.

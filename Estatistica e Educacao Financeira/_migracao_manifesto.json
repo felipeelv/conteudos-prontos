@@ -1,0 +1,959 @@
+{
+  "discipline": "Estatistica e Educacao Financeira",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_estatistica-e-educacao-financeira"
+    ],
+    "blueprints": [
+      "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira"
+    ],
+    "contents": [
+      "Conteudos Prontos/Estatistica e Educacao Financeira",
+      "Unidade 3-/Matemática 3"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_estatistica-e-educacao-financeira": {
+      "copied": 2,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 2
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Estatistica e Educacao Financeira": {
+      "copied": 49,
+      "already_identical": 34,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Estatistica e Educacao Financeira": {
+      "copied": 6,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Matemática 3": {
+      "copied": 7,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estatistica-e-educacao-financeira/_shared/lib_common.sh",
+      "destination": "Estatistica e Educacao Financeira/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estatistica-e-educacao-financeira/logs/20260430_195003_estatistica-e-educacao-financeira-6ano-unidade-4-media-aritmetica-e-probabilidade.log",
+      "destination": null,
+      "relative_path": "logs/20260430_195003_estatistica-e-educacao-financeira-6ano-unidade-4-media-aritmetica-e-probabilidade.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estatistica-e-educacao-financeira/logs/20260430_195741_estatistica-e-educacao-financeira-6ano-unidade-4-media-aritmetica-e-probabilidade.log",
+      "destination": null,
+      "relative_path": "logs/20260430_195741_estatistica-e-educacao-financeira-6ano-unidade-4-media-aritmetica-e-probabilidade.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estatistica-e-educacao-financeira/scripts/criar_capitulos.sh",
+      "destination": "Estatistica e Educacao Financeira/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "ee959424704efaa121516547cf788c7c45973576b22074347bfa068539402e98"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-1-estatistica-descritiva-conceitos-basicos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-1-estatistica-descritiva-conceitos-basicos/.gitkeep",
+      "relative_path": "1serie/unidade-1-estatistica-descritiva-conceitos-basicos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-2-distribuicao-de-frequencias-e-educacao-financeira-basica/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-2-distribuicao-de-frequencias-e-educacao-financeira-basica/.gitkeep",
+      "relative_path": "1serie/unidade-2-distribuicao-de-frequencias-e-educacao-financeira-basica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-3-representacao-grafica/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-3-representacao-grafica/.gitkeep",
+      "relative_path": "1serie/unidade-3-representacao-grafica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/.gitkeep",
+      "relative_path": "1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/blueprint_capitulo_01_medidas-de-tendencia-central.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/blueprint_capitulo_01_medidas-de-tendencia-central.md",
+      "relative_path": "1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/blueprint_capitulo_01_medidas-de-tendencia-central.md",
+      "action": "already_identical",
+      "sha256": "3cb394a0e55f4b603b3133a7c204193befde71734210db1116c866fb85108762"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/blueprint_capitulo_02_educacao-financeira-proporcionalidade-e-juros.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/blueprint_capitulo_02_educacao-financeira-proporcionalidade-e-juros.md",
+      "relative_path": "1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/blueprint_capitulo_02_educacao-financeira-proporcionalidade-e-juros.md",
+      "action": "already_identical",
+      "sha256": "db783037780123bedfada6b808af4583833b68f4a2b65fc00e3c3162c77cbd1c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/blueprint_unidade.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "b5ef0fb9dbc4c66472a6f4c02219db2026e3140df8c2dc30077070061eae934a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-5-medidas-de-dispersao/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-5-medidas-de-dispersao/.gitkeep",
+      "relative_path": "1serie/unidade-5-medidas-de-dispersao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-6-introducao-a-probabilidade-e-educacao-financeira/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-6-introducao-a-probabilidade-e-educacao-financeira/.gitkeep",
+      "relative_path": "1serie/unidade-6-introducao-a-probabilidade-e-educacao-financeira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-7-analise-combinatoria-introducao/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-7-analise-combinatoria-introducao/.gitkeep",
+      "relative_path": "1serie/unidade-7-analise-combinatoria-introducao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/1serie/unidade-8-educacao-financeira-planejamento/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/1serie/unidade-8-educacao-financeira-planejamento/.gitkeep",
+      "relative_path": "1serie/unidade-8-educacao-financeira-planejamento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-1-analise-combinatoria-fundamentos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-1-analise-combinatoria-fundamentos/.gitkeep",
+      "relative_path": "2serie/unidade-1-analise-combinatoria-fundamentos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-2-analise-combinatoria-aprofundamento/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-2-analise-combinatoria-aprofundamento/.gitkeep",
+      "relative_path": "2serie/unidade-2-analise-combinatoria-aprofundamento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-3-binomio-de-newton/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-3-binomio-de-newton/.gitkeep",
+      "relative_path": "2serie/unidade-3-binomio-de-newton/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-4-educacao-financeira-juros-compostos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-4-educacao-financeira-juros-compostos/.gitkeep",
+      "relative_path": "2serie/unidade-4-educacao-financeira-juros-compostos/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-4-educacao-financeira-juros-compostos/blueprint_capitulo_01_juros-compostos.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-4-educacao-financeira-juros-compostos/blueprint_capitulo_01_juros-compostos.md",
+      "relative_path": "2serie/unidade-4-educacao-financeira-juros-compostos/blueprint_capitulo_01_juros-compostos.md",
+      "action": "already_identical",
+      "sha256": "f0318b35e60d07c51ae0e64eadd291879f4e37efe8e0c01294a7edb7682bd7f7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-4-educacao-financeira-juros-compostos/blueprint_capitulo_02_aplicacoes-financeiras.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-4-educacao-financeira-juros-compostos/blueprint_capitulo_02_aplicacoes-financeiras.md",
+      "relative_path": "2serie/unidade-4-educacao-financeira-juros-compostos/blueprint_capitulo_02_aplicacoes-financeiras.md",
+      "action": "already_identical",
+      "sha256": "75004b0deb96a5c1d9f4c959a3596f5d9f460deb7830ee1b1a15ff97923be88c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-4-educacao-financeira-juros-compostos/blueprint_unidade.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-4-educacao-financeira-juros-compostos/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-educacao-financeira-juros-compostos/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "0710b7d4eea1da97728dbc73a6ea5c43265ee50f2639ec11a7f8b9ca183ea903"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-5-probabilidade-aprofundamento/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-5-probabilidade-aprofundamento/.gitkeep",
+      "relative_path": "2serie/unidade-5-probabilidade-aprofundamento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-6-educacao-financeira-credito-e-financiamentos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-6-educacao-financeira-credito-e-financiamentos/.gitkeep",
+      "relative_path": "2serie/unidade-6-educacao-financeira-credito-e-financiamentos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-7-probabilidade-consolidacao/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-7-probabilidade-consolidacao/.gitkeep",
+      "relative_path": "2serie/unidade-7-probabilidade-consolidacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/2serie/unidade-8-educacao-financeira-planejamento-de-longo-prazo/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/2serie/unidade-8-educacao-financeira-planejamento-de-longo-prazo/.gitkeep",
+      "relative_path": "2serie/unidade-8-educacao-financeira-planejamento-de-longo-prazo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-1-estatistica-avancada-variaveis-aleatorias/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-1-estatistica-avancada-variaveis-aleatorias/.gitkeep",
+      "relative_path": "3serie/unidade-1-estatistica-avancada-variaveis-aleatorias/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-2-distribuicao-normal/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-2-distribuicao-normal/.gitkeep",
+      "relative_path": "3serie/unidade-2-distribuicao-normal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-3-matematica-financeira-avancada/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-3-matematica-financeira-avancada/.gitkeep",
+      "relative_path": "3serie/unidade-3-matematica-financeira-avancada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/.gitkeep",
+      "relative_path": "3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/blueprint_capitulo_01_sistemas-de-amortizacao.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/blueprint_capitulo_01_sistemas-de-amortizacao.md",
+      "relative_path": "3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/blueprint_capitulo_01_sistemas-de-amortizacao.md",
+      "action": "already_identical",
+      "sha256": "28476e6cb5fc83abd4cd84c3cf8ff9cf3696bff19253cf666f616754997a5b66"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/blueprint_capitulo_02_analise-de-investimentos.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/blueprint_capitulo_02_analise-de-investimentos.md",
+      "relative_path": "3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/blueprint_capitulo_02_analise-de-investimentos.md",
+      "action": "already_identical",
+      "sha256": "290eabbab00a6c7667270c8a5e88ed49f61d0e41c35fcde6d701df8ec5e53039"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/blueprint_unidade.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "b17cb33fd45e46e9334bdc69c3291a507e99f4612a4f4a4a37d7f39724d5b0a8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-5-revisao-integrada-estatistica/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-5-revisao-integrada-estatistica/.gitkeep",
+      "relative_path": "3serie/unidade-5-revisao-integrada-estatistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-6-revisao-integrada-probabilidade-e-matematica-financeira/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-6-revisao-integrada-probabilidade-e-matematica-financeira/.gitkeep",
+      "relative_path": "3serie/unidade-6-revisao-integrada-probabilidade-e-matematica-financeira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-7-revisao-enem-estatistica-e-probabilidade/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-7-revisao-enem-estatistica-e-probabilidade/.gitkeep",
+      "relative_path": "3serie/unidade-7-revisao-enem-estatistica-e-probabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/3serie/unidade-8-revisao-final-vestibulares/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/3serie/unidade-8-revisao-final-vestibulares/.gitkeep",
+      "relative_path": "3serie/unidade-8-revisao-final-vestibulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-1-introducao-a-estatistica/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-1-introducao-a-estatistica/.gitkeep",
+      "relative_path": "6ano/unidade-1-introducao-a-estatistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-2-introducao-a-probabilidade/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-2-introducao-a-probabilidade/.gitkeep",
+      "relative_path": "6ano/unidade-2-introducao-a-probabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-3-graficos-estatisticos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-3-graficos-estatisticos/.gitkeep",
+      "relative_path": "6ano/unidade-3-graficos-estatisticos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-4-media-aritmetica-e-probabilidade/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-4-media-aritmetica-e-probabilidade/.gitkeep",
+      "relative_path": "6ano/unidade-4-media-aritmetica-e-probabilidade/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_capitulo_01_media-aritmetica.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_capitulo_01_media-aritmetica.md",
+      "relative_path": "6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_capitulo_01_media-aritmetica.md",
+      "action": "already_identical",
+      "sha256": "f666f03eb5e688adc6add079a60f7ddf9dab8cd6fcf794f021f8ae580cc8b933"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_capitulo_02_espaco-amostral-e-eventos.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_capitulo_02_espaco-amostral-e-eventos.md",
+      "relative_path": "6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_capitulo_02_espaco-amostral-e-eventos.md",
+      "action": "already_identical",
+      "sha256": "97d8588f5fb20a9933dbb138508cfbc6c1d6fac9152c4c6dafa47b9c4f208ebc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_capitulo_03_calculo-de-probabilidade.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_capitulo_03_calculo-de-probabilidade.md",
+      "relative_path": "6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_capitulo_03_calculo-de-probabilidade.md",
+      "action": "already_identical",
+      "sha256": "990c3bb99add24b23c05607c2d64abc44bc90919fade91cfa5a409911f372a4e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_unidade.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-4-media-aritmetica-e-probabilidade/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "40b742c2f796934c84a9e34a1dd0fe92dbbd6d727cba0b2ffcb6bb3a25697465"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-5-frequencia-e-representacao-de-dados/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-5-frequencia-e-representacao-de-dados/.gitkeep",
+      "relative_path": "6ano/unidade-5-frequencia-e-representacao-de-dados/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-6-probabilidade-aplicacoes/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-6-probabilidade-aplicacoes/.gitkeep",
+      "relative_path": "6ano/unidade-6-probabilidade-aplicacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-7-medidas-de-tendencia-central/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-7-medidas-de-tendencia-central/.gitkeep",
+      "relative_path": "6ano/unidade-7-medidas-de-tendencia-central/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/6ano/unidade-8-graficos-e-probabilidade-consolidacao/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-8-graficos-e-probabilidade-consolidacao/.gitkeep",
+      "relative_path": "6ano/unidade-8-graficos-e-probabilidade-consolidacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-1-introducao-a-pesquisa-estatistica/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-1-introducao-a-pesquisa-estatistica/.gitkeep",
+      "relative_path": "7ano/unidade-1-introducao-a-pesquisa-estatistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-2-porcentagem-aplicada/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-2-porcentagem-aplicada/.gitkeep",
+      "relative_path": "7ano/unidade-2-porcentagem-aplicada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-3-representacoes-graficas-tipos-e-construcao/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-3-representacoes-graficas-tipos-e-construcao/.gitkeep",
+      "relative_path": "7ano/unidade-3-representacoes-graficas-tipos-e-construcao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-4-construcao-e-interpretacao-de-graficos/.gitkeep",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_01_construcao-de-graficos.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_01_construcao-de-graficos.md",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_01_construcao-de-graficos.md",
+      "action": "already_identical",
+      "sha256": "53c8d768a657dbab00b13da3d564e82d51d94f427e0b50bae2bf991d5ead165a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_02_interpretacao-de-graficos.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_02_interpretacao-de-graficos.md",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_02_interpretacao-de-graficos.md",
+      "action": "already_identical",
+      "sha256": "a3b228b5f2b7336a360705a3614f2f9ee27d2b173f349e0fb9c00779c2aa369c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_03_analise-critica-de-graficos.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_03_analise-critica-de-graficos.md",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_03_analise-critica-de-graficos.md",
+      "action": "already_identical",
+      "sha256": "12817cbd73c32b58c0508b96d3edf31615447798483b5648540232c6c79f6b66"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_04_comunicacao-de-dados.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_04_comunicacao-de-dados.md",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_capitulo_04_comunicacao-de-dados.md",
+      "action": "already_identical",
+      "sha256": "fb9aca2f8f0ca146f2250ff085646b3b6d63186d875f73cf5a4485d03caf0e1d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_unidade.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_unidade.md",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "54273f73194edb0531d6f1e011924b97cb269e00db68b18733aad56c129d47cc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-5-medidas-de-tendencia-central/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-5-medidas-de-tendencia-central/.gitkeep",
+      "relative_path": "7ano/unidade-5-medidas-de-tendencia-central/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-6-plano-cartesiano-e-transformacoes/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-6-plano-cartesiano-e-transformacoes/.gitkeep",
+      "relative_path": "7ano/unidade-6-plano-cartesiano-e-transformacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-7-juros-simples/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-7-juros-simples/.gitkeep",
+      "relative_path": "7ano/unidade-7-juros-simples/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/7ano/unidade-8-probabilidade/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/7ano/unidade-8-probabilidade/.gitkeep",
+      "relative_path": "7ano/unidade-8-probabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-1-educacao-financeira-basica/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-1-educacao-financeira-basica/.gitkeep",
+      "relative_path": "8ano/unidade-1-educacao-financeira-basica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-2-estatistica-descritiva-e-organizacao-de-dados/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-2-estatistica-descritiva-e-organizacao-de-dados/.gitkeep",
+      "relative_path": "8ano/unidade-2-estatistica-descritiva-e-organizacao-de-dados/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-3-porcentagem-e-proporcionalidade/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-3-porcentagem-e-proporcionalidade/.gitkeep",
+      "relative_path": "8ano/unidade-3-porcentagem-e-proporcionalidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-4-escalas-e-aplicacoes-praticas/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-4-escalas-e-aplicacoes-praticas/.gitkeep",
+      "relative_path": "8ano/unidade-4-escalas-e-aplicacoes-praticas/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_capitulo_01_escalas.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_capitulo_01_escalas.md",
+      "relative_path": "8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_capitulo_01_escalas.md",
+      "action": "already_identical",
+      "sha256": "d665f627af2ccacde6c42fc9e8083fa388725d707ab82fb2cb2b2850cb070cb9"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_capitulo_02_aplicacoes-de-escalas.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_capitulo_02_aplicacoes-de-escalas.md",
+      "relative_path": "8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_capitulo_02_aplicacoes-de-escalas.md",
+      "action": "already_identical",
+      "sha256": "7e5ba26662ece2dbe0127c3ba8c18b16471d03c780b8bc66e84825d542c45e62"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_capitulo_03_juros-simples-introducao.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_capitulo_03_juros-simples-introducao.md",
+      "relative_path": "8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_capitulo_03_juros-simples-introducao.md",
+      "action": "already_identical",
+      "sha256": "7768a78969eee2c82b735f766997fc35b4e2d600b1e62fd467836b6b751bfd03"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_unidade.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-4-escalas-e-aplicacoes-praticas/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "f8fdd9eb5c01448e0ec794feab3238ff5311f9c860040e18e077d15cf2be2b2e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-5-probabilidade/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-5-probabilidade/.gitkeep",
+      "relative_path": "8ano/unidade-5-probabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-6-graficos-estatisticos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-6-graficos-estatisticos/.gitkeep",
+      "relative_path": "8ano/unidade-6-graficos-estatisticos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-7-pesquisa-estatistica/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-7-pesquisa-estatistica/.gitkeep",
+      "relative_path": "8ano/unidade-7-pesquisa-estatistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/8ano/unidade-8-educacao-financeira-aplicada/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/8ano/unidade-8-educacao-financeira-aplicada/.gitkeep",
+      "relative_path": "8ano/unidade-8-educacao-financeira-aplicada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-1-educacao-financeira-orcamento-e-planejamento/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-1-educacao-financeira-orcamento-e-planejamento/.gitkeep",
+      "relative_path": "9ano/unidade-1-educacao-financeira-orcamento-e-planejamento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-2-estatistica-fundamentos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-2-estatistica-fundamentos/.gitkeep",
+      "relative_path": "9ano/unidade-2-estatistica-fundamentos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-3-probabilidade-conceitos-e-calculos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-3-probabilidade-conceitos-e-calculos/.gitkeep",
+      "relative_path": "9ano/unidade-3-probabilidade-conceitos-e-calculos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-4-educacao-financeira-credito-e-consumo/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-4-educacao-financeira-credito-e-consumo/.gitkeep",
+      "relative_path": "9ano/unidade-4-educacao-financeira-credito-e-consumo/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_01_credito-e-emprestimos.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_01_credito-e-emprestimos.md",
+      "relative_path": "9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_01_credito-e-emprestimos.md",
+      "action": "already_identical",
+      "sha256": "f2ab53f0937617a9dc7f8db2ae83ac1d04cfa98a0f04dea98e11d75f7188ec03"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_02_cartao-de-credito.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_02_cartao-de-credito.md",
+      "relative_path": "9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_02_cartao-de-credito.md",
+      "action": "already_identical",
+      "sha256": "c29ba3206c68a38a658b767eec6f49f7b7743f98245685daa3338b3194189818"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_03_compras-parceladas.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_03_compras-parceladas.md",
+      "relative_path": "9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_03_compras-parceladas.md",
+      "action": "already_identical",
+      "sha256": "dc6d257c6e38fc1dfd3f50020ea29742169f274294cf6a7242f8ab3afa1c4736"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_04_tomada-de-decisao-financeira.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_04_tomada-de-decisao-financeira.md",
+      "relative_path": "9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_capitulo_04_tomada-de-decisao-financeira.md",
+      "action": "already_identical",
+      "sha256": "daf7657914e4060631dbfe02dadcf7d9a39476e3ec8a56e423f0a020178180de"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_unidade.md",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-educacao-financeira-credito-e-consumo/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "f80b21484154c90ce06514dc42e1ded3a5dd1e3a116c06a0737ae6dbb111a999"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-5-educacao-financeira-juros-e-investimentos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-5-educacao-financeira-juros-e-investimentos/.gitkeep",
+      "relative_path": "9ano/unidade-5-educacao-financeira-juros-e-investimentos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-6-probabilidade-dependencia-e-independencia/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-6-probabilidade-dependencia-e-independencia/.gitkeep",
+      "relative_path": "9ano/unidade-6-probabilidade-dependencia-e-independencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-7-medidas-estatisticas/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-7-medidas-estatisticas/.gitkeep",
+      "relative_path": "9ano/unidade-7-medidas-estatisticas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estatistica e Educacao Financeira/9ano/unidade-8-analise-critica-e-pesquisa/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/_blueprints/9ano/unidade-8-analise-critica-e-pesquisa/.gitkeep",
+      "relative_path": "9ano/unidade-8-analise-critica-e-pesquisa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/.gitkeep",
+      "destination": "Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/.gitkeep",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_01_construcao-de-graficos.md",
+      "destination": "Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_01_construcao-de-graficos.md",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_01_construcao-de-graficos.md",
+      "action": "copied",
+      "sha256": "bbf4f7c3aa369a8d826867153caa470e6f0b5490c1bff41420aebfb1cb5c5bb8"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_02_interpretacao-de-graficos.md",
+      "destination": "Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_02_interpretacao-de-graficos.md",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_02_interpretacao-de-graficos.md",
+      "action": "copied",
+      "sha256": "4a23c69b49e06c6e6c93cd645462d887bd117df58131163c1f1230d24331ddb4"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_03_analise-critica-de-graficos.md",
+      "destination": "Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_03_analise-critica-de-graficos.md",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_03_analise-critica-de-graficos.md",
+      "action": "copied",
+      "sha256": "4a5f80d73ef5b8a83f871be72c9fb8a25a9e19a45729804516ac7d92c58bcaeb"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_04_comunicacao-de-dados.md",
+      "destination": "Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_04_comunicacao-de-dados.md",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/capitulo_04_comunicacao-de-dados.md",
+      "action": "copied",
+      "sha256": "f10b5e99fcdb1f018c8370685d2768c5a0f194d2f0eb7a4e8ef58378a236fd97"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/metadata.json",
+      "destination": "Estatistica e Educacao Financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos/metadata.json",
+      "relative_path": "7ano/unidade-4-construcao-e-interpretacao-de-graficos/metadata.json",
+      "action": "copied",
+      "sha256": "d4eb39638b1088612594e8fd4a66273e7a9fd4e527280911795bc579395cb265"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 3/1ª Série (2026)/Unidade 3 - Representação Gráfica/Análise: Unidade 3 — Representação Gráfica.gdoc",
+      "destination": "Estatistica e Educacao Financeira/1ª Série (2026)/Unidade 3 - Representação Gráfica/Análise: Unidade 3 — Representação Gráfica.gdoc",
+      "relative_path": "1ª Série (2026)/Unidade 3 - Representação Gráfica/Análise: Unidade 3 — Representação Gráfica.gdoc",
+      "action": "copied",
+      "sha256": "59ea1b423492ddd9461ccee14bcd029990d81b4917f86c99358b556a7988877c"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 3/2ª Série (2026)/Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton.gdoc",
+      "destination": "Estatistica e Educacao Financeira/2ª Série (2026)/Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton.gdoc",
+      "relative_path": "2ª Série (2026)/Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton.gdoc",
+      "action": "copied",
+      "sha256": "8f4140413971f68c46ecb986cb45dd0875f9249b3244d86d1974414091476c48"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 3/2ª Série (2026)/Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton_v2.gdoc",
+      "destination": "Estatistica e Educacao Financeira/2ª Série (2026)/Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton_v2.gdoc",
+      "relative_path": "2ª Série (2026)/Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton_v2.gdoc",
+      "action": "copied",
+      "sha256": "648874cabdfcd196f1d89b1cec7d2d14fd8257e2a73ffcc9bc6c1d11de2e2fcd"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 3/6º Ano (2026)/Unidade 3 - Gráficos Estatísticos/Unidade 3 — Gráficos Estatísticos | 6º Ano:.gdoc",
+      "destination": "Estatistica e Educacao Financeira/6º Ano (2026)/Unidade 3 - Gráficos Estatísticos/Unidade 3 — Gráficos Estatísticos | 6º Ano:.gdoc",
+      "relative_path": "6º Ano (2026)/Unidade 3 - Gráficos Estatísticos/Unidade 3 — Gráficos Estatísticos | 6º Ano:.gdoc",
+      "action": "copied",
+      "sha256": "f7250aa5ff15073ac8e98aca3be083cba41838c4961811e7b2ef466fa912e80d"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 3/7º Ano (2026)/Unidade 3 - Representações Gráficas Tipos e Construção/7º Ano — Unidade 3: Representações Gráficas: Tipos e Construção.gdoc",
+      "destination": "Estatistica e Educacao Financeira/7º Ano (2026)/Unidade 3 - Representações Gráficas Tipos e Construção/7º Ano — Unidade 3: Representações Gráficas: Tipos e Construção.gdoc",
+      "relative_path": "7º Ano (2026)/Unidade 3 - Representações Gráficas Tipos e Construção/7º Ano — Unidade 3: Representações Gráficas: Tipos e Construção.gdoc",
+      "action": "copied",
+      "sha256": "e4c218e98abd764b2c2f86ed3b40af5b667a5cb4abce3ba26303623d01469715"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 3/8º Ano (2026)/Unidade 3 - Porcentagem e Proporcionalidade/Unidade 3 - Porcentagem e Proporcionalidade.gdoc",
+      "destination": "Estatistica e Educacao Financeira/8º Ano (2026)/Unidade 3 - Porcentagem e Proporcionalidade/Unidade 3 - Porcentagem e Proporcionalidade.gdoc",
+      "relative_path": "8º Ano (2026)/Unidade 3 - Porcentagem e Proporcionalidade/Unidade 3 - Porcentagem e Proporcionalidade.gdoc",
+      "action": "copied",
+      "sha256": "544f1ed5b8ffa06a74a00f6d938daf382397752a769319d567406484b6af2beb"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 3/9º Ano (2026)/Unidade 3 - Probabilidade Conceitos e Cálculos/Unidade 3 - Probabilidade: Conceitos e Cálculos.gdoc",
+      "destination": "Estatistica e Educacao Financeira/9º Ano (2026)/Unidade 3 - Probabilidade Conceitos e Cálculos/Unidade 3 - Probabilidade: Conceitos e Cálculos.gdoc",
+      "relative_path": "9º Ano (2026)/Unidade 3 - Probabilidade Conceitos e Cálculos/Unidade 3 - Probabilidade: Conceitos e Cálculos.gdoc",
+      "action": "copied",
+      "sha256": "cc802a5660b7feae752f70ac5886181fdbc0773c094a0d9fcdf7d53c4bffddcc"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Estatistica e Educacao Financeira/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": [
+    "Estatistica e Educacao Financeira/1serie/unidade-4-medidas-de-tendencia-central-e-educacao-financeira/metadata.json",
+    "Estatistica e Educacao Financeira/2serie/unidade-4-educacao-financeira-juros-compostos/metadata.json",
+    "Estatistica e Educacao Financeira/3serie/unidade-4-sistemas-de-amortizacao-e-analise-de-investimentos/metadata.json",
+    "Estatistica e Educacao Financeira/9ano/unidade-4-educacao-financeira-credito-e-consumo/metadata.json"
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "discipline": "Filosofia",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_filosofia"
+    ],
+    "blueprints": [
+      "Blueprints/filosofia",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia"
+    ],
+    "contents": [
+      "Conteudos Prontos/Filosofia",
+      "Unidade 3-/Filosofia"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_filosofia": {
+      "copied": 5,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 2
+    },
+    "blueprints::Blueprints::filosofia": {
+      "copied": 9,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Filosofia": {
+      "copied": 27,
+      "already_identical": 9,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Filosofia": {
+      "copied": 4,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Filosofia": {
+      "copied": 0,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_filosofia/_shared/lib_common.sh",
+      "destination": "Filosofia/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_filosofia/CLAUDE.md",
+      "destination": "Filosofia/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "21e00aa982efb45ad901dcb403ef34c412294361f5d36f7672d0080ed4717b34"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_filosofia/logs/20260429_000945_filosofia-2serie-bimestre-4-pos-modernidade-e-apologetica.log",
+      "destination": null,
+      "relative_path": "logs/20260429_000945_filosofia-2serie-bimestre-4-pos-modernidade-e-apologetica.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_filosofia/logs/20260429_000946_sociologia-3serie-bimestre-4-sociologia-brasileira-e-leitura-crista.log",
+      "destination": null,
+      "relative_path": "logs/20260429_000946_sociologia-3serie-bimestre-4-sociologia-brasileira-e-leitura-crista.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_filosofia/memoria-autor.md",
+      "destination": "Filosofia/_autor/memoria-autor.md",
+      "relative_path": "memoria-autor.md",
+      "action": "copied",
+      "sha256": "a91beabafc97b41dc1070b07e0fca468717fffafc9faf0461c08656afbe933db"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_filosofia/prompt-autor.md",
+      "destination": "Filosofia/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "d1be54adecab7238ce06f532ade00523a733ce4bc682dc1769be1684265cc1a3"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_filosofia/scripts/criar_capitulos.sh",
+      "destination": "Filosofia/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "282ed40d0e00c67e7e9370ef3d678114a3fb97ebc78a360fa03fc09902789a0d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/filosofia/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_03_platao-e-a-cristianizacao-por-agostinho.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_03_platao-e-a-cristianizacao-por-agostinho.md",
+      "relative_path": "1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_03_platao-e-a-cristianizacao-por-agostinho.md",
+      "action": "copied",
+      "sha256": "97df625f3be5eba07ee4097514906444eea2e65f6ee8f037b2d77184898e4855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/filosofia/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_04_santo-agostinho-filosofia-patristica.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_04_santo-agostinho-filosofia-patristica.md",
+      "relative_path": "1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_04_santo-agostinho-filosofia-patristica.md",
+      "action": "copied",
+      "sha256": "7e163b291a1d8ff021cc2bcee679838d994901c6de73d6571069e2a6382a3816"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/filosofia/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_unidade.md",
+      "relative_path": "1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "388b8877b9b80cfaef95898f3ca7041911ff9fe1a5e09eea23c4d68dbdf1fecc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/filosofia/2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_03_hegel-e-o-idealismo-absoluto.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_03_hegel-e-o-idealismo-absoluto.md",
+      "relative_path": "2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_03_hegel-e-o-idealismo-absoluto.md",
+      "action": "copied",
+      "sha256": "2ffd0c01eb054db5c58f9bb0862f22010171fd9c15826e27dd9c9aad5e33913d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/filosofia/2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_04_marx-e-o-materialismo-dialetico.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_04_marx-e-o-materialismo-dialetico.md",
+      "relative_path": "2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_04_marx-e-o-materialismo-dialetico.md",
+      "action": "copied",
+      "sha256": "e543c85f4437ce8152bb91615a8310a5a61f4136ff8444968b8704ded615ca72"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/filosofia/2serie/bimestre-2-idealismo-e-materialismo/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-2-idealismo-e-materialismo/blueprint_unidade.md",
+      "relative_path": "2serie/bimestre-2-idealismo-e-materialismo/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "189a8246f5b471ec195fefc980b2b1f617fa1a2990ad7f6edb1cd63f368220d1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/filosofia/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_03_filosofia_da_ciencia_e_dialogo_com_a_fe.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_03_filosofia_da_ciencia_e_dialogo_com_a_fe.md",
+      "relative_path": "3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_03_filosofia_da_ciencia_e_dialogo_com_a_fe.md",
+      "action": "copied",
+      "sha256": "7164e5dc9460e89d9491565b698d2424d8b6bd6d20d1dd3ac13bfc39432f136f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/filosofia/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_04_estetica_beleza_verdade_e_arte.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_04_estetica_beleza_verdade_e_arte.md",
+      "relative_path": "3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_04_estetica_beleza_verdade_e_arte.md",
+      "action": "copied",
+      "sha256": "89c4489dcb4951fb02d389d506ccd095fcb64e87c18aef55fdd70476efdef9eb"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/filosofia/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_unidade.md",
+      "relative_path": "3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "0e811ffc71421271c2b6dcdf4c89efd2be1791affff6277a16cda4d65e7d2a69"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-1-fundamentos-e-antiguidade/blueprint_capitulo_01_fundamentos-da-filosofia-crista.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-1-fundamentos-e-antiguidade/blueprint_capitulo_01_fundamentos-da-filosofia-crista.md",
+      "relative_path": "1serie/bimestre-1-fundamentos-e-antiguidade/blueprint_capitulo_01_fundamentos-da-filosofia-crista.md",
+      "action": "copied",
+      "sha256": "2736edff40d49673bfe37a9d4573aa38fafe8898fe32d7598ebbb5da98c0a1ed"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-1-fundamentos-e-antiguidade/blueprint_capitulo_02_pre-socraticos-e-cosmovisao-biblica.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-1-fundamentos-e-antiguidade/blueprint_capitulo_02_pre-socraticos-e-cosmovisao-biblica.md",
+      "relative_path": "1serie/bimestre-1-fundamentos-e-antiguidade/blueprint_capitulo_02_pre-socraticos-e-cosmovisao-biblica.md",
+      "action": "copied",
+      "sha256": "941e717b3abf108617c3e4158bec2d9eb80db0ce01600880b2457e7524783f0a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-1-fundamentos-e-antiguidade/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-1-fundamentos-e-antiguidade/blueprint_unidade.md",
+      "relative_path": "1serie/bimestre-1-fundamentos-e-antiguidade/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "763289c72f0f4f7bef0f0bc226bc1835ada0be27d4975a3ec487c725610bc43b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_03_platao-e-a-cristianizacao-por-agostinho.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_03_platao-e-a-cristianizacao-por-agostinho.md",
+      "relative_path": "1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_03_platao-e-a-cristianizacao-por-agostinho.md",
+      "action": "already_identical",
+      "sha256": "97df625f3be5eba07ee4097514906444eea2e65f6ee8f037b2d77184898e4855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_04_santo-agostinho-filosofia-patristica.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_04_santo-agostinho-filosofia-patristica.md",
+      "relative_path": "1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_capitulo_04_santo-agostinho-filosofia-patristica.md",
+      "action": "already_identical",
+      "sha256": "7e163b291a1d8ff021cc2bcee679838d994901c6de73d6571069e2a6382a3816"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_unidade.md",
+      "relative_path": "1serie/bimestre-2-filosofia-classica-e-patristica/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "388b8877b9b80cfaef95898f3ca7041911ff9fe1a5e09eea23c4d68dbdf1fecc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-3-aristoteles-e-escolastica/blueprint_capitulo_05_aristoteles-metafisica-e-etica.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-3-aristoteles-e-escolastica/blueprint_capitulo_05_aristoteles-metafisica-e-etica.md",
+      "relative_path": "1serie/bimestre-3-aristoteles-e-escolastica/blueprint_capitulo_05_aristoteles-metafisica-e-etica.md",
+      "action": "copied",
+      "sha256": "48d2792afab87d2c370b2429e2515152e7968ce00c41a8375e8a859440d9cdda"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-3-aristoteles-e-escolastica/blueprint_capitulo_06_tomas-de-aquino-sintese-fe-e-razao.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-3-aristoteles-e-escolastica/blueprint_capitulo_06_tomas-de-aquino-sintese-fe-e-razao.md",
+      "relative_path": "1serie/bimestre-3-aristoteles-e-escolastica/blueprint_capitulo_06_tomas-de-aquino-sintese-fe-e-razao.md",
+      "action": "copied",
+      "sha256": "dc301929e4f6b1278196b5ff1a91c7b9118e69f7cb0ecb475174e60217d959ee"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-3-aristoteles-e-escolastica/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-3-aristoteles-e-escolastica/blueprint_unidade.md",
+      "relative_path": "1serie/bimestre-3-aristoteles-e-escolastica/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "eb854ae95f99ee6453b2ae5605115442e392d80144d235b44e5781d4d974c429"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-4-modernidade/blueprint_capitulo_07_descartes-pascal-e-a-modernidade.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-4-modernidade/blueprint_capitulo_07_descartes-pascal-e-a-modernidade.md",
+      "relative_path": "1serie/bimestre-4-modernidade/blueprint_capitulo_07_descartes-pascal-e-a-modernidade.md",
+      "action": "copied",
+      "sha256": "d76e2fdb4b8dacc87bbcfc179a984a56b499958049bf21c8beb9812df53c29a3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-4-modernidade/blueprint_capitulo_08_contratualismo-e-perspectiva-crista.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-4-modernidade/blueprint_capitulo_08_contratualismo-e-perspectiva-crista.md",
+      "relative_path": "1serie/bimestre-4-modernidade/blueprint_capitulo_08_contratualismo-e-perspectiva-crista.md",
+      "action": "copied",
+      "sha256": "cef3029ab8a28b09a9d3faaeb12b91b7db67ae8358ca2dc6daf70e0b645efa8b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/1serie/bimestre-4-modernidade/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/1serie/bimestre-4-modernidade/blueprint_unidade.md",
+      "relative_path": "1serie/bimestre-4-modernidade/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "81db1c4e9b6060acdf424cebf564dda9b174ae32de6078651202319cef0392d2"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-1-iluminismo-e-critica/blueprint_capitulo_01_empirismo-britanico-e-critica-do-conhecimento.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-1-iluminismo-e-critica/blueprint_capitulo_01_empirismo-britanico-e-critica-do-conhecimento.md",
+      "relative_path": "2serie/bimestre-1-iluminismo-e-critica/blueprint_capitulo_01_empirismo-britanico-e-critica-do-conhecimento.md",
+      "action": "copied",
+      "sha256": "d0dab1d43b31dafb893c24c0270770d46eb09385077cf7e2c6f64f8278988521"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-1-iluminismo-e-critica/blueprint_capitulo_02_kant-e-a-sintese-critica.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-1-iluminismo-e-critica/blueprint_capitulo_02_kant-e-a-sintese-critica.md",
+      "relative_path": "2serie/bimestre-1-iluminismo-e-critica/blueprint_capitulo_02_kant-e-a-sintese-critica.md",
+      "action": "copied",
+      "sha256": "2891d6c3f5ecaf8c1fb0be60c3a166351772c4a0ea031f611cf958c4fd37862c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-1-iluminismo-e-critica/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-1-iluminismo-e-critica/blueprint_unidade.md",
+      "relative_path": "2serie/bimestre-1-iluminismo-e-critica/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "8e8877bcd1f64f84428fd698aba384bf94a2085b569b143a62876b41db30db3e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_03_hegel-e-o-idealismo-absoluto.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_03_hegel-e-o-idealismo-absoluto.md",
+      "relative_path": "2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_03_hegel-e-o-idealismo-absoluto.md",
+      "action": "already_identical",
+      "sha256": "2ffd0c01eb054db5c58f9bb0862f22010171fd9c15826e27dd9c9aad5e33913d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_04_marx-e-o-materialismo-dialetico.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_04_marx-e-o-materialismo-dialetico.md",
+      "relative_path": "2serie/bimestre-2-idealismo-e-materialismo/blueprint_capitulo_04_marx-e-o-materialismo-dialetico.md",
+      "action": "already_identical",
+      "sha256": "e543c85f4437ce8152bb91615a8310a5a61f4136ff8444968b8704ded615ca72"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-2-idealismo-e-materialismo/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-2-idealismo-e-materialismo/blueprint_unidade.md",
+      "relative_path": "2serie/bimestre-2-idealismo-e-materialismo/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "189a8246f5b471ec195fefc980b2b1f617fa1a2990ad7f6edb1cd63f368220d1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-3-crise-e-niilismo/blueprint_capitulo_05_nietzsche-e-a-morte-de-deus.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-3-crise-e-niilismo/blueprint_capitulo_05_nietzsche-e-a-morte-de-deus.md",
+      "relative_path": "2serie/bimestre-3-crise-e-niilismo/blueprint_capitulo_05_nietzsche-e-a-morte-de-deus.md",
+      "action": "copied",
+      "sha256": "050f5c058344e0f151e48a7b530bda23b11f8176eda34fc44985441b187e09e5"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-3-crise-e-niilismo/blueprint_capitulo_06_existencialismo-angustia-e-liberdade.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-3-crise-e-niilismo/blueprint_capitulo_06_existencialismo-angustia-e-liberdade.md",
+      "relative_path": "2serie/bimestre-3-crise-e-niilismo/blueprint_capitulo_06_existencialismo-angustia-e-liberdade.md",
+      "action": "copied",
+      "sha256": "b03c5fe9d28cd17762840eb134423ee8a1623fe0953f4694632bf4c1050f9416"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-3-crise-e-niilismo/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-3-crise-e-niilismo/blueprint_unidade.md",
+      "relative_path": "2serie/bimestre-3-crise-e-niilismo/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "3cacee3c1cafe3db51b7dd55d84f7de7c614e63afd2d96e73a8d460bbcfad8a1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-4-pos-modernidade-e-apologetica/blueprint_capitulo_07_pos-modernismo-e-desconstrucao.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-4-pos-modernidade-e-apologetica/blueprint_capitulo_07_pos-modernismo-e-desconstrucao.md",
+      "relative_path": "2serie/bimestre-4-pos-modernidade-e-apologetica/blueprint_capitulo_07_pos-modernismo-e-desconstrucao.md",
+      "action": "copied",
+      "sha256": "da3a9b66c22c234744e5f224c941523af6e40cc5abb6be956c93d1d31b25ba8c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-4-pos-modernidade-e-apologetica/blueprint_capitulo_08_apologetica-crista-contemporanea.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-4-pos-modernidade-e-apologetica/blueprint_capitulo_08_apologetica-crista-contemporanea.md",
+      "relative_path": "2serie/bimestre-4-pos-modernidade-e-apologetica/blueprint_capitulo_08_apologetica-crista-contemporanea.md",
+      "action": "copied",
+      "sha256": "15deba24e5e59362a8620f838da2b8198552d5a97dbf28c47342f6e145963113"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/2serie/bimestre-4-pos-modernidade-e-apologetica/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/2serie/bimestre-4-pos-modernidade-e-apologetica/blueprint_unidade.md",
+      "relative_path": "2serie/bimestre-4-pos-modernidade-e-apologetica/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "767e3b29103712216af82d25d11ad527c93a9458b890e69204abbc7cd5b6ffd8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-1-etica-e-politica-aplicadas/blueprint_capitulo_01_etica_e_moral_cosmovisao_crista_e_teorias_eticas.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-1-etica-e-politica-aplicadas/blueprint_capitulo_01_etica_e_moral_cosmovisao_crista_e_teorias_eticas.md",
+      "relative_path": "3serie/bimestre-1-etica-e-politica-aplicadas/blueprint_capitulo_01_etica_e_moral_cosmovisao_crista_e_teorias_eticas.md",
+      "action": "copied",
+      "sha256": "ef6654e9f9c331a68fbd7a448d910ab9931bf090d1ad9511a73e3df149820ea7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-1-etica-e-politica-aplicadas/blueprint_capitulo_02_filosofia_politica_realismo_contratualismo_e_autoridade_crista.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-1-etica-e-politica-aplicadas/blueprint_capitulo_02_filosofia_politica_realismo_contratualismo_e_autoridade_crista.md",
+      "relative_path": "3serie/bimestre-1-etica-e-politica-aplicadas/blueprint_capitulo_02_filosofia_politica_realismo_contratualismo_e_autoridade_crista.md",
+      "action": "copied",
+      "sha256": "4c670c2cda87be13300eb06e8f19fa2a310a5d09ecb74aba9de4fc18983812e7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-1-etica-e-politica-aplicadas/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-1-etica-e-politica-aplicadas/blueprint_unidade.md",
+      "relative_path": "3serie/bimestre-1-etica-e-politica-aplicadas/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "6864bba1fee10562c7966be4bc17e3914797e0098266e9b478ec511cc9509d8d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_03_filosofia_da_ciencia_e_dialogo_com_a_fe.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_03_filosofia_da_ciencia_e_dialogo_com_a_fe.md",
+      "relative_path": "3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_03_filosofia_da_ciencia_e_dialogo_com_a_fe.md",
+      "action": "already_identical",
+      "sha256": "7164e5dc9460e89d9491565b698d2424d8b6bd6d20d1dd3ac13bfc39432f136f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_04_estetica_beleza_verdade_e_arte.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_04_estetica_beleza_verdade_e_arte.md",
+      "relative_path": "3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_capitulo_04_estetica_beleza_verdade_e_arte.md",
+      "action": "already_identical",
+      "sha256": "89c4489dcb4951fb02d389d506ccd095fcb64e87c18aef55fdd70476efdef9eb"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_unidade.md",
+      "relative_path": "3serie/bimestre-2-ciencia-e-arte-como-reflexos-da-verdade/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "0e811ffc71421271c2b6dcdf4c89efd2be1791affff6277a16cda4d65e7d2a69"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_05_sintese_filosofia_antiga_e_medieval.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_05_sintese_filosofia_antiga_e_medieval.md",
+      "relative_path": "3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_05_sintese_filosofia_antiga_e_medieval.md",
+      "action": "copied",
+      "sha256": "19673f5ac80941eb8dc5ab714da1638544032e2ac6662534eaea2ae28fb8bf1a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_06_sintese_filosofia_moderna_e_contemporanea.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_06_sintese_filosofia_moderna_e_contemporanea.md",
+      "relative_path": "3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_06_sintese_filosofia_moderna_e_contemporanea.md",
+      "action": "copied",
+      "sha256": "f0f7b896796ca5d9796c9c2bfa6223f517a0f7560e856d9a0a3fc60387a9a31f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_unidade.md",
+      "relative_path": "3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "014bcba30897e01a47651523d84f1fb33342b2f11023e0db5999b6ec2c2d76ea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-4-integracao-apologetica-e-sintese-crista/blueprint_capitulo_07_filosofia-no-brasil-pensadores-brasileiros-e-lente-crista.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-4-integracao-apologetica-e-sintese-crista/blueprint_capitulo_07_filosofia-no-brasil-pensadores-brasileiros-e-lente-crista.md",
+      "relative_path": "3serie/bimestre-4-integracao-apologetica-e-sintese-crista/blueprint_capitulo_07_filosofia-no-brasil-pensadores-brasileiros-e-lente-crista.md",
+      "action": "copied",
+      "sha256": "d9eb0bc0ee6c31f566b33b303c7ab44fe27b84a2a574648e02cb42d00ec0bb48"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-4-integracao-apologetica-e-sintese-crista/blueprint_capitulo_08_cosmovisao-crista-coerente-sintese-apologetica-para-a-vida-adulta.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-4-integracao-apologetica-e-sintese-crista/blueprint_capitulo_08_cosmovisao-crista-coerente-sintese-apologetica-para-a-vida-adulta.md",
+      "relative_path": "3serie/bimestre-4-integracao-apologetica-e-sintese-crista/blueprint_capitulo_08_cosmovisao-crista-coerente-sintese-apologetica-para-a-vida-adulta.md",
+      "action": "copied",
+      "sha256": "402480d0fa0580d2474b1e5e0dae8fbcd9797381b5f10d30c4c804fad604866a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Filosofia/3serie/bimestre-4-integracao-apologetica-e-sintese-crista/blueprint_unidade.md",
+      "destination": "Filosofia/_blueprints/3serie/bimestre-4-integracao-apologetica-e-sintese-crista/blueprint_unidade.md",
+      "relative_path": "3serie/bimestre-4-integracao-apologetica-e-sintese-crista/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "a26297da6be86c5b9d712ad9733a2995245c2a0f9c8e43a1499b31599a4c3159"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Filosofia/1serie/.gitkeep",
+      "destination": "Filosofia/1serie/.gitkeep",
+      "relative_path": "1serie/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Filosofia/2serie/.gitkeep",
+      "destination": "Filosofia/2serie/.gitkeep",
+      "relative_path": "2serie/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Filosofia/2serie/bimestre-4-pos-modernidade-e-apologetica/capitulo_07_pos-modernismo-e-desconstrucao.md",
+      "destination": "Filosofia/2serie/bimestre-4-pos-modernidade-e-apologetica/capitulo_07_pos-modernismo-e-desconstrucao.md",
+      "relative_path": "2serie/bimestre-4-pos-modernidade-e-apologetica/capitulo_07_pos-modernismo-e-desconstrucao.md",
+      "action": "copied",
+      "sha256": "aa9e2797ea4fa5b6f2e7ce7b7a14184a5224f05e16bc97417a0ca773d09136a2"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Filosofia/2serie/bimestre-4-pos-modernidade-e-apologetica/capitulo_08_apologetica-crista-contemporanea.md",
+      "destination": "Filosofia/2serie/bimestre-4-pos-modernidade-e-apologetica/capitulo_08_apologetica-crista-contemporanea.md",
+      "relative_path": "2serie/bimestre-4-pos-modernidade-e-apologetica/capitulo_08_apologetica-crista-contemporanea.md",
+      "action": "copied",
+      "sha256": "c6fa2b8a3b2875009f387362533df77fb32e7562014a9ea537c0773847ef24dd"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Filosofia/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": [
+    "Filosofia/2serie/bimestre-4-pos-modernidade-e-apologetica/metadata.json"
+  ]
+}

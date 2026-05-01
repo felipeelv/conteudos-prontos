@@ -1,0 +1,1852 @@
+{
+  "discipline": "Matematica",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_matematica"
+    ],
+    "blueprints": [
+      "Blueprints/matematica",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Matematica"
+    ],
+    "contents": [
+      "Conteudos Prontos/Matematica",
+      "Unidade 3-/Matemática 1"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_matematica": {
+      "copied": 7,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::Blueprints::matematica": {
+      "copied": 39,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Matematica": {
+      "copied": 72,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Matematica": {
+      "copied": 72,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Matemática 1": {
+      "copied": 9,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_matematica/_shared/lib_common.sh",
+      "destination": "Matematica/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_matematica/CLAUDE.md",
+      "destination": "Matematica/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "74a986b0ffb609dd9ee07c17637510d3d9195b75daf0fce15e14d98094870928"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_matematica/memoria-autor.md",
+      "destination": "Matematica/_autor/memoria-autor.md",
+      "relative_path": "memoria-autor.md",
+      "action": "copied",
+      "sha256": "ec0f5f46d9580708ecdbe9e0fbfb076265e5a64370ffc780aa6dd43036cc215f"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_matematica/modelo-ef2.md",
+      "destination": "Matematica/_autor/modelo-ef2.md",
+      "relative_path": "modelo-ef2.md",
+      "action": "copied",
+      "sha256": "1614859cdaf04f389557b29b344f94ea93fc24136fc167623b0ac568fe4c8427"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_matematica/modelo-em.md",
+      "destination": "Matematica/_autor/modelo-em.md",
+      "relative_path": "modelo-em.md",
+      "action": "copied",
+      "sha256": "a37ec4fb23f9b918b7208b59bf13df077c5b73caad67cff04771a2eace120bc9"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_matematica/prompt-autor.md",
+      "destination": "Matematica/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "232ff3bd30aa6b943bd6751aa5d6f9d6196b2674d93024a6e29848c67961382f"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_matematica/scripts/criar_capitulos.sh",
+      "destination": "Matematica/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "19bb225f4ea4b44e1d7a3f3c55f6dd4971f29436a64f9ab61e9de37ad25c1bb4"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/1serie/unidade-4-funcoes-e-funcao-afim/blueprint_capitulo_01_conceito-de-funcao.md",
+      "destination": "Matematica/_blueprints/1serie/unidade-4-funcoes-e-funcao-afim/blueprint_capitulo_01_conceito-de-funcao.md",
+      "relative_path": "1serie/unidade-4-funcoes-e-funcao-afim/blueprint_capitulo_01_conceito-de-funcao.md",
+      "action": "copied",
+      "sha256": "9d36833d5b4f93c877b7a610d73747918abec0b42e4266f49428f2ec69c8b562"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/1serie/unidade-4-funcoes-e-funcao-afim/blueprint_capitulo_02_funcao-afim.md",
+      "destination": "Matematica/_blueprints/1serie/unidade-4-funcoes-e-funcao-afim/blueprint_capitulo_02_funcao-afim.md",
+      "relative_path": "1serie/unidade-4-funcoes-e-funcao-afim/blueprint_capitulo_02_funcao-afim.md",
+      "action": "copied",
+      "sha256": "5cde92c0072400bb71cc68a9595dc68d5ccbee192e44ad568e2423b9b7d6f22b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/1serie/unidade-4-funcoes-e-funcao-afim/blueprint_unidade.md",
+      "destination": "Matematica/_blueprints/1serie/unidade-4-funcoes-e-funcao-afim/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-funcoes-e-funcao-afim/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "451b5bd436c5dc1e567fd01a1df317d35e99ba807ebea2c3291de1725fe05db8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/2serie/unidade-4-determinantes/blueprint_capitulo_01_calculo-de-determinantes.md",
+      "destination": "Matematica/_blueprints/2serie/unidade-4-determinantes/blueprint_capitulo_01_calculo-de-determinantes.md",
+      "relative_path": "2serie/unidade-4-determinantes/blueprint_capitulo_01_calculo-de-determinantes.md",
+      "action": "copied",
+      "sha256": "a5fa66ee7fe2e589f6d2ce7e05f99ae96be68ea4d890281846dcc8759b16b753"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/2serie/unidade-4-determinantes/blueprint_capitulo_02_propriedades-e-aplicacoes.md",
+      "destination": "Matematica/_blueprints/2serie/unidade-4-determinantes/blueprint_capitulo_02_propriedades-e-aplicacoes.md",
+      "relative_path": "2serie/unidade-4-determinantes/blueprint_capitulo_02_propriedades-e-aplicacoes.md",
+      "action": "copied",
+      "sha256": "21f056ee565a0bd1a8d97dc433fc288e32c6f0df51b78dc689137d2de21cf244"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/2serie/unidade-4-determinantes/blueprint_unidade.md",
+      "destination": "Matematica/_blueprints/2serie/unidade-4-determinantes/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-determinantes/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "da4a3da11c1e8d7eeeaf1da5ee4813c47a3fb7f8ba49c7952690000d35317907"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/3serie/unidade-4-raizes-complexas-aplicacoes/blueprint_capitulo_01_raizes-n-esimas.md",
+      "destination": "Matematica/_blueprints/3serie/unidade-4-raizes-complexas-aplicacoes/blueprint_capitulo_01_raizes-n-esimas.md",
+      "relative_path": "3serie/unidade-4-raizes-complexas-aplicacoes/blueprint_capitulo_01_raizes-n-esimas.md",
+      "action": "copied",
+      "sha256": "14f9f47d21b2c3d207995830ac413fb100c3009ba8afba73a48e16d51005f4ed"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/3serie/unidade-4-raizes-complexas-aplicacoes/blueprint_capitulo_02_aplicacoes-dos-complexos.md",
+      "destination": "Matematica/_blueprints/3serie/unidade-4-raizes-complexas-aplicacoes/blueprint_capitulo_02_aplicacoes-dos-complexos.md",
+      "relative_path": "3serie/unidade-4-raizes-complexas-aplicacoes/blueprint_capitulo_02_aplicacoes-dos-complexos.md",
+      "action": "copied",
+      "sha256": "6fe8c42f012af13975be473fee62a26005ad4bcffd38738639dd340c1a355f06"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/3serie/unidade-4-raizes-complexas-aplicacoes/blueprint_unidade.md",
+      "destination": "Matematica/_blueprints/3serie/unidade-4-raizes-complexas-aplicacoes/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-raizes-complexas-aplicacoes/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "17217fad23062fd89e65adf07e1e8262e4df203624437740d9f2ff3ba6c4c161"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_01_propriedades-das-operacoes.md",
+      "destination": "Matematica/_blueprints/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_01_propriedades-das-operacoes.md",
+      "relative_path": "4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_01_propriedades-das-operacoes.md",
+      "action": "copied",
+      "sha256": "059168dc148ddf5239086128f3badea20d9a55e7e48ae944c04b9959f265e08f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_02_fracoes-unitarias.md",
+      "destination": "Matematica/_blueprints/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_02_fracoes-unitarias.md",
+      "relative_path": "4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_02_fracoes-unitarias.md",
+      "action": "copied",
+      "sha256": "dce329bb627fdeb57829d834c6e04c8346a5f1e3f535ff3cdd6bb771b1d8530a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_03_numeros-decimais.md",
+      "destination": "Matematica/_blueprints/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_03_numeros-decimais.md",
+      "relative_path": "4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_03_numeros-decimais.md",
+      "action": "copied",
+      "sha256": "589201680622733d12a63190de2243ce5b93335435a045028509f96b7c8308af"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_04_malha-quadriculada.md",
+      "destination": "Matematica/_blueprints/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_04_malha-quadriculada.md",
+      "relative_path": "4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_04_malha-quadriculada.md",
+      "action": "copied",
+      "sha256": "e23390370775b153db3f9e72b60b618cc00f8db6f603cd7d4ea9c3d6b35c7908"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_05_introducao-ao-plano-cartesiano.md",
+      "destination": "Matematica/_blueprints/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_05_introducao-ao-plano-cartesiano.md",
+      "relative_path": "4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_05_introducao-ao-plano-cartesiano.md",
+      "action": "copied",
+      "sha256": "33cc236a64b54b0e44c2374fbf67b482ef3755dd488f0306be6ddefd58177c5c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_06_representacoes-e-trajetos.md",
+      "destination": "Matematica/_blueprints/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_06_representacoes-e-trajetos.md",
+      "relative_path": "4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_capitulo_06_representacoes-e-trajetos.md",
+      "action": "copied",
+      "sha256": "46b8117c184eb691198b20469ac6e5ab677c46712838a637d49f4a8e87d03565"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_unidade.md",
+      "destination": "Matematica/_blueprints/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_unidade.md",
+      "relative_path": "4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "a9724a5b3759b931c35867b0458b3a43554e8d0000b565687ccd0ed6de4cb0dc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_01_operacoes-com-fracoes.md",
+      "destination": "Matematica/_blueprints/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_01_operacoes-com-fracoes.md",
+      "relative_path": "5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_01_operacoes-com-fracoes.md",
+      "action": "copied",
+      "sha256": "cd1ef03b3d4f1b0de92034f156ffdbbd84bd0c5ad33807100c21f7d85abde6ee"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_02_porcentagem.md",
+      "destination": "Matematica/_blueprints/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_02_porcentagem.md",
+      "relative_path": "5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_02_porcentagem.md",
+      "action": "copied",
+      "sha256": "96cc061a6c72a0e065c9a9dd3d71da48ef1c688d6d7201b9f7ee5ea8910412ea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_03_solidos-geometricos-e-planificacoes.md",
+      "destination": "Matematica/_blueprints/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_03_solidos-geometricos-e-planificacoes.md",
+      "relative_path": "5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_03_solidos-geometricos-e-planificacoes.md",
+      "action": "copied",
+      "sha256": "a1bf0cefeb281f91b37bb914e217d459677784d778b2c6b7d8ff00978ecd9825"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_04_problemas-de-contagem.md",
+      "destination": "Matematica/_blueprints/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_04_problemas-de-contagem.md",
+      "relative_path": "5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_capitulo_04_problemas-de-contagem.md",
+      "action": "copied",
+      "sha256": "8370619fd4456396ad7613d7d1e0670d55b609cbaeaa9ac44ad1d40e4d250dd5"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_unidade.md",
+      "destination": "Matematica/_blueprints/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_unidade.md",
+      "relative_path": "5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "cb888d2a93fee89f5ebe0a198bc24f77b9878e254094162bdd32bb5859a525bd"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/6ano/unidade-4-divisibilidade/blueprint_capitulo_01_multiplos-e-divisores.md",
+      "destination": "Matematica/_blueprints/6ano/unidade-4-divisibilidade/blueprint_capitulo_01_multiplos-e-divisores.md",
+      "relative_path": "6ano/unidade-4-divisibilidade/blueprint_capitulo_01_multiplos-e-divisores.md",
+      "action": "copied",
+      "sha256": "305551925e0d85ae67173f2280bdb3f93ebfcbb1c6e2cedeb2fd876b6c4e6792"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/6ano/unidade-4-divisibilidade/blueprint_capitulo_02_primos-e-compostos.md",
+      "destination": "Matematica/_blueprints/6ano/unidade-4-divisibilidade/blueprint_capitulo_02_primos-e-compostos.md",
+      "relative_path": "6ano/unidade-4-divisibilidade/blueprint_capitulo_02_primos-e-compostos.md",
+      "action": "copied",
+      "sha256": "1c05100707b93f9d36229fd2f5bfbfa9206162e079e54d024980d83a543eee2c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/6ano/unidade-4-divisibilidade/blueprint_capitulo_03_mdc-e-mmc.md",
+      "destination": "Matematica/_blueprints/6ano/unidade-4-divisibilidade/blueprint_capitulo_03_mdc-e-mmc.md",
+      "relative_path": "6ano/unidade-4-divisibilidade/blueprint_capitulo_03_mdc-e-mmc.md",
+      "action": "copied",
+      "sha256": "389ea7a89defed9bde2bd21a6de9b7e15b427b8b173299fd2c47b9620f1b47c0"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/6ano/unidade-4-divisibilidade/blueprint_unidade.md",
+      "destination": "Matematica/_blueprints/6ano/unidade-4-divisibilidade/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-4-divisibilidade/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "11cb96ce89c80df06f0e87fd73c33d11bed5ec971de75a7652c9fea09158c078"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/7ano/unidade-4-introducao-algebra/blueprint_capitulo_01_variavel-e-expressoes-algebricas.md",
+      "destination": "Matematica/_blueprints/7ano/unidade-4-introducao-algebra/blueprint_capitulo_01_variavel-e-expressoes-algebricas.md",
+      "relative_path": "7ano/unidade-4-introducao-algebra/blueprint_capitulo_01_variavel-e-expressoes-algebricas.md",
+      "action": "copied",
+      "sha256": "b631e60b80ce398b737568da07d2b795de4b10acc6f383ca461482e4ac93514e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/7ano/unidade-4-introducao-algebra/blueprint_capitulo_02_monomios-e-polinomios.md",
+      "destination": "Matematica/_blueprints/7ano/unidade-4-introducao-algebra/blueprint_capitulo_02_monomios-e-polinomios.md",
+      "relative_path": "7ano/unidade-4-introducao-algebra/blueprint_capitulo_02_monomios-e-polinomios.md",
+      "action": "copied",
+      "sha256": "d71bae9850cdacbd931cf083f26fbc61f9305090ba80c3069edd3ffc81c71a87"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/7ano/unidade-4-introducao-algebra/blueprint_capitulo_03_operacoes-com-expressoes-algebricas.md",
+      "destination": "Matematica/_blueprints/7ano/unidade-4-introducao-algebra/blueprint_capitulo_03_operacoes-com-expressoes-algebricas.md",
+      "relative_path": "7ano/unidade-4-introducao-algebra/blueprint_capitulo_03_operacoes-com-expressoes-algebricas.md",
+      "action": "copied",
+      "sha256": "7e6ad84437c16713406004e5f609ca40d0a1bcffafbe7a967a5f486d09ba81f6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/7ano/unidade-4-introducao-algebra/blueprint_capitulo_04_sequencias-e-regularidades.md",
+      "destination": "Matematica/_blueprints/7ano/unidade-4-introducao-algebra/blueprint_capitulo_04_sequencias-e-regularidades.md",
+      "relative_path": "7ano/unidade-4-introducao-algebra/blueprint_capitulo_04_sequencias-e-regularidades.md",
+      "action": "copied",
+      "sha256": "d62da334a06c028d534a57b1589720ffc7114e0dbeee7c1d2ebdf3906017598a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/7ano/unidade-4-introducao-algebra/blueprint_unidade.md",
+      "destination": "Matematica/_blueprints/7ano/unidade-4-introducao-algebra/blueprint_unidade.md",
+      "relative_path": "7ano/unidade-4-introducao-algebra/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "90efb8a0a738357d1ab158dc2fa3e1c1f3dc8263ff393bf6370ac1fbe97dc553"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_capitulo_01_equacoes-do-1o-grau-aprofundamento.md",
+      "destination": "Matematica/_blueprints/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_capitulo_01_equacoes-do-1o-grau-aprofundamento.md",
+      "relative_path": "8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_capitulo_01_equacoes-do-1o-grau-aprofundamento.md",
+      "action": "copied",
+      "sha256": "24832e8557ad1d766d7726c817b7fc944110ee600ba66741ef13b599d60251c2"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_capitulo_02_equacao-linear-com-duas-incognitas.md",
+      "destination": "Matematica/_blueprints/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_capitulo_02_equacao-linear-com-duas-incognitas.md",
+      "relative_path": "8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_capitulo_02_equacao-linear-com-duas-incognitas.md",
+      "action": "copied",
+      "sha256": "e93f331cf31ce9d9c86034c0aa19b14480965579a9f3895393c9cb1520a5d7c3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_capitulo_03_equacao-linear-e-reta-no-plano-cartesiano.md",
+      "destination": "Matematica/_blueprints/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_capitulo_03_equacao-linear-e-reta-no-plano-cartesiano.md",
+      "relative_path": "8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_capitulo_03_equacao-linear-e-reta-no-plano-cartesiano.md",
+      "action": "copied",
+      "sha256": "f0cce81b33f8b6a5d425c846a1e4b4b00b2333750197bc93e502d9b24b5875cb"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_unidade.md",
+      "destination": "Matematica/_blueprints/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "27c9bfdddee94c687a28ff2a6b19bc1a0290550f23ef89a96a66ed249cfa00c6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/9ano/unidade-4-funcao-afim/blueprint_capitulo_01_definicao-e-grafico.md",
+      "destination": "Matematica/_blueprints/9ano/unidade-4-funcao-afim/blueprint_capitulo_01_definicao-e-grafico.md",
+      "relative_path": "9ano/unidade-4-funcao-afim/blueprint_capitulo_01_definicao-e-grafico.md",
+      "action": "copied",
+      "sha256": "e967b1cf735a114f4b0a78045be052e0d95db0643a406087479d697c3cfa1d9b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/9ano/unidade-4-funcao-afim/blueprint_capitulo_02_coeficientes-e-comportamento.md",
+      "destination": "Matematica/_blueprints/9ano/unidade-4-funcao-afim/blueprint_capitulo_02_coeficientes-e-comportamento.md",
+      "relative_path": "9ano/unidade-4-funcao-afim/blueprint_capitulo_02_coeficientes-e-comportamento.md",
+      "action": "copied",
+      "sha256": "8bcc16462bf516d30bacd03f6e1042e2e7a0813b5922f9e737a89a1475071466"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/9ano/unidade-4-funcao-afim/blueprint_capitulo_03_zero-e-estudo-do-sinal.md",
+      "destination": "Matematica/_blueprints/9ano/unidade-4-funcao-afim/blueprint_capitulo_03_zero-e-estudo-do-sinal.md",
+      "relative_path": "9ano/unidade-4-funcao-afim/blueprint_capitulo_03_zero-e-estudo-do-sinal.md",
+      "action": "copied",
+      "sha256": "85b674404cb35ae5efa75b837cab924a2f7869d26957c3780178d44a0243a8df"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/9ano/unidade-4-funcao-afim/blueprint_capitulo_04_casos-particulares-e-aplicacoes.md",
+      "destination": "Matematica/_blueprints/9ano/unidade-4-funcao-afim/blueprint_capitulo_04_casos-particulares-e-aplicacoes.md",
+      "relative_path": "9ano/unidade-4-funcao-afim/blueprint_capitulo_04_casos-particulares-e-aplicacoes.md",
+      "action": "copied",
+      "sha256": "876e1a94af76907465c7396a453d46b87637f48ba034d5597d8e324350bb6fd1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/matematica/9ano/unidade-4-funcao-afim/blueprint_unidade.md",
+      "destination": "Matematica/_blueprints/9ano/unidade-4-funcao-afim/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-funcao-afim/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "6f0311c56fa06f17d89d64c207a508b30672e556a0c0ebe17c470220cbce5c6a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/1serie/unidade-1-teoria-dos-conjuntos/.gitkeep",
+      "destination": "Matematica/_blueprints/1serie/unidade-1-teoria-dos-conjuntos/.gitkeep",
+      "relative_path": "1serie/unidade-1-teoria-dos-conjuntos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/1serie/unidade-2-conjuntos-numericos/.gitkeep",
+      "destination": "Matematica/_blueprints/1serie/unidade-2-conjuntos-numericos/.gitkeep",
+      "relative_path": "1serie/unidade-2-conjuntos-numericos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/1serie/unidade-3-operacoes-com-conjuntos/.gitkeep",
+      "destination": "Matematica/_blueprints/1serie/unidade-3-operacoes-com-conjuntos/.gitkeep",
+      "relative_path": "1serie/unidade-3-operacoes-com-conjuntos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/1serie/unidade-4-introducao-as-funcoes-e-funcao-afim/.gitkeep",
+      "destination": "Matematica/_blueprints/1serie/unidade-4-introducao-as-funcoes-e-funcao-afim/.gitkeep",
+      "relative_path": "1serie/unidade-4-introducao-as-funcoes-e-funcao-afim/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/1serie/unidade-5-funcao-quadratica/.gitkeep",
+      "destination": "Matematica/_blueprints/1serie/unidade-5-funcao-quadratica/.gitkeep",
+      "relative_path": "1serie/unidade-5-funcao-quadratica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/1serie/unidade-6-inequacoes/.gitkeep",
+      "destination": "Matematica/_blueprints/1serie/unidade-6-inequacoes/.gitkeep",
+      "relative_path": "1serie/unidade-6-inequacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/1serie/unidade-7-funcao-exponencial/.gitkeep",
+      "destination": "Matematica/_blueprints/1serie/unidade-7-funcao-exponencial/.gitkeep",
+      "relative_path": "1serie/unidade-7-funcao-exponencial/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/1serie/unidade-8-introducao-aos-logaritmos/.gitkeep",
+      "destination": "Matematica/_blueprints/1serie/unidade-8-introducao-aos-logaritmos/.gitkeep",
+      "relative_path": "1serie/unidade-8-introducao-aos-logaritmos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/2serie/unidade-1-funcao-logaritmica-completa/.gitkeep",
+      "destination": "Matematica/_blueprints/2serie/unidade-1-funcao-logaritmica-completa/.gitkeep",
+      "relative_path": "2serie/unidade-1-funcao-logaritmica-completa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/2serie/unidade-2-equacoes-inequacoes-logaritmicas-e-aplicacoes/.gitkeep",
+      "destination": "Matematica/_blueprints/2serie/unidade-2-equacoes-inequacoes-logaritmicas-e-aplicacoes/.gitkeep",
+      "relative_path": "2serie/unidade-2-equacoes-inequacoes-logaritmicas-e-aplicacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/2serie/unidade-3-matrizes/.gitkeep",
+      "destination": "Matematica/_blueprints/2serie/unidade-3-matrizes/.gitkeep",
+      "relative_path": "2serie/unidade-3-matrizes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/2serie/unidade-4-determinantes/.gitkeep",
+      "destination": "Matematica/_blueprints/2serie/unidade-4-determinantes/.gitkeep",
+      "relative_path": "2serie/unidade-4-determinantes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/2serie/unidade-5-sistemas-lineares/.gitkeep",
+      "destination": "Matematica/_blueprints/2serie/unidade-5-sistemas-lineares/.gitkeep",
+      "relative_path": "2serie/unidade-5-sistemas-lineares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/2serie/unidade-6-polinomios/.gitkeep",
+      "destination": "Matematica/_blueprints/2serie/unidade-6-polinomios/.gitkeep",
+      "relative_path": "2serie/unidade-6-polinomios/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/2serie/unidade-7-polinomios-aprofundamento/.gitkeep",
+      "destination": "Matematica/_blueprints/2serie/unidade-7-polinomios-aprofundamento/.gitkeep",
+      "relative_path": "2serie/unidade-7-polinomios-aprofundamento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/2serie/unidade-8-numeros-complexos-introducao/.gitkeep",
+      "destination": "Matematica/_blueprints/2serie/unidade-8-numeros-complexos-introducao/.gitkeep",
+      "relative_path": "2serie/unidade-8-numeros-complexos-introducao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/3serie/unidade-1-sequencias-pa-e-pg-completas/.gitkeep",
+      "destination": "Matematica/_blueprints/3serie/unidade-1-sequencias-pa-e-pg-completas/.gitkeep",
+      "relative_path": "3serie/unidade-1-sequencias-pa-e-pg-completas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/3serie/unidade-2-numeros-complexos-forma-algebrica-completa/.gitkeep",
+      "destination": "Matematica/_blueprints/3serie/unidade-2-numeros-complexos-forma-algebrica-completa/.gitkeep",
+      "relative_path": "3serie/unidade-2-numeros-complexos-forma-algebrica-completa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/3serie/unidade-3-numeros-complexos-forma-trigonometrica/.gitkeep",
+      "destination": "Matematica/_blueprints/3serie/unidade-3-numeros-complexos-forma-trigonometrica/.gitkeep",
+      "relative_path": "3serie/unidade-3-numeros-complexos-forma-trigonometrica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/3serie/unidade-4-raizes-complexas-e-aplicacoes/.gitkeep",
+      "destination": "Matematica/_blueprints/3serie/unidade-4-raizes-complexas-e-aplicacoes/.gitkeep",
+      "relative_path": "3serie/unidade-4-raizes-complexas-e-aplicacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/3serie/unidade-5-revisao-integrada-funcoes/.gitkeep",
+      "destination": "Matematica/_blueprints/3serie/unidade-5-revisao-integrada-funcoes/.gitkeep",
+      "relative_path": "3serie/unidade-5-revisao-integrada-funcoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/3serie/unidade-6-revisao-integrada-algebra/.gitkeep",
+      "destination": "Matematica/_blueprints/3serie/unidade-6-revisao-integrada-algebra/.gitkeep",
+      "relative_path": "3serie/unidade-6-revisao-integrada-algebra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/3serie/unidade-7-numeros-complexos-e-preparacao-para-vestibulares/.gitkeep",
+      "destination": "Matematica/_blueprints/3serie/unidade-7-numeros-complexos-e-preparacao-para-vestibulares/.gitkeep",
+      "relative_path": "3serie/unidade-7-numeros-complexos-e-preparacao-para-vestibulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "destination": "Matematica/_blueprints/3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "relative_path": "3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/4ano/unidade-1-sistema-de-numeracao-e-geometria-plana/.gitkeep",
+      "destination": "Matematica/_blueprints/4ano/unidade-1-sistema-de-numeracao-e-geometria-plana/.gitkeep",
+      "relative_path": "4ano/unidade-1-sistema-de-numeracao-e-geometria-plana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/4ano/unidade-2-operacoes-fundamentais-e-simetria/.gitkeep",
+      "destination": "Matematica/_blueprints/4ano/unidade-2-operacoes-fundamentais-e-simetria/.gitkeep",
+      "relative_path": "4ano/unidade-2-operacoes-fundamentais-e-simetria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/4ano/unidade-3-multiplicacao-divisao-e-solidos-geometricos/.gitkeep",
+      "destination": "Matematica/_blueprints/4ano/unidade-3-multiplicacao-divisao-e-solidos-geometricos/.gitkeep",
+      "relative_path": "4ano/unidade-3-multiplicacao-divisao-e-solidos-geometricos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/.gitkeep",
+      "destination": "Matematica/_blueprints/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/.gitkeep",
+      "relative_path": "4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/4ano/unidade-5-numeros-racionais-e-medidas/.gitkeep",
+      "destination": "Matematica/_blueprints/4ano/unidade-5-numeros-racionais-e-medidas/.gitkeep",
+      "relative_path": "4ano/unidade-5-numeros-racionais-e-medidas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/4ano/unidade-6-padroes-algebricos-e-area/.gitkeep",
+      "destination": "Matematica/_blueprints/4ano/unidade-6-padroes-algebricos-e-area/.gitkeep",
+      "relative_path": "4ano/unidade-6-padroes-algebricos-e-area/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/4ano/unidade-7-pensamento-algebrico-e-educacao-financeira/.gitkeep",
+      "destination": "Matematica/_blueprints/4ano/unidade-7-pensamento-algebrico-e-educacao-financeira/.gitkeep",
+      "relative_path": "4ano/unidade-7-pensamento-algebrico-e-educacao-financeira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/4ano/unidade-8-estatistica-probabilidade-e-resolucao-de-problemas/.gitkeep",
+      "destination": "Matematica/_blueprints/4ano/unidade-8-estatistica-probabilidade-e-resolucao-de-problemas/.gitkeep",
+      "relative_path": "4ano/unidade-8-estatistica-probabilidade-e-resolucao-de-problemas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/5ano/unidade-1-sistema-de-numeracao-e-poligonos/.gitkeep",
+      "destination": "Matematica/_blueprints/5ano/unidade-1-sistema-de-numeracao-e-poligonos/.gitkeep",
+      "relative_path": "5ano/unidade-1-sistema-de-numeracao-e-poligonos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/5ano/unidade-2-fracoes-angulos-e-quadrilateros/.gitkeep",
+      "destination": "Matematica/_blueprints/5ano/unidade-2-fracoes-angulos-e-quadrilateros/.gitkeep",
+      "relative_path": "5ano/unidade-2-fracoes-angulos-e-quadrilateros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/5ano/unidade-3-operacoes-e-medidas-de-comprimento-e-area/.gitkeep",
+      "destination": "Matematica/_blueprints/5ano/unidade-3-operacoes-e-medidas-de-comprimento-e-area/.gitkeep",
+      "relative_path": "5ano/unidade-3-operacoes-e-medidas-de-comprimento-e-area/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/.gitkeep",
+      "destination": "Matematica/_blueprints/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/.gitkeep",
+      "relative_path": "5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/5ano/unidade-5-pensamento-algebrico-e-plano-cartesiano/.gitkeep",
+      "destination": "Matematica/_blueprints/5ano/unidade-5-pensamento-algebrico-e-plano-cartesiano/.gitkeep",
+      "relative_path": "5ano/unidade-5-pensamento-algebrico-e-plano-cartesiano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/5ano/unidade-6-proporcionalidade-e-grandezas/.gitkeep",
+      "destination": "Matematica/_blueprints/5ano/unidade-6-proporcionalidade-e-grandezas/.gitkeep",
+      "relative_path": "5ano/unidade-6-proporcionalidade-e-grandezas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/5ano/unidade-7-resolucao-de-problemas-e-educacao-financeira/.gitkeep",
+      "destination": "Matematica/_blueprints/5ano/unidade-7-resolucao-de-problemas-e-educacao-financeira/.gitkeep",
+      "relative_path": "5ano/unidade-7-resolucao-de-problemas-e-educacao-financeira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/5ano/unidade-8-probabilidade-e-estatistica/.gitkeep",
+      "destination": "Matematica/_blueprints/5ano/unidade-8-probabilidade-e-estatistica/.gitkeep",
+      "relative_path": "5ano/unidade-8-probabilidade-e-estatistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/6ano/unidade-1-sistema-de-numeracao-e-numeros-naturais/.gitkeep",
+      "destination": "Matematica/_blueprints/6ano/unidade-1-sistema-de-numeracao-e-numeros-naturais/.gitkeep",
+      "relative_path": "6ano/unidade-1-sistema-de-numeracao-e-numeros-naturais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/6ano/unidade-2-operacoes-fundamentais/.gitkeep",
+      "destination": "Matematica/_blueprints/6ano/unidade-2-operacoes-fundamentais/.gitkeep",
+      "relative_path": "6ano/unidade-2-operacoes-fundamentais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/6ano/unidade-3-potenciacao-radiciacao-e-expressoes-numericas/.gitkeep",
+      "destination": "Matematica/_blueprints/6ano/unidade-3-potenciacao-radiciacao-e-expressoes-numericas/.gitkeep",
+      "relative_path": "6ano/unidade-3-potenciacao-radiciacao-e-expressoes-numericas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/6ano/unidade-4-divisibilidade/.gitkeep",
+      "destination": "Matematica/_blueprints/6ano/unidade-4-divisibilidade/.gitkeep",
+      "relative_path": "6ano/unidade-4-divisibilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/6ano/unidade-5-numeros-racionais-fracoes/.gitkeep",
+      "destination": "Matematica/_blueprints/6ano/unidade-5-numeros-racionais-fracoes/.gitkeep",
+      "relative_path": "6ano/unidade-5-numeros-racionais-fracoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/6ano/unidade-6-numeros-racionais-decimais-e-porcentagem/.gitkeep",
+      "destination": "Matematica/_blueprints/6ano/unidade-6-numeros-racionais-decimais-e-porcentagem/.gitkeep",
+      "relative_path": "6ano/unidade-6-numeros-racionais-decimais-e-porcentagem/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/6ano/unidade-7-introducao-a-algebra/.gitkeep",
+      "destination": "Matematica/_blueprints/6ano/unidade-7-introducao-a-algebra/.gitkeep",
+      "relative_path": "6ano/unidade-7-introducao-a-algebra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/6ano/unidade-8-proporcionalidade-e-educacao-financeira/.gitkeep",
+      "destination": "Matematica/_blueprints/6ano/unidade-8-proporcionalidade-e-educacao-financeira/.gitkeep",
+      "relative_path": "6ano/unidade-8-proporcionalidade-e-educacao-financeira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/7ano/unidade-1-numeros-inteiros-conceitos-e-representacao/.gitkeep",
+      "destination": "Matematica/_blueprints/7ano/unidade-1-numeros-inteiros-conceitos-e-representacao/.gitkeep",
+      "relative_path": "7ano/unidade-1-numeros-inteiros-conceitos-e-representacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/7ano/unidade-2-operacoes-com-numeros-inteiros/.gitkeep",
+      "destination": "Matematica/_blueprints/7ano/unidade-2-operacoes-com-numeros-inteiros/.gitkeep",
+      "relative_path": "7ano/unidade-2-operacoes-com-numeros-inteiros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/7ano/unidade-3-potenciacao-multiplos-e-divisores/.gitkeep",
+      "destination": "Matematica/_blueprints/7ano/unidade-3-potenciacao-multiplos-e-divisores/.gitkeep",
+      "relative_path": "7ano/unidade-3-potenciacao-multiplos-e-divisores/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/7ano/unidade-4-introducao-a-algebra/.gitkeep",
+      "destination": "Matematica/_blueprints/7ano/unidade-4-introducao-a-algebra/.gitkeep",
+      "relative_path": "7ano/unidade-4-introducao-a-algebra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/7ano/unidade-5-numeros-racionais/.gitkeep",
+      "destination": "Matematica/_blueprints/7ano/unidade-5-numeros-racionais/.gitkeep",
+      "relative_path": "7ano/unidade-5-numeros-racionais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/7ano/unidade-6-decimais-potenciacao-e-radiciacao-de-racionais/.gitkeep",
+      "destination": "Matematica/_blueprints/7ano/unidade-6-decimais-potenciacao-e-radiciacao-de-racionais/.gitkeep",
+      "relative_path": "7ano/unidade-6-decimais-potenciacao-e-radiciacao-de-racionais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/7ano/unidade-7-equacoes-e-inequacoes-do-1-grau/.gitkeep",
+      "destination": "Matematica/_blueprints/7ano/unidade-7-equacoes-e-inequacoes-do-1-grau/.gitkeep",
+      "relative_path": "7ano/unidade-7-equacoes-e-inequacoes-do-1-grau/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/7ano/unidade-8-proporcionalidade-e-porcentagem/.gitkeep",
+      "destination": "Matematica/_blueprints/7ano/unidade-8-proporcionalidade-e-porcentagem/.gitkeep",
+      "relative_path": "7ano/unidade-8-proporcionalidade-e-porcentagem/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/8ano/unidade-1-potenciacao-radiciacao-e-notacao-cientifica/.gitkeep",
+      "destination": "Matematica/_blueprints/8ano/unidade-1-potenciacao-radiciacao-e-notacao-cientifica/.gitkeep",
+      "relative_path": "8ano/unidade-1-potenciacao-radiciacao-e-notacao-cientifica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/8ano/unidade-2-expressoes-algebricas-e-principio-multiplicativo/.gitkeep",
+      "destination": "Matematica/_blueprints/8ano/unidade-2-expressoes-algebricas-e-principio-multiplicativo/.gitkeep",
+      "relative_path": "8ano/unidade-2-expressoes-algebricas-e-principio-multiplicativo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/8ano/unidade-3-numeros-racionais-e-irracionais/.gitkeep",
+      "destination": "Matematica/_blueprints/8ano/unidade-3-numeros-racionais-e-irracionais/.gitkeep",
+      "relative_path": "8ano/unidade-3-numeros-racionais-e-irracionais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/8ano/unidade-4-equacoes-do-1-grau-e-representacao-grafica/.gitkeep",
+      "destination": "Matematica/_blueprints/8ano/unidade-4-equacoes-do-1-grau-e-representacao-grafica/.gitkeep",
+      "relative_path": "8ano/unidade-4-equacoes-do-1-grau-e-representacao-grafica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/8ano/unidade-5-sistemas-de-equacoes-do-1-grau/.gitkeep",
+      "destination": "Matematica/_blueprints/8ano/unidade-5-sistemas-de-equacoes-do-1-grau/.gitkeep",
+      "relative_path": "8ano/unidade-5-sistemas-de-equacoes-do-1-grau/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/8ano/unidade-6-equacoes-do-2-grau-incompletas/.gitkeep",
+      "destination": "Matematica/_blueprints/8ano/unidade-6-equacoes-do-2-grau-incompletas/.gitkeep",
+      "relative_path": "8ano/unidade-6-equacoes-do-2-grau-incompletas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/8ano/unidade-7-sequencias-e-padroes/.gitkeep",
+      "destination": "Matematica/_blueprints/8ano/unidade-7-sequencias-e-padroes/.gitkeep",
+      "relative_path": "8ano/unidade-7-sequencias-e-padroes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/8ano/unidade-8-grandezas-proporcionais-e-revisao-integrada/.gitkeep",
+      "destination": "Matematica/_blueprints/8ano/unidade-8-grandezas-proporcionais-e-revisao-integrada/.gitkeep",
+      "relative_path": "8ano/unidade-8-grandezas-proporcionais-e-revisao-integrada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/9ano/unidade-1-numeros-reais-e-potenciacao/.gitkeep",
+      "destination": "Matematica/_blueprints/9ano/unidade-1-numeros-reais-e-potenciacao/.gitkeep",
+      "relative_path": "9ano/unidade-1-numeros-reais-e-potenciacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/9ano/unidade-2-radiciacao-e-proporcionalidade/.gitkeep",
+      "destination": "Matematica/_blueprints/9ano/unidade-2-radiciacao-e-proporcionalidade/.gitkeep",
+      "relative_path": "9ano/unidade-2-radiciacao-e-proporcionalidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/9ano/unidade-3-conceito-de-funcao/.gitkeep",
+      "destination": "Matematica/_blueprints/9ano/unidade-3-conceito-de-funcao/.gitkeep",
+      "relative_path": "9ano/unidade-3-conceito-de-funcao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/9ano/unidade-4-funcao-afim/.gitkeep",
+      "destination": "Matematica/_blueprints/9ano/unidade-4-funcao-afim/.gitkeep",
+      "relative_path": "9ano/unidade-4-funcao-afim/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/9ano/unidade-5-equacoes-do-2-grau/.gitkeep",
+      "destination": "Matematica/_blueprints/9ano/unidade-5-equacoes-do-2-grau/.gitkeep",
+      "relative_path": "9ano/unidade-5-equacoes-do-2-grau/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/9ano/unidade-6-funcao-quadratica-parte-1/.gitkeep",
+      "destination": "Matematica/_blueprints/9ano/unidade-6-funcao-quadratica-parte-1/.gitkeep",
+      "relative_path": "9ano/unidade-6-funcao-quadratica-parte-1/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/9ano/unidade-7-funcao-quadratica-parte-2/.gitkeep",
+      "destination": "Matematica/_blueprints/9ano/unidade-7-funcao-quadratica-parte-2/.gitkeep",
+      "relative_path": "9ano/unidade-7-funcao-quadratica-parte-2/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Matematica/9ano/unidade-8-sistemas-de-equacoes/.gitkeep",
+      "destination": "Matematica/_blueprints/9ano/unidade-8-sistemas-de-equacoes/.gitkeep",
+      "relative_path": "9ano/unidade-8-sistemas-de-equacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/1serie/unidade-1-teoria-dos-conjuntos/.gitkeep",
+      "destination": "Matematica/1serie/unidade-1-teoria-dos-conjuntos/.gitkeep",
+      "relative_path": "1serie/unidade-1-teoria-dos-conjuntos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/1serie/unidade-2-conjuntos-numericos/.gitkeep",
+      "destination": "Matematica/1serie/unidade-2-conjuntos-numericos/.gitkeep",
+      "relative_path": "1serie/unidade-2-conjuntos-numericos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/1serie/unidade-3-operacoes-com-conjuntos/.gitkeep",
+      "destination": "Matematica/1serie/unidade-3-operacoes-com-conjuntos/.gitkeep",
+      "relative_path": "1serie/unidade-3-operacoes-com-conjuntos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/1serie/unidade-4-introducao-as-funcoes-e-funcao-afim/.gitkeep",
+      "destination": "Matematica/1serie/unidade-4-introducao-as-funcoes-e-funcao-afim/.gitkeep",
+      "relative_path": "1serie/unidade-4-introducao-as-funcoes-e-funcao-afim/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/1serie/unidade-5-funcao-quadratica/.gitkeep",
+      "destination": "Matematica/1serie/unidade-5-funcao-quadratica/.gitkeep",
+      "relative_path": "1serie/unidade-5-funcao-quadratica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/1serie/unidade-6-inequacoes/.gitkeep",
+      "destination": "Matematica/1serie/unidade-6-inequacoes/.gitkeep",
+      "relative_path": "1serie/unidade-6-inequacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/1serie/unidade-7-funcao-exponencial/.gitkeep",
+      "destination": "Matematica/1serie/unidade-7-funcao-exponencial/.gitkeep",
+      "relative_path": "1serie/unidade-7-funcao-exponencial/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/1serie/unidade-8-introducao-aos-logaritmos/.gitkeep",
+      "destination": "Matematica/1serie/unidade-8-introducao-aos-logaritmos/.gitkeep",
+      "relative_path": "1serie/unidade-8-introducao-aos-logaritmos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/2serie/unidade-1-funcao-logaritmica-completa/.gitkeep",
+      "destination": "Matematica/2serie/unidade-1-funcao-logaritmica-completa/.gitkeep",
+      "relative_path": "2serie/unidade-1-funcao-logaritmica-completa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/2serie/unidade-2-equacoes-inequacoes-logaritmicas-e-aplicacoes/.gitkeep",
+      "destination": "Matematica/2serie/unidade-2-equacoes-inequacoes-logaritmicas-e-aplicacoes/.gitkeep",
+      "relative_path": "2serie/unidade-2-equacoes-inequacoes-logaritmicas-e-aplicacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/2serie/unidade-3-matrizes/.gitkeep",
+      "destination": "Matematica/2serie/unidade-3-matrizes/.gitkeep",
+      "relative_path": "2serie/unidade-3-matrizes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/2serie/unidade-4-determinantes/.gitkeep",
+      "destination": "Matematica/2serie/unidade-4-determinantes/.gitkeep",
+      "relative_path": "2serie/unidade-4-determinantes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/2serie/unidade-5-sistemas-lineares/.gitkeep",
+      "destination": "Matematica/2serie/unidade-5-sistemas-lineares/.gitkeep",
+      "relative_path": "2serie/unidade-5-sistemas-lineares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/2serie/unidade-6-polinomios/.gitkeep",
+      "destination": "Matematica/2serie/unidade-6-polinomios/.gitkeep",
+      "relative_path": "2serie/unidade-6-polinomios/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/2serie/unidade-7-polinomios-aprofundamento/.gitkeep",
+      "destination": "Matematica/2serie/unidade-7-polinomios-aprofundamento/.gitkeep",
+      "relative_path": "2serie/unidade-7-polinomios-aprofundamento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/2serie/unidade-8-numeros-complexos-introducao/.gitkeep",
+      "destination": "Matematica/2serie/unidade-8-numeros-complexos-introducao/.gitkeep",
+      "relative_path": "2serie/unidade-8-numeros-complexos-introducao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/3serie/unidade-1-sequencias-pa-e-pg-completas/.gitkeep",
+      "destination": "Matematica/3serie/unidade-1-sequencias-pa-e-pg-completas/.gitkeep",
+      "relative_path": "3serie/unidade-1-sequencias-pa-e-pg-completas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/3serie/unidade-2-numeros-complexos-forma-algebrica-completa/.gitkeep",
+      "destination": "Matematica/3serie/unidade-2-numeros-complexos-forma-algebrica-completa/.gitkeep",
+      "relative_path": "3serie/unidade-2-numeros-complexos-forma-algebrica-completa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/3serie/unidade-3-numeros-complexos-forma-trigonometrica/.gitkeep",
+      "destination": "Matematica/3serie/unidade-3-numeros-complexos-forma-trigonometrica/.gitkeep",
+      "relative_path": "3serie/unidade-3-numeros-complexos-forma-trigonometrica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/3serie/unidade-4-raizes-complexas-e-aplicacoes/.gitkeep",
+      "destination": "Matematica/3serie/unidade-4-raizes-complexas-e-aplicacoes/.gitkeep",
+      "relative_path": "3serie/unidade-4-raizes-complexas-e-aplicacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/3serie/unidade-5-revisao-integrada-funcoes/.gitkeep",
+      "destination": "Matematica/3serie/unidade-5-revisao-integrada-funcoes/.gitkeep",
+      "relative_path": "3serie/unidade-5-revisao-integrada-funcoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/3serie/unidade-6-revisao-integrada-algebra/.gitkeep",
+      "destination": "Matematica/3serie/unidade-6-revisao-integrada-algebra/.gitkeep",
+      "relative_path": "3serie/unidade-6-revisao-integrada-algebra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/3serie/unidade-7-numeros-complexos-e-preparacao-para-vestibulares/.gitkeep",
+      "destination": "Matematica/3serie/unidade-7-numeros-complexos-e-preparacao-para-vestibulares/.gitkeep",
+      "relative_path": "3serie/unidade-7-numeros-complexos-e-preparacao-para-vestibulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "destination": "Matematica/3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "relative_path": "3serie/unidade-8-revisao-final-enem-e-vestibulares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/4ano/unidade-1-sistema-de-numeracao-e-geometria-plana/.gitkeep",
+      "destination": "Matematica/4ano/unidade-1-sistema-de-numeracao-e-geometria-plana/.gitkeep",
+      "relative_path": "4ano/unidade-1-sistema-de-numeracao-e-geometria-plana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/4ano/unidade-2-operacoes-fundamentais-e-simetria/.gitkeep",
+      "destination": "Matematica/4ano/unidade-2-operacoes-fundamentais-e-simetria/.gitkeep",
+      "relative_path": "4ano/unidade-2-operacoes-fundamentais-e-simetria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/4ano/unidade-3-multiplicacao-divisao-e-solidos-geometricos/.gitkeep",
+      "destination": "Matematica/4ano/unidade-3-multiplicacao-divisao-e-solidos-geometricos/.gitkeep",
+      "relative_path": "4ano/unidade-3-multiplicacao-divisao-e-solidos-geometricos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/.gitkeep",
+      "destination": "Matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/.gitkeep",
+      "relative_path": "4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/4ano/unidade-5-numeros-racionais-e-medidas/.gitkeep",
+      "destination": "Matematica/4ano/unidade-5-numeros-racionais-e-medidas/.gitkeep",
+      "relative_path": "4ano/unidade-5-numeros-racionais-e-medidas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/4ano/unidade-6-padroes-algebricos-e-area/.gitkeep",
+      "destination": "Matematica/4ano/unidade-6-padroes-algebricos-e-area/.gitkeep",
+      "relative_path": "4ano/unidade-6-padroes-algebricos-e-area/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/4ano/unidade-7-pensamento-algebrico-e-educacao-financeira/.gitkeep",
+      "destination": "Matematica/4ano/unidade-7-pensamento-algebrico-e-educacao-financeira/.gitkeep",
+      "relative_path": "4ano/unidade-7-pensamento-algebrico-e-educacao-financeira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/4ano/unidade-8-estatistica-probabilidade-e-resolucao-de-problemas/.gitkeep",
+      "destination": "Matematica/4ano/unidade-8-estatistica-probabilidade-e-resolucao-de-problemas/.gitkeep",
+      "relative_path": "4ano/unidade-8-estatistica-probabilidade-e-resolucao-de-problemas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/5ano/unidade-1-sistema-de-numeracao-e-poligonos/.gitkeep",
+      "destination": "Matematica/5ano/unidade-1-sistema-de-numeracao-e-poligonos/.gitkeep",
+      "relative_path": "5ano/unidade-1-sistema-de-numeracao-e-poligonos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/5ano/unidade-2-fracoes-angulos-e-quadrilateros/.gitkeep",
+      "destination": "Matematica/5ano/unidade-2-fracoes-angulos-e-quadrilateros/.gitkeep",
+      "relative_path": "5ano/unidade-2-fracoes-angulos-e-quadrilateros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/5ano/unidade-3-operacoes-e-medidas-de-comprimento-e-area/.gitkeep",
+      "destination": "Matematica/5ano/unidade-3-operacoes-e-medidas-de-comprimento-e-area/.gitkeep",
+      "relative_path": "5ano/unidade-3-operacoes-e-medidas-de-comprimento-e-area/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/.gitkeep",
+      "destination": "Matematica/5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/.gitkeep",
+      "relative_path": "5ano/unidade-4-fracoes-porcentagem-e-solidos-geometricos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/5ano/unidade-5-pensamento-algebrico-e-plano-cartesiano/.gitkeep",
+      "destination": "Matematica/5ano/unidade-5-pensamento-algebrico-e-plano-cartesiano/.gitkeep",
+      "relative_path": "5ano/unidade-5-pensamento-algebrico-e-plano-cartesiano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/5ano/unidade-6-proporcionalidade-e-grandezas/.gitkeep",
+      "destination": "Matematica/5ano/unidade-6-proporcionalidade-e-grandezas/.gitkeep",
+      "relative_path": "5ano/unidade-6-proporcionalidade-e-grandezas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/5ano/unidade-7-resolucao-de-problemas-e-educacao-financeira/.gitkeep",
+      "destination": "Matematica/5ano/unidade-7-resolucao-de-problemas-e-educacao-financeira/.gitkeep",
+      "relative_path": "5ano/unidade-7-resolucao-de-problemas-e-educacao-financeira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/5ano/unidade-8-probabilidade-e-estatistica/.gitkeep",
+      "destination": "Matematica/5ano/unidade-8-probabilidade-e-estatistica/.gitkeep",
+      "relative_path": "5ano/unidade-8-probabilidade-e-estatistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/6ano/unidade-1-sistema-de-numeracao-e-numeros-naturais/.gitkeep",
+      "destination": "Matematica/6ano/unidade-1-sistema-de-numeracao-e-numeros-naturais/.gitkeep",
+      "relative_path": "6ano/unidade-1-sistema-de-numeracao-e-numeros-naturais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/6ano/unidade-2-operacoes-fundamentais/.gitkeep",
+      "destination": "Matematica/6ano/unidade-2-operacoes-fundamentais/.gitkeep",
+      "relative_path": "6ano/unidade-2-operacoes-fundamentais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/6ano/unidade-3-potenciacao-radiciacao-e-expressoes-numericas/.gitkeep",
+      "destination": "Matematica/6ano/unidade-3-potenciacao-radiciacao-e-expressoes-numericas/.gitkeep",
+      "relative_path": "6ano/unidade-3-potenciacao-radiciacao-e-expressoes-numericas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/6ano/unidade-4-divisibilidade/.gitkeep",
+      "destination": "Matematica/6ano/unidade-4-divisibilidade/.gitkeep",
+      "relative_path": "6ano/unidade-4-divisibilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/6ano/unidade-5-numeros-racionais-fracoes/.gitkeep",
+      "destination": "Matematica/6ano/unidade-5-numeros-racionais-fracoes/.gitkeep",
+      "relative_path": "6ano/unidade-5-numeros-racionais-fracoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/6ano/unidade-6-numeros-racionais-decimais-e-porcentagem/.gitkeep",
+      "destination": "Matematica/6ano/unidade-6-numeros-racionais-decimais-e-porcentagem/.gitkeep",
+      "relative_path": "6ano/unidade-6-numeros-racionais-decimais-e-porcentagem/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/6ano/unidade-7-introducao-a-algebra/.gitkeep",
+      "destination": "Matematica/6ano/unidade-7-introducao-a-algebra/.gitkeep",
+      "relative_path": "6ano/unidade-7-introducao-a-algebra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/6ano/unidade-8-proporcionalidade-e-educacao-financeira/.gitkeep",
+      "destination": "Matematica/6ano/unidade-8-proporcionalidade-e-educacao-financeira/.gitkeep",
+      "relative_path": "6ano/unidade-8-proporcionalidade-e-educacao-financeira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/7ano/unidade-1-numeros-inteiros-conceitos-e-representacao/.gitkeep",
+      "destination": "Matematica/7ano/unidade-1-numeros-inteiros-conceitos-e-representacao/.gitkeep",
+      "relative_path": "7ano/unidade-1-numeros-inteiros-conceitos-e-representacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/7ano/unidade-2-operacoes-com-numeros-inteiros/.gitkeep",
+      "destination": "Matematica/7ano/unidade-2-operacoes-com-numeros-inteiros/.gitkeep",
+      "relative_path": "7ano/unidade-2-operacoes-com-numeros-inteiros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/7ano/unidade-3-potenciacao-multiplos-e-divisores/.gitkeep",
+      "destination": "Matematica/7ano/unidade-3-potenciacao-multiplos-e-divisores/.gitkeep",
+      "relative_path": "7ano/unidade-3-potenciacao-multiplos-e-divisores/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/7ano/unidade-4-introducao-a-algebra/.gitkeep",
+      "destination": "Matematica/7ano/unidade-4-introducao-a-algebra/.gitkeep",
+      "relative_path": "7ano/unidade-4-introducao-a-algebra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/7ano/unidade-5-numeros-racionais/.gitkeep",
+      "destination": "Matematica/7ano/unidade-5-numeros-racionais/.gitkeep",
+      "relative_path": "7ano/unidade-5-numeros-racionais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/7ano/unidade-6-decimais-potenciacao-e-radiciacao-de-racionais/.gitkeep",
+      "destination": "Matematica/7ano/unidade-6-decimais-potenciacao-e-radiciacao-de-racionais/.gitkeep",
+      "relative_path": "7ano/unidade-6-decimais-potenciacao-e-radiciacao-de-racionais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/7ano/unidade-7-equacoes-e-inequacoes-do-1-grau/.gitkeep",
+      "destination": "Matematica/7ano/unidade-7-equacoes-e-inequacoes-do-1-grau/.gitkeep",
+      "relative_path": "7ano/unidade-7-equacoes-e-inequacoes-do-1-grau/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/7ano/unidade-8-proporcionalidade-e-porcentagem/.gitkeep",
+      "destination": "Matematica/7ano/unidade-8-proporcionalidade-e-porcentagem/.gitkeep",
+      "relative_path": "7ano/unidade-8-proporcionalidade-e-porcentagem/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/8ano/unidade-1-potenciacao-radiciacao-e-notacao-cientifica/.gitkeep",
+      "destination": "Matematica/8ano/unidade-1-potenciacao-radiciacao-e-notacao-cientifica/.gitkeep",
+      "relative_path": "8ano/unidade-1-potenciacao-radiciacao-e-notacao-cientifica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/8ano/unidade-2-expressoes-algebricas-e-principio-multiplicativo/.gitkeep",
+      "destination": "Matematica/8ano/unidade-2-expressoes-algebricas-e-principio-multiplicativo/.gitkeep",
+      "relative_path": "8ano/unidade-2-expressoes-algebricas-e-principio-multiplicativo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/8ano/unidade-3-numeros-racionais-e-irracionais/.gitkeep",
+      "destination": "Matematica/8ano/unidade-3-numeros-racionais-e-irracionais/.gitkeep",
+      "relative_path": "8ano/unidade-3-numeros-racionais-e-irracionais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/8ano/unidade-4-equacoes-do-1-grau-e-representacao-grafica/.gitkeep",
+      "destination": "Matematica/8ano/unidade-4-equacoes-do-1-grau-e-representacao-grafica/.gitkeep",
+      "relative_path": "8ano/unidade-4-equacoes-do-1-grau-e-representacao-grafica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/8ano/unidade-5-sistemas-de-equacoes-do-1-grau/.gitkeep",
+      "destination": "Matematica/8ano/unidade-5-sistemas-de-equacoes-do-1-grau/.gitkeep",
+      "relative_path": "8ano/unidade-5-sistemas-de-equacoes-do-1-grau/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/8ano/unidade-6-equacoes-do-2-grau-incompletas/.gitkeep",
+      "destination": "Matematica/8ano/unidade-6-equacoes-do-2-grau-incompletas/.gitkeep",
+      "relative_path": "8ano/unidade-6-equacoes-do-2-grau-incompletas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/8ano/unidade-7-sequencias-e-padroes/.gitkeep",
+      "destination": "Matematica/8ano/unidade-7-sequencias-e-padroes/.gitkeep",
+      "relative_path": "8ano/unidade-7-sequencias-e-padroes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/8ano/unidade-8-grandezas-proporcionais-e-revisao-integrada/.gitkeep",
+      "destination": "Matematica/8ano/unidade-8-grandezas-proporcionais-e-revisao-integrada/.gitkeep",
+      "relative_path": "8ano/unidade-8-grandezas-proporcionais-e-revisao-integrada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/9ano/unidade-1-numeros-reais-e-potenciacao/.gitkeep",
+      "destination": "Matematica/9ano/unidade-1-numeros-reais-e-potenciacao/.gitkeep",
+      "relative_path": "9ano/unidade-1-numeros-reais-e-potenciacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/9ano/unidade-2-radiciacao-e-proporcionalidade/.gitkeep",
+      "destination": "Matematica/9ano/unidade-2-radiciacao-e-proporcionalidade/.gitkeep",
+      "relative_path": "9ano/unidade-2-radiciacao-e-proporcionalidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/9ano/unidade-3-conceito-de-funcao/.gitkeep",
+      "destination": "Matematica/9ano/unidade-3-conceito-de-funcao/.gitkeep",
+      "relative_path": "9ano/unidade-3-conceito-de-funcao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/9ano/unidade-4-funcao-afim/.gitkeep",
+      "destination": "Matematica/9ano/unidade-4-funcao-afim/.gitkeep",
+      "relative_path": "9ano/unidade-4-funcao-afim/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/9ano/unidade-5-equacoes-do-2-grau/.gitkeep",
+      "destination": "Matematica/9ano/unidade-5-equacoes-do-2-grau/.gitkeep",
+      "relative_path": "9ano/unidade-5-equacoes-do-2-grau/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/9ano/unidade-6-funcao-quadratica-parte-1/.gitkeep",
+      "destination": "Matematica/9ano/unidade-6-funcao-quadratica-parte-1/.gitkeep",
+      "relative_path": "9ano/unidade-6-funcao-quadratica-parte-1/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/9ano/unidade-7-funcao-quadratica-parte-2/.gitkeep",
+      "destination": "Matematica/9ano/unidade-7-funcao-quadratica-parte-2/.gitkeep",
+      "relative_path": "9ano/unidade-7-funcao-quadratica-parte-2/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Matematica/9ano/unidade-8-sistemas-de-equacoes/.gitkeep",
+      "destination": "Matematica/9ano/unidade-8-sistemas-de-equacoes/.gitkeep",
+      "relative_path": "9ano/unidade-8-sistemas-de-equacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 1/1serie/Unidade 3 - Operações com Conjuntos/Unidade 3 - Operações com Conjuntos - 1ª Série.gdoc",
+      "destination": "Matematica/1serie/Unidade 3 - Operações com Conjuntos/Unidade 3 - Operações com Conjuntos - 1ª Série.gdoc",
+      "relative_path": "1serie/Unidade 3 - Operações com Conjuntos/Unidade 3 - Operações com Conjuntos - 1ª Série.gdoc",
+      "action": "copied",
+      "sha256": "975b8fae6e2b685d187d15b4e30c7ea8392b2269f7fb1c0b196051c3f5405638"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 1/2serie/Unidade 3 - Matrizes/Unidade 3 - Matrizes** da 2ª Série..gdoc",
+      "destination": "Matematica/2serie/Unidade 3 - Matrizes/Unidade 3 - Matrizes** da 2ª Série..gdoc",
+      "relative_path": "2serie/Unidade 3 - Matrizes/Unidade 3 - Matrizes** da 2ª Série..gdoc",
+      "action": "copied",
+      "sha256": "f22dbe6133a4d0441ed3401cab362a741357e21bf0c6933ffd79af435899cc59"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 1/4ano/Unidade 3 - Multiplicação, Divisão e Sólidos Geométricos/Unidade 3 - Multiplicação, Divisão e Sólidos Geométricos.gdoc",
+      "destination": "Matematica/4ano/Unidade 3 - Multiplicação, Divisão e Sólidos Geométricos/Unidade 3 - Multiplicação, Divisão e Sólidos Geométricos.gdoc",
+      "relative_path": "4ano/Unidade 3 - Multiplicação, Divisão e Sólidos Geométricos/Unidade 3 - Multiplicação, Divisão e Sólidos Geométricos.gdoc",
+      "action": "copied",
+      "sha256": "bb8ff8307689956306d308809b3ca6c226eefae7ee4527a4001c3651dc5f3ff9"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 1/5ano/Unidade 3 - Operações e Medidas de Comprimento e Área/Unidade 3 — Operações e Medidas de Comprimento e Área (5º Ano).gdoc",
+      "destination": "Matematica/5ano/Unidade 3 - Operações e Medidas de Comprimento e Área/Unidade 3 — Operações e Medidas de Comprimento e Área (5º Ano).gdoc",
+      "relative_path": "5ano/Unidade 3 - Operações e Medidas de Comprimento e Área/Unidade 3 — Operações e Medidas de Comprimento e Área (5º Ano).gdoc",
+      "action": "copied",
+      "sha256": "67a8d612dc9310038f7f8cb34cd3a98987b05e4bef0013de78bf62ce37f1ecc6"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 1/5ano/Unidade 3 - Operações e Medidas de Comprimento e Área/Unidade 3 — Operações e Medidas de Comprimento e Área (5º Ano)_v2.gdoc",
+      "destination": "Matematica/5ano/Unidade 3 - Operações e Medidas de Comprimento e Área/Unidade 3 — Operações e Medidas de Comprimento e Área (5º Ano)_v2.gdoc",
+      "relative_path": "5ano/Unidade 3 - Operações e Medidas de Comprimento e Área/Unidade 3 — Operações e Medidas de Comprimento e Área (5º Ano)_v2.gdoc",
+      "action": "copied",
+      "sha256": "6344ed8b88129a33cd49eccc9d89b3fc7b180667b83857e2e79234f3c12a788b"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 1/6ano/Unidade 3 - Potenciação, Radiciação e Expressões Numéricas/Unidade 3 — Potenciação, Radiciação e Expressões Numéricas.gdoc",
+      "destination": "Matematica/6ano/Unidade 3 - Potenciação, Radiciação e Expressões Numéricas/Unidade 3 — Potenciação, Radiciação e Expressões Numéricas.gdoc",
+      "relative_path": "6ano/Unidade 3 - Potenciação, Radiciação e Expressões Numéricas/Unidade 3 — Potenciação, Radiciação e Expressões Numéricas.gdoc",
+      "action": "copied",
+      "sha256": "e57275fe83e3f6e0ef65d8745693a397faa0e05e2aa5978a70d2c1e69074aaac"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 1/7ano/Unidade 3 - Potenciação, Múltiplos e Divisores/Unidade 3 — Potenciação, Múltiplos e Divisores.gdoc",
+      "destination": "Matematica/7ano/Unidade 3 - Potenciação, Múltiplos e Divisores/Unidade 3 — Potenciação, Múltiplos e Divisores.gdoc",
+      "relative_path": "7ano/Unidade 3 - Potenciação, Múltiplos e Divisores/Unidade 3 — Potenciação, Múltiplos e Divisores.gdoc",
+      "action": "copied",
+      "sha256": "68f2efefda0aeb452792f7c2b894b2c3d44f968973c8e537079646791442aaa6"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 1/8ano/Unidade 3 - Números Racionais e Irracionais/Unidade 3 - Números Racionais e Irracionais.gdoc",
+      "destination": "Matematica/8ano/Unidade 3 - Números Racionais e Irracionais/Unidade 3 - Números Racionais e Irracionais.gdoc",
+      "relative_path": "8ano/Unidade 3 - Números Racionais e Irracionais/Unidade 3 - Números Racionais e Irracionais.gdoc",
+      "action": "copied",
+      "sha256": "68fb0c497edde0d7323ece8bfdefcc55adf2917fcfc4cd08e5ef4a4e0a3d6d41"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Matemática 1/9ano/Unidade 3 - Conceito de Função/Unidade 3 - Conceito de Função - 9º Ano.gdoc",
+      "destination": "Matematica/9ano/Unidade 3 - Conceito de Função/Unidade 3 - Conceito de Função - 9º Ano.gdoc",
+      "relative_path": "9ano/Unidade 3 - Conceito de Função/Unidade 3 - Conceito de Função - 9º Ano.gdoc",
+      "action": "copied",
+      "sha256": "efa37bc4a7fff7989e8721ff690097cc5da61e111e19bd21a26b12077364ce0c"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Matematica/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": []
+}

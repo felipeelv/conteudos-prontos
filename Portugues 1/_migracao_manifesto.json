@@ -1,0 +1,2710 @@
+{
+  "discipline": "Portugues 1",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_portugues-1"
+    ],
+    "blueprints": [
+      "Blueprints/portugues 1",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1"
+    ],
+    "contents": [
+      "Conteudos Prontos/Portugues 1",
+      "Unidade 3-/Português"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_portugues-1": {
+      "copied": 9,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 2
+    },
+    "blueprints::Blueprints::portugues 1": {
+      "copied": 43,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 1
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Portugues 1": {
+      "copied": 88,
+      "already_identical": 43,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Portugues 1": {
+      "copied": 101,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Português": {
+      "copied": 7,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/_shared/lib_common.sh",
+      "destination": "Portugues 1/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/CLAUDE.md",
+      "destination": "Portugues 1/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "2ba620f6111ca57132b1052b8977306bc42079f35d1025d1e83f06e5e87d778a"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/logs/20260429_000235_portugues-1-5ano-unidade-4-preposicoes-interjeicoes-e-conjuncoes.log",
+      "destination": null,
+      "relative_path": "logs/20260429_000235_portugues-1-5ano-unidade-4-preposicoes-interjeicoes-e-conjuncoes.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/logs/20260429_000646_portugues-1-5ano-unidade-4-preposicoes-interjeicoes-e-conjuncoes.log",
+      "destination": null,
+      "relative_path": "logs/20260429_000646_portugues-1-5ano-unidade-4-preposicoes-interjeicoes-e-conjuncoes.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/memoria-autor.md",
+      "destination": "Portugues 1/_autor/memoria-autor.md",
+      "relative_path": "memoria-autor.md",
+      "action": "copied",
+      "sha256": "6b487eacdd1c83bdedb54f723860f4a3f8570711f70539869f8ba5475e40ee0d"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/modelo-ef2.md",
+      "destination": "Portugues 1/_autor/modelo-ef2.md",
+      "relative_path": "modelo-ef2.md",
+      "action": "copied",
+      "sha256": "d2b3429c25bbc134f0a1a7cd825b5636c78fb975e5e8575deb47a8502af5f34f"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/modelo-em.md",
+      "destination": "Portugues 1/_autor/modelo-em.md",
+      "relative_path": "modelo-em.md",
+      "action": "copied",
+      "sha256": "a7336748ab7b9dc3a9ce7e6ac72d7460959d57ed962b6b595e35771ddc09422a"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/prompt-autor.md",
+      "destination": "Portugues 1/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "4204be54904a7c54899b5b6bcaf3881890430d12d7f949580137cf54e7fa3070"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/referencia-exemplos-linguagem.md",
+      "destination": "Portugues 1/_autor/referencia-exemplos-linguagem.md",
+      "relative_path": "referencia-exemplos-linguagem.md",
+      "action": "copied",
+      "sha256": "93757284c4995d0d0e8b1b06ddb995899c3687dc3fcaaac6fbbcb47a159867a1"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/referencia-regras-ortograficas.md",
+      "destination": "Portugues 1/_autor/referencia-regras-ortograficas.md",
+      "relative_path": "referencia-regras-ortograficas.md",
+      "action": "copied",
+      "sha256": "37f2968928770a1bbc33cc6a5d087790b5be69e372c975ebf74cb915447b7936"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-1/scripts/criar_capitulos.sh",
+      "destination": "Portugues 1/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "fb26449ef17c4692e295fccaa68d230b4d819367c0c8ff9648092d428ad3b758"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/.DS_Store",
+      "destination": null,
+      "relative_path": ".DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/1ano/unidade-4-manipulacao-fonologica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1ano/unidade-4-manipulacao-fonologica/.gitkeep",
+      "relative_path": "1ano/unidade-4-manipulacao-fonologica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/1serie/unidade-4-estrutura-e-formacao-de-palavras/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-4-estrutura-e-formacao-de-palavras/.gitkeep",
+      "relative_path": "1serie/unidade-4-estrutura-e-formacao-de-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_01_elementos-morficos.md",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_01_elementos-morficos.md",
+      "relative_path": "1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_01_elementos-morficos.md",
+      "action": "copied",
+      "sha256": "67132523fae957659ce42601a8de17c6129077de78a1afe739111dd81b4e85a9"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_02_processos-de-formacao-de-palavras.md",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_02_processos-de-formacao-de-palavras.md",
+      "relative_path": "1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_02_processos-de-formacao-de-palavras.md",
+      "action": "copied",
+      "sha256": "bd4415c4eb1fa8d964c448a179d0ace92fd512607614bf80b55b66660b240990"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "96a4758b3e81723ecfd58eff7538a1d61e6da1e6e0169b7b8805fd5e1af723bf"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/2ano/unidade-4-regularidades-contextuais-e-nasalidade/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2ano/unidade-4-regularidades-contextuais-e-nasalidade/.gitkeep",
+      "relative_path": "2ano/unidade-4-regularidades-contextuais-e-nasalidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/2serie/unidade-4-crase/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-4-crase/.gitkeep",
+      "relative_path": "2serie/unidade-4-crase/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/2serie/unidade-4-crase/blueprint_capitulo_01_conceito-e-casos-obrigatorios.md",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-4-crase/blueprint_capitulo_01_conceito-e-casos-obrigatorios.md",
+      "relative_path": "2serie/unidade-4-crase/blueprint_capitulo_01_conceito-e-casos-obrigatorios.md",
+      "action": "copied",
+      "sha256": "fa196dc331b96b09256863fcf65d0e5ca75e1a8f7ed6fad730307e71df1e2121"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/2serie/unidade-4-crase/blueprint_capitulo_02_casos-proibidos-e-facultativos.md",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-4-crase/blueprint_capitulo_02_casos-proibidos-e-facultativos.md",
+      "relative_path": "2serie/unidade-4-crase/blueprint_capitulo_02_casos-proibidos-e-facultativos.md",
+      "action": "copied",
+      "sha256": "479d1826e617e5d7756a6a19fcff0c4de605734ed0e6f54eba03af5874aa935e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/2serie/unidade-4-crase/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-4-crase/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-crase/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "ca0133046824fcb816113a4af906c7c6572d340f5f94e48e58545f275ead7387"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/3ano/unidade-4-acentuacao-e-dicionario/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3ano/unidade-4-acentuacao-e-dicionario/.gitkeep",
+      "relative_path": "3ano/unidade-4-acentuacao-e-dicionario/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/3serie/unidade-4-oracoes-subordinadas-adverbiais/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-4-oracoes-subordinadas-adverbiais/.gitkeep",
+      "relative_path": "3serie/unidade-4-oracoes-subordinadas-adverbiais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_01_classificacao-das-oracoes-adverbiais.md",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_01_classificacao-das-oracoes-adverbiais.md",
+      "relative_path": "3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_01_classificacao-das-oracoes-adverbiais.md",
+      "action": "copied",
+      "sha256": "3be7abaaa4b53cfdc2dc5e609100201d7ec0c6ad427258ec8fa6004dd4ae59ea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_02_oracoes-adverbiais-reduzidas-e-pontuacao.md",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_02_oracoes-adverbiais-reduzidas-e-pontuacao.md",
+      "relative_path": "3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_02_oracoes-adverbiais-reduzidas-e-pontuacao.md",
+      "action": "copied",
+      "sha256": "7aa73eb26eb36068464f4a1e323bcd27f3a784338399fc97d2db4f61502cd9c8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "2d5ee5a4aa09373baa9b8cc5f721f107d802d195db0ebd90d1c9c2df020852d9"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/4ano/unidade-4-verbos/blueprint_capitulo_01_tempos-verbais-do-indicativo.md",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-4-verbos/blueprint_capitulo_01_tempos-verbais-do-indicativo.md",
+      "relative_path": "4ano/unidade-4-verbos/blueprint_capitulo_01_tempos-verbais-do-indicativo.md",
+      "action": "copied",
+      "sha256": "6d2b602149293b7216b97ab43c4f9cdbf73cebc909a8a52a7a0b85b78a6e22ff"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/4ano/unidade-4-verbos/blueprint_capitulo_02_concordancia-verbal.md",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-4-verbos/blueprint_capitulo_02_concordancia-verbal.md",
+      "relative_path": "4ano/unidade-4-verbos/blueprint_capitulo_02_concordancia-verbal.md",
+      "action": "copied",
+      "sha256": "a945a424e0e692fe2c73477d0e346dc7f8126765591d2cf2a94478244017c0cd"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/4ano/unidade-4-verbos/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-4-verbos/blueprint_unidade.md",
+      "relative_path": "4ano/unidade-4-verbos/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "f31b8c91984e0d5502412af203a854b57f0b4e8d19afcc0ed4773af20a56db9c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/.gitkeep",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/.gitkeep",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_01_preposicoes.md",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_01_preposicoes.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_01_preposicoes.md",
+      "action": "copied",
+      "sha256": "baa9c074c0560a13837cc6b07547f08c192a8d03450661c92a6ec35e11d6c04e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_02_interjeicoes.md",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_02_interjeicoes.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_02_interjeicoes.md",
+      "action": "copied",
+      "sha256": "77a6dd0d4bfd055a07c1fbd016e70e9d6c92c226bfa3ca9bfaccd50af4f4706f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_03_conjuncoes-e-relacoes-semanticas.md",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_03_conjuncoes-e-relacoes-semanticas.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_03_conjuncoes-e-relacoes-semanticas.md",
+      "action": "copied",
+      "sha256": "6fe0417da41b65c320ef3caf1b564b39d394395a047e09c3a63d69d6a3be4f90"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_unidade.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "c77e293e6724e7ba4789a4757e8bedb90caa58ffc11a59fb9d0670e984480870"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-4-adjetivo-numeral-e-coesao/.gitkeep",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_01_adjetivo.md",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_01_adjetivo.md",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_01_adjetivo.md",
+      "action": "copied",
+      "sha256": "2f237dce5400d49390e91b4a9025f7bd3dee5df076a44b038796998848681e14"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_02_numeral.md",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_02_numeral.md",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_02_numeral.md",
+      "action": "copied",
+      "sha256": "91da8796d06788c7fdc947bebb632d7a83eb8d1f99e054b5dda0c1de2560e408"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_03_coesao-referencial.md",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_03_coesao-referencial.md",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_03_coesao-referencial.md",
+      "action": "copied",
+      "sha256": "e3f31f338275b896e0eb515c0c1054146a96227a06637318e73a85c0fcd35321"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "0001450d6951fb6aed46108b8791a8dcfabae3f34eb5f610715ff406053424b1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/.gitkeep",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/.gitkeep",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_01_conceito-e-classificacao-dos-verbos.md",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_01_conceito-e-classificacao-dos-verbos.md",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_01_conceito-e-classificacao-dos-verbos.md",
+      "action": "copied",
+      "sha256": "b4d0fe99bb4426d1ace89063770e29f6b86afbe2b81978bdfdd190732c0f10a6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_02_verbos-auxiliares-e-locucoes-verbais.md",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_02_verbos-auxiliares-e-locucoes-verbais.md",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_02_verbos-auxiliares-e-locucoes-verbais.md",
+      "action": "copied",
+      "sha256": "89dec7019709118450db3cd4046971ea042902875937641c42c28f8a4325af79"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_03_modo-indicativo.md",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_03_modo-indicativo.md",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_03_modo-indicativo.md",
+      "action": "copied",
+      "sha256": "c57e3826d680ad53d0897eafa2dfe1321ea8da67337c4dfc5534bae169efb41d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_04_modo-subjuntivo-e-imperativo.md",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_04_modo-subjuntivo-e-imperativo.md",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_04_modo-subjuntivo-e-imperativo.md",
+      "action": "copied",
+      "sha256": "0bcb4fd78470fad4b7995a49c7e48f23726e3796ff9c5e1935ab80b6ad9fa034"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_unidade.md",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "29b52edca852b226fbb761f46c6ba0205d339437c7707b5ff6fd0e35ca2ccf53"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/8ano/unidade-4-introducao-a-sintaxe/.gitkeep",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-4-introducao-a-sintaxe/.gitkeep",
+      "relative_path": "8ano/unidade-4-introducao-a-sintaxe/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_01_frase-oracao-e-periodo.md",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_01_frase-oracao-e-periodo.md",
+      "relative_path": "8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_01_frase-oracao-e-periodo.md",
+      "action": "copied",
+      "sha256": "78444bb75db098779ec2a0d86e47774839e549e8154913f479de7884dfd7e91f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_02_variacao-linguistica.md",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_02_variacao-linguistica.md",
+      "relative_path": "8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_02_variacao-linguistica.md",
+      "action": "copied",
+      "sha256": "9a8c90e2cb213de0a91e4df6e8d1684f2a2d876db27f9b4512bc17c5e0306a61"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/8ano/unidade-4-introducao-a-sintaxe/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-4-introducao-a-sintaxe/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-4-introducao-a-sintaxe/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "bdfaa2f7e3e6102a42ea1bed38469155f145dc336d5e90e82885ee347f677f27"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/9ano/unidade-4-periodo-composto/.gitkeep",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-4-periodo-composto/.gitkeep",
+      "relative_path": "9ano/unidade-4-periodo-composto/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/9ano/unidade-4-periodo-composto/blueprint_capitulo_01_conjuncoes-e-oracoes-coordenadas.md",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-4-periodo-composto/blueprint_capitulo_01_conjuncoes-e-oracoes-coordenadas.md",
+      "relative_path": "9ano/unidade-4-periodo-composto/blueprint_capitulo_01_conjuncoes-e-oracoes-coordenadas.md",
+      "action": "copied",
+      "sha256": "f15221f58273436a7c95efa2a124ea4c0c9acf953755b5983b3ead6bf1ed39b4"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/9ano/unidade-4-periodo-composto/blueprint_capitulo_02_conjuncoes-e-oracoes-subordinadas.md",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-4-periodo-composto/blueprint_capitulo_02_conjuncoes-e-oracoes-subordinadas.md",
+      "relative_path": "9ano/unidade-4-periodo-composto/blueprint_capitulo_02_conjuncoes-e-oracoes-subordinadas.md",
+      "action": "copied",
+      "sha256": "dee432cf368aeb8ad719df97708b854cb4bd28a09a9d4a65aa73fd6c6f367bb1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/9ano/unidade-4-periodo-composto/blueprint_capitulo_03_oracoes-adjetivas.md",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-4-periodo-composto/blueprint_capitulo_03_oracoes-adjetivas.md",
+      "relative_path": "9ano/unidade-4-periodo-composto/blueprint_capitulo_03_oracoes-adjetivas.md",
+      "action": "copied",
+      "sha256": "67f6f359d13d8b09f264af8537e3901c2a2923e82023177c6fa6c9b69a9bb99f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 1/9ano/unidade-4-periodo-composto/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-4-periodo-composto/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-periodo-composto/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "b683d0e5a7d31b85b7053d4f14153b19fb714f2a71ca1944c74b5640fdaffc07"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1ano/unidade-1-consciencia-fonologica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1ano/unidade-1-consciencia-fonologica/.gitkeep",
+      "relative_path": "1ano/unidade-1-consciencia-fonologica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1ano/unidade-2-alfabeto/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1ano/unidade-2-alfabeto/.gitkeep",
+      "relative_path": "1ano/unidade-2-alfabeto/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1ano/unidade-3-relacao-letra-som/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1ano/unidade-3-relacao-letra-som/.gitkeep",
+      "relative_path": "1ano/unidade-3-relacao-letra-som/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1ano/unidade-4-manipulacao-fonologica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1ano/unidade-4-manipulacao-fonologica/.gitkeep",
+      "relative_path": "1ano/unidade-4-manipulacao-fonologica/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1ano/unidade-5-direcao-da-escrita/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1ano/unidade-5-direcao-da-escrita/.gitkeep",
+      "relative_path": "1ano/unidade-5-direcao-da-escrita/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1ano/unidade-6-segmentacao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1ano/unidade-6-segmentacao/.gitkeep",
+      "relative_path": "1ano/unidade-6-segmentacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1ano/unidade-7-ortografia-basica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1ano/unidade-7-ortografia-basica/.gitkeep",
+      "relative_path": "1ano/unidade-7-ortografia-basica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1ano/unidade-8-convencoes-da-escrita/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1ano/unidade-8-convencoes-da-escrita/.gitkeep",
+      "relative_path": "1ano/unidade-8-convencoes-da-escrita/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-1-fonetica-e-fonologia/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-1-fonetica-e-fonologia/.gitkeep",
+      "relative_path": "1serie/unidade-1-fonetica-e-fonologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-2-ortografia-e-variacao-linguistica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-2-ortografia-e-variacao-linguistica/.gitkeep",
+      "relative_path": "1serie/unidade-2-ortografia-e-variacao-linguistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-3-morfologia-classes-gramaticais-i/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-3-morfologia-classes-gramaticais-i/.gitkeep",
+      "relative_path": "1serie/unidade-3-morfologia-classes-gramaticais-i/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-4-estrutura-e-formacao-de-palavras/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-4-estrutura-e-formacao-de-palavras/.gitkeep",
+      "relative_path": "1serie/unidade-4-estrutura-e-formacao-de-palavras/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_01_elementos-morficos.md",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_01_elementos-morficos.md",
+      "relative_path": "1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_01_elementos-morficos.md",
+      "action": "already_identical",
+      "sha256": "67132523fae957659ce42601a8de17c6129077de78a1afe739111dd81b4e85a9"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_02_processos-de-formacao-de-palavras.md",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_02_processos-de-formacao-de-palavras.md",
+      "relative_path": "1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_capitulo_02_processos-de-formacao-de-palavras.md",
+      "action": "already_identical",
+      "sha256": "bd4415c4eb1fa8d964c448a179d0ace92fd512607614bf80b55b66660b240990"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-estrutura-e-formacao-de-palavras/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "96a4758b3e81723ecfd58eff7538a1d61e6da1e6e0169b7b8805fd5e1af723bf"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-5-morfologia-classes-gramaticais-ii/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-5-morfologia-classes-gramaticais-ii/.gitkeep",
+      "relative_path": "1serie/unidade-5-morfologia-classes-gramaticais-ii/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-6-sintaxe-introducao-e-termos-essenciais/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-6-sintaxe-introducao-e-termos-essenciais/.gitkeep",
+      "relative_path": "1serie/unidade-6-sintaxe-introducao-e-termos-essenciais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-7-sintaxe-termos-integrantes-e-acessorios/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-7-sintaxe-termos-integrantes-e-acessorios/.gitkeep",
+      "relative_path": "1serie/unidade-7-sintaxe-termos-integrantes-e-acessorios/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/1serie/unidade-8-pontuacao-e-coesao-textual/.gitkeep",
+      "destination": "Portugues 1/_blueprints/1serie/unidade-8-pontuacao-e-coesao-textual/.gitkeep",
+      "relative_path": "1serie/unidade-8-pontuacao-e-coesao-textual/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2ano/unidade-1-fluencia-e-segmentacao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2ano/unidade-1-fluencia-e-segmentacao/.gitkeep",
+      "relative_path": "2ano/unidade-1-fluencia-e-segmentacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2ano/unidade-2-estruturas-silabicas/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2ano/unidade-2-estruturas-silabicas/.gitkeep",
+      "relative_path": "2ano/unidade-2-estruturas-silabicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2ano/unidade-3-regularidades-diretas/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2ano/unidade-3-regularidades-diretas/.gitkeep",
+      "relative_path": "2ano/unidade-3-regularidades-diretas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2ano/unidade-4-regularidades-contextuais-e-nasalidade/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2ano/unidade-4-regularidades-contextuais-e-nasalidade/.gitkeep",
+      "relative_path": "2ano/unidade-4-regularidades-contextuais-e-nasalidade/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2ano/unidade-5-pontuacao-simples/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2ano/unidade-5-pontuacao-simples/.gitkeep",
+      "relative_path": "2ano/unidade-5-pontuacao-simples/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2ano/unidade-6-formas-de-escrita/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2ano/unidade-6-formas-de-escrita/.gitkeep",
+      "relative_path": "2ano/unidade-6-formas-de-escrita/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2ano/unidade-7-aumentativo-e-diminutivo/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2ano/unidade-7-aumentativo-e-diminutivo/.gitkeep",
+      "relative_path": "2ano/unidade-7-aumentativo-e-diminutivo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2ano/unidade-8-sinonimos-e-antonimos/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2ano/unidade-8-sinonimos-e-antonimos/.gitkeep",
+      "relative_path": "2ano/unidade-8-sinonimos-e-antonimos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-1-concordancia-nominal/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-1-concordancia-nominal/.gitkeep",
+      "relative_path": "2serie/unidade-1-concordancia-nominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-2-concordancia-verbal/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-2-concordancia-verbal/.gitkeep",
+      "relative_path": "2serie/unidade-2-concordancia-verbal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-3-regencia-nominal-e-verbal/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-3-regencia-nominal-e-verbal/.gitkeep",
+      "relative_path": "2serie/unidade-3-regencia-nominal-e-verbal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-4-crase/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-4-crase/.gitkeep",
+      "relative_path": "2serie/unidade-4-crase/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-4-crase/blueprint_capitulo_01_conceito-e-casos-obrigatorios.md",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-4-crase/blueprint_capitulo_01_conceito-e-casos-obrigatorios.md",
+      "relative_path": "2serie/unidade-4-crase/blueprint_capitulo_01_conceito-e-casos-obrigatorios.md",
+      "action": "already_identical",
+      "sha256": "fa196dc331b96b09256863fcf65d0e5ca75e1a8f7ed6fad730307e71df1e2121"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-4-crase/blueprint_capitulo_02_casos-proibidos-e-facultativos.md",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-4-crase/blueprint_capitulo_02_casos-proibidos-e-facultativos.md",
+      "relative_path": "2serie/unidade-4-crase/blueprint_capitulo_02_casos-proibidos-e-facultativos.md",
+      "action": "already_identical",
+      "sha256": "479d1826e617e5d7756a6a19fcff0c4de605734ed0e6f54eba03af5874aa935e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-4-crase/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-4-crase/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-crase/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "ca0133046824fcb816113a4af906c7c6572d340f5f94e48e58545f275ead7387"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-5-colocacao-pronominal/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-5-colocacao-pronominal/.gitkeep",
+      "relative_path": "2serie/unidade-5-colocacao-pronominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-6-funcoes-do-que-e-do-se/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-6-funcoes-do-que-e-do-se/.gitkeep",
+      "relative_path": "2serie/unidade-6-funcoes-do-que-e-do-se/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-7-conectivos-e-operadores-argumentativos/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-7-conectivos-e-operadores-argumentativos/.gitkeep",
+      "relative_path": "2serie/unidade-7-conectivos-e-operadores-argumentativos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/2serie/unidade-8-modalizacao-e-analise-linguistica-de-textos-argumentativos/.gitkeep",
+      "destination": "Portugues 1/_blueprints/2serie/unidade-8-modalizacao-e-analise-linguistica-de-textos-argumentativos/.gitkeep",
+      "relative_path": "2serie/unidade-8-modalizacao-e-analise-linguistica-de-textos-argumentativos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3ano/unidade-1-regularidades-contextuais/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3ano/unidade-1-regularidades-contextuais/.gitkeep",
+      "relative_path": "3ano/unidade-1-regularidades-contextuais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3ano/unidade-2-estruturas-silabicas-e-digrafos/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3ano/unidade-2-estruturas-silabicas-e-digrafos/.gitkeep",
+      "relative_path": "3ano/unidade-2-estruturas-silabicas-e-digrafos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3ano/unidade-3-classificacao-silabica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3ano/unidade-3-classificacao-silabica/.gitkeep",
+      "relative_path": "3ano/unidade-3-classificacao-silabica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3ano/unidade-4-acentuacao-e-dicionario/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3ano/unidade-4-acentuacao-e-dicionario/.gitkeep",
+      "relative_path": "3ano/unidade-4-acentuacao-e-dicionario/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3ano/unidade-5-substantivos/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3ano/unidade-5-substantivos/.gitkeep",
+      "relative_path": "3ano/unidade-5-substantivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3ano/unidade-6-verbos-e-adjetivos/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3ano/unidade-6-verbos-e-adjetivos/.gitkeep",
+      "relative_path": "3ano/unidade-6-verbos-e-adjetivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3ano/unidade-7-artigos-pronomes-e-formacao-de-palavras/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3ano/unidade-7-artigos-pronomes-e-formacao-de-palavras/.gitkeep",
+      "relative_path": "3ano/unidade-7-artigos-pronomes-e-formacao-de-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3ano/unidade-8-pontuacao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3ano/unidade-8-pontuacao/.gitkeep",
+      "relative_path": "3ano/unidade-8-pontuacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-1-periodo-composto-por-coordenacao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-1-periodo-composto-por-coordenacao/.gitkeep",
+      "relative_path": "3serie/unidade-1-periodo-composto-por-coordenacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-2-periodo-composto-por-subordinacao-oracoes-substantivas/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-2-periodo-composto-por-subordinacao-oracoes-substantivas/.gitkeep",
+      "relative_path": "3serie/unidade-2-periodo-composto-por-subordinacao-oracoes-substantivas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-3-oracoes-subordinadas-adjetivas/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-3-oracoes-subordinadas-adjetivas/.gitkeep",
+      "relative_path": "3serie/unidade-3-oracoes-subordinadas-adjetivas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-4-oracoes-subordinadas-adverbiais/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-4-oracoes-subordinadas-adverbiais/.gitkeep",
+      "relative_path": "3serie/unidade-4-oracoes-subordinadas-adverbiais/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_01_classificacao-das-oracoes-adverbiais.md",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_01_classificacao-das-oracoes-adverbiais.md",
+      "relative_path": "3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_01_classificacao-das-oracoes-adverbiais.md",
+      "action": "already_identical",
+      "sha256": "3be7abaaa4b53cfdc2dc5e609100201d7ec0c6ad427258ec8fa6004dd4ae59ea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_02_oracoes-adverbiais-reduzidas-e-pontuacao.md",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_02_oracoes-adverbiais-reduzidas-e-pontuacao.md",
+      "relative_path": "3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_capitulo_02_oracoes-adverbiais-reduzidas-e-pontuacao.md",
+      "action": "already_identical",
+      "sha256": "7aa73eb26eb36068464f4a1e323bcd27f3a784338399fc97d2db4f61502cd9c8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-oracoes-subordinadas-adverbiais/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "2d5ee5a4aa09373baa9b8cc5f721f107d802d195db0ebd90d1c9c2df020852d9"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-5-semantica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-5-semantica/.gitkeep",
+      "relative_path": "3serie/unidade-5-semantica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-6-figuras-de-linguagem/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-6-figuras-de-linguagem/.gitkeep",
+      "relative_path": "3serie/unidade-6-figuras-de-linguagem/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-7-funcoes-da-linguagem-e-analise-semiotica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-7-funcoes-da-linguagem-e-analise-semiotica/.gitkeep",
+      "relative_path": "3serie/unidade-7-funcoes-da-linguagem-e-analise-semiotica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/3serie/unidade-8-interpretacao-de-texto-e-variacao-linguistica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/3serie/unidade-8-interpretacao-de-texto-e-variacao-linguistica/.gitkeep",
+      "relative_path": "3serie/unidade-8-interpretacao-de-texto-e-variacao-linguistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-1-regularidades-complexas-i/.gitkeep",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-1-regularidades-complexas-i/.gitkeep",
+      "relative_path": "4ano/unidade-1-regularidades-complexas-i/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-2-regularidades-complexas-ii-e-dicionario/.gitkeep",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-2-regularidades-complexas-ii-e-dicionario/.gitkeep",
+      "relative_path": "4ano/unidade-2-regularidades-complexas-ii-e-dicionario/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-3-acentuacao-grafica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-3-acentuacao-grafica/.gitkeep",
+      "relative_path": "4ano/unidade-3-acentuacao-grafica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-4-verbos/blueprint_capitulo_01_tempos-verbais-do-indicativo.md",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-4-verbos/blueprint_capitulo_01_tempos-verbais-do-indicativo.md",
+      "relative_path": "4ano/unidade-4-verbos/blueprint_capitulo_01_tempos-verbais-do-indicativo.md",
+      "action": "already_identical",
+      "sha256": "6d2b602149293b7216b97ab43c4f9cdbf73cebc909a8a52a7a0b85b78a6e22ff"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-4-verbos/blueprint_capitulo_02_concordancia-verbal.md",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-4-verbos/blueprint_capitulo_02_concordancia-verbal.md",
+      "relative_path": "4ano/unidade-4-verbos/blueprint_capitulo_02_concordancia-verbal.md",
+      "action": "already_identical",
+      "sha256": "a945a424e0e692fe2c73477d0e346dc7f8126765591d2cf2a94478244017c0cd"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-4-verbos/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-4-verbos/blueprint_unidade.md",
+      "relative_path": "4ano/unidade-4-verbos/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "f31b8c91984e0d5502412af203a854b57f0b4e8d19afcc0ed4773af20a56db9c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-5-classes-gramaticais/.gitkeep",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-5-classes-gramaticais/.gitkeep",
+      "relative_path": "4ano/unidade-5-classes-gramaticais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-5-classes-gramaticais/blueprint_capitulo_01_pronomes.md",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-5-classes-gramaticais/blueprint_capitulo_01_pronomes.md",
+      "relative_path": "4ano/unidade-5-classes-gramaticais/blueprint_capitulo_01_pronomes.md",
+      "action": "copied",
+      "sha256": "ca6c29e1f55d1bda9a1967fe83271d865761ff5ed11302f8dc56d23d251e87ec"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-5-classes-gramaticais/blueprint_capitulo_02_adverbios.md",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-5-classes-gramaticais/blueprint_capitulo_02_adverbios.md",
+      "relative_path": "4ano/unidade-5-classes-gramaticais/blueprint_capitulo_02_adverbios.md",
+      "action": "copied",
+      "sha256": "aedac181355bed30f54fef2917eb64278106e5216fb9ac2f58e0d9fa9f4ba3d0"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-5-classes-gramaticais/blueprint_capitulo_03_conjuncoes-basicas.md",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-5-classes-gramaticais/blueprint_capitulo_03_conjuncoes-basicas.md",
+      "relative_path": "4ano/unidade-5-classes-gramaticais/blueprint_capitulo_03_conjuncoes-basicas.md",
+      "action": "copied",
+      "sha256": "0b2be63b9c66f127ae9caea3b5ff2565f9c3eb63dba36875c10fde42a6e7a513"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-5-classes-gramaticais/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-5-classes-gramaticais/blueprint_unidade.md",
+      "relative_path": "4ano/unidade-5-classes-gramaticais/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "758eae8fdcef63777d29ad8e4c4eba1d64874e37e5090725d81415bd69061b7c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-6-pontuacao-ampliada/.gitkeep",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-6-pontuacao-ampliada/.gitkeep",
+      "relative_path": "4ano/unidade-6-pontuacao-ampliada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-7-formacao-de-palavras/.gitkeep",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-7-formacao-de-palavras/.gitkeep",
+      "relative_path": "4ano/unidade-7-formacao-de-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/4ano/unidade-8-concordancia-e-estrutura-frasal/.gitkeep",
+      "destination": "Portugues 1/_blueprints/4ano/unidade-8-concordancia-e-estrutura-frasal/.gitkeep",
+      "relative_path": "4ano/unidade-8-concordancia-e-estrutura-frasal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-1-ortografia-completa/.gitkeep",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-1-ortografia-completa/.gitkeep",
+      "relative_path": "5ano/unidade-1-ortografia-completa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-2-homonimos-paronimos-e-polissemia/.gitkeep",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-2-homonimos-paronimos-e-polissemia/.gitkeep",
+      "relative_path": "5ano/unidade-2-homonimos-paronimos-e-polissemia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-3-acentuacao-grafica-completa/.gitkeep",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-3-acentuacao-grafica-completa/.gitkeep",
+      "relative_path": "5ano/unidade-3-acentuacao-grafica-completa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/.gitkeep",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/.gitkeep",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_01_preposicoes.md",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_01_preposicoes.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_01_preposicoes.md",
+      "action": "already_identical",
+      "sha256": "baa9c074c0560a13837cc6b07547f08c192a8d03450661c92a6ec35e11d6c04e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_02_interjeicoes.md",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_02_interjeicoes.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_02_interjeicoes.md",
+      "action": "already_identical",
+      "sha256": "77a6dd0d4bfd055a07c1fbd016e70e9d6c92c226bfa3ca9bfaccd50af4f4706f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_03_conjuncoes-e-relacoes-semanticas.md",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_03_conjuncoes-e-relacoes-semanticas.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_capitulo_03_conjuncoes-e-relacoes-semanticas.md",
+      "action": "already_identical",
+      "sha256": "6fe0417da41b65c320ef3caf1b564b39d394395a047e09c3a63d69d6a3be4f90"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_unidade.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "c77e293e6724e7ba4789a4757e8bedb90caa58ffc11a59fb9d0670e984480870"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-5-sujeito-e-predicado/.gitkeep",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-5-sujeito-e-predicado/.gitkeep",
+      "relative_path": "5ano/unidade-5-sujeito-e-predicado/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-6-complementos-e-verbos/.gitkeep",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-6-complementos-e-verbos/.gitkeep",
+      "relative_path": "5ano/unidade-6-complementos-e-verbos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-7-pontuacao-avancada/.gitkeep",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-7-pontuacao-avancada/.gitkeep",
+      "relative_path": "5ano/unidade-7-pontuacao-avancada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/5ano/unidade-8-variacao-linguistica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/5ano/unidade-8-variacao-linguistica/.gitkeep",
+      "relative_path": "5ano/unidade-8-variacao-linguistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-1-fonologia/.gitkeep",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-1-fonologia/.gitkeep",
+      "relative_path": "6ano/unidade-1-fonologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "relative_path": "6ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-3-substantivo-e-artigo/.gitkeep",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-3-substantivo-e-artigo/.gitkeep",
+      "relative_path": "6ano/unidade-3-substantivo-e-artigo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-4-adjetivo-numeral-e-coesao/.gitkeep",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_01_adjetivo.md",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_01_adjetivo.md",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_01_adjetivo.md",
+      "action": "already_identical",
+      "sha256": "2f237dce5400d49390e91b4a9025f7bd3dee5df076a44b038796998848681e14"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_02_numeral.md",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_02_numeral.md",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_02_numeral.md",
+      "action": "already_identical",
+      "sha256": "91da8796d06788c7fdc947bebb632d7a83eb8d1f99e054b5dda0c1de2560e408"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_03_coesao-referencial.md",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_03_coesao-referencial.md",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_capitulo_03_coesao-referencial.md",
+      "action": "already_identical",
+      "sha256": "e3f31f338275b896e0eb515c0c1054146a96227a06637318e73a85c0fcd35321"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "0001450d6951fb6aed46108b8791a8dcfabae3f34eb5f610715ff406053424b1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-5-pronome/.gitkeep",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-5-pronome/.gitkeep",
+      "relative_path": "6ano/unidade-5-pronome/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-6-verbo/.gitkeep",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-6-verbo/.gitkeep",
+      "relative_path": "6ano/unidade-6-verbo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-7-sintaxe/.gitkeep",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-7-sintaxe/.gitkeep",
+      "relative_path": "6ano/unidade-7-sintaxe/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/6ano/unidade-8-ortografia-e-pontuacao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/6ano/unidade-8-ortografia-e-pontuacao/.gitkeep",
+      "relative_path": "6ano/unidade-8-ortografia-e-pontuacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-1-ortografia-e-acentuacao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-1-ortografia-e-acentuacao/.gitkeep",
+      "relative_path": "7ano/unidade-1-ortografia-e-acentuacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-2-classes-invariaveis/.gitkeep",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-2-classes-invariaveis/.gitkeep",
+      "relative_path": "7ano/unidade-2-classes-invariaveis/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-3-variacao-linguistica/.gitkeep",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-3-variacao-linguistica/.gitkeep",
+      "relative_path": "7ano/unidade-3-variacao-linguistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/.gitkeep",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/.gitkeep",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_01_conceito-e-classificacao-dos-verbos.md",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_01_conceito-e-classificacao-dos-verbos.md",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_01_conceito-e-classificacao-dos-verbos.md",
+      "action": "already_identical",
+      "sha256": "b4d0fe99bb4426d1ace89063770e29f6b86afbe2b81978bdfdd190732c0f10a6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_02_verbos-auxiliares-e-locucoes-verbais.md",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_02_verbos-auxiliares-e-locucoes-verbais.md",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_02_verbos-auxiliares-e-locucoes-verbais.md",
+      "action": "already_identical",
+      "sha256": "89dec7019709118450db3cd4046971ea042902875937641c42c28f8a4325af79"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_03_modo-indicativo.md",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_03_modo-indicativo.md",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_03_modo-indicativo.md",
+      "action": "already_identical",
+      "sha256": "c57e3826d680ad53d0897eafa2dfe1321ea8da67337c4dfc5534bae169efb41d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_04_modo-subjuntivo-e-imperativo.md",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_04_modo-subjuntivo-e-imperativo.md",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/blueprint_capitulo_04_modo-subjuntivo-e-imperativo.md",
+      "action": "already_identical",
+      "sha256": "0bcb4fd78470fad4b7995a49c7e48f23726e3796ff9c5e1935ab80b6ad9fa034"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-4-verbo-classificacao-e-modos/blueprint_unidade.md",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "29b52edca852b226fbb761f46c6ba0205d339437c7707b5ff6fd0e35ca2ccf53"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-5-verbo-formas-e-vozes/.gitkeep",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-5-verbo-formas-e-vozes/.gitkeep",
+      "relative_path": "7ano/unidade-5-verbo-formas-e-vozes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-6-coesao-e-pontuacao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-6-coesao-e-pontuacao/.gitkeep",
+      "relative_path": "7ano/unidade-6-coesao-e-pontuacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-7-figuras-de-linguagem/.gitkeep",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-7-figuras-de-linguagem/.gitkeep",
+      "relative_path": "7ano/unidade-7-figuras-de-linguagem/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/7ano/unidade-8-sintaxe-da-oracao-e-periodo-composto/.gitkeep",
+      "destination": "Portugues 1/_blueprints/7ano/unidade-8-sintaxe-da-oracao-e-periodo-composto/.gitkeep",
+      "relative_path": "7ano/unidade-8-sintaxe-da-oracao-e-periodo-composto/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-1-semantica-sentido-das-palavras/.gitkeep",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-1-semantica-sentido-das-palavras/.gitkeep",
+      "relative_path": "8ano/unidade-1-semantica-sentido-das-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "relative_path": "8ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-3-morfologia-estrutura-e-formacao-de-palavras/.gitkeep",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-3-morfologia-estrutura-e-formacao-de-palavras/.gitkeep",
+      "relative_path": "8ano/unidade-3-morfologia-estrutura-e-formacao-de-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-4-introducao-a-sintaxe/.gitkeep",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-4-introducao-a-sintaxe/.gitkeep",
+      "relative_path": "8ano/unidade-4-introducao-a-sintaxe/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_01_frase-oracao-e-periodo.md",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_01_frase-oracao-e-periodo.md",
+      "relative_path": "8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_01_frase-oracao-e-periodo.md",
+      "action": "already_identical",
+      "sha256": "78444bb75db098779ec2a0d86e47774839e549e8154913f479de7884dfd7e91f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_02_variacao-linguistica.md",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_02_variacao-linguistica.md",
+      "relative_path": "8ano/unidade-4-introducao-a-sintaxe/blueprint_capitulo_02_variacao-linguistica.md",
+      "action": "already_identical",
+      "sha256": "9a8c90e2cb213de0a91e4df6e8d1684f2a2d876db27f9b4512bc17c5e0306a61"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-4-introducao-a-sintaxe/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-4-introducao-a-sintaxe/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-4-introducao-a-sintaxe/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "bdfaa2f7e3e6102a42ea1bed38469155f145dc336d5e90e82885ee347f677f27"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-5-termos-essenciais-da-oracao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-5-termos-essenciais-da-oracao/.gitkeep",
+      "relative_path": "8ano/unidade-5-termos-essenciais-da-oracao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-6-concordancia-verbal-e-nominal/.gitkeep",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-6-concordancia-verbal-e-nominal/.gitkeep",
+      "relative_path": "8ano/unidade-6-concordancia-verbal-e-nominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-7-termos-integrantes-da-oracao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-7-termos-integrantes-da-oracao/.gitkeep",
+      "relative_path": "8ano/unidade-7-termos-integrantes-da-oracao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/8ano/unidade-8-termos-acessorios-da-oracao/.gitkeep",
+      "destination": "Portugues 1/_blueprints/8ano/unidade-8-termos-acessorios-da-oracao/.gitkeep",
+      "relative_path": "8ano/unidade-8-termos-acessorios-da-oracao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-1-classes-gramaticais-e-vozes-verbais/.gitkeep",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-1-classes-gramaticais-e-vozes-verbais/.gitkeep",
+      "relative_path": "9ano/unidade-1-classes-gramaticais-e-vozes-verbais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-2-verbos-de-ligacao-e-predicativo/.gitkeep",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-2-verbos-de-ligacao-e-predicativo/.gitkeep",
+      "relative_path": "9ano/unidade-2-verbos-de-ligacao-e-predicativo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-3-regencia-verbal-e-nominal/.gitkeep",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-3-regencia-verbal-e-nominal/.gitkeep",
+      "relative_path": "9ano/unidade-3-regencia-verbal-e-nominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-4-periodo-composto/.gitkeep",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-4-periodo-composto/.gitkeep",
+      "relative_path": "9ano/unidade-4-periodo-composto/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-4-periodo-composto/blueprint_capitulo_01_conjuncoes-e-oracoes-coordenadas.md",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-4-periodo-composto/blueprint_capitulo_01_conjuncoes-e-oracoes-coordenadas.md",
+      "relative_path": "9ano/unidade-4-periodo-composto/blueprint_capitulo_01_conjuncoes-e-oracoes-coordenadas.md",
+      "action": "already_identical",
+      "sha256": "f15221f58273436a7c95efa2a124ea4c0c9acf953755b5983b3ead6bf1ed39b4"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-4-periodo-composto/blueprint_capitulo_02_conjuncoes-e-oracoes-subordinadas.md",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-4-periodo-composto/blueprint_capitulo_02_conjuncoes-e-oracoes-subordinadas.md",
+      "relative_path": "9ano/unidade-4-periodo-composto/blueprint_capitulo_02_conjuncoes-e-oracoes-subordinadas.md",
+      "action": "already_identical",
+      "sha256": "dee432cf368aeb8ad719df97708b854cb4bd28a09a9d4a65aa73fd6c6f367bb1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-4-periodo-composto/blueprint_capitulo_03_oracoes-adjetivas.md",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-4-periodo-composto/blueprint_capitulo_03_oracoes-adjetivas.md",
+      "relative_path": "9ano/unidade-4-periodo-composto/blueprint_capitulo_03_oracoes-adjetivas.md",
+      "action": "already_identical",
+      "sha256": "67f6f359d13d8b09f264af8537e3901c2a2923e82023177c6fa6c9b69a9bb99f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-4-periodo-composto/blueprint_unidade.md",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-4-periodo-composto/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-periodo-composto/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "b683d0e5a7d31b85b7053d4f14153b19fb714f2a71ca1944c74b5640fdaffc07"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-5-concordancia-verbal-e-nominal/.gitkeep",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-5-concordancia-verbal-e-nominal/.gitkeep",
+      "relative_path": "9ano/unidade-5-concordancia-verbal-e-nominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-6-colocacao-pronominal/.gitkeep",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-6-colocacao-pronominal/.gitkeep",
+      "relative_path": "9ano/unidade-6-colocacao-pronominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-7-crase-e-coesao-textual/.gitkeep",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-7-crase-e-coesao-textual/.gitkeep",
+      "relative_path": "9ano/unidade-7-crase-e-coesao-textual/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 1/9ano/unidade-8-pontuacao-ortografia-e-estrangeirismos/.gitkeep",
+      "destination": "Portugues 1/_blueprints/9ano/unidade-8-pontuacao-ortografia-e-estrangeirismos/.gitkeep",
+      "relative_path": "9ano/unidade-8-pontuacao-ortografia-e-estrangeirismos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1ano/unidade-1-consciencia-fonologica/.gitkeep",
+      "destination": "Portugues 1/1ano/unidade-1-consciencia-fonologica/.gitkeep",
+      "relative_path": "1ano/unidade-1-consciencia-fonologica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1ano/unidade-2-alfabeto/.gitkeep",
+      "destination": "Portugues 1/1ano/unidade-2-alfabeto/.gitkeep",
+      "relative_path": "1ano/unidade-2-alfabeto/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1ano/unidade-3-relacao-letra-som/.gitkeep",
+      "destination": "Portugues 1/1ano/unidade-3-relacao-letra-som/.gitkeep",
+      "relative_path": "1ano/unidade-3-relacao-letra-som/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1ano/unidade-4-manipulacao-fonologica/.gitkeep",
+      "destination": "Portugues 1/1ano/unidade-4-manipulacao-fonologica/.gitkeep",
+      "relative_path": "1ano/unidade-4-manipulacao-fonologica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1ano/unidade-5-direcao-da-escrita/.gitkeep",
+      "destination": "Portugues 1/1ano/unidade-5-direcao-da-escrita/.gitkeep",
+      "relative_path": "1ano/unidade-5-direcao-da-escrita/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1ano/unidade-6-segmentacao/.gitkeep",
+      "destination": "Portugues 1/1ano/unidade-6-segmentacao/.gitkeep",
+      "relative_path": "1ano/unidade-6-segmentacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1ano/unidade-7-ortografia-basica/.gitkeep",
+      "destination": "Portugues 1/1ano/unidade-7-ortografia-basica/.gitkeep",
+      "relative_path": "1ano/unidade-7-ortografia-basica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1ano/unidade-8-convencoes-da-escrita/.gitkeep",
+      "destination": "Portugues 1/1ano/unidade-8-convencoes-da-escrita/.gitkeep",
+      "relative_path": "1ano/unidade-8-convencoes-da-escrita/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1serie/unidade-1-fonetica-e-fonologia/.gitkeep",
+      "destination": "Portugues 1/1serie/unidade-1-fonetica-e-fonologia/.gitkeep",
+      "relative_path": "1serie/unidade-1-fonetica-e-fonologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1serie/unidade-2-ortografia-e-variacao-linguistica/.gitkeep",
+      "destination": "Portugues 1/1serie/unidade-2-ortografia-e-variacao-linguistica/.gitkeep",
+      "relative_path": "1serie/unidade-2-ortografia-e-variacao-linguistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1serie/unidade-3-morfologia-classes-gramaticais-i/.gitkeep",
+      "destination": "Portugues 1/1serie/unidade-3-morfologia-classes-gramaticais-i/.gitkeep",
+      "relative_path": "1serie/unidade-3-morfologia-classes-gramaticais-i/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1serie/unidade-4-estrutura-e-formacao-de-palavras/.gitkeep",
+      "destination": "Portugues 1/1serie/unidade-4-estrutura-e-formacao-de-palavras/.gitkeep",
+      "relative_path": "1serie/unidade-4-estrutura-e-formacao-de-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1serie/unidade-5-morfologia-classes-gramaticais-ii/.gitkeep",
+      "destination": "Portugues 1/1serie/unidade-5-morfologia-classes-gramaticais-ii/.gitkeep",
+      "relative_path": "1serie/unidade-5-morfologia-classes-gramaticais-ii/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1serie/unidade-6-sintaxe-introducao-e-termos-essenciais/.gitkeep",
+      "destination": "Portugues 1/1serie/unidade-6-sintaxe-introducao-e-termos-essenciais/.gitkeep",
+      "relative_path": "1serie/unidade-6-sintaxe-introducao-e-termos-essenciais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1serie/unidade-7-sintaxe-termos-integrantes-e-acessorios/.gitkeep",
+      "destination": "Portugues 1/1serie/unidade-7-sintaxe-termos-integrantes-e-acessorios/.gitkeep",
+      "relative_path": "1serie/unidade-7-sintaxe-termos-integrantes-e-acessorios/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/1serie/unidade-8-pontuacao-e-coesao-textual/.gitkeep",
+      "destination": "Portugues 1/1serie/unidade-8-pontuacao-e-coesao-textual/.gitkeep",
+      "relative_path": "1serie/unidade-8-pontuacao-e-coesao-textual/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2ano/unidade-1-fluencia-e-segmentacao/.gitkeep",
+      "destination": "Portugues 1/2ano/unidade-1-fluencia-e-segmentacao/.gitkeep",
+      "relative_path": "2ano/unidade-1-fluencia-e-segmentacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2ano/unidade-2-estruturas-silabicas/.gitkeep",
+      "destination": "Portugues 1/2ano/unidade-2-estruturas-silabicas/.gitkeep",
+      "relative_path": "2ano/unidade-2-estruturas-silabicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2ano/unidade-3-regularidades-diretas/.gitkeep",
+      "destination": "Portugues 1/2ano/unidade-3-regularidades-diretas/.gitkeep",
+      "relative_path": "2ano/unidade-3-regularidades-diretas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2ano/unidade-4-regularidades-contextuais-e-nasalidade/.gitkeep",
+      "destination": "Portugues 1/2ano/unidade-4-regularidades-contextuais-e-nasalidade/.gitkeep",
+      "relative_path": "2ano/unidade-4-regularidades-contextuais-e-nasalidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2ano/unidade-5-pontuacao-simples/.gitkeep",
+      "destination": "Portugues 1/2ano/unidade-5-pontuacao-simples/.gitkeep",
+      "relative_path": "2ano/unidade-5-pontuacao-simples/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2ano/unidade-6-formas-de-escrita/.gitkeep",
+      "destination": "Portugues 1/2ano/unidade-6-formas-de-escrita/.gitkeep",
+      "relative_path": "2ano/unidade-6-formas-de-escrita/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2ano/unidade-7-aumentativo-e-diminutivo/.gitkeep",
+      "destination": "Portugues 1/2ano/unidade-7-aumentativo-e-diminutivo/.gitkeep",
+      "relative_path": "2ano/unidade-7-aumentativo-e-diminutivo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2ano/unidade-8-sinonimos-e-antonimos/.gitkeep",
+      "destination": "Portugues 1/2ano/unidade-8-sinonimos-e-antonimos/.gitkeep",
+      "relative_path": "2ano/unidade-8-sinonimos-e-antonimos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2serie/unidade-1-concordancia-nominal/.gitkeep",
+      "destination": "Portugues 1/2serie/unidade-1-concordancia-nominal/.gitkeep",
+      "relative_path": "2serie/unidade-1-concordancia-nominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2serie/unidade-2-concordancia-verbal/.gitkeep",
+      "destination": "Portugues 1/2serie/unidade-2-concordancia-verbal/.gitkeep",
+      "relative_path": "2serie/unidade-2-concordancia-verbal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2serie/unidade-3-regencia-nominal-e-verbal/.gitkeep",
+      "destination": "Portugues 1/2serie/unidade-3-regencia-nominal-e-verbal/.gitkeep",
+      "relative_path": "2serie/unidade-3-regencia-nominal-e-verbal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2serie/unidade-4-crase/.gitkeep",
+      "destination": "Portugues 1/2serie/unidade-4-crase/.gitkeep",
+      "relative_path": "2serie/unidade-4-crase/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2serie/unidade-5-colocacao-pronominal/.gitkeep",
+      "destination": "Portugues 1/2serie/unidade-5-colocacao-pronominal/.gitkeep",
+      "relative_path": "2serie/unidade-5-colocacao-pronominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2serie/unidade-6-funcoes-do-que-e-do-se/.gitkeep",
+      "destination": "Portugues 1/2serie/unidade-6-funcoes-do-que-e-do-se/.gitkeep",
+      "relative_path": "2serie/unidade-6-funcoes-do-que-e-do-se/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2serie/unidade-7-conectivos-e-operadores-argumentativos/.gitkeep",
+      "destination": "Portugues 1/2serie/unidade-7-conectivos-e-operadores-argumentativos/.gitkeep",
+      "relative_path": "2serie/unidade-7-conectivos-e-operadores-argumentativos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/2serie/unidade-8-modalizacao-e-analise-linguistica-de-textos-argumentativos/.gitkeep",
+      "destination": "Portugues 1/2serie/unidade-8-modalizacao-e-analise-linguistica-de-textos-argumentativos/.gitkeep",
+      "relative_path": "2serie/unidade-8-modalizacao-e-analise-linguistica-de-textos-argumentativos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3ano/unidade-1-regularidades-contextuais/.gitkeep",
+      "destination": "Portugues 1/3ano/unidade-1-regularidades-contextuais/.gitkeep",
+      "relative_path": "3ano/unidade-1-regularidades-contextuais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3ano/unidade-2-estruturas-silabicas-e-digrafos/.gitkeep",
+      "destination": "Portugues 1/3ano/unidade-2-estruturas-silabicas-e-digrafos/.gitkeep",
+      "relative_path": "3ano/unidade-2-estruturas-silabicas-e-digrafos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3ano/unidade-3-classificacao-silabica/.gitkeep",
+      "destination": "Portugues 1/3ano/unidade-3-classificacao-silabica/.gitkeep",
+      "relative_path": "3ano/unidade-3-classificacao-silabica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3ano/unidade-4-acentuacao-e-dicionario/.gitkeep",
+      "destination": "Portugues 1/3ano/unidade-4-acentuacao-e-dicionario/.gitkeep",
+      "relative_path": "3ano/unidade-4-acentuacao-e-dicionario/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3ano/unidade-5-substantivos/.gitkeep",
+      "destination": "Portugues 1/3ano/unidade-5-substantivos/.gitkeep",
+      "relative_path": "3ano/unidade-5-substantivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3ano/unidade-6-verbos-e-adjetivos/.gitkeep",
+      "destination": "Portugues 1/3ano/unidade-6-verbos-e-adjetivos/.gitkeep",
+      "relative_path": "3ano/unidade-6-verbos-e-adjetivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3ano/unidade-7-artigos-pronomes-e-formacao-de-palavras/.gitkeep",
+      "destination": "Portugues 1/3ano/unidade-7-artigos-pronomes-e-formacao-de-palavras/.gitkeep",
+      "relative_path": "3ano/unidade-7-artigos-pronomes-e-formacao-de-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3ano/unidade-8-pontuacao/.gitkeep",
+      "destination": "Portugues 1/3ano/unidade-8-pontuacao/.gitkeep",
+      "relative_path": "3ano/unidade-8-pontuacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3serie/unidade-1-periodo-composto-por-coordenacao/.gitkeep",
+      "destination": "Portugues 1/3serie/unidade-1-periodo-composto-por-coordenacao/.gitkeep",
+      "relative_path": "3serie/unidade-1-periodo-composto-por-coordenacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3serie/unidade-2-periodo-composto-por-subordinacao-oracoes-substantivas/.gitkeep",
+      "destination": "Portugues 1/3serie/unidade-2-periodo-composto-por-subordinacao-oracoes-substantivas/.gitkeep",
+      "relative_path": "3serie/unidade-2-periodo-composto-por-subordinacao-oracoes-substantivas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3serie/unidade-3-oracoes-subordinadas-adjetivas/.gitkeep",
+      "destination": "Portugues 1/3serie/unidade-3-oracoes-subordinadas-adjetivas/.gitkeep",
+      "relative_path": "3serie/unidade-3-oracoes-subordinadas-adjetivas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3serie/unidade-4-oracoes-subordinadas-adverbiais/.gitkeep",
+      "destination": "Portugues 1/3serie/unidade-4-oracoes-subordinadas-adverbiais/.gitkeep",
+      "relative_path": "3serie/unidade-4-oracoes-subordinadas-adverbiais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3serie/unidade-5-semantica/.gitkeep",
+      "destination": "Portugues 1/3serie/unidade-5-semantica/.gitkeep",
+      "relative_path": "3serie/unidade-5-semantica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3serie/unidade-6-figuras-de-linguagem/.gitkeep",
+      "destination": "Portugues 1/3serie/unidade-6-figuras-de-linguagem/.gitkeep",
+      "relative_path": "3serie/unidade-6-figuras-de-linguagem/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3serie/unidade-7-funcoes-da-linguagem-e-analise-semiotica/.gitkeep",
+      "destination": "Portugues 1/3serie/unidade-7-funcoes-da-linguagem-e-analise-semiotica/.gitkeep",
+      "relative_path": "3serie/unidade-7-funcoes-da-linguagem-e-analise-semiotica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/3serie/unidade-8-interpretacao-de-texto-e-variacao-linguistica/.gitkeep",
+      "destination": "Portugues 1/3serie/unidade-8-interpretacao-de-texto-e-variacao-linguistica/.gitkeep",
+      "relative_path": "3serie/unidade-8-interpretacao-de-texto-e-variacao-linguistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/4ano/unidade-1-regularidades-complexas-i/.gitkeep",
+      "destination": "Portugues 1/4ano/unidade-1-regularidades-complexas-i/.gitkeep",
+      "relative_path": "4ano/unidade-1-regularidades-complexas-i/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/4ano/unidade-2-regularidades-complexas-ii-e-dicionario/.gitkeep",
+      "destination": "Portugues 1/4ano/unidade-2-regularidades-complexas-ii-e-dicionario/.gitkeep",
+      "relative_path": "4ano/unidade-2-regularidades-complexas-ii-e-dicionario/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/4ano/unidade-3-acentuacao-grafica/.gitkeep",
+      "destination": "Portugues 1/4ano/unidade-3-acentuacao-grafica/.gitkeep",
+      "relative_path": "4ano/unidade-3-acentuacao-grafica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/4ano/unidade-4-verbos/.gitkeep",
+      "destination": "Portugues 1/4ano/unidade-4-verbos/.gitkeep",
+      "relative_path": "4ano/unidade-4-verbos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/4ano/unidade-4-verbos/capitulo_01_tempos-verbais-do-indicativo.md",
+      "destination": "Portugues 1/4ano/unidade-4-verbos/capitulo_01_tempos-verbais-do-indicativo.md",
+      "relative_path": "4ano/unidade-4-verbos/capitulo_01_tempos-verbais-do-indicativo.md",
+      "action": "copied",
+      "sha256": "c76389b648965d92a9dcf8ced09afe152e3934e4f676cfc765d0aaf11361beb7"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/4ano/unidade-4-verbos/capitulo_02_concordancia-verbal.md",
+      "destination": "Portugues 1/4ano/unidade-4-verbos/capitulo_02_concordancia-verbal.md",
+      "relative_path": "4ano/unidade-4-verbos/capitulo_02_concordancia-verbal.md",
+      "action": "copied",
+      "sha256": "ad286784c59408d9a1fede373f9bddafb0ee64b4ceeea0860362e43e1b766de0"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/4ano/unidade-5-classes-gramaticais/.gitkeep",
+      "destination": "Portugues 1/4ano/unidade-5-classes-gramaticais/.gitkeep",
+      "relative_path": "4ano/unidade-5-classes-gramaticais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/4ano/unidade-6-pontuacao-ampliada/.gitkeep",
+      "destination": "Portugues 1/4ano/unidade-6-pontuacao-ampliada/.gitkeep",
+      "relative_path": "4ano/unidade-6-pontuacao-ampliada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/4ano/unidade-7-formacao-de-palavras/.gitkeep",
+      "destination": "Portugues 1/4ano/unidade-7-formacao-de-palavras/.gitkeep",
+      "relative_path": "4ano/unidade-7-formacao-de-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/4ano/unidade-8-concordancia-e-estrutura-frasal/.gitkeep",
+      "destination": "Portugues 1/4ano/unidade-8-concordancia-e-estrutura-frasal/.gitkeep",
+      "relative_path": "4ano/unidade-8-concordancia-e-estrutura-frasal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-1-ortografia-completa/.gitkeep",
+      "destination": "Portugues 1/5ano/unidade-1-ortografia-completa/.gitkeep",
+      "relative_path": "5ano/unidade-1-ortografia-completa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-2-homonimos-paronimos-e-polissemia/.gitkeep",
+      "destination": "Portugues 1/5ano/unidade-2-homonimos-paronimos-e-polissemia/.gitkeep",
+      "relative_path": "5ano/unidade-2-homonimos-paronimos-e-polissemia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-3-acentuacao-grafica-completa/.gitkeep",
+      "destination": "Portugues 1/5ano/unidade-3-acentuacao-grafica-completa/.gitkeep",
+      "relative_path": "5ano/unidade-3-acentuacao-grafica-completa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/.gitkeep",
+      "destination": "Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/.gitkeep",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/capitulo_01_preposicoes.md",
+      "destination": "Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/capitulo_01_preposicoes.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/capitulo_01_preposicoes.md",
+      "action": "copied",
+      "sha256": "8a2bed4bf7b26f0a74509c35e19a21f3ce537b25bfb14aae19ff8640aca12093"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/capitulo_02_interjeicoes.md",
+      "destination": "Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/capitulo_02_interjeicoes.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/capitulo_02_interjeicoes.md",
+      "action": "copied",
+      "sha256": "2a89cb5ecf6ea69e225267f412c0100dc3352fa9d5aa9de42b8f203b6c446f61"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/capitulo_03_conjuncoes-e-relacoes-semanticas.md",
+      "destination": "Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/capitulo_03_conjuncoes-e-relacoes-semanticas.md",
+      "relative_path": "5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/capitulo_03_conjuncoes-e-relacoes-semanticas.md",
+      "action": "copied",
+      "sha256": "d1e00fc717b2c36335017d290c10ed931de635adf7f8bb9846c7761b75d10f8a"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-5-sujeito-e-predicado/.gitkeep",
+      "destination": "Portugues 1/5ano/unidade-5-sujeito-e-predicado/.gitkeep",
+      "relative_path": "5ano/unidade-5-sujeito-e-predicado/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-6-complementos-e-verbos/.gitkeep",
+      "destination": "Portugues 1/5ano/unidade-6-complementos-e-verbos/.gitkeep",
+      "relative_path": "5ano/unidade-6-complementos-e-verbos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-7-pontuacao-avancada/.gitkeep",
+      "destination": "Portugues 1/5ano/unidade-7-pontuacao-avancada/.gitkeep",
+      "relative_path": "5ano/unidade-7-pontuacao-avancada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/5ano/unidade-8-variacao-linguistica/.gitkeep",
+      "destination": "Portugues 1/5ano/unidade-8-variacao-linguistica/.gitkeep",
+      "relative_path": "5ano/unidade-8-variacao-linguistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/6ano/unidade-1-fonologia/.gitkeep",
+      "destination": "Portugues 1/6ano/unidade-1-fonologia/.gitkeep",
+      "relative_path": "6ano/unidade-1-fonologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/6ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "destination": "Portugues 1/6ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "relative_path": "6ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/6ano/unidade-3-substantivo-e-artigo/.gitkeep",
+      "destination": "Portugues 1/6ano/unidade-3-substantivo-e-artigo/.gitkeep",
+      "relative_path": "6ano/unidade-3-substantivo-e-artigo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/.gitkeep",
+      "destination": "Portugues 1/6ano/unidade-4-adjetivo-numeral-e-coesao/.gitkeep",
+      "relative_path": "6ano/unidade-4-adjetivo-numeral-e-coesao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/6ano/unidade-5-pronome/.gitkeep",
+      "destination": "Portugues 1/6ano/unidade-5-pronome/.gitkeep",
+      "relative_path": "6ano/unidade-5-pronome/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/6ano/unidade-6-verbo/.gitkeep",
+      "destination": "Portugues 1/6ano/unidade-6-verbo/.gitkeep",
+      "relative_path": "6ano/unidade-6-verbo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/6ano/unidade-7-sintaxe/.gitkeep",
+      "destination": "Portugues 1/6ano/unidade-7-sintaxe/.gitkeep",
+      "relative_path": "6ano/unidade-7-sintaxe/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/6ano/unidade-8-ortografia-e-pontuacao/.gitkeep",
+      "destination": "Portugues 1/6ano/unidade-8-ortografia-e-pontuacao/.gitkeep",
+      "relative_path": "6ano/unidade-8-ortografia-e-pontuacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/7ano/unidade-1-ortografia-e-acentuacao/.gitkeep",
+      "destination": "Portugues 1/7ano/unidade-1-ortografia-e-acentuacao/.gitkeep",
+      "relative_path": "7ano/unidade-1-ortografia-e-acentuacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/7ano/unidade-2-classes-invariaveis/.gitkeep",
+      "destination": "Portugues 1/7ano/unidade-2-classes-invariaveis/.gitkeep",
+      "relative_path": "7ano/unidade-2-classes-invariaveis/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/7ano/unidade-3-variacao-linguistica/.gitkeep",
+      "destination": "Portugues 1/7ano/unidade-3-variacao-linguistica/.gitkeep",
+      "relative_path": "7ano/unidade-3-variacao-linguistica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/.gitkeep",
+      "destination": "Portugues 1/7ano/unidade-4-verbo-classificacao-e-modos/.gitkeep",
+      "relative_path": "7ano/unidade-4-verbo-classificacao-e-modos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/7ano/unidade-5-verbo-formas-e-vozes/.gitkeep",
+      "destination": "Portugues 1/7ano/unidade-5-verbo-formas-e-vozes/.gitkeep",
+      "relative_path": "7ano/unidade-5-verbo-formas-e-vozes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/7ano/unidade-6-coesao-e-pontuacao/.gitkeep",
+      "destination": "Portugues 1/7ano/unidade-6-coesao-e-pontuacao/.gitkeep",
+      "relative_path": "7ano/unidade-6-coesao-e-pontuacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/7ano/unidade-7-figuras-de-linguagem/.gitkeep",
+      "destination": "Portugues 1/7ano/unidade-7-figuras-de-linguagem/.gitkeep",
+      "relative_path": "7ano/unidade-7-figuras-de-linguagem/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/7ano/unidade-8-sintaxe-da-oracao-e-periodo-composto/.gitkeep",
+      "destination": "Portugues 1/7ano/unidade-8-sintaxe-da-oracao-e-periodo-composto/.gitkeep",
+      "relative_path": "7ano/unidade-8-sintaxe-da-oracao-e-periodo-composto/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/8ano/unidade-1-semantica-sentido-das-palavras/.gitkeep",
+      "destination": "Portugues 1/8ano/unidade-1-semantica-sentido-das-palavras/.gitkeep",
+      "relative_path": "8ano/unidade-1-semantica-sentido-das-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/8ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "destination": "Portugues 1/8ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "relative_path": "8ano/unidade-2-semantica-relacoes-entre-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/8ano/unidade-3-morfologia-estrutura-e-formacao-de-palavras/.gitkeep",
+      "destination": "Portugues 1/8ano/unidade-3-morfologia-estrutura-e-formacao-de-palavras/.gitkeep",
+      "relative_path": "8ano/unidade-3-morfologia-estrutura-e-formacao-de-palavras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/8ano/unidade-4-introducao-a-sintaxe/.gitkeep",
+      "destination": "Portugues 1/8ano/unidade-4-introducao-a-sintaxe/.gitkeep",
+      "relative_path": "8ano/unidade-4-introducao-a-sintaxe/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/8ano/unidade-5-termos-essenciais-da-oracao/.gitkeep",
+      "destination": "Portugues 1/8ano/unidade-5-termos-essenciais-da-oracao/.gitkeep",
+      "relative_path": "8ano/unidade-5-termos-essenciais-da-oracao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/8ano/unidade-6-concordancia-verbal-e-nominal/.gitkeep",
+      "destination": "Portugues 1/8ano/unidade-6-concordancia-verbal-e-nominal/.gitkeep",
+      "relative_path": "8ano/unidade-6-concordancia-verbal-e-nominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/8ano/unidade-7-termos-integrantes-da-oracao/.gitkeep",
+      "destination": "Portugues 1/8ano/unidade-7-termos-integrantes-da-oracao/.gitkeep",
+      "relative_path": "8ano/unidade-7-termos-integrantes-da-oracao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/8ano/unidade-8-termos-acessorios-da-oracao/.gitkeep",
+      "destination": "Portugues 1/8ano/unidade-8-termos-acessorios-da-oracao/.gitkeep",
+      "relative_path": "8ano/unidade-8-termos-acessorios-da-oracao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/9ano/unidade-1-classes-gramaticais-e-vozes-verbais/.gitkeep",
+      "destination": "Portugues 1/9ano/unidade-1-classes-gramaticais-e-vozes-verbais/.gitkeep",
+      "relative_path": "9ano/unidade-1-classes-gramaticais-e-vozes-verbais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/9ano/unidade-2-verbos-de-ligacao-e-predicativo/.gitkeep",
+      "destination": "Portugues 1/9ano/unidade-2-verbos-de-ligacao-e-predicativo/.gitkeep",
+      "relative_path": "9ano/unidade-2-verbos-de-ligacao-e-predicativo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/9ano/unidade-3-regencia-verbal-e-nominal/.gitkeep",
+      "destination": "Portugues 1/9ano/unidade-3-regencia-verbal-e-nominal/.gitkeep",
+      "relative_path": "9ano/unidade-3-regencia-verbal-e-nominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/9ano/unidade-4-periodo-composto/.gitkeep",
+      "destination": "Portugues 1/9ano/unidade-4-periodo-composto/.gitkeep",
+      "relative_path": "9ano/unidade-4-periodo-composto/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/9ano/unidade-5-concordancia-verbal-e-nominal/.gitkeep",
+      "destination": "Portugues 1/9ano/unidade-5-concordancia-verbal-e-nominal/.gitkeep",
+      "relative_path": "9ano/unidade-5-concordancia-verbal-e-nominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/9ano/unidade-6-colocacao-pronominal/.gitkeep",
+      "destination": "Portugues 1/9ano/unidade-6-colocacao-pronominal/.gitkeep",
+      "relative_path": "9ano/unidade-6-colocacao-pronominal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/9ano/unidade-7-crase-e-coesao-textual/.gitkeep",
+      "destination": "Portugues 1/9ano/unidade-7-crase-e-coesao-textual/.gitkeep",
+      "relative_path": "9ano/unidade-7-crase-e-coesao-textual/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 1/9ano/unidade-8-pontuacao-ortografia-e-estrangeirismos/.gitkeep",
+      "destination": "Portugues 1/9ano/unidade-8-pontuacao-ortografia-e-estrangeirismos/.gitkeep",
+      "relative_path": "9ano/unidade-8-pontuacao-ortografia-e-estrangeirismos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Português/1serie/Unidade 3 - Morfologia: Classes Gramaticais I/Unidade 3 - Morfologia: Classes Gramaticais I - 1ª Série.gdoc",
+      "destination": "Portugues 1/1serie/Unidade 3 - Morfologia: Classes Gramaticais I/Unidade 3 - Morfologia: Classes Gramaticais I - 1ª Série.gdoc",
+      "relative_path": "1serie/Unidade 3 - Morfologia: Classes Gramaticais I/Unidade 3 - Morfologia: Classes Gramaticais I - 1ª Série.gdoc",
+      "action": "copied",
+      "sha256": "0ab5256bd41d796758eebf086ca3b2a03c9f02c4bc05dff69845b84ff8210fff"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Português/2serie/Unidade 3 - Regência Nominal e Verbal/Unidade 3 — Regência Nominal e Verbal .gdoc",
+      "destination": "Portugues 1/2serie/Unidade 3 - Regência Nominal e Verbal/Unidade 3 — Regência Nominal e Verbal .gdoc",
+      "relative_path": "2serie/Unidade 3 - Regência Nominal e Verbal/Unidade 3 — Regência Nominal e Verbal .gdoc",
+      "action": "copied",
+      "sha256": "39be85663ef843001f60545686aea9f1f16363db2396c30faeb1320343f773d6"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Português/4ano/Unidade 3 - Acentuação Gráfica/Unidade 3 — Acentuação Gráfica | 4º Ano.gdoc",
+      "destination": "Portugues 1/4ano/Unidade 3 - Acentuação Gráfica/Unidade 3 — Acentuação Gráfica | 4º Ano.gdoc",
+      "relative_path": "4ano/Unidade 3 - Acentuação Gráfica/Unidade 3 — Acentuação Gráfica | 4º Ano.gdoc",
+      "action": "copied",
+      "sha256": "52f512294de728defbb3d1120afb8f658a1fe4b81de78226243cd6937ad648a1"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Português/5ano/Unidade 3 - Acentuação Gráfica Completa/Unidade 3 - Acentuação Gráfica Completa.gdoc",
+      "destination": "Portugues 1/5ano/Unidade 3 - Acentuação Gráfica Completa/Unidade 3 - Acentuação Gráfica Completa.gdoc",
+      "relative_path": "5ano/Unidade 3 - Acentuação Gráfica Completa/Unidade 3 - Acentuação Gráfica Completa.gdoc",
+      "action": "copied",
+      "sha256": "2336891fb6086d4eefdb0b148902480447c5337260aba69ca112d5d2dc341a3c"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Português/7ano/Unidade 3 - Variação Linguística/Unidade 3— Variação Linguística.gdoc",
+      "destination": "Portugues 1/7ano/Unidade 3 - Variação Linguística/Unidade 3— Variação Linguística.gdoc",
+      "relative_path": "7ano/Unidade 3 - Variação Linguística/Unidade 3— Variação Linguística.gdoc",
+      "action": "copied",
+      "sha256": "ef51f7d2f463d1c1c5539ead3f897e75db3008bdf99daa147f52f74f6a9a5769"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Português/8ano/Unidade 3 - Morfologia: Estrutura e Formação de Palavras/Unidade 3 - Morfologia: Estrutura e Formação de Palavras - 8º Ano.gdoc",
+      "destination": "Portugues 1/8ano/Unidade 3 - Morfologia: Estrutura e Formação de Palavras/Unidade 3 - Morfologia: Estrutura e Formação de Palavras - 8º Ano.gdoc",
+      "relative_path": "8ano/Unidade 3 - Morfologia: Estrutura e Formação de Palavras/Unidade 3 - Morfologia: Estrutura e Formação de Palavras - 8º Ano.gdoc",
+      "action": "copied",
+      "sha256": "b6058a2e190b76803a99cd250621d13fa09e0598baefbf34d116638b7ab6c21d"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Português/9ano/Unidade 3 - Regência Verbal e Nominal/Unidade 3 - Regência Verbal e Nominal .gdoc",
+      "destination": "Portugues 1/9ano/Unidade 3 - Regência Verbal e Nominal/Unidade 3 - Regência Verbal e Nominal .gdoc",
+      "relative_path": "9ano/Unidade 3 - Regência Verbal e Nominal/Unidade 3 - Regência Verbal e Nominal .gdoc",
+      "action": "copied",
+      "sha256": "cdd4d8b5a83ea62ed7447ef9041a022b14f029c211d7e31d48645ec6332aa5d6"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Portugues 1/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": [
+    "Portugues 1/4ano/unidade-4-verbos/metadata.json",
+    "Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/metadata.json"
+  ]
+}

@@ -1,4 +1,4 @@
-# Capítulo 2 — Concordância Verbal
+# CAPÍTULO 2 — CONCORDÂNCIA VERBAL
 
 ---
 
@@ -6,208 +6,133 @@
 
 ## ***"As crianças foi ao parque" ou "as crianças foram ao parque"? Por quê?***
 
-A turma revisou um bilhete coletivo e encontrou a frase "os alunos entregou os livros". Na escrita formal, eles perceberam que o verbo precisava combinar com "os alunos".
+A turma estava revisando um bilhete escrito juntos quando notou que "os alunos entregou as tarefas" não combinava. Trocaram para "os alunos entregaram as tarefas" e o bilhete ficou pronto para ser entregue à diretora.
 
 ## 1. Quem Manda no Verbo?
 
-O sujeito orienta a forma do verbo em frases simples.
+O verbo só fica certo na escrita formal quando combina com quem pratica a ação.
 
 ### 1.1 Como encontrar o sujeito
 
-**Sujeito** é o termo da frase que indica de quem ou de que se fala. Para encontrá-lo, pergunte "quem + verbo?".
+O **sujeito** é o termo da frase que indica de quem ou de que se fala. Para encontrar o sujeito, faça a pergunta "quem + verbo?" diante da ação.
 
 Observe as frases:
 
-- *A professora **explicou** a atividade.*  
-  (sujeito: a professora — quem explicou?)
-- *Os livros **ficaram** na mochila.*  
-  (sujeito: os livros — o que ficou?)
+- *Os meninos **chegaram** cedo na escola.*  
+  (sujeito = os meninos — quem chegou? os meninos)
+- *A professora **explicou** a tarefa com calma.*  
+  (sujeito = a professora — quem explicou? a professora)
 
 ### 1.2 Pessoa e número na frase
 
-**Pessoa verbal** mostra se falamos de eu, você, ele/ela, nós ou eles/elas. **Número verbal** mostra singular ou plural.
+A **pessoa verbal** mostra se falamos de eu, você, ele/ela, nós ou eles/elas. O **número verbal** mostra se a ação é de uma pessoa só (singular) ou de mais de uma (plural).
 
 Compare os usos:
 
-- *Eu **corro** no recreio.*  
-  (1ª pessoa do singular — quem fala pratica a ação)
-- *Nós **corremos** na quadra.*  
-  (1ª pessoa do plural — quem fala faz parte do grupo)
-
-> 💡 **Dica:**  
-> Antes de escolher o verbo, encontre o sujeito e veja se ele indica uma pessoa ou várias.
-
-| Pergunta | Resposta | Forma do verbo |
-|---|---|---|
-| Quem entregou? | o aluno | entregou |
-| Quem entregou? | os alunos | entregaram |
-
-## 2. Concordância com Substantivo
-
-O verbo concorda com o substantivo que funciona como sujeito.
-
-### 2.1 Quando o sujeito está no singular
-
-**Substantivo** é a palavra que nomeia seres, lugares, objetos, sentimentos ou ideias. Quando o sujeito está no singular, o verbo também fica no singular.
-
-Observe as frases:
-
-- *A menina **canta** no coral.*  
-  (concordância verbal — sujeito singular e verbo singular)
-- *O cachorro **correu** pelo quintal.*  
-  (concordância verbal — sujeito singular e verbo singular)
-
-### 2.2 Quando o sujeito está no plural
-
-Quando o sujeito está no plural, o verbo precisa mostrar plural na escrita formal. Essa combinação se chama **concordância verbal**.
-
-Veja a diferença:
-
-- *As meninas **cantam** no coral.*  
-  (concordância verbal — sujeito plural e verbo plural)
-- *Os cachorros **correram** pelo quintal.*  
-  (concordância verbal — sujeito plural e verbo plural)
-
-> ⚠️ **Atenção:**  
-> Na escrita formal, escrevemos "as crianças foram" porque o sujeito está no plural.
-
-| Antes da revisão | Escrita formal |
-|---|---|
-| As crianças foi ao parque. | As crianças foram ao parque. |
-| Os alunos entregou os livros. | Os alunos entregaram os livros. |
-| Minhas amigas brinca no pátio. | Minhas amigas brincam no pátio. |
-
-## 3. Concordância com Pronome Pessoal
-
-O pronome pessoal também orienta a forma do verbo.
-
-### 3.1 Eu, nós, ele e eles
-
-**Pronome pessoal** é uma palavra que indica ou substitui a pessoa da frase. O verbo muda quando o pronome muda.
-
-Compare os usos:
-
-- *Eu **fui** à biblioteca depois da aula.*  
-  (pronome pessoal — 1ª pessoa do singular)
-- *Nós **fomos** à biblioteca depois da aula.*  
-  (pronome pessoal — 1ª pessoa do plural)
-
-### 3.2 Por que "você" combina com 3ª pessoa
-
-O pronome **você** se refere à pessoa com quem falamos, mas usa verbo de 3ª pessoa. Por isso, na escrita formal, dizemos "você corre", "você correu" e "você correrá".
-
-Observe as frases:
-
-- *Você **canta** muito bem.*  
-  (você — usa verbo de 3ª pessoa do singular)
-- *Eles **cantam** muito bem.*  
-  (eles — usa verbo de 3ª pessoa do plural)
+- *Eu **canto** no coral.*  
+  (1ª pessoa do singular — uma só pessoa)
+- *Nós **cantamos** no coral.*  
+  (1ª pessoa do plural — mais de uma pessoa)
 
 > ✅ **Concordância verbal:**  
 > O verbo combina com o sujeito em pessoa e número.
 
-| Pronome | Verbo cantar | Verbo vender | Verbo partir |
-|---|---|---|---|
-| eu | canto | vendo | parto |
-| você | canta | vende | parte |
-| ele/ela | canta | vende | parte |
-| nós | cantamos | vendemos | partimos |
-| eles/elas | cantam | vendem | partem |
+## 2. Concordância com Substantivo
 
-## 4. Fala Cotidiana e Escrita Formal
+Quando o sujeito é um substantivo, o verbo segue o número desse substantivo.
 
-A fala varia entre regiões, famílias e situações, mas a escrita formal segue combinações esperadas.
+### 2.1 Quando o sujeito está no singular
 
-### 4.1 Como revisar sem ridicularizar
+Se o sujeito está no singular, o verbo também fica no singular. A frase mostra uma só pessoa, lugar, animal ou coisa praticando a ação.
 
-Uma forma da fala pode ser compreendida no dia a dia e, ainda assim, precisar de ajuste em um texto escolar. Corrigir a escrita formal não significa julgar a pessoa que falou.
+Observe:
 
-Observe as frases:
+- *A menina **canta** na apresentação da escola.*  
+  (sujeito singular — verbo singular)
+- *O cachorro **late** quando o portão abre.*  
+  (sujeito singular — verbo singular)
 
-- *A gente **vai** organizar a sala.*  
-  (escrita formal — "a gente" usa verbo no singular)
-- *Nós **vamos** organizar a sala.*  
-  (escrita formal — "nós" usa verbo no plural)
+### 2.2 Quando o sujeito está no plural
 
-### 4.2 Como explicar a correção
+Se o sujeito está no plural, o verbo também vai para o plural. A frase mostra mais de uma pessoa, lugar, animal ou coisa.
 
-Ao revisar, diga qual é o sujeito e por que o verbo mudou. A explicação fica mais clara quando usamos a pergunta "quem fez?".
+Veja a comparação:
 
-Veja a revisão:
+- *As meninas **cantam** na apresentação da escola.*  
+  (sujeito plural — verbo plural)
+- *Os cachorros **latem** quando o portão abre.*  
+  (sujeito plural — verbo plural)
 
-- *As crianças **foram** ao parque.*  
-  (correção — sujeito plural pede verbo plural)
-- *O aluno **entregou** o bilhete.*  
-  (correção — sujeito singular pede verbo singular)
+| Singular | Plural |
+|---|---|
+| O aluno escreveu o bilhete. | Os alunos escreveram o bilhete. |
+| A criança correu no pátio. | As crianças correram no pátio. |
+| O passarinho voou para longe. | Os passarinhos voaram para longe. |
 
-> 📌 **Aplicação prática:**  
-> Em textos escolares, revise cada frase perguntando quem praticou a ação.
+> 💡 **Dica:**  
+> Antes de escolher o verbo, conte quantos: se for um, singular; se for mais de um, plural.
 
-## 5. Sua Parte
+## 3. Concordância com Pronome Pessoal
 
-As atividades mostram se você encontra o sujeito, escolhe o verbo correto e corrige frases para a escrita formal.
+Pronomes pessoais como eu, nós, ele e eles também orientam a forma do verbo.
 
-### 5.1 Objetivos em ação
+### 3.1 Eu, nós, ele e eles
 
-Ao final do estudo, você deverá identificar o sujeito com a pergunta "quem + verbo?", aplicar concordância com substantivos e pronomes e corrigir frases simples para a escrita formal. Os indicadores aparecem quando você sublinha sujeito e verbo, completa a forma verbal correta e justifica a correção.
+O **pronome pessoal** é a palavra que substitui ou acompanha a pessoa do discurso. Cada pronome pede uma forma verbal diferente.
 
-Habilidade trabalhada: **EF04LP14**.
+Compare os usos:
 
-### 5.2 Sublinhe sujeito e verbo
+- *Eu **corro** no parque toda manhã.*  
+  (1ª pessoa do singular — eu)
+- *Nós **corremos** no parque toda manhã.*  
+  (1ª pessoa do plural — nós)
 
-Copie as frases e sublinhe o sujeito e o verbo.
+| Pronome | Cantar | Correr |
+|---|---|---|
+| eu | canto | corro |
+| ele/ela | canta | corre |
+| nós | cantamos | corremos |
+| eles/elas | cantam | correm |
 
-- *A turma terminou o cartaz.*
-- *Os amigos jogaram no recreio.*
-- *Eu escrevi uma carta.*
-- *Nós lemos o aviso da escola.*
+### 3.2 Por que "você" combina com verbo de 3ª pessoa
 
-### 5.3 Complete com a forma correta
+A palavra **você** se refere à pessoa com quem se fala, mas, na escrita formal, ela pede o verbo na 3ª pessoa do singular — a mesma forma usada com ele ou ela.
 
-Escolha a forma verbal que combina com o sujeito.
+Veja a diferença:
 
-- A menina ___ cedo. (acordou / acordaram)
-- As meninas ___ cedo. (acordou / acordaram)
-- Eu ___ o livro. (li / leu)
-- Você ___ o livro. (li / leu)
-- Nós ___ a sala. (organizou / organizamos)
+- *Você **canta** muito bem.*  
+  (verbo na 3ª pessoa do singular — mesma forma de "ele canta")
+- *Vocês **cantam** muito bem.*  
+  (verbo na 3ª pessoa do plural — mesma forma de "eles cantam")
 
-### 5.4 Corrija para a escrita formal
-
-Reescreva as frases e explique a correção com uma justificativa curta.
-
-- *As crianças foi ao parque.*
-- *Os alunos entregou os livros.*
-- *Nós brinca na quadra.*
-- *Você venderam os bilhetes.*
+> ⚠️ **Atenção:**  
+> Mesmo falando com a pessoa, "você" pede o verbo igual ao de "ele" ou "ela".
 
 ---
 
 ## A LÍNGUA NO DIA A DIA
 
-Ao escrever bilhetes, histórias e respostas de prova, a concordância ajuda o leitor a saber quem praticou a ação; primeiro descubra o sujeito e depois escolha o verbo que combina com ele.
-
-Manuel Said Ali Ida (1861–1953), linguista e gramático brasileiro de origem síria, estudou a língua observando a norma e os usos reais do português.
+Quando alguém escreve "as crianças foi ao parque", a fala pode até soar familiar, mas a escrita formal pede "as crianças foram ao parque" — combinando o verbo com o sujeito plural. Manuel Said Ali (1861–1953), linguista brasileiro nascido em Petrópolis, estudou tanto as regras da norma quanto os usos reais da língua e ajudou a descrever a sintaxe do português no Brasil.
 
 ---
 
 ## E A BÍBLIA NISSO?
 
-> *"Quem é fiel no pouco também é fiel no muito."*  
+> *"Quem é fiel no pouco também é fiel no muito; e quem é injusto no pouco também é injusto no muito."*  
 > — **Lucas 16:10**
 
-A concordância verbal pede coerência entre quem age e o que se diz. Daniel manteve firmeza entre suas palavras e suas ações.
+A concordância entre sujeito e verbo é uma forma simples de coerência: o verbo precisa responder a quem pratica a ação, sem invenção. Cuidar dos pequenos ajustes da escrita é parte de cuidar da clareza no relato.
 
-> 💬 **Para Conversar:** Como a coerência entre sujeito e verbo ajuda a deixar uma frase mais clara?
+> 💬 **Para Conversar:** Em que outros momentos do dia a dia você precisa fazer pequenos ajustes para que o que você diz combine com o que você faz?
 
 ---
 
 ## Simplificando
 
-Para escolher o verbo, encontre o sujeito e veja se ele está no singular ou no plural. Com substantivos e pronomes pessoais, a escrita formal pede que o verbo combine com a pessoa e o número do sujeito.
+Para acertar a concordância verbal, encontre o sujeito com a pergunta "quem + verbo?", veja se ele é singular ou plural e escolha a forma do verbo que combina com a pessoa e o número.
 
 ## Para não esquecer
 
-- **Sujeito** — quem ou o que orienta o verbo
-- **Singular e plural** — uma pessoa ou várias
-- **Você** — sentido de conversa, verbo de 3ª pessoa
+- **Sujeito** — descubra com "quem + verbo?"
+- **Singular × plural** — verbo segue o número do sujeito
+- **Você** — pede verbo de 3ª pessoa, igual a "ele/ela"

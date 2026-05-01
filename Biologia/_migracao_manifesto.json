@@ -1,0 +1,1006 @@
+{
+  "discipline": "Biologia",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_biologia"
+    ],
+    "blueprints": [
+      "Blueprints/biologia",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Biologia"
+    ],
+    "contents": [
+      "Conteudos Prontos/Biologia",
+      "Unidade 3-/Biologia"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_biologia": {
+      "copied": 4,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::Blueprints::biologia": {
+      "copied": 19,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 1
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Biologia": {
+      "copied": 28,
+      "already_identical": 19,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Biologia": {
+      "copied": 31,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Biologia": {
+      "copied": 3,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_biologia/_shared/lib_common.sh",
+      "destination": "Biologia/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_biologia/CLAUDE.md",
+      "destination": "Biologia/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "6e1ebcdbc9ecc2c779d49d88407e1566c2c8c3d7a2e808ace3c10c5d8f9ee624"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_biologia/prompt-autor.md",
+      "destination": "Biologia/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "ff42f282ed4e0490a05f898d9bf485fda420faddd6237e5b3811f73b1cba77aa"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_biologia/scripts/criar_capitulos.sh",
+      "destination": "Biologia/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "5dfbaf0bae1c64e1bfe233dccf2198f201fad81e82812536f25b70472223962a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/.DS_Store",
+      "destination": null,
+      "relative_path": ".DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_01_proteinas-estrutura-e-funcao.md",
+      "destination": "Biologia/_blueprints/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_01_proteinas-estrutura-e-funcao.md",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_01_proteinas-estrutura-e-funcao.md",
+      "action": "copied",
+      "sha256": "6281f9ae99e081b546e4715ab680350788f66c876134dc327627f76419473b75"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_02_enzimas-catalisadores-biologicos.md",
+      "destination": "Biologia/_blueprints/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_02_enzimas-catalisadores-biologicos.md",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_02_enzimas-catalisadores-biologicos.md",
+      "action": "copied",
+      "sha256": "47dedd3ed6604a6c20863f403ce8bcf5c7ff91e097635b3ce78a3475a5ace7cf"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_03_origem-da-vida-na-terra.md",
+      "destination": "Biologia/_blueprints/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_03_origem-da-vida-na-terra.md",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_03_origem-da-vida-na-terra.md",
+      "action": "copied",
+      "sha256": "c904a924b9f80398733a1015a071f8f1a62e8a9d1e6350b36a61cef65fc1e635"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_04_teorias-historicas-sobre-origem-da-vida.md",
+      "destination": "Biologia/_blueprints/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_04_teorias-historicas-sobre-origem-da-vida.md",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_04_teorias-historicas-sobre-origem-da-vida.md",
+      "action": "copied",
+      "sha256": "37932eaaa1ba5cd6510880c33ea6a07719a496781cffcc591849495ce0f76d99"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/1serie/unidade-4-bioquimica-celular-ii/blueprint_unidade.md",
+      "destination": "Biologia/_blueprints/1serie/unidade-4-bioquimica-celular-ii/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "2cf84a6e91eccc0ae80749da3d1339339d63a5743c3c6dbc23728d8e0295a083"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_01_conceitos-fundamentais.md",
+      "destination": "Biologia/_blueprints/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_01_conceitos-fundamentais.md",
+      "relative_path": "2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_01_conceitos-fundamentais.md",
+      "action": "copied",
+      "sha256": "d8ee3c92644f14f73a8fd701111dadb879f0e99011cd61c714916997ad236ad6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_02_primeira-lei-de-mendel.md",
+      "destination": "Biologia/_blueprints/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_02_primeira-lei-de-mendel.md",
+      "relative_path": "2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_02_primeira-lei-de-mendel.md",
+      "action": "copied",
+      "sha256": "681b1c96514973645fdb6dc6517cb91479e0032e9459222dc386af4a29a10dea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_03_segunda-lei-de-mendel.md",
+      "destination": "Biologia/_blueprints/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_03_segunda-lei-de-mendel.md",
+      "relative_path": "2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_03_segunda-lei-de-mendel.md",
+      "action": "copied",
+      "sha256": "b62f8995d30d32dc14e77830e9d1d0ff69ba7a4d48b329fada373ca87bcd10f6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/2serie/unidade-4-genetica-mendeliana/blueprint_unidade.md",
+      "destination": "Biologia/_blueprints/2serie/unidade-4-genetica-mendeliana/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-genetica-mendeliana/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "fbe9090d9bb2b5562c0f2f127165910dc64886ffb69bf3b1b990e8b734f89997"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/3serie/unidade-4-genetica-molecular-avancada/.gitkeep",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/.gitkeep",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_01_regulacao-da-expressao-genica.md",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_01_regulacao-da-expressao-genica.md",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_01_regulacao-da-expressao-genica.md",
+      "action": "copied",
+      "sha256": "a950791994493b612cd50c4a970a7f95eea9de886a7368d5c49a86334f872f0a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_02_epigenetica.md",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_02_epigenetica.md",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_02_epigenetica.md",
+      "action": "copied",
+      "sha256": "eeb047e7b3f513a84d4dc84cd001f4c4f4c6bcf8292a5968dcd805146577b9b0"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_03_mutacoes-e-variabilidade.md",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_03_mutacoes-e-variabilidade.md",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_03_mutacoes-e-variabilidade.md",
+      "action": "copied",
+      "sha256": "6be5f7a5ed02f941fcda93f52a0471b5420dacef0b0d72886acf2527098e556a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_04_biotecnologia-basica.md",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_04_biotecnologia-basica.md",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_04_biotecnologia-basica.md",
+      "action": "copied",
+      "sha256": "12a5c67609b2a55fbbfdf05311b5111328add44e2cb5b0600c0a34c350454bd3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/3serie/unidade-4-genetica-molecular-avancada/blueprint_unidade.md",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "597f2e379257725334e989f9319d8a7a9fed6695602fdbaaca174e7f452c43ee"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_01_segunda-lei-de-mendel.md",
+      "destination": "Biologia/_blueprints/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_01_segunda-lei-de-mendel.md",
+      "relative_path": "9ano/unidade-4-genetica-aplicada/blueprint_capitulo_01_segunda-lei-de-mendel.md",
+      "action": "copied",
+      "sha256": "7c8291641f0ca55289500b047d4d197d7832953cc2ffc7f19225859b33f12a29"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_02_heredogramas-e-genetica-humana.md",
+      "destination": "Biologia/_blueprints/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_02_heredogramas-e-genetica-humana.md",
+      "relative_path": "9ano/unidade-4-genetica-aplicada/blueprint_capitulo_02_heredogramas-e-genetica-humana.md",
+      "action": "copied",
+      "sha256": "eea83d9d4428f79636c9b3a48d91b2c0af4ce08bc21cd3c705a94769bb478312"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_03_mutacoes.md",
+      "destination": "Biologia/_blueprints/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_03_mutacoes.md",
+      "relative_path": "9ano/unidade-4-genetica-aplicada/blueprint_capitulo_03_mutacoes.md",
+      "action": "copied",
+      "sha256": "b2e7b410eb38f95c653bcaf44b89802d23715a73a772cd2c5fc781ba3239d680"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/biologia/9ano/unidade-4-genetica-aplicada/blueprint_unidade.md",
+      "destination": "Biologia/_blueprints/9ano/unidade-4-genetica-aplicada/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-genetica-aplicada/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "d1ca6e7bdb10994dc08e369e1e82584858c9eac93c441b4e713dc3b02626fe3b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-1-fundamentos-da-biologia-e-biodiversidade/.gitkeep",
+      "destination": "Biologia/_blueprints/1serie/unidade-1-fundamentos-da-biologia-e-biodiversidade/.gitkeep",
+      "relative_path": "1serie/unidade-1-fundamentos-da-biologia-e-biodiversidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-2-ecologia-basica/.gitkeep",
+      "destination": "Biologia/_blueprints/1serie/unidade-2-ecologia-basica/.gitkeep",
+      "relative_path": "1serie/unidade-2-ecologia-basica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-3-bioquimica-celular-i/.gitkeep",
+      "destination": "Biologia/_blueprints/1serie/unidade-3-bioquimica-celular-i/.gitkeep",
+      "relative_path": "1serie/unidade-3-bioquimica-celular-i/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_01_proteinas-estrutura-e-funcao.md",
+      "destination": "Biologia/_blueprints/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_01_proteinas-estrutura-e-funcao.md",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_01_proteinas-estrutura-e-funcao.md",
+      "action": "already_identical",
+      "sha256": "6281f9ae99e081b546e4715ab680350788f66c876134dc327627f76419473b75"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_02_enzimas-catalisadores-biologicos.md",
+      "destination": "Biologia/_blueprints/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_02_enzimas-catalisadores-biologicos.md",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_02_enzimas-catalisadores-biologicos.md",
+      "action": "already_identical",
+      "sha256": "47dedd3ed6604a6c20863f403ce8bcf5c7ff91e097635b3ce78a3475a5ace7cf"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_03_origem-da-vida-na-terra.md",
+      "destination": "Biologia/_blueprints/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_03_origem-da-vida-na-terra.md",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_03_origem-da-vida-na-terra.md",
+      "action": "already_identical",
+      "sha256": "c904a924b9f80398733a1015a071f8f1a62e8a9d1e6350b36a61cef65fc1e635"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_04_teorias-historicas-sobre-origem-da-vida.md",
+      "destination": "Biologia/_blueprints/1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_04_teorias-historicas-sobre-origem-da-vida.md",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/blueprint_capitulo_04_teorias-historicas-sobre-origem-da-vida.md",
+      "action": "already_identical",
+      "sha256": "37932eaaa1ba5cd6510880c33ea6a07719a496781cffcc591849495ce0f76d99"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-4-bioquimica-celular-ii/blueprint_unidade.md",
+      "destination": "Biologia/_blueprints/1serie/unidade-4-bioquimica-celular-ii/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "2cf84a6e91eccc0ae80749da3d1339339d63a5743c3c6dbc23728d8e0295a083"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-5-evolucao-celular-e-citologia/.gitkeep",
+      "destination": "Biologia/_blueprints/1serie/unidade-5-evolucao-celular-e-citologia/.gitkeep",
+      "relative_path": "1serie/unidade-5-evolucao-celular-e-citologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-6-nucleo-celular-e-metabolismo-energetico/.gitkeep",
+      "destination": "Biologia/_blueprints/1serie/unidade-6-nucleo-celular-e-metabolismo-energetico/.gitkeep",
+      "relative_path": "1serie/unidade-6-nucleo-celular-e-metabolismo-energetico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-7-acidos-nucleicos-e-divisao-celular/.gitkeep",
+      "destination": "Biologia/_blueprints/1serie/unidade-7-acidos-nucleicos-e-divisao-celular/.gitkeep",
+      "relative_path": "1serie/unidade-7-acidos-nucleicos-e-divisao-celular/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/1serie/unidade-8-histologia-animal/.gitkeep",
+      "destination": "Biologia/_blueprints/1serie/unidade-8-histologia-animal/.gitkeep",
+      "relative_path": "1serie/unidade-8-histologia-animal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-1-fisiologia-i-nutricao-e-trocas-gasosas/.gitkeep",
+      "destination": "Biologia/_blueprints/2serie/unidade-1-fisiologia-i-nutricao-e-trocas-gasosas/.gitkeep",
+      "relative_path": "2serie/unidade-1-fisiologia-i-nutricao-e-trocas-gasosas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-10-saude-publica/.gitkeep",
+      "destination": "Biologia/_blueprints/2serie/unidade-10-saude-publica/.gitkeep",
+      "relative_path": "2serie/unidade-10-saude-publica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-2-fisiologia-ii-transporte-e-excrecao/.gitkeep",
+      "destination": "Biologia/_blueprints/2serie/unidade-2-fisiologia-ii-transporte-e-excrecao/.gitkeep",
+      "relative_path": "2serie/unidade-2-fisiologia-ii-transporte-e-excrecao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-3-sistemas-de-controle-e-coordenacao/.gitkeep",
+      "destination": "Biologia/_blueprints/2serie/unidade-3-sistemas-de-controle-e-coordenacao/.gitkeep",
+      "relative_path": "2serie/unidade-3-sistemas-de-controle-e-coordenacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_01_conceitos-fundamentais.md",
+      "destination": "Biologia/_blueprints/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_01_conceitos-fundamentais.md",
+      "relative_path": "2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_01_conceitos-fundamentais.md",
+      "action": "already_identical",
+      "sha256": "d8ee3c92644f14f73a8fd701111dadb879f0e99011cd61c714916997ad236ad6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_02_primeira-lei-de-mendel.md",
+      "destination": "Biologia/_blueprints/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_02_primeira-lei-de-mendel.md",
+      "relative_path": "2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_02_primeira-lei-de-mendel.md",
+      "action": "already_identical",
+      "sha256": "681b1c96514973645fdb6dc6517cb91479e0032e9459222dc386af4a29a10dea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_03_segunda-lei-de-mendel.md",
+      "destination": "Biologia/_blueprints/2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_03_segunda-lei-de-mendel.md",
+      "relative_path": "2serie/unidade-4-genetica-mendeliana/blueprint_capitulo_03_segunda-lei-de-mendel.md",
+      "action": "already_identical",
+      "sha256": "b62f8995d30d32dc14e77830e9d1d0ff69ba7a4d48b329fada373ca87bcd10f6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-4-genetica-mendeliana/blueprint_unidade.md",
+      "destination": "Biologia/_blueprints/2serie/unidade-4-genetica-mendeliana/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-genetica-mendeliana/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "fbe9090d9bb2b5562c0f2f127165910dc64886ffb69bf3b1b990e8b734f89997"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-5-genetica-molecular/.gitkeep",
+      "destination": "Biologia/_blueprints/2serie/unidade-5-genetica-molecular/.gitkeep",
+      "relative_path": "2serie/unidade-5-genetica-molecular/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-6-sistema-imunologico/.gitkeep",
+      "destination": "Biologia/_blueprints/2serie/unidade-6-sistema-imunologico/.gitkeep",
+      "relative_path": "2serie/unidade-6-sistema-imunologico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-7-sistema-locomotor/.gitkeep",
+      "destination": "Biologia/_blueprints/2serie/unidade-7-sistema-locomotor/.gitkeep",
+      "relative_path": "2serie/unidade-7-sistema-locomotor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-8-reproducao-e-bioetica/.gitkeep",
+      "destination": "Biologia/_blueprints/2serie/unidade-8-reproducao-e-bioetica/.gitkeep",
+      "relative_path": "2serie/unidade-8-reproducao-e-bioetica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/2serie/unidade-9-fisiologia-comparada/.gitkeep",
+      "destination": "Biologia/_blueprints/2serie/unidade-9-fisiologia-comparada/.gitkeep",
+      "relative_path": "2serie/unidade-9-fisiologia-comparada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-1-revisao-de-genetica-mendeliana/.gitkeep",
+      "destination": "Biologia/_blueprints/3serie/unidade-1-revisao-de-genetica-mendeliana/.gitkeep",
+      "relative_path": "3serie/unidade-1-revisao-de-genetica-mendeliana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-2-interacoes-genicas/.gitkeep",
+      "destination": "Biologia/_blueprints/3serie/unidade-2-interacoes-genicas/.gitkeep",
+      "relative_path": "3serie/unidade-2-interacoes-genicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-3-ligacao-genica-e-mapas-geneticos/.gitkeep",
+      "destination": "Biologia/_blueprints/3serie/unidade-3-ligacao-genica-e-mapas-geneticos/.gitkeep",
+      "relative_path": "3serie/unidade-3-ligacao-genica-e-mapas-geneticos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-4-genetica-molecular-avancada/.gitkeep",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/.gitkeep",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_01_regulacao-da-expressao-genica.md",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_01_regulacao-da-expressao-genica.md",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_01_regulacao-da-expressao-genica.md",
+      "action": "already_identical",
+      "sha256": "a950791994493b612cd50c4a970a7f95eea9de886a7368d5c49a86334f872f0a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_02_epigenetica.md",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_02_epigenetica.md",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_02_epigenetica.md",
+      "action": "already_identical",
+      "sha256": "eeb047e7b3f513a84d4dc84cd001f4c4f4c6bcf8292a5968dcd805146577b9b0"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_03_mutacoes-e-variabilidade.md",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_03_mutacoes-e-variabilidade.md",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_03_mutacoes-e-variabilidade.md",
+      "action": "already_identical",
+      "sha256": "6be5f7a5ed02f941fcda93f52a0471b5420dacef0b0d72886acf2527098e556a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_04_biotecnologia-basica.md",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_04_biotecnologia-basica.md",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/blueprint_capitulo_04_biotecnologia-basica.md",
+      "action": "already_identical",
+      "sha256": "12a5c67609b2a55fbbfdf05311b5111328add44e2cb5b0600c0a34c350454bd3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-4-genetica-molecular-avancada/blueprint_unidade.md",
+      "destination": "Biologia/_blueprints/3serie/unidade-4-genetica-molecular-avancada/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "597f2e379257725334e989f9319d8a7a9fed6695602fdbaaca174e7f452c43ee"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-5-genetica-de-populacoes/.gitkeep",
+      "destination": "Biologia/_blueprints/3serie/unidade-5-genetica-de-populacoes/.gitkeep",
+      "relative_path": "3serie/unidade-5-genetica-de-populacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-6-evolucao-biologica/.gitkeep",
+      "destination": "Biologia/_blueprints/3serie/unidade-6-evolucao-biologica/.gitkeep",
+      "relative_path": "3serie/unidade-6-evolucao-biologica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-7-biotecnologia-moderna/.gitkeep",
+      "destination": "Biologia/_blueprints/3serie/unidade-7-biotecnologia-moderna/.gitkeep",
+      "relative_path": "3serie/unidade-7-biotecnologia-moderna/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/3serie/unidade-8-ecologia/.gitkeep",
+      "destination": "Biologia/_blueprints/3serie/unidade-8-ecologia/.gitkeep",
+      "relative_path": "3serie/unidade-8-ecologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/9ano/unidade-1-ciclo-celular-e-mitose/.gitkeep",
+      "destination": "Biologia/_blueprints/9ano/unidade-1-ciclo-celular-e-mitose/.gitkeep",
+      "relative_path": "9ano/unidade-1-ciclo-celular-e-mitose/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_01_segunda-lei-de-mendel.md",
+      "destination": "Biologia/_blueprints/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_01_segunda-lei-de-mendel.md",
+      "relative_path": "9ano/unidade-4-genetica-aplicada/blueprint_capitulo_01_segunda-lei-de-mendel.md",
+      "action": "already_identical",
+      "sha256": "7c8291641f0ca55289500b047d4d197d7832953cc2ffc7f19225859b33f12a29"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_02_heredogramas-e-genetica-humana.md",
+      "destination": "Biologia/_blueprints/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_02_heredogramas-e-genetica-humana.md",
+      "relative_path": "9ano/unidade-4-genetica-aplicada/blueprint_capitulo_02_heredogramas-e-genetica-humana.md",
+      "action": "already_identical",
+      "sha256": "eea83d9d4428f79636c9b3a48d91b2c0af4ce08bc21cd3c705a94769bb478312"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_03_mutacoes.md",
+      "destination": "Biologia/_blueprints/9ano/unidade-4-genetica-aplicada/blueprint_capitulo_03_mutacoes.md",
+      "relative_path": "9ano/unidade-4-genetica-aplicada/blueprint_capitulo_03_mutacoes.md",
+      "action": "already_identical",
+      "sha256": "b2e7b410eb38f95c653bcaf44b89802d23715a73a772cd2c5fc781ba3239d680"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/9ano/unidade-4-genetica-aplicada/blueprint_unidade.md",
+      "destination": "Biologia/_blueprints/9ano/unidade-4-genetica-aplicada/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-genetica-aplicada/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "d1ca6e7bdb10994dc08e369e1e82584858c9eac93c441b4e713dc3b02626fe3b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/9ano/unidade-5-evidencias-da-evolucao/.gitkeep",
+      "destination": "Biologia/_blueprints/9ano/unidade-5-evidencias-da-evolucao/.gitkeep",
+      "relative_path": "9ano/unidade-5-evidencias-da-evolucao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/9ano/unidade-6-teorias-e-mecanismos-evolutivos/.gitkeep",
+      "destination": "Biologia/_blueprints/9ano/unidade-6-teorias-e-mecanismos-evolutivos/.gitkeep",
+      "relative_path": "9ano/unidade-6-teorias-e-mecanismos-evolutivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/9ano/unidade-7-fundamentos-de-ecologia/.gitkeep",
+      "destination": "Biologia/_blueprints/9ano/unidade-7-fundamentos-de-ecologia/.gitkeep",
+      "relative_path": "9ano/unidade-7-fundamentos-de-ecologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Biologia/9ano/unidade-8-biomas-e-sustentabilidade/.gitkeep",
+      "destination": "Biologia/_blueprints/9ano/unidade-8-biomas-e-sustentabilidade/.gitkeep",
+      "relative_path": "9ano/unidade-8-biomas-e-sustentabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/1serie/unidade-1-fundamentos-da-biologia-e-biodiversidade/.gitkeep",
+      "destination": "Biologia/1serie/unidade-1-fundamentos-da-biologia-e-biodiversidade/.gitkeep",
+      "relative_path": "1serie/unidade-1-fundamentos-da-biologia-e-biodiversidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/1serie/unidade-2-ecologia-basica/.gitkeep",
+      "destination": "Biologia/1serie/unidade-2-ecologia-basica/.gitkeep",
+      "relative_path": "1serie/unidade-2-ecologia-basica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/1serie/unidade-3-bioquimica-celular-i/.gitkeep",
+      "destination": "Biologia/1serie/unidade-3-bioquimica-celular-i/.gitkeep",
+      "relative_path": "1serie/unidade-3-bioquimica-celular-i/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/1serie/unidade-4-bioquimica-celular-ii/.gitkeep",
+      "destination": "Biologia/1serie/unidade-4-bioquimica-celular-ii/.gitkeep",
+      "relative_path": "1serie/unidade-4-bioquimica-celular-ii/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/1serie/unidade-5-evolucao-celular-e-citologia/.gitkeep",
+      "destination": "Biologia/1serie/unidade-5-evolucao-celular-e-citologia/.gitkeep",
+      "relative_path": "1serie/unidade-5-evolucao-celular-e-citologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/1serie/unidade-6-nucleo-celular-e-metabolismo-energetico/.gitkeep",
+      "destination": "Biologia/1serie/unidade-6-nucleo-celular-e-metabolismo-energetico/.gitkeep",
+      "relative_path": "1serie/unidade-6-nucleo-celular-e-metabolismo-energetico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/1serie/unidade-7-acidos-nucleicos-e-divisao-celular/.gitkeep",
+      "destination": "Biologia/1serie/unidade-7-acidos-nucleicos-e-divisao-celular/.gitkeep",
+      "relative_path": "1serie/unidade-7-acidos-nucleicos-e-divisao-celular/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/1serie/unidade-8-histologia-animal/.gitkeep",
+      "destination": "Biologia/1serie/unidade-8-histologia-animal/.gitkeep",
+      "relative_path": "1serie/unidade-8-histologia-animal/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/2serie/unidade-1-fisiologia-i-nutricao-e-trocas-gasosas/.gitkeep",
+      "destination": "Biologia/2serie/unidade-1-fisiologia-i-nutricao-e-trocas-gasosas/.gitkeep",
+      "relative_path": "2serie/unidade-1-fisiologia-i-nutricao-e-trocas-gasosas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/2serie/unidade-10-saude-publica/.gitkeep",
+      "destination": "Biologia/2serie/unidade-10-saude-publica/.gitkeep",
+      "relative_path": "2serie/unidade-10-saude-publica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/2serie/unidade-2-fisiologia-ii-transporte-e-excrecao/.gitkeep",
+      "destination": "Biologia/2serie/unidade-2-fisiologia-ii-transporte-e-excrecao/.gitkeep",
+      "relative_path": "2serie/unidade-2-fisiologia-ii-transporte-e-excrecao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/2serie/unidade-3-sistemas-de-controle-e-coordenacao/.gitkeep",
+      "destination": "Biologia/2serie/unidade-3-sistemas-de-controle-e-coordenacao/.gitkeep",
+      "relative_path": "2serie/unidade-3-sistemas-de-controle-e-coordenacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/2serie/unidade-4-genetica-mendeliana/.gitkeep",
+      "destination": "Biologia/2serie/unidade-4-genetica-mendeliana/.gitkeep",
+      "relative_path": "2serie/unidade-4-genetica-mendeliana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/2serie/unidade-5-genetica-molecular/.gitkeep",
+      "destination": "Biologia/2serie/unidade-5-genetica-molecular/.gitkeep",
+      "relative_path": "2serie/unidade-5-genetica-molecular/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/2serie/unidade-6-sistema-imunologico/.gitkeep",
+      "destination": "Biologia/2serie/unidade-6-sistema-imunologico/.gitkeep",
+      "relative_path": "2serie/unidade-6-sistema-imunologico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/2serie/unidade-7-sistema-locomotor/.gitkeep",
+      "destination": "Biologia/2serie/unidade-7-sistema-locomotor/.gitkeep",
+      "relative_path": "2serie/unidade-7-sistema-locomotor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/2serie/unidade-8-reproducao-e-bioetica/.gitkeep",
+      "destination": "Biologia/2serie/unidade-8-reproducao-e-bioetica/.gitkeep",
+      "relative_path": "2serie/unidade-8-reproducao-e-bioetica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/2serie/unidade-9-fisiologia-comparada/.gitkeep",
+      "destination": "Biologia/2serie/unidade-9-fisiologia-comparada/.gitkeep",
+      "relative_path": "2serie/unidade-9-fisiologia-comparada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/3serie/unidade-1-revisao-de-genetica-mendeliana/.gitkeep",
+      "destination": "Biologia/3serie/unidade-1-revisao-de-genetica-mendeliana/.gitkeep",
+      "relative_path": "3serie/unidade-1-revisao-de-genetica-mendeliana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/3serie/unidade-2-interacoes-genicas/.gitkeep",
+      "destination": "Biologia/3serie/unidade-2-interacoes-genicas/.gitkeep",
+      "relative_path": "3serie/unidade-2-interacoes-genicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/3serie/unidade-3-ligacao-genica-e-mapas-geneticos/.gitkeep",
+      "destination": "Biologia/3serie/unidade-3-ligacao-genica-e-mapas-geneticos/.gitkeep",
+      "relative_path": "3serie/unidade-3-ligacao-genica-e-mapas-geneticos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/3serie/unidade-4-genetica-molecular-avancada/.gitkeep",
+      "destination": "Biologia/3serie/unidade-4-genetica-molecular-avancada/.gitkeep",
+      "relative_path": "3serie/unidade-4-genetica-molecular-avancada/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/3serie/unidade-5-genetica-de-populacoes/.gitkeep",
+      "destination": "Biologia/3serie/unidade-5-genetica-de-populacoes/.gitkeep",
+      "relative_path": "3serie/unidade-5-genetica-de-populacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/3serie/unidade-6-evolucao-biologica/.gitkeep",
+      "destination": "Biologia/3serie/unidade-6-evolucao-biologica/.gitkeep",
+      "relative_path": "3serie/unidade-6-evolucao-biologica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/3serie/unidade-7-biotecnologia-moderna/.gitkeep",
+      "destination": "Biologia/3serie/unidade-7-biotecnologia-moderna/.gitkeep",
+      "relative_path": "3serie/unidade-7-biotecnologia-moderna/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/3serie/unidade-8-ecologia/.gitkeep",
+      "destination": "Biologia/3serie/unidade-8-ecologia/.gitkeep",
+      "relative_path": "3serie/unidade-8-ecologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/9ano/unidade-1-ciclo-celular-e-mitose/.gitkeep",
+      "destination": "Biologia/9ano/unidade-1-ciclo-celular-e-mitose/.gitkeep",
+      "relative_path": "9ano/unidade-1-ciclo-celular-e-mitose/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/9ano/unidade-5-evidencias-da-evolucao/.gitkeep",
+      "destination": "Biologia/9ano/unidade-5-evidencias-da-evolucao/.gitkeep",
+      "relative_path": "9ano/unidade-5-evidencias-da-evolucao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/9ano/unidade-6-teorias-e-mecanismos-evolutivos/.gitkeep",
+      "destination": "Biologia/9ano/unidade-6-teorias-e-mecanismos-evolutivos/.gitkeep",
+      "relative_path": "9ano/unidade-6-teorias-e-mecanismos-evolutivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/9ano/unidade-7-fundamentos-de-ecologia/.gitkeep",
+      "destination": "Biologia/9ano/unidade-7-fundamentos-de-ecologia/.gitkeep",
+      "relative_path": "9ano/unidade-7-fundamentos-de-ecologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Biologia/9ano/unidade-8-biomas-e-sustentabilidade/.gitkeep",
+      "destination": "Biologia/9ano/unidade-8-biomas-e-sustentabilidade/.gitkeep",
+      "relative_path": "9ano/unidade-8-biomas-e-sustentabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Biologia/1serie/Unidade 3 - Bioquímica Celular I/Unidade 3 — Bioquímica Celular I .gdoc",
+      "destination": "Biologia/1serie/Unidade 3 - Bioquímica Celular I/Unidade 3 — Bioquímica Celular I .gdoc",
+      "relative_path": "1serie/Unidade 3 - Bioquímica Celular I/Unidade 3 — Bioquímica Celular I .gdoc",
+      "action": "copied",
+      "sha256": "cf7798253baee664c7d294cb38750fcce5d97583a729d1ad1d2305b70ad3bf25"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Biologia/2serie/Unidade 3 - Sistemas de Controle e Coordenação/Unidade 3 — Sistemas de Controle e Coordenação | 2ª Série (2026).gdoc",
+      "destination": "Biologia/2serie/Unidade 3 - Sistemas de Controle e Coordenação/Unidade 3 — Sistemas de Controle e Coordenação | 2ª Série (2026).gdoc",
+      "relative_path": "2serie/Unidade 3 - Sistemas de Controle e Coordenação/Unidade 3 — Sistemas de Controle e Coordenação | 2ª Série (2026).gdoc",
+      "action": "copied",
+      "sha256": "e38cf9e516724a6f8d171245df3b7711ce9a2f34ebd1ff4737c5aa10969069f1"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Biologia/9ano/Unidade 3 - Fundamentos da Genética/Unidade 3 — Fundamentos da Genética | 9º Ano | 2º Bimestre.gdoc",
+      "destination": "Biologia/9ano/Unidade 3 - Fundamentos da Genética/Unidade 3 — Fundamentos da Genética | 9º Ano | 2º Bimestre.gdoc",
+      "relative_path": "9ano/Unidade 3 - Fundamentos da Genética/Unidade 3 — Fundamentos da Genética | 9º Ano | 2º Bimestre.gdoc",
+      "action": "copied",
+      "sha256": "076b1cba87eff51be57da83bd8950068edab39a8deb96f66dbd9d01918712b31"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Biologia/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": []
+}

@@ -1,0 +1,17 @@
+Os 4 capítulos da Unidade 4 — Ligações Químicas (8º ano) foram salvos em `CONTEUDOS PRONTOS/Ciencias/8ano/unidade-4-ligacoes-quimicas/`:
+
+- `capitulo_01_por-que-atomos-se-ligam.md` — estabilidade, octeto, Lewis
+- `capitulo_02_ligacao-ionica.md` — transferência, NaCl, Pauling
+- `capitulo_03_ligacao-covalente.md` — compartilhamento, H₂O/CO₂/N₂, Pauling
+- `capitulo_04_ligacao-metalica.md` — mar de elétrons, propriedades, Drude
+
+**Validação completa:**
+- Sem `## 5+` em nenhum capítulo (máximo 4 tópicos numerados)
+- `## Pergunta-problema` literal em todos
+- Box `> 💭 Pense um pouco` logo após introdução
+- 4 blocos pós-conteúdo na ordem: 🤝 Sua Parte → O que a Bíblia diz sobre [tema] → Simplificando → Para não esquecer
+- "Para não esquecer" com 4 bullets em cada
+- ≥1 box por seção principal (corrigi cap 4 §4 que estava sem box, adicionei `💡 Você sabia?` sobre prevalência de metais)
+- Sem tabelas Markdown, sem blocos de código
+- Diversidade científica embutida em boxes laterais (Maria Goeppert Mayer, Mario Molina, Mildred Dresselhaus) sem deslocar Lewis/Pauling/Drude do papel epistêmico que o blueprint prescreve
+- Personagem bíblico Daniel + Provérbios 10:9 / Lucas 16:10 nos blocos de conexão VP, conforme blueprint da unidade

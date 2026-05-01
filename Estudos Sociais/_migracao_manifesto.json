@@ -1,0 +1,2053 @@
+{
+  "discipline": "Estudos Sociais",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_estudos-sociais"
+    ],
+    "blueprints": [
+      "Blueprints/estudos sociais",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais"
+    ],
+    "contents": [
+      "Conteudos Prontos/Estudos Sociais",
+      "Unidade 3-/Estudos Sociais"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_estudos-sociais": {
+      "copied": 6,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 3
+    },
+    "blueprints::Blueprints::estudos sociais": {
+      "copied": 31,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 1
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Estudos Sociais": {
+      "copied": 65,
+      "already_identical": 31,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Estudos Sociais": {
+      "copied": 77,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Estudos Sociais": {
+      "copied": 7,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estudos-sociais/_shared/lib_common.sh",
+      "destination": "Estudos Sociais/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estudos-sociais/CLAUDE.md",
+      "destination": "Estudos Sociais/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "8c7148f26d5653bec90ea4d193fbcaec05a8614e9369a7fd614e9e1da55ab8ee"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estudos-sociais/logs/20260429_073449_estudos-sociais-7ano-unidade-4-feudalismo.log",
+      "destination": null,
+      "relative_path": "logs/20260429_073449_estudos-sociais-7ano-unidade-4-feudalismo.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estudos-sociais/logs/20260430_193045_estudos-sociais-4ano-unidade-4-representacao-do-espaco.log",
+      "destination": null,
+      "relative_path": "logs/20260430_193045_estudos-sociais-4ano-unidade-4-representacao-do-espaco.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estudos-sociais/logs/20260430_195743_estudos-sociais-4ano-unidade-4-representacao-do-espaco.log",
+      "destination": null,
+      "relative_path": "logs/20260430_195743_estudos-sociais-4ano-unidade-4-representacao-do-espaco.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estudos-sociais/memoria-autor.md",
+      "destination": "Estudos Sociais/_autor/memoria-autor.md",
+      "relative_path": "memoria-autor.md",
+      "action": "copied",
+      "sha256": "cd2a9a077bee7442990bff03f6523a764cf987556584150fa075032c298899a3"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estudos-sociais/modelo-ef2.md",
+      "destination": "Estudos Sociais/_autor/modelo-ef2.md",
+      "relative_path": "modelo-ef2.md",
+      "action": "copied",
+      "sha256": "60119f0fdc54782bff53ac777eb4531588dfaca8a26c8563a2cf2ace3535d99a"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estudos-sociais/prompt-autor.md",
+      "destination": "Estudos Sociais/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "17f10b2c5f64fde32d7caa87230b09af6f6ae657984002b546e1d7fa235bd2b5"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_estudos-sociais/scripts/criar_capitulos.sh",
+      "destination": "Estudos Sociais/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "570e75d2a2d812e793e525faec3fd85cf1537fb46a8f81137cb6ce519b9b5c64"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/.DS_Store",
+      "destination": null,
+      "relative_path": ".DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/1ano/unidade-4-convivendo-em-familia/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/1ano/unidade-4-convivendo-em-familia/.gitkeep",
+      "relative_path": "1ano/unidade-4-convivendo-em-familia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/2ano/unidade-4-o-que-tem-no-bairro/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/2ano/unidade-4-o-que-tem-no-bairro/.gitkeep",
+      "relative_path": "2ano/unidade-4-o-que-tem-no-bairro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/3ano/unidade-4-organizacao-do-municipio/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/3ano/unidade-4-organizacao-do-municipio/.gitkeep",
+      "relative_path": "3ano/unidade-4-organizacao-do-municipio/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/4ano/unidade-4-representacao-do-espaco/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-4-representacao-do-espaco/.gitkeep",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_01_tipos-de-mapas.md",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_01_tipos-de-mapas.md",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_01_tipos-de-mapas.md",
+      "action": "copied",
+      "sha256": "0709d78ce03a888fa70c44d488188185806a1ddad6ef41665b1de2b555ad2ef3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_02_orientacao-e-escala.md",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_02_orientacao-e-escala.md",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_02_orientacao-e-escala.md",
+      "action": "copied",
+      "sha256": "17e893145c9978031699df4a881da3ace75d0482ca227e00f28e3e46697e2314"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/4ano/unidade-4-representacao-do-espaco/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-4-representacao-do-espaco/blueprint_unidade.md",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "9433af887d7589ae7fe9a292f8a7ab48df4b3cf41dbe8c59d1b768824f4ef5d0"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/5ano/unidade-4-populacao-brasileira/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-4-populacao-brasileira/.gitkeep",
+      "relative_path": "5ano/unidade-4-populacao-brasileira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/5ano/unidade-4-populacao-brasileira/blueprint_capitulo_01_caracteristicas-demograficas.md",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-4-populacao-brasileira/blueprint_capitulo_01_caracteristicas-demograficas.md",
+      "relative_path": "5ano/unidade-4-populacao-brasileira/blueprint_capitulo_01_caracteristicas-demograficas.md",
+      "action": "copied",
+      "sha256": "aaa264b06f8a190b4fe22e579e3699357dd4482a0736e56d4bfc55c068df63ea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/5ano/unidade-4-populacao-brasileira/blueprint_capitulo_02_diversidade-e-migracoes.md",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-4-populacao-brasileira/blueprint_capitulo_02_diversidade-e-migracoes.md",
+      "relative_path": "5ano/unidade-4-populacao-brasileira/blueprint_capitulo_02_diversidade-e-migracoes.md",
+      "action": "copied",
+      "sha256": "00f4411128470b2cbd7817a971a47de41ca3ce81a5d4a46e3e7e8c74eccad53e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/5ano/unidade-4-populacao-brasileira/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-4-populacao-brasileira/blueprint_unidade.md",
+      "relative_path": "5ano/unidade-4-populacao-brasileira/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "a6ab7d5a7d18e741dccac1b719fdf7b94ec6691194ebef2d0cfcce8f8c1575a1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/6ano/unidade-4-egito-e-americas-antigas/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-4-egito-e-americas-antigas/.gitkeep",
+      "relative_path": "6ano/unidade-4-egito-e-americas-antigas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_01_egito-antigo.md",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_01_egito-antigo.md",
+      "relative_path": "6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_01_egito-antigo.md",
+      "action": "copied",
+      "sha256": "8071329c92fd759b31fdfbab5e0adf6715f13a0bef9ed02f0acffe8d5210c7bc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_02_maias-astecas-e-incas.md",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_02_maias-astecas-e-incas.md",
+      "relative_path": "6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_02_maias-astecas-e-incas.md",
+      "action": "copied",
+      "sha256": "af8b89dbfe5e4ba3463b31838d7f81297cca17104f9740cdefcff1d071b932ea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/6ano/unidade-4-egito-e-americas-antigas/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-4-egito-e-americas-antigas/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-4-egito-e-americas-antigas/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "375602b050331c884ea8d36c27ba8b8848d52abf1ea8bd437c4ecbf0479a389f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/7ano/unidade-4-feudalismo/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-4-feudalismo/.gitkeep",
+      "relative_path": "7ano/unidade-4-feudalismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/7ano/unidade-4-feudalismo/blueprint_capitulo_01_imperio-carolingio-e-invasoes.md",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-4-feudalismo/blueprint_capitulo_01_imperio-carolingio-e-invasoes.md",
+      "relative_path": "7ano/unidade-4-feudalismo/blueprint_capitulo_01_imperio-carolingio-e-invasoes.md",
+      "action": "copied",
+      "sha256": "f9a7e7ad42889b87bf71e55090fd9b461891821c51dfaa237b89d805f14f1cb7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/7ano/unidade-4-feudalismo/blueprint_capitulo_02_estrutura-do-feudalismo.md",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-4-feudalismo/blueprint_capitulo_02_estrutura-do-feudalismo.md",
+      "relative_path": "7ano/unidade-4-feudalismo/blueprint_capitulo_02_estrutura-do-feudalismo.md",
+      "action": "copied",
+      "sha256": "54f142248526440f564b70502630aae673263130e45af658a993bb6b559ec05f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/7ano/unidade-4-feudalismo/blueprint_capitulo_03_igreja-medieval-e-cultura.md",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-4-feudalismo/blueprint_capitulo_03_igreja-medieval-e-cultura.md",
+      "relative_path": "7ano/unidade-4-feudalismo/blueprint_capitulo_03_igreja-medieval-e-cultura.md",
+      "action": "copied",
+      "sha256": "8f7ce5cec3d5c0592d349d6d7a87a21a54883d38ca90c958a94edee249758d27"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/7ano/unidade-4-feudalismo/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-4-feudalismo/blueprint_unidade.md",
+      "relative_path": "7ano/unidade-4-feudalismo/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "ee1bd696cc511b0cffd04d2fa2c9992ae1cf017872f3606db363b15634fa30bf"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_01_revolucao-industrial.md",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_01_revolucao-industrial.md",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_01_revolucao-industrial.md",
+      "action": "copied",
+      "sha256": "a6845ea2ad114b702abb3424b38afcca46791a6752218fca700a166ec7c74f22"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_02_revolucao-francesa.md",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_02_revolucao-francesa.md",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_02_revolucao-francesa.md",
+      "action": "copied",
+      "sha256": "e95cc4a32b3046e8add244887b5417072b4b2162a3745301323e916805d28476"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_03_era-napoleonica-e-congresso-de-viena.md",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_03_era-napoleonica-e-congresso-de-viena.md",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_03_era-napoleonica-e-congresso-de-viena.md",
+      "action": "copied",
+      "sha256": "3ddbdeaa9b50b65d474c395db6ffef23edae8e8a8cc3e00b5e201d50cf6270ed"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_04_movimentos-operarios-e-ideias-socialistas.md",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_04_movimentos-operarios-e-ideias-socialistas.md",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_04_movimentos-operarios-e-ideias-socialistas.md",
+      "action": "copied",
+      "sha256": "e295cd4fca0d88688a9fd5a42a3fb0d3fa54de39d54da74b8ed34418ea1d4dc3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "c31e731767f8c19db2fe0f617af7fb7c1ff073d07d71c9d4fda8b2e6630e595d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/9ano/unidade-4-era-vargas-e-guerra-fria/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/.gitkeep",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_01_era-vargas.md",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_01_era-vargas.md",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_01_era-vargas.md",
+      "action": "copied",
+      "sha256": "b3a6558b49ac4e99ba0b60f2cbd1239e61ed5f16d7d657fcd3e75da753e05736"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_02_guerra-fria.md",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_02_guerra-fria.md",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_02_guerra-fria.md",
+      "action": "copied",
+      "sha256": "e94fa40248d39ce4452eee7b0c7feea6ff575d094bc74d4f86ba82d3d768d51f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_03_descolonizacao-da-africa-e-asia.md",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_03_descolonizacao-da-africa-e-asia.md",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_03_descolonizacao-da-africa-e-asia.md",
+      "action": "copied",
+      "sha256": "c877353e9c4987a2f39d75b853c08f4b6e7e84b635d2a35a83b1c46ad9518407"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_04_fim-da-guerra-fria.md",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_04_fim-da-guerra-fria.md",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_04_fim-da-guerra-fria.md",
+      "action": "copied",
+      "sha256": "f63891b6d446cd64ec99c95f7cca0cc1cdb69fbb60686a5c14ad12793b667129"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/estudos sociais/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "5f0ba0f90cb12e6b8243ea52c5c489fb926c97bd84356aa06d8d653afacfed15"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/1ano/unidade-1-quem-sou-eu/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/1ano/unidade-1-quem-sou-eu/.gitkeep",
+      "relative_path": "1ano/unidade-1-quem-sou-eu/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/1ano/unidade-2-o-tempo-ao-meu-redor/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/1ano/unidade-2-o-tempo-ao-meu-redor/.gitkeep",
+      "relative_path": "1ano/unidade-2-o-tempo-ao-meu-redor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/1ano/unidade-3-minha-familia/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/1ano/unidade-3-minha-familia/.gitkeep",
+      "relative_path": "1ano/unidade-3-minha-familia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/1ano/unidade-4-convivendo-em-familia/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/1ano/unidade-4-convivendo-em-familia/.gitkeep",
+      "relative_path": "1ano/unidade-4-convivendo-em-familia/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/1ano/unidade-5-minha-casa/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/1ano/unidade-5-minha-casa/.gitkeep",
+      "relative_path": "1ano/unidade-5-minha-casa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/1ano/unidade-6-minha-escola-e-meu-caminho/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/1ano/unidade-6-minha-escola-e-meu-caminho/.gitkeep",
+      "relative_path": "1ano/unidade-6-minha-escola-e-meu-caminho/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/1ano/unidade-7-o-mundo-do-trabalho/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/1ano/unidade-7-o-mundo-do-trabalho/.gitkeep",
+      "relative_path": "1ano/unidade-7-o-mundo-do-trabalho/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/1ano/unidade-8-a-natureza-ao-nosso-redor/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/1ano/unidade-8-a-natureza-ao-nosso-redor/.gitkeep",
+      "relative_path": "1ano/unidade-8-a-natureza-ao-nosso-redor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/2ano/unidade-1-historia-da-minha-familia/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/2ano/unidade-1-historia-da-minha-familia/.gitkeep",
+      "relative_path": "2ano/unidade-1-historia-da-minha-familia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/2ano/unidade-2-medindo-o-tempo/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/2ano/unidade-2-medindo-o-tempo/.gitkeep",
+      "relative_path": "2ano/unidade-2-medindo-o-tempo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/2ano/unidade-3-conhecendo-meu-bairro/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/2ano/unidade-3-conhecendo-meu-bairro/.gitkeep",
+      "relative_path": "2ano/unidade-3-conhecendo-meu-bairro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/2ano/unidade-4-o-que-tem-no-bairro/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/2ano/unidade-4-o-que-tem-no-bairro/.gitkeep",
+      "relative_path": "2ano/unidade-4-o-que-tem-no-bairro/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/2ano/unidade-5-trabalho-no-bairro/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/2ano/unidade-5-trabalho-no-bairro/.gitkeep",
+      "relative_path": "2ano/unidade-5-trabalho-no-bairro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/2ano/unidade-6-paisagens-e-transformacoes/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/2ano/unidade-6-paisagens-e-transformacoes/.gitkeep",
+      "relative_path": "2ano/unidade-6-paisagens-e-transformacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/2ano/unidade-7-nossa-cultura/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/2ano/unidade-7-nossa-cultura/.gitkeep",
+      "relative_path": "2ano/unidade-7-nossa-cultura/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/2ano/unidade-8-transporte-comunicacao-e-mapas-digitais/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/2ano/unidade-8-transporte-comunicacao-e-mapas-digitais/.gitkeep",
+      "relative_path": "2ano/unidade-8-transporte-comunicacao-e-mapas-digitais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/3ano/unidade-1-como-a-cidade-se-formou/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/3ano/unidade-1-como-a-cidade-se-formou/.gitkeep",
+      "relative_path": "3ano/unidade-1-como-a-cidade-se-formou/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/3ano/unidade-2-vivendo-na-cidade/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/3ano/unidade-2-vivendo-na-cidade/.gitkeep",
+      "relative_path": "3ano/unidade-2-vivendo-na-cidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/3ano/unidade-3-campo-e-cidade/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/3ano/unidade-3-campo-e-cidade/.gitkeep",
+      "relative_path": "3ano/unidade-3-campo-e-cidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/3ano/unidade-4-organizacao-do-municipio/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/3ano/unidade-4-organizacao-do-municipio/.gitkeep",
+      "relative_path": "3ano/unidade-4-organizacao-do-municipio/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/3ano/unidade-5-primeiros-habitantes-do-brasil/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/3ano/unidade-5-primeiros-habitantes-do-brasil/.gitkeep",
+      "relative_path": "3ano/unidade-5-primeiros-habitantes-do-brasil/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/3ano/unidade-6-cultura-indigena/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/3ano/unidade-6-cultura-indigena/.gitkeep",
+      "relative_path": "3ano/unidade-6-cultura-indigena/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/3ano/unidade-7-quilombolas-e-cultura-africana/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/3ano/unidade-7-quilombolas-e-cultura-africana/.gitkeep",
+      "relative_path": "3ano/unidade-7-quilombolas-e-cultura-africana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/3ano/unidade-8-patrimonio-e-memoria/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/3ano/unidade-8-patrimonio-e-memoria/.gitkeep",
+      "relative_path": "3ano/unidade-8-patrimonio-e-memoria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-1-o-brasil-no-mundo/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-1-o-brasil-no-mundo/.gitkeep",
+      "relative_path": "4ano/unidade-1-o-brasil-no-mundo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-2-relevo-e-hidrografia/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-2-relevo-e-hidrografia/.gitkeep",
+      "relative_path": "4ano/unidade-2-relevo-e-hidrografia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-3-o-municipio/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-3-o-municipio/.gitkeep",
+      "relative_path": "4ano/unidade-3-o-municipio/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-4-representacao-do-espaco/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-4-representacao-do-espaco/.gitkeep",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_01_tipos-de-mapas.md",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_01_tipos-de-mapas.md",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_01_tipos-de-mapas.md",
+      "action": "already_identical",
+      "sha256": "0709d78ce03a888fa70c44d488188185806a1ddad6ef41665b1de2b555ad2ef3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_02_orientacao-e-escala.md",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_02_orientacao-e-escala.md",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/blueprint_capitulo_02_orientacao-e-escala.md",
+      "action": "already_identical",
+      "sha256": "17e893145c9978031699df4a881da3ace75d0482ca227e00f28e3e46697e2314"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-4-representacao-do-espaco/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-4-representacao-do-espaco/blueprint_unidade.md",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "9433af887d7589ae7fe9a292f8a7ab48df4b3cf41dbe8c59d1b768824f4ef5d0"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-5-formacao-do-povo-brasileiro/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-5-formacao-do-povo-brasileiro/.gitkeep",
+      "relative_path": "4ano/unidade-5-formacao-do-povo-brasileiro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-6-identidade-nacional/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-6-identidade-nacional/.gitkeep",
+      "relative_path": "4ano/unidade-6-identidade-nacional/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-7-clima-e-biomas/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-7-clima-e-biomas/.gitkeep",
+      "relative_path": "4ano/unidade-7-clima-e-biomas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/4ano/unidade-8-circulacao-e-conexoes/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/4ano/unidade-8-circulacao-e-conexoes/.gitkeep",
+      "relative_path": "4ano/unidade-8-circulacao-e-conexoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-1-regioes-norte-nordeste-e-centro-oeste/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-1-regioes-norte-nordeste-e-centro-oeste/.gitkeep",
+      "relative_path": "5ano/unidade-1-regioes-norte-nordeste-e-centro-oeste/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-2-regioes-sudeste-e-sul/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-2-regioes-sudeste-e-sul/.gitkeep",
+      "relative_path": "5ano/unidade-2-regioes-sudeste-e-sul/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-3-brasil-e-america-latina/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-3-brasil-e-america-latina/.gitkeep",
+      "relative_path": "5ano/unidade-3-brasil-e-america-latina/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-4-populacao-brasileira/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-4-populacao-brasileira/.gitkeep",
+      "relative_path": "5ano/unidade-4-populacao-brasileira/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-4-populacao-brasileira/blueprint_capitulo_01_caracteristicas-demograficas.md",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-4-populacao-brasileira/blueprint_capitulo_01_caracteristicas-demograficas.md",
+      "relative_path": "5ano/unidade-4-populacao-brasileira/blueprint_capitulo_01_caracteristicas-demograficas.md",
+      "action": "already_identical",
+      "sha256": "aaa264b06f8a190b4fe22e579e3699357dd4482a0736e56d4bfc55c068df63ea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-4-populacao-brasileira/blueprint_capitulo_02_diversidade-e-migracoes.md",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-4-populacao-brasileira/blueprint_capitulo_02_diversidade-e-migracoes.md",
+      "relative_path": "5ano/unidade-4-populacao-brasileira/blueprint_capitulo_02_diversidade-e-migracoes.md",
+      "action": "already_identical",
+      "sha256": "00f4411128470b2cbd7817a971a47de41ca3ce81a5d4a46e3e7e8c74eccad53e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-4-populacao-brasileira/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-4-populacao-brasileira/blueprint_unidade.md",
+      "relative_path": "5ano/unidade-4-populacao-brasileira/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "a6ab7d5a7d18e741dccac1b719fdf7b94ec6691194ebef2d0cfcce8f8c1575a1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-5-imperio-brasileiro/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-5-imperio-brasileiro/.gitkeep",
+      "relative_path": "5ano/unidade-5-imperio-brasileiro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-6-republica-brasileira/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-6-republica-brasileira/.gitkeep",
+      "relative_path": "5ano/unidade-6-republica-brasileira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-7-economia-e-trabalho/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-7-economia-e-trabalho/.gitkeep",
+      "relative_path": "5ano/unidade-7-economia-e-trabalho/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/5ano/unidade-8-meio-ambiente-e-cidadania/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/5ano/unidade-8-meio-ambiente-e-cidadania/.gitkeep",
+      "relative_path": "5ano/unidade-8-meio-ambiente-e-cidadania/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-1-espaco-geografico-e-cartografia/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-1-espaco-geografico-e-cartografia/.gitkeep",
+      "relative_path": "6ano/unidade-1-espaco-geografico-e-cartografia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-2-pre-historia-e-mesopotamia/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-2-pre-historia-e-mesopotamia/.gitkeep",
+      "relative_path": "6ano/unidade-2-pre-historia-e-mesopotamia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-3-coordenadas-e-solo/blueprint_capitulo_01_coordenadas_geograficas.md",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-3-coordenadas-e-solo/blueprint_capitulo_01_coordenadas_geograficas.md",
+      "relative_path": "6ano/unidade-3-coordenadas-e-solo/blueprint_capitulo_01_coordenadas_geograficas.md",
+      "action": "copied",
+      "sha256": "d8ef8ec43d24be2258dc2ea094983f228a8a8d2920054b347af1e21bd7a05d58"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-3-coordenadas-e-solo/blueprint_capitulo_02_solo.md",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-3-coordenadas-e-solo/blueprint_capitulo_02_solo.md",
+      "relative_path": "6ano/unidade-3-coordenadas-e-solo/blueprint_capitulo_02_solo.md",
+      "action": "copied",
+      "sha256": "ca09cf4a86050ebf3d899b255989ee108e473c1abb354cf0fe1a1d4436510a33"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-3-coordenadas-e-solo/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-3-coordenadas-e-solo/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-3-coordenadas-e-solo/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "6d6b16b8b9e9b4977985e6ea68bb5331bdf7af921bea42370cc8b2be998b1b08"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-4-egito-e-americas-antigas/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-4-egito-e-americas-antigas/.gitkeep",
+      "relative_path": "6ano/unidade-4-egito-e-americas-antigas/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_01_egito-antigo.md",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_01_egito-antigo.md",
+      "relative_path": "6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_01_egito-antigo.md",
+      "action": "already_identical",
+      "sha256": "8071329c92fd759b31fdfbab5e0adf6715f13a0bef9ed02f0acffe8d5210c7bc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_02_maias-astecas-e-incas.md",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_02_maias-astecas-e-incas.md",
+      "relative_path": "6ano/unidade-4-egito-e-americas-antigas/blueprint_capitulo_02_maias-astecas-e-incas.md",
+      "action": "already_identical",
+      "sha256": "af8b89dbfe5e4ba3463b31838d7f81297cca17104f9740cdefcff1d071b932ea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-4-egito-e-americas-antigas/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-4-egito-e-americas-antigas/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-4-egito-e-americas-antigas/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "375602b050331c884ea8d36c27ba8b8848d52abf1ea8bd437c4ecbf0479a389f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-5-civilizacoes-orientais-e-sistemas-terrestres/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-5-civilizacoes-orientais-e-sistemas-terrestres/.gitkeep",
+      "relative_path": "6ano/unidade-5-civilizacoes-orientais-e-sistemas-terrestres/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-6-roma-antiga/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-6-roma-antiga/.gitkeep",
+      "relative_path": "6ano/unidade-6-roma-antiga/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-7-grecia-antiga/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-7-grecia-antiga/.gitkeep",
+      "relative_path": "6ano/unidade-7-grecia-antiga/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/6ano/unidade-8-africa-antiga-e-patrimonio/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/6ano/unidade-8-africa-antiga-e-patrimonio/.gitkeep",
+      "relative_path": "6ano/unidade-8-africa-antiga-e-patrimonio/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-1-brasil-territorio-populacao-e-cultura/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-1-brasil-territorio-populacao-e-cultura/.gitkeep",
+      "relative_path": "7ano/unidade-1-brasil-territorio-populacao-e-cultura/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-2-povos-indigenas-e-europa-pos-roma/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-2-povos-indigenas-e-europa-pos-roma/.gitkeep",
+      "relative_path": "7ano/unidade-2-povos-indigenas-e-europa-pos-roma/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-3-relevo-clima-e-recursos-naturais/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-3-relevo-clima-e-recursos-naturais/.gitkeep",
+      "relative_path": "7ano/unidade-3-relevo-clima-e-recursos-naturais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-4-feudalismo/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-4-feudalismo/.gitkeep",
+      "relative_path": "7ano/unidade-4-feudalismo/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-4-feudalismo/blueprint_capitulo_01_imperio-carolingio-e-invasoes.md",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-4-feudalismo/blueprint_capitulo_01_imperio-carolingio-e-invasoes.md",
+      "relative_path": "7ano/unidade-4-feudalismo/blueprint_capitulo_01_imperio-carolingio-e-invasoes.md",
+      "action": "already_identical",
+      "sha256": "f9a7e7ad42889b87bf71e55090fd9b461891821c51dfaa237b89d805f14f1cb7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-4-feudalismo/blueprint_capitulo_02_estrutura-do-feudalismo.md",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-4-feudalismo/blueprint_capitulo_02_estrutura-do-feudalismo.md",
+      "relative_path": "7ano/unidade-4-feudalismo/blueprint_capitulo_02_estrutura-do-feudalismo.md",
+      "action": "already_identical",
+      "sha256": "54f142248526440f564b70502630aae673263130e45af658a993bb6b559ec05f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-4-feudalismo/blueprint_capitulo_03_igreja-medieval-e-cultura.md",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-4-feudalismo/blueprint_capitulo_03_igreja-medieval-e-cultura.md",
+      "relative_path": "7ano/unidade-4-feudalismo/blueprint_capitulo_03_igreja-medieval-e-cultura.md",
+      "action": "already_identical",
+      "sha256": "8f7ce5cec3d5c0592d349d6d7a87a21a54883d38ca90c958a94edee249758d27"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-4-feudalismo/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-4-feudalismo/blueprint_unidade.md",
+      "relative_path": "7ano/unidade-4-feudalismo/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "ee1bd696cc511b0cffd04d2fa2c9992ae1cf017872f3606db363b15634fa30bf"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-5-urbanizacao-e-redes/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-5-urbanizacao-e-redes/.gitkeep",
+      "relative_path": "7ano/unidade-5-urbanizacao-e-redes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-6-crise-do-feudalismo-e-modernidade/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-6-crise-do-feudalismo-e-modernidade/.gitkeep",
+      "relative_path": "7ano/unidade-6-crise-do-feudalismo-e-modernidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-7-agricultura-brasileira/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-7-agricultura-brasileira/.gitkeep",
+      "relative_path": "7ano/unidade-7-agricultura-brasileira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/7ano/unidade-8-colonizacao-e-brasil-colonial/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/7ano/unidade-8-colonizacao-e-brasil-colonial/.gitkeep",
+      "relative_path": "7ano/unidade-8-colonizacao-e-brasil-colonial/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-1-cartografia-e-america/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-1-cartografia-e-america/.gitkeep",
+      "relative_path": "8ano/unidade-1-cartografia-e-america/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-2-antigo-regime-e-revolucoes-politicas/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-2-antigo-regime-e-revolucoes-politicas/.gitkeep",
+      "relative_path": "8ano/unidade-2-antigo-regime-e-revolucoes-politicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-3-america-latina-e-brasil/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-3-america-latina-e-brasil/.gitkeep",
+      "relative_path": "8ano/unidade-3-america-latina-e-brasil/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_01_revolucao-industrial.md",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_01_revolucao-industrial.md",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_01_revolucao-industrial.md",
+      "action": "already_identical",
+      "sha256": "a6845ea2ad114b702abb3424b38afcca46791a6752218fca700a166ec7c74f22"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_02_revolucao-francesa.md",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_02_revolucao-francesa.md",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_02_revolucao-francesa.md",
+      "action": "already_identical",
+      "sha256": "e95cc4a32b3046e8add244887b5417072b4b2162a3745301323e916805d28476"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_03_era-napoleonica-e-congresso-de-viena.md",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_03_era-napoleonica-e-congresso-de-viena.md",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_03_era-napoleonica-e-congresso-de-viena.md",
+      "action": "already_identical",
+      "sha256": "3ddbdeaa9b50b65d474c395db6ffef23edae8e8a8cc3e00b5e201d50cf6270ed"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_04_movimentos-operarios-e-ideias-socialistas.md",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_04_movimentos-operarios-e-ideias-socialistas.md",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_capitulo_04_movimentos-operarios-e-ideias-socialistas.md",
+      "action": "already_identical",
+      "sha256": "e295cd4fca0d88688a9fd5a42a3fb0d3fa54de39d54da74b8ed34418ea1d4dc3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-politicas/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "c31e731767f8c19db2fe0f617af7fb7c1ff073d07d71c9d4fda8b2e6630e595d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-5-independencias-nas-americas/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-5-independencias-nas-americas/.gitkeep",
+      "relative_path": "8ano/unidade-5-independencias-nas-americas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-6-brasil-no-seculo-xix/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-6-brasil-no-seculo-xix/.gitkeep",
+      "relative_path": "8ano/unidade-6-brasil-no-seculo-xix/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-7-imperialismo-e-partilha-do-mundo/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-7-imperialismo-e-partilha-do-mundo/.gitkeep",
+      "relative_path": "8ano/unidade-7-imperialismo-e-partilha-do-mundo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/8ano/unidade-8-africa-e-globalizacao-contemporanea/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/8ano/unidade-8-africa-e-globalizacao-contemporanea/.gitkeep",
+      "relative_path": "8ano/unidade-8-africa-e-globalizacao-contemporanea/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-1-demografia-migracoes-e-guerras/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-1-demografia-migracoes-e-guerras/.gitkeep",
+      "relative_path": "9ano/unidade-1-demografia-migracoes-e-guerras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-2-urbanizacao-e-republica-velha/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-2-urbanizacao-e-republica-velha/.gitkeep",
+      "relative_path": "9ano/unidade-2-urbanizacao-e-republica-velha/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-3-america-crise-e-segunda-guerra/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-3-america-crise-e-segunda-guerra/.gitkeep",
+      "relative_path": "9ano/unidade-3-america-crise-e-segunda-guerra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-4-era-vargas-e-guerra-fria/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/.gitkeep",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_01_era-vargas.md",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_01_era-vargas.md",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_01_era-vargas.md",
+      "action": "already_identical",
+      "sha256": "b3a6558b49ac4e99ba0b60f2cbd1239e61ed5f16d7d657fcd3e75da753e05736"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_02_guerra-fria.md",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_02_guerra-fria.md",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_02_guerra-fria.md",
+      "action": "already_identical",
+      "sha256": "e94fa40248d39ce4452eee7b0c7feea6ff575d094bc74d4f86ba82d3d768d51f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_03_descolonizacao-da-africa-e-asia.md",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_03_descolonizacao-da-africa-e-asia.md",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_03_descolonizacao-da-africa-e-asia.md",
+      "action": "already_identical",
+      "sha256": "c877353e9c4987a2f39d75b853c08f4b6e7e84b635d2a35a83b1c46ad9518407"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_04_fim-da-guerra-fria.md",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_04_fim-da-guerra-fria.md",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_capitulo_04_fim-da-guerra-fria.md",
+      "action": "already_identical",
+      "sha256": "f63891b6d446cd64ec99c95f7cca0cc1cdb69fbb60686a5c14ad12793b667129"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_unidade.md",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "5f0ba0f90cb12e6b8243ea52c5c489fb926c97bd84356aa06d8d653afacfed15"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-5-europa-e-asia/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-5-europa-e-asia/.gitkeep",
+      "relative_path": "9ano/unidade-5-europa-e-asia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-6-africa-e-oceania/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-6-africa-e-oceania/.gitkeep",
+      "relative_path": "9ano/unidade-6-africa-e-oceania/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-7-brasil-democracia-e-ditadura/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-7-brasil-democracia-e-ditadura/.gitkeep",
+      "relative_path": "9ano/unidade-7-brasil-democracia-e-ditadura/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Estudos Sociais/9ano/unidade-8-brasil-contemporaneo-e-desafios-globais/.gitkeep",
+      "destination": "Estudos Sociais/_blueprints/9ano/unidade-8-brasil-contemporaneo-e-desafios-globais/.gitkeep",
+      "relative_path": "9ano/unidade-8-brasil-contemporaneo-e-desafios-globais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/1ano/unidade-1-quem-sou-eu/.gitkeep",
+      "destination": "Estudos Sociais/1ano/unidade-1-quem-sou-eu/.gitkeep",
+      "relative_path": "1ano/unidade-1-quem-sou-eu/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/1ano/unidade-2-o-tempo-ao-meu-redor/.gitkeep",
+      "destination": "Estudos Sociais/1ano/unidade-2-o-tempo-ao-meu-redor/.gitkeep",
+      "relative_path": "1ano/unidade-2-o-tempo-ao-meu-redor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/1ano/unidade-3-minha-familia/.gitkeep",
+      "destination": "Estudos Sociais/1ano/unidade-3-minha-familia/.gitkeep",
+      "relative_path": "1ano/unidade-3-minha-familia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/1ano/unidade-4-convivendo-em-familia/.gitkeep",
+      "destination": "Estudos Sociais/1ano/unidade-4-convivendo-em-familia/.gitkeep",
+      "relative_path": "1ano/unidade-4-convivendo-em-familia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/1ano/unidade-5-minha-casa/.gitkeep",
+      "destination": "Estudos Sociais/1ano/unidade-5-minha-casa/.gitkeep",
+      "relative_path": "1ano/unidade-5-minha-casa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/1ano/unidade-6-minha-escola-e-meu-caminho/.gitkeep",
+      "destination": "Estudos Sociais/1ano/unidade-6-minha-escola-e-meu-caminho/.gitkeep",
+      "relative_path": "1ano/unidade-6-minha-escola-e-meu-caminho/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/1ano/unidade-7-o-mundo-do-trabalho/.gitkeep",
+      "destination": "Estudos Sociais/1ano/unidade-7-o-mundo-do-trabalho/.gitkeep",
+      "relative_path": "1ano/unidade-7-o-mundo-do-trabalho/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/1ano/unidade-8-a-natureza-ao-nosso-redor/.gitkeep",
+      "destination": "Estudos Sociais/1ano/unidade-8-a-natureza-ao-nosso-redor/.gitkeep",
+      "relative_path": "1ano/unidade-8-a-natureza-ao-nosso-redor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/2ano/unidade-1-historia-da-minha-familia/.gitkeep",
+      "destination": "Estudos Sociais/2ano/unidade-1-historia-da-minha-familia/.gitkeep",
+      "relative_path": "2ano/unidade-1-historia-da-minha-familia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/2ano/unidade-2-medindo-o-tempo/.gitkeep",
+      "destination": "Estudos Sociais/2ano/unidade-2-medindo-o-tempo/.gitkeep",
+      "relative_path": "2ano/unidade-2-medindo-o-tempo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/2ano/unidade-3-conhecendo-meu-bairro/.gitkeep",
+      "destination": "Estudos Sociais/2ano/unidade-3-conhecendo-meu-bairro/.gitkeep",
+      "relative_path": "2ano/unidade-3-conhecendo-meu-bairro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/2ano/unidade-4-o-que-tem-no-bairro/.gitkeep",
+      "destination": "Estudos Sociais/2ano/unidade-4-o-que-tem-no-bairro/.gitkeep",
+      "relative_path": "2ano/unidade-4-o-que-tem-no-bairro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/2ano/unidade-5-trabalho-no-bairro/.gitkeep",
+      "destination": "Estudos Sociais/2ano/unidade-5-trabalho-no-bairro/.gitkeep",
+      "relative_path": "2ano/unidade-5-trabalho-no-bairro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/2ano/unidade-6-paisagens-e-transformacoes/.gitkeep",
+      "destination": "Estudos Sociais/2ano/unidade-6-paisagens-e-transformacoes/.gitkeep",
+      "relative_path": "2ano/unidade-6-paisagens-e-transformacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/2ano/unidade-7-nossa-cultura/.gitkeep",
+      "destination": "Estudos Sociais/2ano/unidade-7-nossa-cultura/.gitkeep",
+      "relative_path": "2ano/unidade-7-nossa-cultura/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/2ano/unidade-8-transporte-comunicacao-e-mapas-digitais/.gitkeep",
+      "destination": "Estudos Sociais/2ano/unidade-8-transporte-comunicacao-e-mapas-digitais/.gitkeep",
+      "relative_path": "2ano/unidade-8-transporte-comunicacao-e-mapas-digitais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/3ano/unidade-1-como-a-cidade-se-formou/.gitkeep",
+      "destination": "Estudos Sociais/3ano/unidade-1-como-a-cidade-se-formou/.gitkeep",
+      "relative_path": "3ano/unidade-1-como-a-cidade-se-formou/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/3ano/unidade-2-vivendo-na-cidade/.gitkeep",
+      "destination": "Estudos Sociais/3ano/unidade-2-vivendo-na-cidade/.gitkeep",
+      "relative_path": "3ano/unidade-2-vivendo-na-cidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/3ano/unidade-3-campo-e-cidade/.gitkeep",
+      "destination": "Estudos Sociais/3ano/unidade-3-campo-e-cidade/.gitkeep",
+      "relative_path": "3ano/unidade-3-campo-e-cidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/3ano/unidade-4-organizacao-do-municipio/.gitkeep",
+      "destination": "Estudos Sociais/3ano/unidade-4-organizacao-do-municipio/.gitkeep",
+      "relative_path": "3ano/unidade-4-organizacao-do-municipio/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/3ano/unidade-5-primeiros-habitantes-do-brasil/.gitkeep",
+      "destination": "Estudos Sociais/3ano/unidade-5-primeiros-habitantes-do-brasil/.gitkeep",
+      "relative_path": "3ano/unidade-5-primeiros-habitantes-do-brasil/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/3ano/unidade-6-cultura-indigena/.gitkeep",
+      "destination": "Estudos Sociais/3ano/unidade-6-cultura-indigena/.gitkeep",
+      "relative_path": "3ano/unidade-6-cultura-indigena/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/3ano/unidade-7-quilombolas-e-cultura-africana/.gitkeep",
+      "destination": "Estudos Sociais/3ano/unidade-7-quilombolas-e-cultura-africana/.gitkeep",
+      "relative_path": "3ano/unidade-7-quilombolas-e-cultura-africana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/3ano/unidade-8-patrimonio-e-memoria/.gitkeep",
+      "destination": "Estudos Sociais/3ano/unidade-8-patrimonio-e-memoria/.gitkeep",
+      "relative_path": "3ano/unidade-8-patrimonio-e-memoria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/4ano/unidade-1-o-brasil-no-mundo/.gitkeep",
+      "destination": "Estudos Sociais/4ano/unidade-1-o-brasil-no-mundo/.gitkeep",
+      "relative_path": "4ano/unidade-1-o-brasil-no-mundo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/4ano/unidade-2-relevo-e-hidrografia/.gitkeep",
+      "destination": "Estudos Sociais/4ano/unidade-2-relevo-e-hidrografia/.gitkeep",
+      "relative_path": "4ano/unidade-2-relevo-e-hidrografia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/4ano/unidade-3-o-municipio/.gitkeep",
+      "destination": "Estudos Sociais/4ano/unidade-3-o-municipio/.gitkeep",
+      "relative_path": "4ano/unidade-3-o-municipio/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/4ano/unidade-4-representacao-do-espaco/.gitkeep",
+      "destination": "Estudos Sociais/4ano/unidade-4-representacao-do-espaco/.gitkeep",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/4ano/unidade-4-representacao-do-espaco/capitulo_01_tipos-de-mapas.md",
+      "destination": "Estudos Sociais/4ano/unidade-4-representacao-do-espaco/capitulo_01_tipos-de-mapas.md",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/capitulo_01_tipos-de-mapas.md",
+      "action": "copied",
+      "sha256": "da66bae7ef2908f5a6f9f94f9a565353eaf0acf965d7f7579e1c6b7d5c641ee5"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/4ano/unidade-4-representacao-do-espaco/capitulo_02_orientacao-e-escala.md",
+      "destination": "Estudos Sociais/4ano/unidade-4-representacao-do-espaco/capitulo_02_orientacao-e-escala.md",
+      "relative_path": "4ano/unidade-4-representacao-do-espaco/capitulo_02_orientacao-e-escala.md",
+      "action": "copied",
+      "sha256": "ca004120fc117eac27d1e57e6124edae6218c751310d7bdd37bde628ce21db1d"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/4ano/unidade-5-formacao-do-povo-brasileiro/.gitkeep",
+      "destination": "Estudos Sociais/4ano/unidade-5-formacao-do-povo-brasileiro/.gitkeep",
+      "relative_path": "4ano/unidade-5-formacao-do-povo-brasileiro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/4ano/unidade-6-identidade-nacional/.gitkeep",
+      "destination": "Estudos Sociais/4ano/unidade-6-identidade-nacional/.gitkeep",
+      "relative_path": "4ano/unidade-6-identidade-nacional/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/4ano/unidade-7-clima-e-biomas/.gitkeep",
+      "destination": "Estudos Sociais/4ano/unidade-7-clima-e-biomas/.gitkeep",
+      "relative_path": "4ano/unidade-7-clima-e-biomas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/4ano/unidade-8-circulacao-e-conexoes/.gitkeep",
+      "destination": "Estudos Sociais/4ano/unidade-8-circulacao-e-conexoes/.gitkeep",
+      "relative_path": "4ano/unidade-8-circulacao-e-conexoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/5ano/unidade-1-regioes-norte-nordeste-e-centro-oeste/.gitkeep",
+      "destination": "Estudos Sociais/5ano/unidade-1-regioes-norte-nordeste-e-centro-oeste/.gitkeep",
+      "relative_path": "5ano/unidade-1-regioes-norte-nordeste-e-centro-oeste/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/5ano/unidade-2-regioes-sudeste-e-sul/.gitkeep",
+      "destination": "Estudos Sociais/5ano/unidade-2-regioes-sudeste-e-sul/.gitkeep",
+      "relative_path": "5ano/unidade-2-regioes-sudeste-e-sul/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/5ano/unidade-3-brasil-e-america-latina/.gitkeep",
+      "destination": "Estudos Sociais/5ano/unidade-3-brasil-e-america-latina/.gitkeep",
+      "relative_path": "5ano/unidade-3-brasil-e-america-latina/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/5ano/unidade-4-populacao-brasileira/.gitkeep",
+      "destination": "Estudos Sociais/5ano/unidade-4-populacao-brasileira/.gitkeep",
+      "relative_path": "5ano/unidade-4-populacao-brasileira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/5ano/unidade-5-imperio-brasileiro/.gitkeep",
+      "destination": "Estudos Sociais/5ano/unidade-5-imperio-brasileiro/.gitkeep",
+      "relative_path": "5ano/unidade-5-imperio-brasileiro/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/5ano/unidade-6-republica-brasileira/.gitkeep",
+      "destination": "Estudos Sociais/5ano/unidade-6-republica-brasileira/.gitkeep",
+      "relative_path": "5ano/unidade-6-republica-brasileira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/5ano/unidade-7-economia-e-trabalho/.gitkeep",
+      "destination": "Estudos Sociais/5ano/unidade-7-economia-e-trabalho/.gitkeep",
+      "relative_path": "5ano/unidade-7-economia-e-trabalho/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/5ano/unidade-8-meio-ambiente-e-cidadania/.gitkeep",
+      "destination": "Estudos Sociais/5ano/unidade-8-meio-ambiente-e-cidadania/.gitkeep",
+      "relative_path": "5ano/unidade-8-meio-ambiente-e-cidadania/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/6ano/unidade-1-espaco-geografico-e-cartografia/.gitkeep",
+      "destination": "Estudos Sociais/6ano/unidade-1-espaco-geografico-e-cartografia/.gitkeep",
+      "relative_path": "6ano/unidade-1-espaco-geografico-e-cartografia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/6ano/unidade-2-pre-historia-e-mesopotamia/.gitkeep",
+      "destination": "Estudos Sociais/6ano/unidade-2-pre-historia-e-mesopotamia/.gitkeep",
+      "relative_path": "6ano/unidade-2-pre-historia-e-mesopotamia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/6ano/unidade-3-coordenadas-e-solo/.gitkeep",
+      "destination": "Estudos Sociais/6ano/unidade-3-coordenadas-e-solo/.gitkeep",
+      "relative_path": "6ano/unidade-3-coordenadas-e-solo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/6ano/unidade-4-egito-e-americas-antigas/.gitkeep",
+      "destination": "Estudos Sociais/6ano/unidade-4-egito-e-americas-antigas/.gitkeep",
+      "relative_path": "6ano/unidade-4-egito-e-americas-antigas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/6ano/unidade-5-civilizacoes-orientais-e-sistemas-terrestres/.gitkeep",
+      "destination": "Estudos Sociais/6ano/unidade-5-civilizacoes-orientais-e-sistemas-terrestres/.gitkeep",
+      "relative_path": "6ano/unidade-5-civilizacoes-orientais-e-sistemas-terrestres/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/6ano/unidade-6-roma-antiga/.gitkeep",
+      "destination": "Estudos Sociais/6ano/unidade-6-roma-antiga/.gitkeep",
+      "relative_path": "6ano/unidade-6-roma-antiga/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/6ano/unidade-7-grecia-antiga/.gitkeep",
+      "destination": "Estudos Sociais/6ano/unidade-7-grecia-antiga/.gitkeep",
+      "relative_path": "6ano/unidade-7-grecia-antiga/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/6ano/unidade-8-africa-antiga-e-patrimonio/.gitkeep",
+      "destination": "Estudos Sociais/6ano/unidade-8-africa-antiga-e-patrimonio/.gitkeep",
+      "relative_path": "6ano/unidade-8-africa-antiga-e-patrimonio/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-1-brasil-territorio-populacao-e-cultura/.gitkeep",
+      "destination": "Estudos Sociais/7ano/unidade-1-brasil-territorio-populacao-e-cultura/.gitkeep",
+      "relative_path": "7ano/unidade-1-brasil-territorio-populacao-e-cultura/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-2-povos-indigenas-e-europa-pos-roma/.gitkeep",
+      "destination": "Estudos Sociais/7ano/unidade-2-povos-indigenas-e-europa-pos-roma/.gitkeep",
+      "relative_path": "7ano/unidade-2-povos-indigenas-e-europa-pos-roma/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-3-relevo-clima-e-recursos-naturais/.gitkeep",
+      "destination": "Estudos Sociais/7ano/unidade-3-relevo-clima-e-recursos-naturais/.gitkeep",
+      "relative_path": "7ano/unidade-3-relevo-clima-e-recursos-naturais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-4-feudalismo/.gitkeep",
+      "destination": "Estudos Sociais/7ano/unidade-4-feudalismo/.gitkeep",
+      "relative_path": "7ano/unidade-4-feudalismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-4-feudalismo/capitulo_01_imperio-carolingio-e-invasoes.md",
+      "destination": "Estudos Sociais/7ano/unidade-4-feudalismo/capitulo_01_imperio-carolingio-e-invasoes.md",
+      "relative_path": "7ano/unidade-4-feudalismo/capitulo_01_imperio-carolingio-e-invasoes.md",
+      "action": "copied",
+      "sha256": "59c323b13872311d1cad68135dd8fc6d9091a71959845f2389b63b274017e494"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-4-feudalismo/capitulo_02_estrutura-do-feudalismo.md",
+      "destination": "Estudos Sociais/7ano/unidade-4-feudalismo/capitulo_02_estrutura-do-feudalismo.md",
+      "relative_path": "7ano/unidade-4-feudalismo/capitulo_02_estrutura-do-feudalismo.md",
+      "action": "copied",
+      "sha256": "27f684ebe0c78d23672004ea3172bc7480b290db21bb515017b0a77d9eb70a29"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-4-feudalismo/capitulo_03_igreja-medieval-e-cultura.md",
+      "destination": "Estudos Sociais/7ano/unidade-4-feudalismo/capitulo_03_igreja-medieval-e-cultura.md",
+      "relative_path": "7ano/unidade-4-feudalismo/capitulo_03_igreja-medieval-e-cultura.md",
+      "action": "copied",
+      "sha256": "2bd47b9a2d8482752247a7744bc4218af9176c19a07ea508eeeb2f5a37820be9"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-5-urbanizacao-e-redes/.gitkeep",
+      "destination": "Estudos Sociais/7ano/unidade-5-urbanizacao-e-redes/.gitkeep",
+      "relative_path": "7ano/unidade-5-urbanizacao-e-redes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-6-crise-do-feudalismo-e-modernidade/.gitkeep",
+      "destination": "Estudos Sociais/7ano/unidade-6-crise-do-feudalismo-e-modernidade/.gitkeep",
+      "relative_path": "7ano/unidade-6-crise-do-feudalismo-e-modernidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-7-agricultura-brasileira/.gitkeep",
+      "destination": "Estudos Sociais/7ano/unidade-7-agricultura-brasileira/.gitkeep",
+      "relative_path": "7ano/unidade-7-agricultura-brasileira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/7ano/unidade-8-colonizacao-e-brasil-colonial/.gitkeep",
+      "destination": "Estudos Sociais/7ano/unidade-8-colonizacao-e-brasil-colonial/.gitkeep",
+      "relative_path": "7ano/unidade-8-colonizacao-e-brasil-colonial/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/8ano/unidade-1-cartografia-e-america/.gitkeep",
+      "destination": "Estudos Sociais/8ano/unidade-1-cartografia-e-america/.gitkeep",
+      "relative_path": "8ano/unidade-1-cartografia-e-america/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/8ano/unidade-2-antigo-regime-e-revolucoes-politicas/.gitkeep",
+      "destination": "Estudos Sociais/8ano/unidade-2-antigo-regime-e-revolucoes-politicas/.gitkeep",
+      "relative_path": "8ano/unidade-2-antigo-regime-e-revolucoes-politicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/8ano/unidade-3-america-latina-e-brasil/.gitkeep",
+      "destination": "Estudos Sociais/8ano/unidade-3-america-latina-e-brasil/.gitkeep",
+      "relative_path": "8ano/unidade-3-america-latina-e-brasil/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/8ano/unidade-4-revolucoes-industriais-e-revolucoes-politicas/.gitkeep",
+      "destination": "Estudos Sociais/8ano/unidade-4-revolucoes-industriais-e-revolucoes-politicas/.gitkeep",
+      "relative_path": "8ano/unidade-4-revolucoes-industriais-e-revolucoes-politicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/8ano/unidade-5-independencias-nas-americas/.gitkeep",
+      "destination": "Estudos Sociais/8ano/unidade-5-independencias-nas-americas/.gitkeep",
+      "relative_path": "8ano/unidade-5-independencias-nas-americas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/8ano/unidade-6-brasil-no-seculo-xix/.gitkeep",
+      "destination": "Estudos Sociais/8ano/unidade-6-brasil-no-seculo-xix/.gitkeep",
+      "relative_path": "8ano/unidade-6-brasil-no-seculo-xix/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/8ano/unidade-7-imperialismo-e-partilha-do-mundo/.gitkeep",
+      "destination": "Estudos Sociais/8ano/unidade-7-imperialismo-e-partilha-do-mundo/.gitkeep",
+      "relative_path": "8ano/unidade-7-imperialismo-e-partilha-do-mundo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/8ano/unidade-8-africa-e-globalizacao-contemporanea/.gitkeep",
+      "destination": "Estudos Sociais/8ano/unidade-8-africa-e-globalizacao-contemporanea/.gitkeep",
+      "relative_path": "8ano/unidade-8-africa-e-globalizacao-contemporanea/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/9ano/unidade-1-demografia-migracoes-e-guerras/.gitkeep",
+      "destination": "Estudos Sociais/9ano/unidade-1-demografia-migracoes-e-guerras/.gitkeep",
+      "relative_path": "9ano/unidade-1-demografia-migracoes-e-guerras/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/9ano/unidade-2-urbanizacao-e-republica-velha/.gitkeep",
+      "destination": "Estudos Sociais/9ano/unidade-2-urbanizacao-e-republica-velha/.gitkeep",
+      "relative_path": "9ano/unidade-2-urbanizacao-e-republica-velha/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/9ano/unidade-3-america-crise-e-segunda-guerra/.gitkeep",
+      "destination": "Estudos Sociais/9ano/unidade-3-america-crise-e-segunda-guerra/.gitkeep",
+      "relative_path": "9ano/unidade-3-america-crise-e-segunda-guerra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/9ano/unidade-4-era-vargas-e-guerra-fria/.gitkeep",
+      "destination": "Estudos Sociais/9ano/unidade-4-era-vargas-e-guerra-fria/.gitkeep",
+      "relative_path": "9ano/unidade-4-era-vargas-e-guerra-fria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/9ano/unidade-5-europa-e-asia/.gitkeep",
+      "destination": "Estudos Sociais/9ano/unidade-5-europa-e-asia/.gitkeep",
+      "relative_path": "9ano/unidade-5-europa-e-asia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/9ano/unidade-6-africa-e-oceania/.gitkeep",
+      "destination": "Estudos Sociais/9ano/unidade-6-africa-e-oceania/.gitkeep",
+      "relative_path": "9ano/unidade-6-africa-e-oceania/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/9ano/unidade-7-brasil-democracia-e-ditadura/.gitkeep",
+      "destination": "Estudos Sociais/9ano/unidade-7-brasil-democracia-e-ditadura/.gitkeep",
+      "relative_path": "9ano/unidade-7-brasil-democracia-e-ditadura/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Estudos Sociais/9ano/unidade-8-brasil-contemporaneo-e-desafios-globais/.gitkeep",
+      "destination": "Estudos Sociais/9ano/unidade-8-brasil-contemporaneo-e-desafios-globais/.gitkeep",
+      "relative_path": "9ano/unidade-8-brasil-contemporaneo-e-desafios-globais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Estudos Sociais/4ano/Unidade 3 - O Município/Unidade 3 — O Município.gdoc",
+      "destination": "Estudos Sociais/4ano/Unidade 3 - O Município/Unidade 3 — O Município.gdoc",
+      "relative_path": "4ano/Unidade 3 - O Município/Unidade 3 — O Município.gdoc",
+      "action": "copied",
+      "sha256": "2012b1d64e1281ca88fe45757ab4c2737d415d87091bc771baf078b9b711495b"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Estudos Sociais/5ano/Unidade 3 - Brasil e América Latina/Unidade 3 — Brasil e América Latina.gdoc",
+      "destination": "Estudos Sociais/5ano/Unidade 3 - Brasil e América Latina/Unidade 3 — Brasil e América Latina.gdoc",
+      "relative_path": "5ano/Unidade 3 - Brasil e América Latina/Unidade 3 — Brasil e América Latina.gdoc",
+      "action": "copied",
+      "sha256": "443e91cf82fdadbce91db7af7da45b160263e8713872298b986869b0d48e4da8"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Estudos Sociais/6ano/Unidade 3 - Coordenadas e Solo/Unidade 3 — Coordenadas e Solo .gdoc",
+      "destination": "Estudos Sociais/6ano/Unidade 3 - Coordenadas e Solo/Unidade 3 — Coordenadas e Solo .gdoc",
+      "relative_path": "6ano/Unidade 3 - Coordenadas e Solo/Unidade 3 — Coordenadas e Solo .gdoc",
+      "action": "copied",
+      "sha256": "fd23017074259f6bc69fe80e22e440e3176ca1f229b63542df12447850f2f489"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Estudos Sociais/7ano/Unidade 3 - Relevo, Clima e Recursos Naturais/Unidade 3 — Relevo, Clima e Recursos Naturais.gdoc",
+      "destination": "Estudos Sociais/7ano/Unidade 3 - Relevo, Clima e Recursos Naturais/Unidade 3 — Relevo, Clima e Recursos Naturais.gdoc",
+      "relative_path": "7ano/Unidade 3 - Relevo, Clima e Recursos Naturais/Unidade 3 — Relevo, Clima e Recursos Naturais.gdoc",
+      "action": "copied",
+      "sha256": "a198622c2028e640b2e3dfe7c31dceeb745ab34bd1e6f2fd19da044fa4f31fd7"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Estudos Sociais/8ano/Unidade 3 - América Latina e Brasil/Unidade 3 — América Latina e Brasil | 8º Ano.gdoc",
+      "destination": "Estudos Sociais/8ano/Unidade 3 - América Latina e Brasil/Unidade 3 — América Latina e Brasil | 8º Ano.gdoc",
+      "relative_path": "8ano/Unidade 3 - América Latina e Brasil/Unidade 3 — América Latina e Brasil | 8º Ano.gdoc",
+      "action": "copied",
+      "sha256": "6a4741b3b737bd6e01ac008c438829b583d18cdb30858beb6bc2eb856bce4fba"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Estudos Sociais/9ano/Unidade 3 - América, Crise e Segunda Guerra/Anexo - Da Crise ao Controle: A Ascensão dos Regimes Totalitários (1919–1939).gdoc",
+      "destination": "Estudos Sociais/9ano/Unidade 3 - América, Crise e Segunda Guerra/Anexo - Da Crise ao Controle: A Ascensão dos Regimes Totalitários (1919–1939).gdoc",
+      "relative_path": "9ano/Unidade 3 - América, Crise e Segunda Guerra/Anexo - Da Crise ao Controle: A Ascensão dos Regimes Totalitários (1919–1939).gdoc",
+      "action": "copied",
+      "sha256": "5d682256ef0c3bbb29c22710fccf3ede4835d19584f4601f4d8a33f5b7a4f941"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Estudos Sociais/9ano/Unidade 3 - América, Crise e Segunda Guerra/Unidade 3 — América, Crise e Segunda Guerra | 9º Ano_v2.gdoc",
+      "destination": "Estudos Sociais/9ano/Unidade 3 - América, Crise e Segunda Guerra/Unidade 3 — América, Crise e Segunda Guerra | 9º Ano_v2.gdoc",
+      "relative_path": "9ano/Unidade 3 - América, Crise e Segunda Guerra/Unidade 3 — América, Crise e Segunda Guerra | 9º Ano_v2.gdoc",
+      "action": "copied",
+      "sha256": "0c9058152d70abd08681d5b5335423adc45af92aabf587d16ccba9945bac38de"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Estudos Sociais/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": [
+    "Estudos Sociais/4ano/unidade-4-representacao-do-espaco/metadata.json",
+    "Estudos Sociais/7ano/unidade-4-feudalismo/metadata.json"
+  ]
+}

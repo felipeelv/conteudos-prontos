@@ -1,0 +1,808 @@
+{
+  "discipline": "Quimica",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_quimica"
+    ],
+    "blueprints": [
+      "Blueprints/quimica",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Quimica"
+    ],
+    "contents": [
+      "Conteudos Prontos/Quimica",
+      "Unidade 3-/Química"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_quimica": {
+      "copied": 5,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::Blueprints::quimica": {
+      "copied": 15,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Quimica": {
+      "copied": 30,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Quimica": {
+      "copied": 30,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Química": {
+      "copied": 3,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_quimica/_shared/lib_common.sh",
+      "destination": "Quimica/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_quimica/CLAUDE.md",
+      "destination": "Quimica/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "d4c275262839952fcc3225eb3f7e2e9aba85628b01b8ac9241e730f6db293258"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_quimica/memoria-autor.md",
+      "destination": "Quimica/_autor/memoria-autor.md",
+      "relative_path": "memoria-autor.md",
+      "action": "copied",
+      "sha256": "f31b07811b8c88a521c632295c626b4de55b83785b7cfd5ce85985eac2332c52"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_quimica/prompt-autor.md",
+      "destination": "Quimica/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "946b689062644765e39a706d8e21ecc8b840c2099de35bea662f146fd605b61f"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_quimica/scripts/criar_capitulos.sh",
+      "destination": "Quimica/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "0ad03dc91fdb01432cf0465de33568f8bdbd730016e1536546439c7cdf367653"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/1serie/unidade-4-grandezas-quimicas-fundamentais/blueprint_capitulo_01_massa-atomica-e-molecular.md",
+      "destination": "Quimica/_blueprints/1serie/unidade-4-grandezas-quimicas-fundamentais/blueprint_capitulo_01_massa-atomica-e-molecular.md",
+      "relative_path": "1serie/unidade-4-grandezas-quimicas-fundamentais/blueprint_capitulo_01_massa-atomica-e-molecular.md",
+      "action": "copied",
+      "sha256": "2de3f01a5601a6f75c83ff550e7ac97470989b0450dcd7c73483443012c264a3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/1serie/unidade-4-grandezas-quimicas-fundamentais/blueprint_capitulo_02_quantidade-de-materia.md",
+      "destination": "Quimica/_blueprints/1serie/unidade-4-grandezas-quimicas-fundamentais/blueprint_capitulo_02_quantidade-de-materia.md",
+      "relative_path": "1serie/unidade-4-grandezas-quimicas-fundamentais/blueprint_capitulo_02_quantidade-de-materia.md",
+      "action": "copied",
+      "sha256": "f668560e23b6fffd52f808d6ad09b441e1e46b14aa372b1f63beee4ad9515faa"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/1serie/unidade-4-grandezas-quimicas-fundamentais/blueprint_unidade.md",
+      "destination": "Quimica/_blueprints/1serie/unidade-4-grandezas-quimicas-fundamentais/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-grandezas-quimicas-fundamentais/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "706438f953de947a6427e8b353f2420e1dec76e404878046efed1f3feb3f6450"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/2serie/unidade-4-cinetica-quimica/blueprint_capitulo_01_velocidade-das-reacoes.md",
+      "destination": "Quimica/_blueprints/2serie/unidade-4-cinetica-quimica/blueprint_capitulo_01_velocidade-das-reacoes.md",
+      "relative_path": "2serie/unidade-4-cinetica-quimica/blueprint_capitulo_01_velocidade-das-reacoes.md",
+      "action": "copied",
+      "sha256": "4bf05aafb949a33dce131addbf9e666193f09e7c4343f510ad4456e149c50a43"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/2serie/unidade-4-cinetica-quimica/blueprint_capitulo_02_fatores-que-afetam-a-velocidade.md",
+      "destination": "Quimica/_blueprints/2serie/unidade-4-cinetica-quimica/blueprint_capitulo_02_fatores-que-afetam-a-velocidade.md",
+      "relative_path": "2serie/unidade-4-cinetica-quimica/blueprint_capitulo_02_fatores-que-afetam-a-velocidade.md",
+      "action": "copied",
+      "sha256": "55645f53ef47c75e18754a504d85f1114c83e7539862f81d8fd54843ae5c2667"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/2serie/unidade-4-cinetica-quimica/blueprint_capitulo_03_teoria-das-colisoes.md",
+      "destination": "Quimica/_blueprints/2serie/unidade-4-cinetica-quimica/blueprint_capitulo_03_teoria-das-colisoes.md",
+      "relative_path": "2serie/unidade-4-cinetica-quimica/blueprint_capitulo_03_teoria-das-colisoes.md",
+      "action": "copied",
+      "sha256": "5aed4bcdde6b43527fac8a6711b16d6d64d9faf29f784b6f37c343f08baf931c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/2serie/unidade-4-cinetica-quimica/blueprint_capitulo_04_lei-de-velocidade-e-catalise.md",
+      "destination": "Quimica/_blueprints/2serie/unidade-4-cinetica-quimica/blueprint_capitulo_04_lei-de-velocidade-e-catalise.md",
+      "relative_path": "2serie/unidade-4-cinetica-quimica/blueprint_capitulo_04_lei-de-velocidade-e-catalise.md",
+      "action": "copied",
+      "sha256": "3e8a992784aa03c4afaacb3eb305b898fa9334b7dc28b151b78afe0c919847f3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/2serie/unidade-4-cinetica-quimica/blueprint_unidade.md",
+      "destination": "Quimica/_blueprints/2serie/unidade-4-cinetica-quimica/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-cinetica-quimica/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "9d79f5df8251db821817806e9a6d47281d790dc5d5df686ae4ae84fe666b8323"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_capitulo_01_aminas.md",
+      "destination": "Quimica/_blueprints/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_capitulo_01_aminas.md",
+      "relative_path": "3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_capitulo_01_aminas.md",
+      "action": "copied",
+      "sha256": "82add4a17b865f9d69d7c1c1f505ad895b3513eaff9e5a28d3feafbab31077a2"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_capitulo_02_amidas.md",
+      "destination": "Quimica/_blueprints/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_capitulo_02_amidas.md",
+      "relative_path": "3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_capitulo_02_amidas.md",
+      "action": "copied",
+      "sha256": "f7f5e747377081715c90e1bd17d68e6732214841e6d748cd2631a716674fcbb5"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_capitulo_03_outras-funcoes.md",
+      "destination": "Quimica/_blueprints/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_capitulo_03_outras-funcoes.md",
+      "relative_path": "3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_capitulo_03_outras-funcoes.md",
+      "action": "copied",
+      "sha256": "b69e8be039702e36244969a3069232b4e912c427f595b426974eaf3f9348d109"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_unidade.md",
+      "destination": "Quimica/_blueprints/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-funcoes-nitrogenadas-e-mistas/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "f074629f9aaec8a8c216d8f837c59633f1a2c77cab9eb999e32bef4c8de4f0f8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/9ano/unidade-4-velocidade-e-combustao/blueprint_capitulo_01_velocidade-das-reacoes.md",
+      "destination": "Quimica/_blueprints/9ano/unidade-4-velocidade-e-combustao/blueprint_capitulo_01_velocidade-das-reacoes.md",
+      "relative_path": "9ano/unidade-4-velocidade-e-combustao/blueprint_capitulo_01_velocidade-das-reacoes.md",
+      "action": "copied",
+      "sha256": "4793ce083b3cf24e11eade7acf4cbcb1d470a9821dc7a432a276a88c6c4a651c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/9ano/unidade-4-velocidade-e-combustao/blueprint_capitulo_02_reacoes-de-combustao.md",
+      "destination": "Quimica/_blueprints/9ano/unidade-4-velocidade-e-combustao/blueprint_capitulo_02_reacoes-de-combustao.md",
+      "relative_path": "9ano/unidade-4-velocidade-e-combustao/blueprint_capitulo_02_reacoes-de-combustao.md",
+      "action": "copied",
+      "sha256": "12400c5c0133a2679f335c81233f2aa7baa4eb12b0750bc038bb5cce0bf90608"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/quimica/9ano/unidade-4-velocidade-e-combustao/blueprint_unidade.md",
+      "destination": "Quimica/_blueprints/9ano/unidade-4-velocidade-e-combustao/blueprint_unidade.md",
+      "relative_path": "9ano/unidade-4-velocidade-e-combustao/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "48633365ba05fbc71446647b40d15324c5564c5c785a0e40843f29102dc55fee"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/1serie/unidade-1-introducao-a-quimica-e-materia/.gitkeep",
+      "destination": "Quimica/_blueprints/1serie/unidade-1-introducao-a-quimica-e-materia/.gitkeep",
+      "relative_path": "1serie/unidade-1-introducao-a-quimica-e-materia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/1serie/unidade-2-substancias-e-misturas/.gitkeep",
+      "destination": "Quimica/_blueprints/1serie/unidade-2-substancias-e-misturas/.gitkeep",
+      "relative_path": "1serie/unidade-2-substancias-e-misturas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/1serie/unidade-3-estrutura-atomica/.gitkeep",
+      "destination": "Quimica/_blueprints/1serie/unidade-3-estrutura-atomica/.gitkeep",
+      "relative_path": "1serie/unidade-3-estrutura-atomica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/1serie/unidade-4-grandezas-quimicas-fundamentais/.gitkeep",
+      "destination": "Quimica/_blueprints/1serie/unidade-4-grandezas-quimicas-fundamentais/.gitkeep",
+      "relative_path": "1serie/unidade-4-grandezas-quimicas-fundamentais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/1serie/unidade-5-tabela-periodica/.gitkeep",
+      "destination": "Quimica/_blueprints/1serie/unidade-5-tabela-periodica/.gitkeep",
+      "relative_path": "1serie/unidade-5-tabela-periodica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/1serie/unidade-6-ligacoes-quimicas/.gitkeep",
+      "destination": "Quimica/_blueprints/1serie/unidade-6-ligacoes-quimicas/.gitkeep",
+      "relative_path": "1serie/unidade-6-ligacoes-quimicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/1serie/unidade-7-funcoes-inorganicas-e-reacoes/.gitkeep",
+      "destination": "Quimica/_blueprints/1serie/unidade-7-funcoes-inorganicas-e-reacoes/.gitkeep",
+      "relative_path": "1serie/unidade-7-funcoes-inorganicas-e-reacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/1serie/unidade-8-geometria-polaridade-e-interacoes/.gitkeep",
+      "destination": "Quimica/_blueprints/1serie/unidade-8-geometria-polaridade-e-interacoes/.gitkeep",
+      "relative_path": "1serie/unidade-8-geometria-polaridade-e-interacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/2serie/unidade-1-solucoes-conceitos-e-classificacoes/.gitkeep",
+      "destination": "Quimica/_blueprints/2serie/unidade-1-solucoes-conceitos-e-classificacoes/.gitkeep",
+      "relative_path": "2serie/unidade-1-solucoes-conceitos-e-classificacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/2serie/unidade-2-concentracao-de-solucoes/.gitkeep",
+      "destination": "Quimica/_blueprints/2serie/unidade-2-concentracao-de-solucoes/.gitkeep",
+      "relative_path": "2serie/unidade-2-concentracao-de-solucoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/2serie/unidade-3-termoquimica/.gitkeep",
+      "destination": "Quimica/_blueprints/2serie/unidade-3-termoquimica/.gitkeep",
+      "relative_path": "2serie/unidade-3-termoquimica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/2serie/unidade-4-cinetica-quimica/.gitkeep",
+      "destination": "Quimica/_blueprints/2serie/unidade-4-cinetica-quimica/.gitkeep",
+      "relative_path": "2serie/unidade-4-cinetica-quimica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/2serie/unidade-5-equilibrio-quimico/.gitkeep",
+      "destination": "Quimica/_blueprints/2serie/unidade-5-equilibrio-quimico/.gitkeep",
+      "relative_path": "2serie/unidade-5-equilibrio-quimico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/2serie/unidade-6-equilibrio-ionico/.gitkeep",
+      "destination": "Quimica/_blueprints/2serie/unidade-6-equilibrio-ionico/.gitkeep",
+      "relative_path": "2serie/unidade-6-equilibrio-ionico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/2serie/unidade-7-eletroquimica-pilhas/.gitkeep",
+      "destination": "Quimica/_blueprints/2serie/unidade-7-eletroquimica-pilhas/.gitkeep",
+      "relative_path": "2serie/unidade-7-eletroquimica-pilhas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/2serie/unidade-8-eletroquimica-eletrolise-e-corrosao/.gitkeep",
+      "destination": "Quimica/_blueprints/2serie/unidade-8-eletroquimica-eletrolise-e-corrosao/.gitkeep",
+      "relative_path": "2serie/unidade-8-eletroquimica-eletrolise-e-corrosao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/3serie/unidade-1-introducao-a-quimica-organica/.gitkeep",
+      "destination": "Quimica/_blueprints/3serie/unidade-1-introducao-a-quimica-organica/.gitkeep",
+      "relative_path": "3serie/unidade-1-introducao-a-quimica-organica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/3serie/unidade-2-hidrocarbonetos/.gitkeep",
+      "destination": "Quimica/_blueprints/3serie/unidade-2-hidrocarbonetos/.gitkeep",
+      "relative_path": "3serie/unidade-2-hidrocarbonetos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/3serie/unidade-3-funcoes-oxigenadas/.gitkeep",
+      "destination": "Quimica/_blueprints/3serie/unidade-3-funcoes-oxigenadas/.gitkeep",
+      "relative_path": "3serie/unidade-3-funcoes-oxigenadas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/.gitkeep",
+      "destination": "Quimica/_blueprints/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/.gitkeep",
+      "relative_path": "3serie/unidade-4-funcoes-nitrogenadas-e-mistas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/3serie/unidade-5-isomeria/.gitkeep",
+      "destination": "Quimica/_blueprints/3serie/unidade-5-isomeria/.gitkeep",
+      "relative_path": "3serie/unidade-5-isomeria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/3serie/unidade-6-reacoes-organicas/.gitkeep",
+      "destination": "Quimica/_blueprints/3serie/unidade-6-reacoes-organicas/.gitkeep",
+      "relative_path": "3serie/unidade-6-reacoes-organicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/3serie/unidade-7-polimeros/.gitkeep",
+      "destination": "Quimica/_blueprints/3serie/unidade-7-polimeros/.gitkeep",
+      "relative_path": "3serie/unidade-7-polimeros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/3serie/unidade-8-bioquimica-e-revisao/.gitkeep",
+      "destination": "Quimica/_blueprints/3serie/unidade-8-bioquimica-e-revisao/.gitkeep",
+      "relative_path": "3serie/unidade-8-bioquimica-e-revisao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/9ano/unidade-1-estrutura-da-materia/.gitkeep",
+      "destination": "Quimica/_blueprints/9ano/unidade-1-estrutura-da-materia/.gitkeep",
+      "relative_path": "9ano/unidade-1-estrutura-da-materia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/9ano/unidade-2-tabela-periodica-e-ligacoes-quimicas/.gitkeep",
+      "destination": "Quimica/_blueprints/9ano/unidade-2-tabela-periodica-e-ligacoes-quimicas/.gitkeep",
+      "relative_path": "9ano/unidade-2-tabela-periodica-e-ligacoes-quimicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/9ano/unidade-4-velocidade-e-combustao/.gitkeep",
+      "destination": "Quimica/_blueprints/9ano/unidade-4-velocidade-e-combustao/.gitkeep",
+      "relative_path": "9ano/unidade-4-velocidade-e-combustao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/9ano/unidade-5-acidos-e-bases/.gitkeep",
+      "destination": "Quimica/_blueprints/9ano/unidade-5-acidos-e-bases/.gitkeep",
+      "relative_path": "9ano/unidade-5-acidos-e-bases/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/9ano/unidade-6-sais-oxidos-e-neutralizacao/.gitkeep",
+      "destination": "Quimica/_blueprints/9ano/unidade-6-sais-oxidos-e-neutralizacao/.gitkeep",
+      "relative_path": "9ano/unidade-6-sais-oxidos-e-neutralizacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Quimica/9ano/unidade-8-revisao-e-quimica-no-cotidiano/.gitkeep",
+      "destination": "Quimica/_blueprints/9ano/unidade-8-revisao-e-quimica-no-cotidiano/.gitkeep",
+      "relative_path": "9ano/unidade-8-revisao-e-quimica-no-cotidiano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/1serie/unidade-1-introducao-a-quimica-e-materia/.gitkeep",
+      "destination": "Quimica/1serie/unidade-1-introducao-a-quimica-e-materia/.gitkeep",
+      "relative_path": "1serie/unidade-1-introducao-a-quimica-e-materia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/1serie/unidade-2-substancias-e-misturas/.gitkeep",
+      "destination": "Quimica/1serie/unidade-2-substancias-e-misturas/.gitkeep",
+      "relative_path": "1serie/unidade-2-substancias-e-misturas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/1serie/unidade-3-estrutura-atomica/.gitkeep",
+      "destination": "Quimica/1serie/unidade-3-estrutura-atomica/.gitkeep",
+      "relative_path": "1serie/unidade-3-estrutura-atomica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/1serie/unidade-4-grandezas-quimicas-fundamentais/.gitkeep",
+      "destination": "Quimica/1serie/unidade-4-grandezas-quimicas-fundamentais/.gitkeep",
+      "relative_path": "1serie/unidade-4-grandezas-quimicas-fundamentais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/1serie/unidade-5-tabela-periodica/.gitkeep",
+      "destination": "Quimica/1serie/unidade-5-tabela-periodica/.gitkeep",
+      "relative_path": "1serie/unidade-5-tabela-periodica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/1serie/unidade-6-ligacoes-quimicas/.gitkeep",
+      "destination": "Quimica/1serie/unidade-6-ligacoes-quimicas/.gitkeep",
+      "relative_path": "1serie/unidade-6-ligacoes-quimicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/1serie/unidade-7-funcoes-inorganicas-e-reacoes/.gitkeep",
+      "destination": "Quimica/1serie/unidade-7-funcoes-inorganicas-e-reacoes/.gitkeep",
+      "relative_path": "1serie/unidade-7-funcoes-inorganicas-e-reacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/1serie/unidade-8-geometria-polaridade-e-interacoes/.gitkeep",
+      "destination": "Quimica/1serie/unidade-8-geometria-polaridade-e-interacoes/.gitkeep",
+      "relative_path": "1serie/unidade-8-geometria-polaridade-e-interacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/2serie/unidade-1-solucoes-conceitos-e-classificacoes/.gitkeep",
+      "destination": "Quimica/2serie/unidade-1-solucoes-conceitos-e-classificacoes/.gitkeep",
+      "relative_path": "2serie/unidade-1-solucoes-conceitos-e-classificacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/2serie/unidade-2-concentracao-de-solucoes/.gitkeep",
+      "destination": "Quimica/2serie/unidade-2-concentracao-de-solucoes/.gitkeep",
+      "relative_path": "2serie/unidade-2-concentracao-de-solucoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/2serie/unidade-3-termoquimica/.gitkeep",
+      "destination": "Quimica/2serie/unidade-3-termoquimica/.gitkeep",
+      "relative_path": "2serie/unidade-3-termoquimica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/2serie/unidade-4-cinetica-quimica/.gitkeep",
+      "destination": "Quimica/2serie/unidade-4-cinetica-quimica/.gitkeep",
+      "relative_path": "2serie/unidade-4-cinetica-quimica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/2serie/unidade-5-equilibrio-quimico/.gitkeep",
+      "destination": "Quimica/2serie/unidade-5-equilibrio-quimico/.gitkeep",
+      "relative_path": "2serie/unidade-5-equilibrio-quimico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/2serie/unidade-6-equilibrio-ionico/.gitkeep",
+      "destination": "Quimica/2serie/unidade-6-equilibrio-ionico/.gitkeep",
+      "relative_path": "2serie/unidade-6-equilibrio-ionico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/2serie/unidade-7-eletroquimica-pilhas/.gitkeep",
+      "destination": "Quimica/2serie/unidade-7-eletroquimica-pilhas/.gitkeep",
+      "relative_path": "2serie/unidade-7-eletroquimica-pilhas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/2serie/unidade-8-eletroquimica-eletrolise-e-corrosao/.gitkeep",
+      "destination": "Quimica/2serie/unidade-8-eletroquimica-eletrolise-e-corrosao/.gitkeep",
+      "relative_path": "2serie/unidade-8-eletroquimica-eletrolise-e-corrosao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/3serie/unidade-1-introducao-a-quimica-organica/.gitkeep",
+      "destination": "Quimica/3serie/unidade-1-introducao-a-quimica-organica/.gitkeep",
+      "relative_path": "3serie/unidade-1-introducao-a-quimica-organica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/3serie/unidade-2-hidrocarbonetos/.gitkeep",
+      "destination": "Quimica/3serie/unidade-2-hidrocarbonetos/.gitkeep",
+      "relative_path": "3serie/unidade-2-hidrocarbonetos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/3serie/unidade-3-funcoes-oxigenadas/.gitkeep",
+      "destination": "Quimica/3serie/unidade-3-funcoes-oxigenadas/.gitkeep",
+      "relative_path": "3serie/unidade-3-funcoes-oxigenadas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/.gitkeep",
+      "destination": "Quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/.gitkeep",
+      "relative_path": "3serie/unidade-4-funcoes-nitrogenadas-e-mistas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/3serie/unidade-5-isomeria/.gitkeep",
+      "destination": "Quimica/3serie/unidade-5-isomeria/.gitkeep",
+      "relative_path": "3serie/unidade-5-isomeria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/3serie/unidade-6-reacoes-organicas/.gitkeep",
+      "destination": "Quimica/3serie/unidade-6-reacoes-organicas/.gitkeep",
+      "relative_path": "3serie/unidade-6-reacoes-organicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/3serie/unidade-7-polimeros/.gitkeep",
+      "destination": "Quimica/3serie/unidade-7-polimeros/.gitkeep",
+      "relative_path": "3serie/unidade-7-polimeros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/3serie/unidade-8-bioquimica-e-revisao/.gitkeep",
+      "destination": "Quimica/3serie/unidade-8-bioquimica-e-revisao/.gitkeep",
+      "relative_path": "3serie/unidade-8-bioquimica-e-revisao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/9ano/unidade-1-estrutura-da-materia/.gitkeep",
+      "destination": "Quimica/9ano/unidade-1-estrutura-da-materia/.gitkeep",
+      "relative_path": "9ano/unidade-1-estrutura-da-materia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/9ano/unidade-2-tabela-periodica-e-ligacoes-quimicas/.gitkeep",
+      "destination": "Quimica/9ano/unidade-2-tabela-periodica-e-ligacoes-quimicas/.gitkeep",
+      "relative_path": "9ano/unidade-2-tabela-periodica-e-ligacoes-quimicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/9ano/unidade-4-velocidade-e-combustao/.gitkeep",
+      "destination": "Quimica/9ano/unidade-4-velocidade-e-combustao/.gitkeep",
+      "relative_path": "9ano/unidade-4-velocidade-e-combustao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/9ano/unidade-5-acidos-e-bases/.gitkeep",
+      "destination": "Quimica/9ano/unidade-5-acidos-e-bases/.gitkeep",
+      "relative_path": "9ano/unidade-5-acidos-e-bases/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/9ano/unidade-6-sais-oxidos-e-neutralizacao/.gitkeep",
+      "destination": "Quimica/9ano/unidade-6-sais-oxidos-e-neutralizacao/.gitkeep",
+      "relative_path": "9ano/unidade-6-sais-oxidos-e-neutralizacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Quimica/9ano/unidade-8-revisao-e-quimica-no-cotidiano/.gitkeep",
+      "destination": "Quimica/9ano/unidade-8-revisao-e-quimica-no-cotidiano/.gitkeep",
+      "relative_path": "9ano/unidade-8-revisao-e-quimica-no-cotidiano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Química/1serie/Unidade 3 - Estrutura Atômica/Unidade 3: Estrutura Atômica (1ª série EM).gdoc",
+      "destination": "Quimica/1serie/Unidade 3 - Estrutura Atômica/Unidade 3: Estrutura Atômica (1ª série EM).gdoc",
+      "relative_path": "1serie/Unidade 3 - Estrutura Atômica/Unidade 3: Estrutura Atômica (1ª série EM).gdoc",
+      "action": "copied",
+      "sha256": "8d2dba4b3ef63c39293278bd0db87a9fabdb08ee3e193c023be8ff14a34ef8f5"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Química/2serie/Unidade 3 - Termoquímica/Unidade 3 — Termoquímica | 2ª Série EM.gdoc",
+      "destination": "Quimica/2serie/Unidade 3 - Termoquímica/Unidade 3 — Termoquímica | 2ª Série EM.gdoc",
+      "relative_path": "2serie/Unidade 3 - Termoquímica/Unidade 3 — Termoquímica | 2ª Série EM.gdoc",
+      "action": "copied",
+      "sha256": "2906e8fe4088da1d7be0452c3487442ba162b8f3981e1e5b1b0031b4fef57fe2"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Química/9ano/Unidade 3 - Introdução às Reações Químicas/Unidade 3 — Introdução às Reações Químicas .gdoc",
+      "destination": "Quimica/9ano/Unidade 3 - Introdução às Reações Químicas/Unidade 3 — Introdução às Reações Químicas .gdoc",
+      "relative_path": "9ano/Unidade 3 - Introdução às Reações Químicas/Unidade 3 — Introdução às Reações Químicas .gdoc",
+      "action": "copied",
+      "sha256": "e39edcb416ea8d8b22a2da67a64a8e718466929752c58c46bd7ec4837b3403a0"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Quimica/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": []
+}

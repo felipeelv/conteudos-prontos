@@ -1,0 +1,166 @@
+{
+  "generated_at": "2026-05-01T14:30:19-03:00",
+  "disciplina": "Estatistica e Educacao Financeira",
+  "strategy": "migrar pastas com (2026) para anos normalizados; preservar originais no legado",
+  "mapping": {
+    "1ª Série (2026)": "1serie",
+    "2ª Série (2026)": "2serie",
+    "3ª Série (2026)": "3serie",
+    "6º Ano (2026)": "6ano",
+    "7º Ano (2026)": "7ano",
+    "8º Ano (2026)": "8ano",
+    "9º Ano (2026)": "9ano"
+  },
+  "items": [
+    {
+      "source": "Estatistica e Educacao Financeira/1ª Série (2026)",
+      "archive": "_legado/nomenclatura-estatistica-2026/1ª Série (2026)",
+      "action": "archived_old_dir"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/1ª Série (2026)/Unidade 3 - Representação Gráfica/Análise - Unidade 3 — Representação Gráfica.md",
+      "destination": "Estatistica e Educacao Financeira/1serie/Unidade 3 - Representação Gráfica/Análise - Unidade 3 — Representação Gráfica.md",
+      "relative_path": "Unidade 3 - Representação Gráfica/Análise - Unidade 3 — Representação Gráfica.md",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/1ª Série (2026)/Unidade 3 - Representação Gráfica/metadata.json",
+      "destination": "Estatistica e Educacao Financeira/1serie/Unidade 3 - Representação Gráfica/metadata.json",
+      "relative_path": "Unidade 3 - Representação Gráfica/metadata.json",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/1ª Série (2026)",
+      "action": "removed_old_dir_after_archive_and_copy",
+      "archive": "_legado/nomenclatura-estatistica-2026/1ª Série (2026)"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/2ª Série (2026)",
+      "archive": "_legado/nomenclatura-estatistica-2026/2ª Série (2026)",
+      "action": "archived_old_dir"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/2ª Série (2026)/Unidade 3 - Binômio de Newton/metadata.json",
+      "destination": "Estatistica e Educacao Financeira/2serie/Unidade 3 - Binômio de Newton/metadata.json",
+      "relative_path": "Unidade 3 - Binômio de Newton/metadata.json",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/2ª Série (2026)/Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton.md",
+      "destination": "Estatistica e Educacao Financeira/2serie/Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton.md",
+      "relative_path": "Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton.md",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/2ª Série (2026)/Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton_v2.md",
+      "destination": "Estatistica e Educacao Financeira/2serie/Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton_v2.md",
+      "relative_path": "Unidade 3 - Binômio de Newton/Unidade 3 — Binômio de Newton_v2.md",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/2ª Série (2026)",
+      "action": "removed_old_dir_after_archive_and_copy",
+      "archive": "_legado/nomenclatura-estatistica-2026/2ª Série (2026)"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/3ª Série (2026)",
+      "action": "missing_source"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/6º Ano (2026)",
+      "archive": "_legado/nomenclatura-estatistica-2026/6º Ano (2026)",
+      "action": "archived_old_dir"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/6º Ano (2026)/Unidade 3 - Gráficos Estatísticos/metadata.json",
+      "destination": "Estatistica e Educacao Financeira/6ano/Unidade 3 - Gráficos Estatísticos/metadata.json",
+      "relative_path": "Unidade 3 - Gráficos Estatísticos/metadata.json",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/6º Ano (2026)/Unidade 3 - Gráficos Estatísticos/Unidade 3 — Gráficos Estatísticos - 6º Ano -.md",
+      "destination": "Estatistica e Educacao Financeira/6ano/Unidade 3 - Gráficos Estatísticos/Unidade 3 — Gráficos Estatísticos - 6º Ano -.md",
+      "relative_path": "Unidade 3 - Gráficos Estatísticos/Unidade 3 — Gráficos Estatísticos - 6º Ano -.md",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/6º Ano (2026)",
+      "action": "removed_old_dir_after_archive_and_copy",
+      "archive": "_legado/nomenclatura-estatistica-2026/6º Ano (2026)"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/7º Ano (2026)",
+      "archive": "_legado/nomenclatura-estatistica-2026/7º Ano (2026)",
+      "action": "archived_old_dir"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/7º Ano (2026)/Unidade 3 - Representações Gráficas Tipos e Construção/7º Ano — Unidade 3 - Representações Gráficas - Tipos e Construção.md",
+      "destination": "Estatistica e Educacao Financeira/7ano/Unidade 3 - Representações Gráficas Tipos e Construção/7º Ano — Unidade 3 - Representações Gráficas - Tipos e Construção.md",
+      "relative_path": "Unidade 3 - Representações Gráficas Tipos e Construção/7º Ano — Unidade 3 - Representações Gráficas - Tipos e Construção.md",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/7º Ano (2026)/Unidade 3 - Representações Gráficas Tipos e Construção/metadata.json",
+      "destination": "Estatistica e Educacao Financeira/7ano/Unidade 3 - Representações Gráficas Tipos e Construção/metadata.json",
+      "relative_path": "Unidade 3 - Representações Gráficas Tipos e Construção/metadata.json",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/7º Ano (2026)",
+      "action": "removed_old_dir_after_archive_and_copy",
+      "archive": "_legado/nomenclatura-estatistica-2026/7º Ano (2026)"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/8º Ano (2026)",
+      "archive": "_legado/nomenclatura-estatistica-2026/8º Ano (2026)",
+      "action": "archived_old_dir"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/8º Ano (2026)/Unidade 3 - Porcentagem e Proporcionalidade/metadata.json",
+      "destination": "Estatistica e Educacao Financeira/8ano/Unidade 3 - Porcentagem e Proporcionalidade/metadata.json",
+      "relative_path": "Unidade 3 - Porcentagem e Proporcionalidade/metadata.json",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/8º Ano (2026)/Unidade 3 - Porcentagem e Proporcionalidade/Unidade 3 - Porcentagem e Proporcionalidade.md",
+      "destination": "Estatistica e Educacao Financeira/8ano/Unidade 3 - Porcentagem e Proporcionalidade/Unidade 3 - Porcentagem e Proporcionalidade.md",
+      "relative_path": "Unidade 3 - Porcentagem e Proporcionalidade/Unidade 3 - Porcentagem e Proporcionalidade.md",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/8º Ano (2026)",
+      "action": "removed_old_dir_after_archive_and_copy",
+      "archive": "_legado/nomenclatura-estatistica-2026/8º Ano (2026)"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/9º Ano (2026)",
+      "archive": "_legado/nomenclatura-estatistica-2026/9º Ano (2026)",
+      "action": "archived_old_dir"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/9º Ano (2026)/Unidade 3 - Probabilidade Conceitos e Cálculos/metadata.json",
+      "destination": "Estatistica e Educacao Financeira/9ano/Unidade 3 - Probabilidade Conceitos e Cálculos/metadata.json",
+      "relative_path": "Unidade 3 - Probabilidade Conceitos e Cálculos/metadata.json",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/9º Ano (2026)/Unidade 3 - Probabilidade Conceitos e Cálculos/Unidade 3 - Probabilidade - Conceitos e Cálculos.md",
+      "destination": "Estatistica e Educacao Financeira/9ano/Unidade 3 - Probabilidade Conceitos e Cálculos/Unidade 3 - Probabilidade - Conceitos e Cálculos.md",
+      "relative_path": "Unidade 3 - Probabilidade Conceitos e Cálculos/Unidade 3 - Probabilidade - Conceitos e Cálculos.md",
+      "action": "copied"
+    },
+    {
+      "source": "Estatistica e Educacao Financeira/9º Ano (2026)",
+      "action": "removed_old_dir_after_archive_and_copy",
+      "archive": "_legado/nomenclatura-estatistica-2026/9º Ano (2026)"
+    }
+  ],
+  "summary": {
+    "copied": 13,
+    "already_identical": 0,
+    "conflicts": 0,
+    "archived_old_dirs": 6,
+    "removed_old_dirs": 6,
+    "missing_sources": 1
+  }
+}

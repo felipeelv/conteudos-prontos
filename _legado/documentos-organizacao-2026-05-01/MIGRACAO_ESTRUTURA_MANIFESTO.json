@@ -1,0 +1,129 @@
+{
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "mode": "copy-only; old files preserved",
+  "disciplines": {
+    "Biologia": {
+      "path": "Biologia",
+      "manifest": "Biologia/_migracao_manifesto.json",
+      "items": 106,
+      "metadata_created": 0,
+      "conflicts": 0
+    },
+    "Ciencias": {
+      "path": "Ciencias",
+      "manifest": "Ciencias/_migracao_manifesto.json",
+      "items": 229,
+      "metadata_created": 2,
+      "conflicts": 0
+    },
+    "Educacao Crista": {
+      "path": "Educacao Crista",
+      "manifest": "Educacao Crista/_migracao_manifesto.json",
+      "items": 10,
+      "metadata_created": 0,
+      "conflicts": 0
+    },
+    "Estatistica e Educacao Financeira": {
+      "path": "Estatistica e Educacao Financeira",
+      "manifest": "Estatistica e Educacao Financeira/_migracao_manifesto.json",
+      "items": 101,
+      "metadata_created": 4,
+      "conflicts": 0
+    },
+    "Estudos Sociais": {
+      "path": "Estudos Sociais",
+      "manifest": "Estudos Sociais/_migracao_manifesto.json",
+      "items": 222,
+      "metadata_created": 2,
+      "conflicts": 0
+    },
+    "Filosofia": {
+      "path": "Filosofia",
+      "manifest": "Filosofia/_migracao_manifesto.json",
+      "items": 57,
+      "metadata_created": 1,
+      "conflicts": 0
+    },
+    "Fisica": {
+      "path": "Fisica",
+      "manifest": "Fisica/_migracao_manifesto.json",
+      "items": 135,
+      "metadata_created": 0,
+      "conflicts": 0
+    },
+    "Geografia": {
+      "path": "Geografia",
+      "manifest": "Geografia/_migracao_manifesto.json",
+      "items": 103,
+      "metadata_created": 0,
+      "conflicts": 0
+    },
+    "Geometria": {
+      "path": "Geometria",
+      "manifest": "Geometria/_migracao_manifesto.json",
+      "items": 154,
+      "metadata_created": 0,
+      "conflicts": 0
+    },
+    "Historia": {
+      "path": "Historia",
+      "manifest": "Historia/_migracao_manifesto.json",
+      "items": 53,
+      "metadata_created": 0,
+      "conflicts": 0
+    },
+    "Matematica": {
+      "path": "Matematica",
+      "manifest": "Matematica/_migracao_manifesto.json",
+      "items": 200,
+      "metadata_created": 0,
+      "conflicts": 0
+    },
+    "Portugues 1": {
+      "path": "Portugues 1",
+      "manifest": "Portugues 1/_migracao_manifesto.json",
+      "items": 295,
+      "metadata_created": 2,
+      "conflicts": 0
+    },
+    "Portugues 2": {
+      "path": "Portugues 2",
+      "manifest": "Portugues 2/_migracao_manifesto.json",
+      "items": 63,
+      "metadata_created": 0,
+      "conflicts": 0
+    },
+    "Quimica": {
+      "path": "Quimica",
+      "manifest": "Quimica/_migracao_manifesto.json",
+      "items": 84,
+      "metadata_created": 0,
+      "conflicts": 0
+    },
+    "Sociologia": {
+      "path": "Sociologia",
+      "manifest": "Sociologia/_migracao_manifesto.json",
+      "items": 57,
+      "metadata_created": 1,
+      "conflicts": 0
+    }
+  },
+  "legacy_archive": {
+    "Blueprints": {
+      "action": "copied",
+      "destination": "_legado/estrutura-antiga/Blueprints"
+    },
+    "autores-material": {
+      "action": "copied",
+      "destination": "_legado/estrutura-antiga/autores-material"
+    },
+    "Conteudos Prontos": {
+      "action": "copied",
+      "destination": "_legado/estrutura-antiga/Conteudos Prontos"
+    },
+    "Unidade 3-": {
+      "action": "copied",
+      "destination": "_legado/estrutura-antiga/Unidade 3-"
+    }
+  }
+}

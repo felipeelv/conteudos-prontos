@@ -1,0 +1,14 @@
+{
+  "disciplina": "Estatistica e Educacao Financeira",
+  "ano": "7ano",
+  "unidade": "unidade-4-construcao-e-interpretacao-de-graficos",
+  "blueprint_path": "Blueprints/estatistica e educacao financeira/7ano/unidade-4-construcao-e-interpretacao-de-graficos",
+  "autor": "autor-eleve:autor-estatistica",
+  "generated_at": "2026-05-01T16:10:48Z",
+  "capitulos": [
+    "capitulo_01_construcao-de-graficos.md",
+    "capitulo_02_interpretacao-de-graficos.md",
+    "capitulo_03_analise-critica-de-graficos.md",
+    "capitulo_04_comunicacao-de-dados.md"
+  ]
+}

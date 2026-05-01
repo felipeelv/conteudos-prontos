@@ -1,0 +1,15 @@
+{
+  "name": "conteudos-prontos",
+  "description": "Marketplace interno do Colegio Eleve com plugins de producao de material didatico. Acompanha o repositorio conteudos-prontos.",
+  "owner": {
+    "name": "Felipe Rosa",
+    "email": "felipe.rosa@colegioeleve.com.br"
+  },
+  "plugins": [
+    {
+      "name": "autor-eleve",
+      "source": "./plugins/autor-eleve",
+      "description": "Gera capitulos didaticos finais a partir de blueprints aprovados, seguindo regras editoriais por disciplina do Colegio Eleve."
+    }
+  ]
+}

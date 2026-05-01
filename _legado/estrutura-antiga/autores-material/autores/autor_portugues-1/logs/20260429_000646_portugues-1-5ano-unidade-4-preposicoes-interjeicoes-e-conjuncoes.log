@@ -1,0 +1,12 @@
+3 capítulos da Unidade 4 (Português 1, 5º Ano) gerados e validados em `CONTEUDOS PRONTOS/Portugues 1/5ano/unidade-4-preposicoes-interjeicoes-e-conjuncoes/`:
+
+- `capitulo_01_preposicoes.md` — preposição como classe invariável que liga termos; valores de `de`, `em`, `para`, `com`, `por`, `sobre`, `entre`; norma × uso (`pra`); Eduardo Carlos Pereira no LDD; versículo Pv 10:9.
+- `capitulo_02_interjeicoes.md` — interjeição que vale por uma frase; famílias (alegria, dor, susto, apelo, cumprimento, despedida); pontuação exclamativa; distinção interjeição × vocativo; Silveira Bueno no LDD; versículo Lc 16:10.
+- `capitulo_03_conjuncoes-e-relacoes-semanticas.md` — conjunção como conectivo de ideias; comparação preposição × conjunção; famílias semânticas (adição, oposição, tempo, causa, condição, finalidade, conclusão); `aí` × conector preciso; Othon Garcia no LDD; versículo Pv 10:9.
+
+**Decisões de arbitragem registradas (hierarquia: estrutura > blueprint):**
+- Cap 3 trazia 5 blocos numerados no blueprint; consolidei em 4 (regra inviolável: máximo `## 4.` em Português). `### 3.1 Tempo e causa` + `### 3.2 Condição e finalidade` ficaram no Bloco 3.
+- Caps 1 e 3 sugeriam 4–5 bullets em "Para não esquecer"; entreguei exatamente 3 bullets (regra de estrutura).
+- "Sua Parte", "Curiosidade da Língua", "Esse foi o cara", "Você já pensou nisso?", "Enquanto isso..." descartados como blocos próprios; o personagem-gramático (Pereira/Bueno/Garcia) foi embutido na 2ª frase de `## A LÍNGUA NO DIA A DIA`, conforme hierarquia do CLAUDE.md.
+
+**Validação automatizada (passa em todos os 3):** 4 tópicos `## N.` exatos, nenhum heading com emoji, LDD com 2 frases, Simplificando com 2 frases, Bíblia com 1 versículo + 1 conector + 1 "Para Conversar", "Para não esquecer" com 3 bullets.

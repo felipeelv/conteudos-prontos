@@ -1,4 +1,4 @@
-# Capítulo 1 — Tempos Verbais do Indicativo
+# CAPÍTULO 1 — TEMPOS VERBAIS DO INDICATIVO
 
 ---
 
@@ -6,22 +6,20 @@
 
 ## ***"Eu corri" e "eu corria" são parecidos, mas dizem coisas diferentes. O que muda?***
 
-Lia contou que brincou no parque no sábado. Depois, disse que brincava no parque quando era menor, e percebeu que as duas formas não mostram a mesma ideia.
+Lia contou que brincou no parque no sábado. Depois disse que brincava no parque quando era menor, e percebeu que as duas formas não dizem a mesma coisa.
 
 ## 1. O Verbo Marca o Tempo
 
-O verbo ajuda a mostrar o que acontece, aconteceu ou acontecerá.
+Todo verbo carrega um tempo — agora, antes ou depois.
 
 ### 1.1 O que o verbo mostra
 
-**Verbo** é a palavra que pode indicar ação, estado ou fenômeno. Ele também pode mostrar o **tempo verbal**, isto é, quando algo acontece.
+O **verbo** é a palavra que pode indicar ação, estado ou fenômeno. Ele também mostra o **tempo verbal**, isto é, quando algo acontece.
 
 Observe as frases:
 
 - *A turma **leu** o texto em voz alta.*  
   (ação — o verbo mostra algo que a turma fez)
-- *Lia **está** alegre na escola.*  
-  (estado — o verbo mostra como Lia se sente)
 - *O dia **amanheceu** nublado.*  
   (fenômeno — o verbo mostra algo que aconteceu na natureza)
 
@@ -39,10 +37,6 @@ Compare os usos:
 > ✅ **Tempo verbal:**  
 > O tempo verbal mostra se a ação está no antes, no agora ou no depois.
 
-| Antes | Agora | Depois |
-|---|---|---|
-| eu corri | eu corro | eu correrei |
-
 ## 2. Presente e Futuro
 
 O presente mostra o agora ou o costume, e o futuro mostra o que ainda vai acontecer.
@@ -54,8 +48,8 @@ O **presente do indicativo** pode mostrar uma ação atual ou uma ação habitua
 Observe as frases:
 
 - *Eu **canto** no coral da escola.*  
-  (presente — ação que acontece agora ou faz parte da rotina)
-- *Nós **partimos** o bolo depois do parabéns.*  
+  (presente — ação habitual)
+- *Os alunos **partem** o bolo depois do parabéns.*  
   (presente — ação habitual em uma situação conhecida)
 
 ### 2.2 Quando a ação ainda vai acontecer
@@ -108,13 +102,6 @@ Veja a sequência:
 > 📌 **Aplicação prática:**  
 > Use o pretérito perfeito quando quiser contar uma ação que começou e terminou no passado.
 
-| Pessoa | Cantar | Vender | Partir |
-|---|---|---|---|
-| eu | cantei | vendi | parti |
-| você | cantou | vendeu | partiu |
-| nós | cantamos | vendemos | partimos |
-| eles/elas | cantaram | venderam | partiram |
-
 ## 4. Pretérito Imperfeito
 
 O pretérito imperfeito mostra uma ação que se repetia ou estava acontecendo no passado.
@@ -141,29 +128,28 @@ Veja a diferença:
 - *Os alunos **liam** em silêncio quando a professora chegou.*  
   (pretérito imperfeito — ação que estava acontecendo)
 
+Compare o pretérito perfeito e o pretérito imperfeito na 3ª pessoa do singular:
+
+| Verbo | Pretérito perfeito (terminou) | Pretérito imperfeito (repetia ou estava em andamento) |
+|---|---|---|
+| cantar | cantou | cantava |
+| vender | vendeu | vendia |
+| partir | partiu | partia |
+
 > ⚠️ **Atenção:**  
 > "Eu corri" mostra ação concluída, mas "eu corria" mostra hábito ou ação em andamento no passado.
-
-| Pessoa | Cantar | Vender | Partir |
-|---|---|---|---|
-| eu | cantava | vendia | partia |
-| você | cantava | vendia | partia |
-| nós | cantávamos | vendíamos | partíamos |
-| eles/elas | cantavam | vendiam | partiam |
 
 ---
 
 ## A LÍNGUA NO DIA A DIA
 
-Quando você conta um fato, o tempo verbal ajuda o leitor a saber quando tudo aconteceu, e dizer "eu prometo" ou "eu prometi" muda o compromisso que você assume no tempo.
-
-Maximino Maciel (1866–1923), gramático brasileiro e fundador da Academia Brasileira de Letras, publicou a *Grammatica Descriptiva* em 1894 e ajudou a organizar descrições da língua portuguesa no Brasil.
+Quando você conta um fato, o tempo verbal ajuda o leitor a saber quando tudo aconteceu, e dizer "eu prometo" ou "eu prometi" muda o compromisso que você assume no tempo. Maximino Maciel (1865–1923), gramático brasileiro e professor catedrático de Português no Colégio Militar do Rio de Janeiro, publicou a *Grammatica Descriptiva* em 1894 e ajudou a organizar descrições da língua portuguesa no Brasil.
 
 ---
 
 ## E A BÍBLIA NISSO?
 
-> *"Quem anda em integridade anda seguro."*  
+> *"Quem anda em integridade anda seguro, mas o que perverte os seus caminhos será conhecido."*  
 > — **Provérbios 10:9**
 
 O tempo verbal certo ajuda a contar um fato com precisão, e palavras como "creio", "padeceu" e "há de vir" mostram relações de presente, passado e futuro.

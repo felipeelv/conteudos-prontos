@@ -1,0 +1,979 @@
+{
+  "discipline": "Geografia",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_geografia"
+    ],
+    "blueprints": [
+      "Blueprints/geografia",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Geografia"
+    ],
+    "contents": [
+      "Conteudos Prontos/Geografia",
+      "Unidade 3-/Geografia"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_geografia": {
+      "copied": 4,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::Blueprints::geografia": {
+      "copied": 25,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 1
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Geografia": {
+      "copied": 21,
+      "already_identical": 25,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Geografia": {
+      "copied": 24,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Geografia": {
+      "copied": 2,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_geografia/_shared/lib_common.sh",
+      "destination": "Geografia/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_geografia/CLAUDE.md",
+      "destination": "Geografia/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "6d3c931d5f2abc14eb7bdeade79c5a8cb2fa6c78009e52f18e8a718df8998831"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_geografia/prompt-autor.md",
+      "destination": "Geografia/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "c0dc1b8a87195517996fbe71263b5213fcb6e6935429f3c57fcd157801a698fe"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_geografia/scripts/criar_capitulos.sh",
+      "destination": "Geografia/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "93ea5972eca371771a715f7862e512d92d5bd362977405fd9767524dcf5e2559"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/.DS_Store",
+      "destination": null,
+      "relative_path": ".DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/1serie/unidade-4-relevo-e-hidrosfera/.gitkeep",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/.gitkeep",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_01_formas-de-relevo.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_01_formas-de-relevo.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_01_formas-de-relevo.md",
+      "action": "copied",
+      "sha256": "b8aba1f86f28a58b99bb0627a40c5136180d23a8fea5aabb9c1213120e785c13"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_02_relevo-brasileiro.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_02_relevo-brasileiro.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_02_relevo-brasileiro.md",
+      "action": "copied",
+      "sha256": "137f7eb9bf6f4e56e213dd6ba196a005646ea4ba1c1334b455dc7a4485924ae3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_03_relevo-submarino.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_03_relevo-submarino.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_03_relevo-submarino.md",
+      "action": "copied",
+      "sha256": "b742474db6807d2b63912bc2f6edc3ee79a35e00b76ceb878e4575a0cce803d3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_04_relevo-e-ocupacao-humana.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_04_relevo-e-ocupacao-humana.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_04_relevo-e-ocupacao-humana.md",
+      "action": "copied",
+      "sha256": "7d4652c40c61d2bbc0f7854802b5579209ebd6187aeb5ef38bebe77bfd74cf39"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_05_riscos-geologicos-e-sociedade.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_05_riscos-geologicos-e-sociedade.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_05_riscos-geologicos-e-sociedade.md",
+      "action": "copied",
+      "sha256": "4f067d8713e1eec8cf4f72cd66aa2b71314c2d77172af2b6d6ce5c9735ae9a76"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_06_aguas-subterraneas.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_06_aguas-subterraneas.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_06_aguas-subterraneas.md",
+      "action": "copied",
+      "sha256": "31fe41c39abf1ef4583770d6c5751a9cacab29c08dcd310fd48609d2ce3dfa60"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_07_lagos-e-lagoas.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_07_lagos-e-lagoas.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_07_lagos-e-lagoas.md",
+      "action": "copied",
+      "sha256": "18bebdc8f0116f6db774fd2b95ced0c94d9750e140b692477f2d3dde6d168d5b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_unidade.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "4c6ad29cb71380547e37077b5ac7c72e42049edb2eac1a549b8abdc61a8dccb2"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/2serie/unidade-4-espaco-agrario-e-conflitos/.gitkeep",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/.gitkeep",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_01_estrutura-fundiaria-brasileira.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_01_estrutura-fundiaria-brasileira.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_01_estrutura-fundiaria-brasileira.md",
+      "action": "copied",
+      "sha256": "56fe9aed36d8384ccd05b4a25952d7346235f4eb07a4d682034190a7c0baa76b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_02_sistemas-agricolas.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_02_sistemas-agricolas.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_02_sistemas-agricolas.md",
+      "action": "copied",
+      "sha256": "801211ee4b232436b53fd08d723384955ca28c7acf19c712eddb9a0aaa2cdb18"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_03_agricultura-no-brasil.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_03_agricultura-no-brasil.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_03_agricultura-no-brasil.md",
+      "action": "copied",
+      "sha256": "bd3842fa12b4cbcbe6fa643578dd806dc858cd7a384c1db3b11f1570dadde755"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_04_pecuaria.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_04_pecuaria.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_04_pecuaria.md",
+      "action": "copied",
+      "sha256": "50296370c8ef903dfa08f25272413f2e1b4af8336ce47b61a2be595d04ed2417"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_05_questao-agraria-e-conflitos.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_05_questao-agraria-e-conflitos.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_05_questao-agraria-e-conflitos.md",
+      "action": "copied",
+      "sha256": "6185f2ffd34324345e6aa870a1b6d517f285cf4916f4b85585006e58da22921e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_unidade.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "da3cc7cb7f324a0d57bafbf4b7812baa07653a3fa00bdc75cf4e648c0e27ba47"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/.gitkeep",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/.gitkeep",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_01_complexos-regionais-geoeconomicos.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_01_complexos-regionais-geoeconomicos.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_01_complexos-regionais-geoeconomicos.md",
+      "action": "copied",
+      "sha256": "d21f0487c98188d3a57d66b5385975cda9c8129b5b7a5038392951d44225c3e7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_02_indicadores-regionais.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_02_indicadores-regionais.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_02_indicadores-regionais.md",
+      "action": "copied",
+      "sha256": "c21e3faa0a6ca84a51efbfb5c70500522a78a8682e98e59cf55669bc3d761f68"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_03_desigualdades-regionais-brasileiras.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_03_desigualdades-regionais-brasileiras.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_03_desigualdades-regionais-brasileiras.md",
+      "action": "copied",
+      "sha256": "98a96f3ff4d42150f2ac62a764c463f110221a4173f26e3ccdcc891d9b257010"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_04_politicas-de-desenvolvimento-regional.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_04_politicas-de-desenvolvimento-regional.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_04_politicas-de-desenvolvimento-regional.md",
+      "action": "copied",
+      "sha256": "28e655751d1ce983a6d93b715f1ed9e35b8d5c9de97d8c31e5f9d5c1df61077c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_05_integracao-nacional.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_05_integracao-nacional.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_05_integracao-nacional.md",
+      "action": "copied",
+      "sha256": "d8e6815c628cd4fff10fa276ab066f32d7637cf4c702c677729704c189027306"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_06_questoes-indigenas-no-brasil-contemporaneo.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_06_questoes-indigenas-no-brasil-contemporaneo.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_06_questoes-indigenas-no-brasil-contemporaneo.md",
+      "action": "copied",
+      "sha256": "16ccde3f5547ea3cf90688d7f5e43b0733db934c31ab3dcb32f36c7e320f3d4b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_07_geografia-cultural-brasileira.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_07_geografia-cultural-brasileira.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_07_geografia-cultural-brasileira.md",
+      "action": "copied",
+      "sha256": "7e81f3ce03f8bbdafce49d1ff7f538ec2c527af129183832f673722a6f3a832a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_unidade.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "7a7769cc0a61823e8cda8ffb3bf304df127af022eecf775c67f971216aa1f5cd"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-1-introducao-a-geografia/.gitkeep",
+      "destination": "Geografia/_blueprints/1serie/unidade-1-introducao-a-geografia/.gitkeep",
+      "relative_path": "1serie/unidade-1-introducao-a-geografia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-2-cartografia/.gitkeep",
+      "destination": "Geografia/_blueprints/1serie/unidade-2-cartografia/.gitkeep",
+      "relative_path": "1serie/unidade-2-cartografia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-3-geologia/.gitkeep",
+      "destination": "Geografia/_blueprints/1serie/unidade-3-geologia/.gitkeep",
+      "relative_path": "1serie/unidade-3-geologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-4-relevo-e-hidrosfera/.gitkeep",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/.gitkeep",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_01_formas-de-relevo.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_01_formas-de-relevo.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_01_formas-de-relevo.md",
+      "action": "already_identical",
+      "sha256": "b8aba1f86f28a58b99bb0627a40c5136180d23a8fea5aabb9c1213120e785c13"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_02_relevo-brasileiro.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_02_relevo-brasileiro.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_02_relevo-brasileiro.md",
+      "action": "already_identical",
+      "sha256": "137f7eb9bf6f4e56e213dd6ba196a005646ea4ba1c1334b455dc7a4485924ae3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_03_relevo-submarino.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_03_relevo-submarino.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_03_relevo-submarino.md",
+      "action": "already_identical",
+      "sha256": "b742474db6807d2b63912bc2f6edc3ee79a35e00b76ceb878e4575a0cce803d3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_04_relevo-e-ocupacao-humana.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_04_relevo-e-ocupacao-humana.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_04_relevo-e-ocupacao-humana.md",
+      "action": "already_identical",
+      "sha256": "7d4652c40c61d2bbc0f7854802b5579209ebd6187aeb5ef38bebe77bfd74cf39"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_05_riscos-geologicos-e-sociedade.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_05_riscos-geologicos-e-sociedade.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_05_riscos-geologicos-e-sociedade.md",
+      "action": "already_identical",
+      "sha256": "4f067d8713e1eec8cf4f72cd66aa2b71314c2d77172af2b6d6ce5c9735ae9a76"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_06_aguas-subterraneas.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_06_aguas-subterraneas.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_06_aguas-subterraneas.md",
+      "action": "already_identical",
+      "sha256": "31fe41c39abf1ef4583770d6c5751a9cacab29c08dcd310fd48609d2ce3dfa60"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_07_lagos-e-lagoas.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_07_lagos-e-lagoas.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_capitulo_07_lagos-e-lagoas.md",
+      "action": "already_identical",
+      "sha256": "18bebdc8f0116f6db774fd2b95ced0c94d9750e140b692477f2d3dde6d168d5b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-4-relevo-e-hidrosfera/blueprint_unidade.md",
+      "destination": "Geografia/_blueprints/1serie/unidade-4-relevo-e-hidrosfera/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "4c6ad29cb71380547e37077b5ac7c72e42049edb2eac1a549b8abdc61a8dccb2"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-5-clima/.gitkeep",
+      "destination": "Geografia/_blueprints/1serie/unidade-5-clima/.gitkeep",
+      "relative_path": "1serie/unidade-5-clima/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-6-hidrografia-vegetacao-e-biomas/.gitkeep",
+      "destination": "Geografia/_blueprints/1serie/unidade-6-hidrografia-vegetacao-e-biomas/.gitkeep",
+      "relative_path": "1serie/unidade-6-hidrografia-vegetacao-e-biomas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-7-questoes-socioambientais-contemporaneas/.gitkeep",
+      "destination": "Geografia/_blueprints/1serie/unidade-7-questoes-socioambientais-contemporaneas/.gitkeep",
+      "relative_path": "1serie/unidade-7-questoes-socioambientais-contemporaneas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/1serie/unidade-8-populacao-mundial-e-brasileira/.gitkeep",
+      "destination": "Geografia/_blueprints/1serie/unidade-8-populacao-mundial-e-brasileira/.gitkeep",
+      "relative_path": "1serie/unidade-8-populacao-mundial-e-brasileira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-1-migracoes-internacionais/.gitkeep",
+      "destination": "Geografia/_blueprints/2serie/unidade-1-migracoes-internacionais/.gitkeep",
+      "relative_path": "2serie/unidade-1-migracoes-internacionais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-2-populacao-brasileira-aprofundamento/.gitkeep",
+      "destination": "Geografia/_blueprints/2serie/unidade-2-populacao-brasileira-aprofundamento/.gitkeep",
+      "relative_path": "2serie/unidade-2-populacao-brasileira-aprofundamento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-3-urbanizacao-mundial-e-brasileira/.gitkeep",
+      "destination": "Geografia/_blueprints/2serie/unidade-3-urbanizacao-mundial-e-brasileira/.gitkeep",
+      "relative_path": "2serie/unidade-3-urbanizacao-mundial-e-brasileira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-4-espaco-agrario-e-conflitos/.gitkeep",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/.gitkeep",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_01_estrutura-fundiaria-brasileira.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_01_estrutura-fundiaria-brasileira.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_01_estrutura-fundiaria-brasileira.md",
+      "action": "already_identical",
+      "sha256": "56fe9aed36d8384ccd05b4a25952d7346235f4eb07a4d682034190a7c0baa76b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_02_sistemas-agricolas.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_02_sistemas-agricolas.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_02_sistemas-agricolas.md",
+      "action": "already_identical",
+      "sha256": "801211ee4b232436b53fd08d723384955ca28c7acf19c712eddb9a0aaa2cdb18"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_03_agricultura-no-brasil.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_03_agricultura-no-brasil.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_03_agricultura-no-brasil.md",
+      "action": "already_identical",
+      "sha256": "bd3842fa12b4cbcbe6fa643578dd806dc858cd7a384c1db3b11f1570dadde755"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_04_pecuaria.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_04_pecuaria.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_04_pecuaria.md",
+      "action": "already_identical",
+      "sha256": "50296370c8ef903dfa08f25272413f2e1b4af8336ce47b61a2be595d04ed2417"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_05_questao-agraria-e-conflitos.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_05_questao-agraria-e-conflitos.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_capitulo_05_questao-agraria-e-conflitos.md",
+      "action": "already_identical",
+      "sha256": "6185f2ffd34324345e6aa870a1b6d517f285cf4916f4b85585006e58da22921e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_unidade.md",
+      "destination": "Geografia/_blueprints/2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "da3cc7cb7f324a0d57bafbf4b7812baa07653a3fa00bdc75cf4e648c0e27ba47"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-5-geopolitica-mundial/.gitkeep",
+      "destination": "Geografia/_blueprints/2serie/unidade-5-geopolitica-mundial/.gitkeep",
+      "relative_path": "2serie/unidade-5-geopolitica-mundial/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-6-comercio-internacional/.gitkeep",
+      "destination": "Geografia/_blueprints/2serie/unidade-6-comercio-internacional/.gitkeep",
+      "relative_path": "2serie/unidade-6-comercio-internacional/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-7-industria-e-globalizacao/.gitkeep",
+      "destination": "Geografia/_blueprints/2serie/unidade-7-industria-e-globalizacao/.gitkeep",
+      "relative_path": "2serie/unidade-7-industria-e-globalizacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/2serie/unidade-8-energia-transportes-e-redes/.gitkeep",
+      "destination": "Geografia/_blueprints/2serie/unidade-8-energia-transportes-e-redes/.gitkeep",
+      "relative_path": "2serie/unidade-8-energia-transportes-e-redes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-1-regiao-norte/.gitkeep",
+      "destination": "Geografia/_blueprints/3serie/unidade-1-regiao-norte/.gitkeep",
+      "relative_path": "3serie/unidade-1-regiao-norte/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-2-regioes-nordeste-e-centro-oeste/.gitkeep",
+      "destination": "Geografia/_blueprints/3serie/unidade-2-regioes-nordeste-e-centro-oeste/.gitkeep",
+      "relative_path": "3serie/unidade-2-regioes-nordeste-e-centro-oeste/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-3-regioes-sudeste-e-sul/.gitkeep",
+      "destination": "Geografia/_blueprints/3serie/unidade-3-regioes-sudeste-e-sul/.gitkeep",
+      "relative_path": "3serie/unidade-3-regioes-sudeste-e-sul/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/.gitkeep",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/.gitkeep",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_01_complexos-regionais-geoeconomicos.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_01_complexos-regionais-geoeconomicos.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_01_complexos-regionais-geoeconomicos.md",
+      "action": "already_identical",
+      "sha256": "d21f0487c98188d3a57d66b5385975cda9c8129b5b7a5038392951d44225c3e7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_02_indicadores-regionais.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_02_indicadores-regionais.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_02_indicadores-regionais.md",
+      "action": "already_identical",
+      "sha256": "c21e3faa0a6ca84a51efbfb5c70500522a78a8682e98e59cf55669bc3d761f68"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_03_desigualdades-regionais-brasileiras.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_03_desigualdades-regionais-brasileiras.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_03_desigualdades-regionais-brasileiras.md",
+      "action": "already_identical",
+      "sha256": "98a96f3ff4d42150f2ac62a764c463f110221a4173f26e3ccdcc891d9b257010"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_04_politicas-de-desenvolvimento-regional.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_04_politicas-de-desenvolvimento-regional.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_04_politicas-de-desenvolvimento-regional.md",
+      "action": "already_identical",
+      "sha256": "28e655751d1ce983a6d93b715f1ed9e35b8d5c9de97d8c31e5f9d5c1df61077c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_05_integracao-nacional.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_05_integracao-nacional.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_05_integracao-nacional.md",
+      "action": "already_identical",
+      "sha256": "d8e6815c628cd4fff10fa276ab066f32d7637cf4c702c677729704c189027306"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_06_questoes-indigenas-no-brasil-contemporaneo.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_06_questoes-indigenas-no-brasil-contemporaneo.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_06_questoes-indigenas-no-brasil-contemporaneo.md",
+      "action": "already_identical",
+      "sha256": "16ccde3f5547ea3cf90688d7f5e43b0733db934c31ab3dcb32f36c7e320f3d4b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_07_geografia-cultural-brasileira.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_07_geografia-cultural-brasileira.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_capitulo_07_geografia-cultural-brasileira.md",
+      "action": "already_identical",
+      "sha256": "7e81f3ce03f8bbdafce49d1ff7f538ec2c527af129183832f673722a6f3a832a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_unidade.md",
+      "destination": "Geografia/_blueprints/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "7a7769cc0a61823e8cda8ffb3bf304df127af022eecf775c67f971216aa1f5cd"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-5-geopolitica-do-brasil/.gitkeep",
+      "destination": "Geografia/_blueprints/3serie/unidade-5-geopolitica-do-brasil/.gitkeep",
+      "relative_path": "3serie/unidade-5-geopolitica-do-brasil/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-6-desenvolvimento-e-subdesenvolvimento/.gitkeep",
+      "destination": "Geografia/_blueprints/3serie/unidade-6-desenvolvimento-e-subdesenvolvimento/.gitkeep",
+      "relative_path": "3serie/unidade-6-desenvolvimento-e-subdesenvolvimento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-7-ordem-mundial-e-conflitos-atuais/.gitkeep",
+      "destination": "Geografia/_blueprints/3serie/unidade-7-ordem-mundial-e-conflitos-atuais/.gitkeep",
+      "relative_path": "3serie/unidade-7-ordem-mundial-e-conflitos-atuais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Geografia/3serie/unidade-8-questoes-ambientais-globais-e-desafios-do-seculo-xxi/.gitkeep",
+      "destination": "Geografia/_blueprints/3serie/unidade-8-questoes-ambientais-globais-e-desafios-do-seculo-xxi/.gitkeep",
+      "relative_path": "3serie/unidade-8-questoes-ambientais-globais-e-desafios-do-seculo-xxi/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/1serie/unidade-1-introducao-a-geografia/.gitkeep",
+      "destination": "Geografia/1serie/unidade-1-introducao-a-geografia/.gitkeep",
+      "relative_path": "1serie/unidade-1-introducao-a-geografia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/1serie/unidade-2-cartografia/.gitkeep",
+      "destination": "Geografia/1serie/unidade-2-cartografia/.gitkeep",
+      "relative_path": "1serie/unidade-2-cartografia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/1serie/unidade-3-geologia/.gitkeep",
+      "destination": "Geografia/1serie/unidade-3-geologia/.gitkeep",
+      "relative_path": "1serie/unidade-3-geologia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/1serie/unidade-4-relevo-e-hidrosfera/.gitkeep",
+      "destination": "Geografia/1serie/unidade-4-relevo-e-hidrosfera/.gitkeep",
+      "relative_path": "1serie/unidade-4-relevo-e-hidrosfera/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/1serie/unidade-5-clima/.gitkeep",
+      "destination": "Geografia/1serie/unidade-5-clima/.gitkeep",
+      "relative_path": "1serie/unidade-5-clima/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/1serie/unidade-6-hidrografia-vegetacao-e-biomas/.gitkeep",
+      "destination": "Geografia/1serie/unidade-6-hidrografia-vegetacao-e-biomas/.gitkeep",
+      "relative_path": "1serie/unidade-6-hidrografia-vegetacao-e-biomas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/1serie/unidade-7-questoes-socioambientais-contemporaneas/.gitkeep",
+      "destination": "Geografia/1serie/unidade-7-questoes-socioambientais-contemporaneas/.gitkeep",
+      "relative_path": "1serie/unidade-7-questoes-socioambientais-contemporaneas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/1serie/unidade-8-populacao-mundial-e-brasileira/.gitkeep",
+      "destination": "Geografia/1serie/unidade-8-populacao-mundial-e-brasileira/.gitkeep",
+      "relative_path": "1serie/unidade-8-populacao-mundial-e-brasileira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/2serie/unidade-1-migracoes-internacionais/.gitkeep",
+      "destination": "Geografia/2serie/unidade-1-migracoes-internacionais/.gitkeep",
+      "relative_path": "2serie/unidade-1-migracoes-internacionais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/2serie/unidade-2-populacao-brasileira-aprofundamento/.gitkeep",
+      "destination": "Geografia/2serie/unidade-2-populacao-brasileira-aprofundamento/.gitkeep",
+      "relative_path": "2serie/unidade-2-populacao-brasileira-aprofundamento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/2serie/unidade-3-urbanizacao-mundial-e-brasileira/.gitkeep",
+      "destination": "Geografia/2serie/unidade-3-urbanizacao-mundial-e-brasileira/.gitkeep",
+      "relative_path": "2serie/unidade-3-urbanizacao-mundial-e-brasileira/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/2serie/unidade-4-espaco-agrario-e-conflitos/.gitkeep",
+      "destination": "Geografia/2serie/unidade-4-espaco-agrario-e-conflitos/.gitkeep",
+      "relative_path": "2serie/unidade-4-espaco-agrario-e-conflitos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/2serie/unidade-5-geopolitica-mundial/.gitkeep",
+      "destination": "Geografia/2serie/unidade-5-geopolitica-mundial/.gitkeep",
+      "relative_path": "2serie/unidade-5-geopolitica-mundial/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/2serie/unidade-6-comercio-internacional/.gitkeep",
+      "destination": "Geografia/2serie/unidade-6-comercio-internacional/.gitkeep",
+      "relative_path": "2serie/unidade-6-comercio-internacional/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/2serie/unidade-7-industria-e-globalizacao/.gitkeep",
+      "destination": "Geografia/2serie/unidade-7-industria-e-globalizacao/.gitkeep",
+      "relative_path": "2serie/unidade-7-industria-e-globalizacao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/2serie/unidade-8-energia-transportes-e-redes/.gitkeep",
+      "destination": "Geografia/2serie/unidade-8-energia-transportes-e-redes/.gitkeep",
+      "relative_path": "2serie/unidade-8-energia-transportes-e-redes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/3serie/unidade-1-regiao-norte/.gitkeep",
+      "destination": "Geografia/3serie/unidade-1-regiao-norte/.gitkeep",
+      "relative_path": "3serie/unidade-1-regiao-norte/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/3serie/unidade-2-regioes-nordeste-e-centro-oeste/.gitkeep",
+      "destination": "Geografia/3serie/unidade-2-regioes-nordeste-e-centro-oeste/.gitkeep",
+      "relative_path": "3serie/unidade-2-regioes-nordeste-e-centro-oeste/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/3serie/unidade-3-regioes-sudeste-e-sul/.gitkeep",
+      "destination": "Geografia/3serie/unidade-3-regioes-sudeste-e-sul/.gitkeep",
+      "relative_path": "3serie/unidade-3-regioes-sudeste-e-sul/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/.gitkeep",
+      "destination": "Geografia/3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/.gitkeep",
+      "relative_path": "3serie/unidade-4-desigualdades-regionais-e-integracao-nacional/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/3serie/unidade-5-geopolitica-do-brasil/.gitkeep",
+      "destination": "Geografia/3serie/unidade-5-geopolitica-do-brasil/.gitkeep",
+      "relative_path": "3serie/unidade-5-geopolitica-do-brasil/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/3serie/unidade-6-desenvolvimento-e-subdesenvolvimento/.gitkeep",
+      "destination": "Geografia/3serie/unidade-6-desenvolvimento-e-subdesenvolvimento/.gitkeep",
+      "relative_path": "3serie/unidade-6-desenvolvimento-e-subdesenvolvimento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/3serie/unidade-7-ordem-mundial-e-conflitos-atuais/.gitkeep",
+      "destination": "Geografia/3serie/unidade-7-ordem-mundial-e-conflitos-atuais/.gitkeep",
+      "relative_path": "3serie/unidade-7-ordem-mundial-e-conflitos-atuais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Geografia/3serie/unidade-8-questoes-ambientais-globais-e-desafios-do-seculo-xxi/.gitkeep",
+      "destination": "Geografia/3serie/unidade-8-questoes-ambientais-globais-e-desafios-do-seculo-xxi/.gitkeep",
+      "relative_path": "3serie/unidade-8-questoes-ambientais-globais-e-desafios-do-seculo-xxi/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Geografia/1série/Unidade 3 - Geologia/Unidade 3 — Geologia | 1ª Série do Ensino Médio.gdoc",
+      "destination": "Geografia/1série/Unidade 3 - Geologia/Unidade 3 — Geologia | 1ª Série do Ensino Médio.gdoc",
+      "relative_path": "1série/Unidade 3 - Geologia/Unidade 3 — Geologia | 1ª Série do Ensino Médio.gdoc",
+      "action": "copied",
+      "sha256": "e616b1342f03a888bf81b335a1e81941550144c9f9689430c13f2779a124b806"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Geografia/2série/Unidade 3 - Urbanização Mundial e Brasileira/Unidade 3 — Urbanização Mundial e Brasileira | 2ª Série EM.gdoc",
+      "destination": "Geografia/2série/Unidade 3 - Urbanização Mundial e Brasileira/Unidade 3 — Urbanização Mundial e Brasileira | 2ª Série EM.gdoc",
+      "relative_path": "2série/Unidade 3 - Urbanização Mundial e Brasileira/Unidade 3 — Urbanização Mundial e Brasileira | 2ª Série EM.gdoc",
+      "action": "copied",
+      "sha256": "f348d441d47e4653178131a8eecbdb05e74245370bca8edb9877bc11ebbe3021"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Geografia/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": []
+}

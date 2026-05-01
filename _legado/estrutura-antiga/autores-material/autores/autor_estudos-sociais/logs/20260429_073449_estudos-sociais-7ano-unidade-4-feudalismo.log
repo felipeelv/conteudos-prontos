@@ -1,0 +1,7 @@
+Os três capítulos da Unidade 4 — Feudalismo (7º Ano EF2) foram gerados e validados em `CONTEUDOS PRONTOS/Estudos Sociais/7ano/unidade-4-feudalismo/`:
+
+- **`capitulo_01_imperio-carolingio-e-invasoes.md`** — Carlos Magno, Renascimento Carolíngio, Verdun (843), vikings/magiares/muçulmanos, descentralização. Personagem: Carlos Magno; versículo: Provérbios 10:9.
+- **`capitulo_02_estrutura-do-feudalismo.md`** — feudo, mansos, suserania/vassalagem, sociedade estamental, economia agrária, técnicas medievais. Personagem: Guilherme, o Conquistador; versículo: Lucas 16:10. Inclui distinção explícita servidão × escravidão.
+- **`capitulo_03_igreja-medieval-e-cultura.md`** — poder da Igreja, Querela das Investiduras, mosteiros, teocentrismo, românico/gótico, escolástica, Inquisição medieval (com diferenciação da moderna). Personagem: Tomás de Aquino; versículo: Lucas 16:10.
+
+**Validação mecânica (todos passaram):** sem `## 5.+`, sem "Explorando os Conceitos", 8 blocos pós-conteúdo na ordem fixa, "Para não esquecer" com 4 bullets, "🏛️ Legado" presente, ambos "Para Conversar" em blockquote, sem rótulo "Valores para nossa vida", 0 tabelas, todos os boxes em `>`, headings numerados sem negrito. Boxes por seção principal: 1–2 em todas (mín. 1 / máx. 2 respeitados). Personagens com 3 bullets focados. Perguntas-problema, "Para Conversar" da intro e do "E para hoje" literais aos blueprints.

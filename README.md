@@ -1,120 +1,179 @@
-# Conteudos Prontos
+# Conteúdos Didáticos
 
-Repositorio final dos conteudos gerados pelos autores.
+Este projeto é o espaço central para **gerar, organizar e armazenar conteúdos didáticos**.
 
-Este repositorio armazena os capitulos prontos para revisao editorial final, diagramacao, publicacao ou uso nos proximos fluxos de producao.
+A estrutura oficial agora é organizada por **disciplina autocontida**: cada disciplina reúne seus próprios autores, blueprints e conteúdos prontos.
 
-## Papel no fluxo
+Escopo ativo: conteúdos de `4ano` até `9ano` e de `1serie` até `3serie` do Ensino Médio.
 
-```text
-material-didatico
-   |
-   | gera blueprints
-   v
-material-blueprints
-   |
-   | dispara n8n
-   v
-autores-material
-   |
-   | gera e publica
-   v
-conteudos-prontos
-```
-
-## Responsabilidade deste repositorio
-
-- Armazenar o conteudo final gerado pelos autores.
-- Manter organizacao por disciplina, ano e unidade.
-- Preservar rastreabilidade entre conteudo final e blueprint de origem.
-- Servir como ponto de revisao final da linha editorial.
-
-Este repositorio nao deve conter frameworks, prompts de autor ou blueprints tecnicos como fonte primaria.
-
-## Estrutura esperada
+## Estrutura oficial
 
 ```text
-<Disciplina>
-└── <Ano>
-    └── <Unidade>
-        ├── capitulo_01_*.md
-        ├── capitulo_02_*.md
-        └── metadata.json
+.
+├── Biologia/
+├── Ciencias/
+├── Estatistica e Educacao Financeira/
+├── Estudos Sociais/
+├── Filosofia/
+├── Fisica/
+├── Geografia/
+├── Geometria/
+├── Historia/
+├── Matematica/
+├── Portugues 1/
+├── Portugues 2/
+├── Quimica/
+├── Sociologia/
+├── plugins/
+├── _legado/
+├── scripts/
+└── README.md
 ```
+
+## Estrutura de cada disciplina
+
+Cada disciplina deve seguir este padrão:
+
+```text
+<Disciplina>/
+├── _autor/
+│   ├── CLAUDE.md
+│   ├── prompt-autor.md
+│   └── memoria-autor.md
+├── _blueprints/
+│   └── <ano-ou-serie>/
+│       └── <unidade>/
+│           ├── blueprint_unidade.md
+│           └── blueprint_capitulo_*.md
+├── <ano-ou-serie>/
+│   └── <unidade>/
+│       ├── capitulo_*.md
+│       └── metadata.json
+├── _migracao_manifesto.json
+└── README.md
+```
+
+## Função de cada pasta
+
+### `_autor/`
+
+Contém os arquivos que orientam a escrita da disciplina:
+
+- prompt do autor;
+- memória editorial;
+- instruções específicas;
+- regras de linguagem;
+- padrões de abordagem pedagógica.
+
+### `_blueprints/`
+
+Contém os blueprints da disciplina.
+
+Os blueprints definem o planejamento técnico e editorial das unidades e capítulos.
+
+Estrutura esperada:
+
+```text
+<Disciplina>/_blueprints/<ano-ou-serie>/<unidade>/
+├── blueprint_unidade.md
+├── blueprint_capitulo_01_*.md
+└── blueprint_capitulo_02_*.md
+```
+
+### Pastas de anos e séries
+
+Contêm os conteúdos didáticos prontos.
 
 Exemplo:
 
 ```text
-Filosofia
-└── 2serie
-    └── bimestre-1-iluminismo-e-critica
-        ├── capitulo_01_empirismo-britanico-e-critica-do-conhecimento.md
-        ├── capitulo_02_kant-e-a-sintese-critica.md
+Estatistica e Educacao Financeira/
+└── 6ano/
+    └── unidade-4-media-aritmetica-e-probabilidade/
+        ├── capitulo_01_media-aritmetica.md
+        ├── capitulo_02_espaco-amostral-e-eventos.md
+        ├── capitulo_03_calculo-de-probabilidade.md
         └── metadata.json
 ```
 
-## Entrada
+## Fluxo de trabalho
 
-Este repositorio recebe publicacoes diretas do pipeline de autoria no repositorio `autores-material`.
-
-Cada publicacao deve vir de um blueprint existente no repositorio `material-blueprints`.
-
-## Saida
-
-A saida deste repositorio e o conteudo final organizado.
-
-Ele pode ser usado para:
-
-- revisao editorial final;
-- ajustes pontuais de texto;
-- diagramacao;
-- empacotamento para material didatico;
-- auditoria de producao por disciplina, ano e unidade.
+1. O blueprint da unidade é criado ou atualizado em `<Disciplina>/_blueprints/`.
+2. O autor da disciplina é consultado em `<Disciplina>/_autor/`.
+3. O conteúdo didático é gerado a partir do blueprint e das regras do autor.
+4. Os capítulos finais são salvos em `<Disciplina>/<ano>/<unidade>/`.
+5. A unidade recebe ou preserva um `metadata.json` para rastreabilidade.
+6. O material segue para revisão editorial, ajustes, diagramação ou publicação.
 
 ## Rastreabilidade
 
-Cada unidade deve conter um `metadata.json`:
+Cada unidade com capítulos prontos deve ter um `metadata.json`.
+
+Exemplo:
 
 ```json
 {
-  "disciplina": "Filosofia",
-  "ano": "2serie",
-  "unidade": "bimestre-1-iluminismo-e-critica",
-  "blueprint_repo": "felipeelv/material-blueprints",
-  "blueprint_sha": "SHA_DO_COMMIT",
-  "blueprint_path": "blueprints/Filosofia/2serie/bimestre-1-iluminismo-e-critica",
-  "autor": "filosofia",
-  "generated_at": "2026-04-30T00:00:00-03:00"
+  "disciplina": "Estatistica e Educacao Financeira",
+  "ano": "6ano",
+  "unidade": "unidade-4-media-aritmetica-e-probabilidade",
+  "blueprint_path": "Estatistica e Educacao Financeira/_blueprints/6ano/unidade-4-media-aritmetica-e-probabilidade",
+  "autor_path": "Estatistica e Educacao Financeira/_autor",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "status": "migrado"
 }
 ```
 
-Esse arquivo permite responder:
+Esse arquivo ajuda a identificar:
 
-- qual blueprint gerou o conteudo;
-- qual autor foi usado;
-- quando a unidade foi gerada;
-- qual caminho de origem deve ser consultado em caso de revisao.
+- qual blueprint originou a unidade;
+- qual autor/prompt orientou a escrita;
+- quando o conteúdo foi gerado ou migrado;
+- onde revisar a origem em caso de correção.
 
-## Publicacao
+## Migração estrutural
 
-Nesta fase, a publicacao e direta na branch principal.
+A migração para o modelo por disciplina foi feita em modo seguro:
 
-Motivo: os autores ainda estao sendo afinados, e a revisao editorial fina acontece no final da linha, sobre o conteudo ja gerado.
+- os arquivos foram copiados para a nova estrutura;
+- os arquivos antigos não foram apagados;
+- duplicações idênticas foram registradas;
+- conflitos seriam preservados sem sobrescrita;
+- metadados ausentes foram criados automaticamente quando possível;
+- um manifesto central foi gerado e arquivado em `_legado/documentos-organizacao-2026-05-01/MIGRACAO_ESTRUTURA_MANIFESTO.json`;
+- cada disciplina recebeu seu próprio `_migracao_manifesto.json`.
 
-Mensagem de commit sugerida:
+## Estrutura legada
+
+As estruturas antigas foram preservadas em:
 
 ```text
-Add conteudo Filosofia/2serie/bimestre-1-iluminismo-e-critica
-
-Origem: felipeelv/material-blueprints@SHA_DO_COMMIT
-Autor: filosofia
+_legado/estrutura-antiga/
+├── Blueprints/
+├── autores-material/
+├── Conteudos Prontos/
+└── Unidade 3-/
 ```
 
-## Regras importantes
+Essas pastas devem ser tratadas como referência histórica. O trabalho novo deve acontecer na estrutura oficial por disciplina.
 
-- Nao apagar manualmente `metadata.json`.
-- Nao misturar conteudos de unidades diferentes na mesma pasta.
-- Evitar commits manuais que nao indiquem a origem da alteracao.
-- Ajustes editoriais finais podem ser feitos neste repositorio, mas devem preservar a estrutura da unidade.
-- Quando houver reprocessamento automatico, o novo commit deve apontar para o novo SHA do blueprint.
+## Regras de organização
 
+- Usar a pasta da disciplina como fonte oficial de trabalho.
+- Manter somente anos/séries dentro do escopo ativo: `4ano` a `9ano` e `1serie` a `3serie`.
+- Manter prompts e memórias em `_autor/`.
+- Manter blueprints em `_blueprints/`.
+- Manter conteúdos prontos nas pastas de anos/séries.
+- Não misturar blueprints com capítulos prontos.
+- Não sobrescrever arquivos conflitantes sem comparação manual.
+- Preservar `metadata.json` quando existir.
+- Evitar arquivos operacionais como `.DS_Store`.
+- Registrar migrações e cópias em manifestos.
+
+## Documentos de apoio
+
+- Documentos de organização: `_legado/documentos-organizacao-2026-05-01/`.
+- Relatórios de organização: `_legado/relatorios-organizacao-2026-05-01/`.
+
+## Objetivo final
+
+O objetivo deste projeto é manter uma base organizada para produção contínua de material didático, conectando planejamento, autoria automatizada e armazenamento dos conteúdos finalizados dentro da própria disciplina.

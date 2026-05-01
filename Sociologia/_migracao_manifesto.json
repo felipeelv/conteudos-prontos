@@ -1,0 +1,567 @@
+{
+  "discipline": "Sociologia",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_sociologia"
+    ],
+    "blueprints": [
+      "Blueprints/sociologia",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia"
+    ],
+    "contents": [
+      "Conteudos Prontos/Sociologia",
+      "Unidade 3-/Sociologia"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_sociologia": {
+      "copied": 5,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 2
+    },
+    "blueprints::Blueprints::sociologia": {
+      "copied": 9,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Sociologia": {
+      "copied": 27,
+      "already_identical": 9,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Sociologia": {
+      "copied": 4,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::Sociologia": {
+      "copied": 0,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_sociologia/_shared/lib_common.sh",
+      "destination": "Sociologia/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_sociologia/CLAUDE.md",
+      "destination": "Sociologia/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "21e00aa982efb45ad901dcb403ef34c412294361f5d36f7672d0080ed4717b34"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_sociologia/logs/20260429_000945_filosofia-2serie-bimestre-4-pos-modernidade-e-apologetica.log",
+      "destination": null,
+      "relative_path": "logs/20260429_000945_filosofia-2serie-bimestre-4-pos-modernidade-e-apologetica.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_sociologia/logs/20260429_000946_sociologia-3serie-bimestre-4-sociologia-brasileira-e-leitura-crista.log",
+      "destination": null,
+      "relative_path": "logs/20260429_000946_sociologia-3serie-bimestre-4-sociologia-brasileira-e-leitura-crista.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_sociologia/memoria-autor.md",
+      "destination": "Sociologia/_autor/memoria-autor.md",
+      "relative_path": "memoria-autor.md",
+      "action": "copied",
+      "sha256": "a91beabafc97b41dc1070b07e0fca468717fffafc9faf0461c08656afbe933db"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_sociologia/prompt-autor.md",
+      "destination": "Sociologia/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "d1be54adecab7238ce06f532ade00523a733ce4bc682dc1769be1684265cc1a3"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_sociologia/scripts/criar_capitulos.sh",
+      "destination": "Sociologia/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "6c59e79919beb8b6c1cdbb036f8a819233fe0757bbc626d1f1f336f928da1d98"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/sociologia/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_03_cultura-e-diversidade-cultural.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_03_cultura-e-diversidade-cultural.md",
+      "relative_path": "1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_03_cultura-e-diversidade-cultural.md",
+      "action": "copied",
+      "sha256": "ea1874e1e4420f9fb95e1ce8f0f9126b7cb860987ceb15a01653ac5ab61a6a67"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/sociologia/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_04_identidade-e-cultura-brasileira.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_04_identidade-e-cultura-brasileira.md",
+      "relative_path": "1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_04_identidade-e-cultura-brasileira.md",
+      "action": "copied",
+      "sha256": "c1e759b4bd752bf0c7e4b1334dc814b5c678208152ad61559a4578aa67112a0e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/sociologia/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_unidade.md",
+      "relative_path": "1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "ba4046f4054362a938a64222bb1f075f58a86badbb16bb764ddb84e517f82759"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/sociologia/2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_03_democracia-e-sistemas-de-governo.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_03_democracia-e-sistemas-de-governo.md",
+      "relative_path": "2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_03_democracia-e-sistemas-de-governo.md",
+      "action": "copied",
+      "sha256": "af44777d007aca914f62bf594123a92817a8522eb82ddfb09ef61cefcd32f0fc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/sociologia/2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_04_cidadania-direitos-e-constituicao-brasileira.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_04_cidadania-direitos-e-constituicao-brasileira.md",
+      "relative_path": "2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_04_cidadania-direitos-e-constituicao-brasileira.md",
+      "action": "copied",
+      "sha256": "4f09781cfb1534275786e451490d24bfc34ec664aa383bd91c10a9c679a69f57"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/sociologia/2serie/bimestre-2-democracia-e-cidadania/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-2-democracia-e-cidadania/blueprint_unidade.md",
+      "relative_path": "2serie/bimestre-2-democracia-e-cidadania/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "4b414db670ed7a0d21da8b10d33151c8b5f4c070b0abe056c65893317b459ebd"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/sociologia/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_03_estado-poder-e-politica-brasileira.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_03_estado-poder-e-politica-brasileira.md",
+      "relative_path": "3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_03_estado-poder-e-politica-brasileira.md",
+      "action": "copied",
+      "sha256": "8fcd6cfb4516fbf8328a6d22e51d4e74e0e45862d1c27608946f03b9b6cf1837"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/sociologia/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_04_cidadania-substantiva-e-movimentos-sociais-atuais.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_04_cidadania-substantiva-e-movimentos-sociais-atuais.md",
+      "relative_path": "3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_04_cidadania-substantiva-e-movimentos-sociais-atuais.md",
+      "action": "copied",
+      "sha256": "e6d456015e08b05aa906cb8d02354d3f3626ba43e0b575eed49ce2a2464fd0d3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/sociologia/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_unidade.md",
+      "relative_path": "3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "52e68659c922792f75711f92d2cc8b1a463e8bbd26434a651250c7383f470f7b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-1-introducao-a-sociologia/blueprint_capitulo_01_introducao-ao-olhar-sociologico-e-surgimento-da-sociologia.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-1-introducao-a-sociologia/blueprint_capitulo_01_introducao-ao-olhar-sociologico-e-surgimento-da-sociologia.md",
+      "relative_path": "1serie/bimestre-1-introducao-a-sociologia/blueprint_capitulo_01_introducao-ao-olhar-sociologico-e-surgimento-da-sociologia.md",
+      "action": "copied",
+      "sha256": "a166be0fc03cdf23d6a255dc654c9907d3baf9ad43d1c6427bdde20b1846c1ca"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-1-introducao-a-sociologia/blueprint_capitulo_02_emile-durkheim-fato-social-e-solidariedade.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-1-introducao-a-sociologia/blueprint_capitulo_02_emile-durkheim-fato-social-e-solidariedade.md",
+      "relative_path": "1serie/bimestre-1-introducao-a-sociologia/blueprint_capitulo_02_emile-durkheim-fato-social-e-solidariedade.md",
+      "action": "copied",
+      "sha256": "31558dd4092cf65cd84f644c2e022bf3065109b01c463b127046d7e3a51e2c8a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-1-introducao-a-sociologia/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-1-introducao-a-sociologia/blueprint_unidade.md",
+      "relative_path": "1serie/bimestre-1-introducao-a-sociologia/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "ec7130460f2f1b394ff196d9225353cf411d482469b67d0b40e71d2a803c31a1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_03_cultura-e-diversidade-cultural.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_03_cultura-e-diversidade-cultural.md",
+      "relative_path": "1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_03_cultura-e-diversidade-cultural.md",
+      "action": "already_identical",
+      "sha256": "ea1874e1e4420f9fb95e1ce8f0f9126b7cb860987ceb15a01653ac5ab61a6a67"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_04_identidade-e-cultura-brasileira.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_04_identidade-e-cultura-brasileira.md",
+      "relative_path": "1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_capitulo_04_identidade-e-cultura-brasileira.md",
+      "action": "already_identical",
+      "sha256": "c1e759b4bd752bf0c7e4b1334dc814b5c678208152ad61559a4578aa67112a0e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_unidade.md",
+      "relative_path": "1serie/bimestre-2-cultura-e-identidade-brasileira/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "ba4046f4054362a938a64222bb1f075f58a86badbb16bb764ddb84e517f82759"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-3-trabalho-e-marx/blueprint_capitulo_05_o-trabalho-como-atividade-social.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-3-trabalho-e-marx/blueprint_capitulo_05_o-trabalho-como-atividade-social.md",
+      "relative_path": "1serie/bimestre-3-trabalho-e-marx/blueprint_capitulo_05_o-trabalho-como-atividade-social.md",
+      "action": "copied",
+      "sha256": "c475268faf6a18832f20ead9dbd024544fab95d83651b8d4ce6a5434adc59a70"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-3-trabalho-e-marx/blueprint_capitulo_06_karl-marx-capitalismo-e-alienacao.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-3-trabalho-e-marx/blueprint_capitulo_06_karl-marx-capitalismo-e-alienacao.md",
+      "relative_path": "1serie/bimestre-3-trabalho-e-marx/blueprint_capitulo_06_karl-marx-capitalismo-e-alienacao.md",
+      "action": "copied",
+      "sha256": "dd44abdebbba718ec3ad670b1c683ebcbbf077270e4577cfe8805c0432d69e3b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-3-trabalho-e-marx/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-3-trabalho-e-marx/blueprint_unidade.md",
+      "relative_path": "1serie/bimestre-3-trabalho-e-marx/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "c71c692f1b4091fbc824b85cc4181336a48acf5cdf284e5c35591827c33f9388"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-4-instituicoes-e-estratificacao/blueprint_capitulo_07_instituicoes-sociais-e-socializacao.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-4-instituicoes-e-estratificacao/blueprint_capitulo_07_instituicoes-sociais-e-socializacao.md",
+      "relative_path": "1serie/bimestre-4-instituicoes-e-estratificacao/blueprint_capitulo_07_instituicoes-sociais-e-socializacao.md",
+      "action": "copied",
+      "sha256": "f5397c97f92fe13b5138f33450e646699f8526eb2a084fbab76971debbe95d1f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-4-instituicoes-e-estratificacao/blueprint_capitulo_08_estratificacao-social-e-desigualdade-no-brasil.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-4-instituicoes-e-estratificacao/blueprint_capitulo_08_estratificacao-social-e-desigualdade-no-brasil.md",
+      "relative_path": "1serie/bimestre-4-instituicoes-e-estratificacao/blueprint_capitulo_08_estratificacao-social-e-desigualdade-no-brasil.md",
+      "action": "copied",
+      "sha256": "914835e65e520bef7bb5f37c6b760961da39ee033ff145e35e5efd9c13c57514"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/1serie/bimestre-4-instituicoes-e-estratificacao/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/1serie/bimestre-4-instituicoes-e-estratificacao/blueprint_unidade.md",
+      "relative_path": "1serie/bimestre-4-instituicoes-e-estratificacao/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "c5603d0d609bd77ba7bae6d7ece18dd19240612c1f2c206bf1f48b3b23053404"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-1-estado-poder-e-weber/blueprint_capitulo_01_estado-poder-e-teorias-politicas.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-1-estado-poder-e-weber/blueprint_capitulo_01_estado-poder-e-teorias-politicas.md",
+      "relative_path": "2serie/bimestre-1-estado-poder-e-weber/blueprint_capitulo_01_estado-poder-e-teorias-politicas.md",
+      "action": "copied",
+      "sha256": "4fdd3b6d556d32b410c6c270bcffe0659b3d3771089024a733908c98ab356ca6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-1-estado-poder-e-weber/blueprint_capitulo_02_max-weber-dominacao-e-racionalizacao.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-1-estado-poder-e-weber/blueprint_capitulo_02_max-weber-dominacao-e-racionalizacao.md",
+      "relative_path": "2serie/bimestre-1-estado-poder-e-weber/blueprint_capitulo_02_max-weber-dominacao-e-racionalizacao.md",
+      "action": "copied",
+      "sha256": "51684ae9ca7e8dd9eb6d7cc9e76b725b172800d3d0ab24207c2d25b27ab8cbcf"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-1-estado-poder-e-weber/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-1-estado-poder-e-weber/blueprint_unidade.md",
+      "relative_path": "2serie/bimestre-1-estado-poder-e-weber/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "6507d9a6b2f9be74b85f421ddebd1664513293ce737dc0ec45c9070787767cda"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_03_democracia-e-sistemas-de-governo.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_03_democracia-e-sistemas-de-governo.md",
+      "relative_path": "2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_03_democracia-e-sistemas-de-governo.md",
+      "action": "already_identical",
+      "sha256": "af44777d007aca914f62bf594123a92817a8522eb82ddfb09ef61cefcd32f0fc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_04_cidadania-direitos-e-constituicao-brasileira.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_04_cidadania-direitos-e-constituicao-brasileira.md",
+      "relative_path": "2serie/bimestre-2-democracia-e-cidadania/blueprint_capitulo_04_cidadania-direitos-e-constituicao-brasileira.md",
+      "action": "already_identical",
+      "sha256": "4f09781cfb1534275786e451490d24bfc34ec664aa383bd91c10a9c679a69f57"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-2-democracia-e-cidadania/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-2-democracia-e-cidadania/blueprint_unidade.md",
+      "relative_path": "2serie/bimestre-2-democracia-e-cidadania/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "4b414db670ed7a0d21da8b10d33151c8b5f4c070b0abe056c65893317b459ebd"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-3-movimentos-sociais-e-tecnologia/blueprint_capitulo_05_movimentos-sociais-no-brasil.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-3-movimentos-sociais-e-tecnologia/blueprint_capitulo_05_movimentos-sociais-no-brasil.md",
+      "relative_path": "2serie/bimestre-3-movimentos-sociais-e-tecnologia/blueprint_capitulo_05_movimentos-sociais-no-brasil.md",
+      "action": "copied",
+      "sha256": "25b7ec2f873c638aebc1566be75ac5f68c4994dbb955a7b2459ac118b7a603d4"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-3-movimentos-sociais-e-tecnologia/blueprint_capitulo_06_tecnologia-redes-sociais-e-ciberativismo.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-3-movimentos-sociais-e-tecnologia/blueprint_capitulo_06_tecnologia-redes-sociais-e-ciberativismo.md",
+      "relative_path": "2serie/bimestre-3-movimentos-sociais-e-tecnologia/blueprint_capitulo_06_tecnologia-redes-sociais-e-ciberativismo.md",
+      "action": "copied",
+      "sha256": "62732e1a21d3e5b5dfd2821324947de9de9a6a3b7ea3e3aa782733f66b83337c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-3-movimentos-sociais-e-tecnologia/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-3-movimentos-sociais-e-tecnologia/blueprint_unidade.md",
+      "relative_path": "2serie/bimestre-3-movimentos-sociais-e-tecnologia/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "9cb7decd25fc73e98c227cd9a77eebfe7778e0ce9d0b32e334bcc26bb9937f4d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-4-marx-aprofundado-e-globalizacao/blueprint_capitulo_07_karl-marx-aprofundado-e-modelos-de-producao.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-4-marx-aprofundado-e-globalizacao/blueprint_capitulo_07_karl-marx-aprofundado-e-modelos-de-producao.md",
+      "relative_path": "2serie/bimestre-4-marx-aprofundado-e-globalizacao/blueprint_capitulo_07_karl-marx-aprofundado-e-modelos-de-producao.md",
+      "action": "copied",
+      "sha256": "b6bbb179aba8af1626409442abfb0da85e641aba30acf9627b7a76446ee8dfeb"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-4-marx-aprofundado-e-globalizacao/blueprint_capitulo_08_globalizacao-e-trabalho-contemporaneo.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-4-marx-aprofundado-e-globalizacao/blueprint_capitulo_08_globalizacao-e-trabalho-contemporaneo.md",
+      "relative_path": "2serie/bimestre-4-marx-aprofundado-e-globalizacao/blueprint_capitulo_08_globalizacao-e-trabalho-contemporaneo.md",
+      "action": "copied",
+      "sha256": "d638c8892f15dbaf1007b08a9e3775d42331ea14fbc7679338127c35bffe7dfb"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/2serie/bimestre-4-marx-aprofundado-e-globalizacao/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/2serie/bimestre-4-marx-aprofundado-e-globalizacao/blueprint_unidade.md",
+      "relative_path": "2serie/bimestre-4-marx-aprofundado-e-globalizacao/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "afd09c9640b08572cdc565e5a40759e9289da97622322da121d599da8e58a05a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-1-trabalho-e-desigualdade-no-brasil/blueprint_capitulo_01_mundo-do-trabalho-na-era-digital.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-1-trabalho-e-desigualdade-no-brasil/blueprint_capitulo_01_mundo-do-trabalho-na-era-digital.md",
+      "relative_path": "3serie/bimestre-1-trabalho-e-desigualdade-no-brasil/blueprint_capitulo_01_mundo-do-trabalho-na-era-digital.md",
+      "action": "copied",
+      "sha256": "f5707a040df9b7466ab28392f58cfc9ee27de7ab64611b1e90f6050f0666db91"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-1-trabalho-e-desigualdade-no-brasil/blueprint_capitulo_02_desigualdades-estruturais-brasil-em-dados.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-1-trabalho-e-desigualdade-no-brasil/blueprint_capitulo_02_desigualdades-estruturais-brasil-em-dados.md",
+      "relative_path": "3serie/bimestre-1-trabalho-e-desigualdade-no-brasil/blueprint_capitulo_02_desigualdades-estruturais-brasil-em-dados.md",
+      "action": "copied",
+      "sha256": "aeb9bb21be2ee39fe0be5581209cdd714a30d9b7176c2dad86df67964a013a41"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-1-trabalho-e-desigualdade-no-brasil/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-1-trabalho-e-desigualdade-no-brasil/blueprint_unidade.md",
+      "relative_path": "3serie/bimestre-1-trabalho-e-desigualdade-no-brasil/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "fe3d4a5db9234557dbeb0b705e0977ce27145db17e729f84197ff66a3a47fa23"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_03_estado-poder-e-politica-brasileira.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_03_estado-poder-e-politica-brasileira.md",
+      "relative_path": "3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_03_estado-poder-e-politica-brasileira.md",
+      "action": "already_identical",
+      "sha256": "8fcd6cfb4516fbf8328a6d22e51d4e74e0e45862d1c27608946f03b9b6cf1837"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_04_cidadania-substantiva-e-movimentos-sociais-atuais.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_04_cidadania-substantiva-e-movimentos-sociais-atuais.md",
+      "relative_path": "3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_capitulo_04_cidadania-substantiva-e-movimentos-sociais-atuais.md",
+      "action": "already_identical",
+      "sha256": "e6d456015e08b05aa906cb8d02354d3f3626ba43e0b575eed49ce2a2464fd0d3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_unidade.md",
+      "relative_path": "3serie/bimestre-2-poder-estado-e-cidadania-no-brasil/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "52e68659c922792f75711f92d2cc8b1a463e8bbd26434a651250c7383f470f7b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_05_sintese-classicos-da-sociologia.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_05_sintese-classicos-da-sociologia.md",
+      "relative_path": "3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_05_sintese-classicos-da-sociologia.md",
+      "action": "copied",
+      "sha256": "a72c7d47f3407a24bd64fe440d989eb09eba8b0c62e0594aea787c16d3c21ff1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_06_sintese-cultura-politica-e-globalizacao.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_06_sintese-cultura-politica-e-globalizacao.md",
+      "relative_path": "3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_capitulo_06_sintese-cultura-politica-e-globalizacao.md",
+      "action": "copied",
+      "sha256": "5ab9f7733f3f84dfae04a0477896957b8a9fc8bb0ca8431edac88ccfbf71a74b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_unidade.md",
+      "relative_path": "3serie/bimestre-3-revisao-enem-e-vestibulares/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "d85371ed2e2108354ca78066d3bd4207bef73f2ccd3c9dec3cdeb995bfd71ebf"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/blueprint_capitulo_07_pensadores-brasileiros-freyre-sergio-buarque-e-florestan-fernandes.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/blueprint_capitulo_07_pensadores-brasileiros-freyre-sergio-buarque-e-florestan-fernandes.md",
+      "relative_path": "3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/blueprint_capitulo_07_pensadores-brasileiros-freyre-sergio-buarque-e-florestan-fernandes.md",
+      "action": "copied",
+      "sha256": "6865e9c50491aa4b9c2d4b0f7b061ee06aa047cd5e33c50af468928f09f853da"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/blueprint_capitulo_08_brasil-sob-a-lente-crista-sintese-sociologica-apologetica.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/blueprint_capitulo_08_brasil-sob-a-lente-crista-sintese-sociologica-apologetica.md",
+      "relative_path": "3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/blueprint_capitulo_08_brasil-sob-a-lente-crista-sintese-sociologica-apologetica.md",
+      "action": "copied",
+      "sha256": "4974bc0e837e9de086c593ce18ffc514cb635155c8e30c4f483811606f99fec6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Sociologia/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/blueprint_unidade.md",
+      "destination": "Sociologia/_blueprints/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/blueprint_unidade.md",
+      "relative_path": "3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "26ef7d16251b6864f5869413e05d9fac505c98f16dbfa42390cf0b573e4b9dda"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Sociologia/1serie/.gitkeep",
+      "destination": "Sociologia/1serie/.gitkeep",
+      "relative_path": "1serie/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Sociologia/2serie/.gitkeep",
+      "destination": "Sociologia/2serie/.gitkeep",
+      "relative_path": "2serie/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Sociologia/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/capitulo_07_pensadores-brasileiros-freyre-sergio-buarque-e-florestan-fernandes.md",
+      "destination": "Sociologia/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/capitulo_07_pensadores-brasileiros-freyre-sergio-buarque-e-florestan-fernandes.md",
+      "relative_path": "3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/capitulo_07_pensadores-brasileiros-freyre-sergio-buarque-e-florestan-fernandes.md",
+      "action": "copied",
+      "sha256": "901eb90d673eb7ae71f365d5c58d6f83525da2ddaa6d1965dca0fce1ba25304f"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Sociologia/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/capitulo_08_brasil-sob-a-lente-crista-sintese-sociologica-apologetica.md",
+      "destination": "Sociologia/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/capitulo_08_brasil-sob-a-lente-crista-sintese-sociologica-apologetica.md",
+      "relative_path": "3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/capitulo_08_brasil-sob-a-lente-crista-sintese-sociologica-apologetica.md",
+      "action": "copied",
+      "sha256": "80d8e12844cb4b404b5415668dc6f416b59463af88bc6d6e69297e4f280e1a2f"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Sociologia/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": [
+    "Sociologia/3serie/bimestre-4-sociologia-brasileira-e-leitura-crista/metadata.json"
+  ]
+}

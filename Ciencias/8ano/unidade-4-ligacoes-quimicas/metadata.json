@@ -1,0 +1,10 @@
+{
+  "disciplina": "Ciencias",
+  "ano": "8ano",
+  "unidade": "unidade-4-ligacoes-quimicas",
+  "blueprint_path": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas",
+  "autor_path": "Ciencias/_autor",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "status": "migrado",
+  "migration_note": "metadata criado automaticamente durante migração estrutural segura"
+}

@@ -1,0 +1,14 @@
+Validação passou em ambos os capítulos:
+
+- ✅ Exatos 4 tópicos numerados (`## 1`, `## 2`, `## 3`, `## 4`); sem `## 5.`
+- ✅ Sem `## Explorando os Conceitos`
+- ✅ Headings pós-conteúdo na ordem correta (Sua Parte → Curiosidade → Enquanto isso… → E para hoje… → Esse foi o "cara" → Você já pensou nisso? → Simplificando → Para não esquecer)
+- ✅ "Para não esquecer" com 4 bullets em ambos
+- ✅ Sem rótulo proibido `Valores para nossa vida`
+- ✅ `🏛️ **Legado:**` presente em "Esse foi o 'cara'"
+- ✅ Dois `💬 **Para Conversar:**` por capítulo (introdução + E para hoje…)
+- ✅ Sem tabelas
+
+Capítulos gerados em `/Users/feliperosamini/autores-material/PRODUCAO/CONTEUDOS PRONTOS/Estudos Sociais/4ano/unidade-4-representacao-do-espaco/`:
+- `capitulo_01_tipos-de-mapas.md` — Abraham Ortelius / Lucas 16:10 / planta da sala como coração; Jó 38:4-5 no "Enquanto isso…"
+- `capitulo_02_orientacao-e-escala.md` — Pedro Nunes / Lucas 16:10 / cardeais, colaterais, rosa dos ventos, bússola, legenda e escala; Provérbios 11:1 no "Enquanto isso…"

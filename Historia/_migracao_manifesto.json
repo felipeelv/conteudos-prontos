@@ -1,0 +1,529 @@
+{
+  "discipline": "Historia",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_historia"
+    ],
+    "blueprints": [
+      "Blueprints/historia",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Historia"
+    ],
+    "contents": [
+      "Conteudos Prontos/Historia",
+      "Unidade 3-/História"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_historia": {
+      "copied": 3,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 1
+    },
+    "blueprints::Blueprints::historia": {
+      "copied": 14,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 1
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Historia": {
+      "copied": 7,
+      "already_identical": 14,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Historia": {
+      "copied": 10,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Unidade 3-::História": {
+      "copied": 2,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_historia/_shared/lib_common.sh",
+      "destination": "Historia/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_historia/CLAUDE.md",
+      "destination": "Historia/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "8c7148f26d5653bec90ea4d193fbcaec05a8614e9369a7fd614e9e1da55ab8ee"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_historia/logs/20260429_073449_estudos-sociais-7ano-unidade-4-feudalismo.log",
+      "destination": null,
+      "relative_path": "logs/20260429_073449_estudos-sociais-7ano-unidade-4-feudalismo.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_historia/scripts/criar_capitulos.sh",
+      "destination": "Historia/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "39bc5a552db144f5f69d145abfaf4320357c103fc6fbcf8e362e015bc8e0c6d3"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/.DS_Store",
+      "destination": null,
+      "relative_path": ".DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_01_o-periodo-classico.md",
+      "destination": "Historia/_blueprints/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_01_o-periodo-classico.md",
+      "relative_path": "1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_01_o-periodo-classico.md",
+      "action": "copied",
+      "sha256": "188c022cac6642c1caaeede6cd07cc896fd189176d349dda3ae1e924e3845671"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_02_o-periodo-helenistico.md",
+      "destination": "Historia/_blueprints/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_02_o-periodo-helenistico.md",
+      "relative_path": "1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_02_o-periodo-helenistico.md",
+      "action": "copied",
+      "sha256": "96686375d705bca22ade9e65b2f52a900120fcc201aec2806aa033149d6c1c1f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_03_cultura-e-legados-da-grecia.md",
+      "destination": "Historia/_blueprints/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_03_cultura-e-legados-da-grecia.md",
+      "relative_path": "1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_03_cultura-e-legados-da-grecia.md",
+      "action": "copied",
+      "sha256": "4b11f72614145874786d06d680728007265d144c47402820a873721b328c64d2"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_unidade.md",
+      "destination": "Historia/_blueprints/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "95040480321e4c168aec76326ce56be3746e48aa9a82d5d6fc8fa0e61efe69a8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_01_periodo-regencial-1831-1840.md",
+      "destination": "Historia/_blueprints/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_01_periodo-regencial-1831-1840.md",
+      "relative_path": "2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_01_periodo-regencial-1831-1840.md",
+      "action": "copied",
+      "sha256": "9b31852acea8572a1dba07db77b19b307000aaca015f44ad59f4cf3794922487"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_02_revoltas-regenciais.md",
+      "destination": "Historia/_blueprints/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_02_revoltas-regenciais.md",
+      "relative_path": "2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_02_revoltas-regenciais.md",
+      "action": "copied",
+      "sha256": "1fe1aa0b50dfee967c4dc69c27e2310f98af3be1f22def61c1de0e0814d31ec1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_03_o-golpe-da-maioridade.md",
+      "destination": "Historia/_blueprints/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_03_o-golpe-da-maioridade.md",
+      "relative_path": "2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_03_o-golpe-da-maioridade.md",
+      "action": "copied",
+      "sha256": "168b33a4896d04f142dec6349b50a205027300ed830d0ad2bab1883be67a9daf"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_unidade.md",
+      "destination": "Historia/_blueprints/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "23987a8cae8449bbb6045a38367a1a570bca8347ddc28f03b09a043d34acb675"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/.gitkeep",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/.gitkeep",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_01_guerra-fria-conceito-e-bipolarizacao.md",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_01_guerra-fria-conceito-e-bipolarizacao.md",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_01_guerra-fria-conceito-e-bipolarizacao.md",
+      "action": "copied",
+      "sha256": "4416d0f2349eaae1f54014daf6fd333c917836888c2868918ad3687546bea26c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_02_principais-conflitos-da-guerra-fria.md",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_02_principais-conflitos-da-guerra-fria.md",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_02_principais-conflitos-da-guerra-fria.md",
+      "action": "copied",
+      "sha256": "960a9ec9c612ff2c623400ea3333a24cbef90e97eae16fbe36ba616a230f8e26"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_03_descolonizacao-da-asia.md",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_03_descolonizacao-da-asia.md",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_03_descolonizacao-da-asia.md",
+      "action": "copied",
+      "sha256": "7fa9f96f7577f950bf2970908cf665d59ef8ebf87b3b9fd1962d09738ec67813"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_04_descolonizacao-da-africa.md",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_04_descolonizacao-da-africa.md",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_04_descolonizacao-da-africa.md",
+      "action": "copied",
+      "sha256": "7fb8c6bf460e7387e4191ec11f5baaa7fe50914d5b581aa95a4f5d1050af7da0"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_unidade.md",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "63e3fc9f83f40d1aa94b39aff0ee2884af7cb891db6bb943b816234a099cf90b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_01_o-periodo-classico.md",
+      "destination": "Historia/_blueprints/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_01_o-periodo-classico.md",
+      "relative_path": "1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_01_o-periodo-classico.md",
+      "action": "already_identical",
+      "sha256": "188c022cac6642c1caaeede6cd07cc896fd189176d349dda3ae1e924e3845671"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_02_o-periodo-helenistico.md",
+      "destination": "Historia/_blueprints/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_02_o-periodo-helenistico.md",
+      "relative_path": "1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_02_o-periodo-helenistico.md",
+      "action": "already_identical",
+      "sha256": "96686375d705bca22ade9e65b2f52a900120fcc201aec2806aa033149d6c1c1f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_03_cultura-e-legados-da-grecia.md",
+      "destination": "Historia/_blueprints/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_03_cultura-e-legados-da-grecia.md",
+      "relative_path": "1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_capitulo_03_cultura-e-legados-da-grecia.md",
+      "action": "already_identical",
+      "sha256": "4b11f72614145874786d06d680728007265d144c47402820a873721b328c64d2"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_unidade.md",
+      "destination": "Historia/_blueprints/1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_unidade.md",
+      "relative_path": "1serie/unidade-4-apogeu-e-declinio-da-grecia-classica/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "95040480321e4c168aec76326ce56be3746e48aa9a82d5d6fc8fa0e61efe69a8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_01_periodo-regencial-1831-1840.md",
+      "destination": "Historia/_blueprints/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_01_periodo-regencial-1831-1840.md",
+      "relative_path": "2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_01_periodo-regencial-1831-1840.md",
+      "action": "already_identical",
+      "sha256": "9b31852acea8572a1dba07db77b19b307000aaca015f44ad59f4cf3794922487"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_02_revoltas-regenciais.md",
+      "destination": "Historia/_blueprints/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_02_revoltas-regenciais.md",
+      "relative_path": "2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_02_revoltas-regenciais.md",
+      "action": "already_identical",
+      "sha256": "1fe1aa0b50dfee967c4dc69c27e2310f98af3be1f22def61c1de0e0814d31ec1"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_03_o-golpe-da-maioridade.md",
+      "destination": "Historia/_blueprints/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_03_o-golpe-da-maioridade.md",
+      "relative_path": "2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_capitulo_03_o-golpe-da-maioridade.md",
+      "action": "already_identical",
+      "sha256": "168b33a4896d04f142dec6349b50a205027300ed830d0ad2bab1883be67a9daf"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_unidade.md",
+      "destination": "Historia/_blueprints/2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_unidade.md",
+      "relative_path": "2serie/unidade-4-periodo-regencial-e-segundo-reinado/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "23987a8cae8449bbb6045a38367a1a570bca8347ddc28f03b09a043d34acb675"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-1-primeira-guerra-mundial-e-revolucao-russa/.gitkeep",
+      "destination": "Historia/_blueprints/3serie/unidade-1-primeira-guerra-mundial-e-revolucao-russa/.gitkeep",
+      "relative_path": "3serie/unidade-1-primeira-guerra-mundial-e-revolucao-russa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-2-periodo-entre-guerras-crise-e-totalitarismos/.gitkeep",
+      "destination": "Historia/_blueprints/3serie/unidade-2-periodo-entre-guerras-crise-e-totalitarismos/.gitkeep",
+      "relative_path": "3serie/unidade-2-periodo-entre-guerras-crise-e-totalitarismos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-3-segunda-guerra-mundial-1939-1945/.gitkeep",
+      "destination": "Historia/_blueprints/3serie/unidade-3-segunda-guerra-mundial-1939-1945/.gitkeep",
+      "relative_path": "3serie/unidade-3-segunda-guerra-mundial-1939-1945/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/.gitkeep",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/.gitkeep",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_01_guerra-fria-conceito-e-bipolarizacao.md",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_01_guerra-fria-conceito-e-bipolarizacao.md",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_01_guerra-fria-conceito-e-bipolarizacao.md",
+      "action": "already_identical",
+      "sha256": "4416d0f2349eaae1f54014daf6fd333c917836888c2868918ad3687546bea26c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_02_principais-conflitos-da-guerra-fria.md",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_02_principais-conflitos-da-guerra-fria.md",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_02_principais-conflitos-da-guerra-fria.md",
+      "action": "already_identical",
+      "sha256": "960a9ec9c612ff2c623400ea3333a24cbef90e97eae16fbe36ba616a230f8e26"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_03_descolonizacao-da-asia.md",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_03_descolonizacao-da-asia.md",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_03_descolonizacao-da-asia.md",
+      "action": "already_identical",
+      "sha256": "7fa9f96f7577f950bf2970908cf665d59ef8ebf87b3b9fd1962d09738ec67813"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_04_descolonizacao-da-africa.md",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_04_descolonizacao-da-africa.md",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_capitulo_04_descolonizacao-da-africa.md",
+      "action": "already_identical",
+      "sha256": "7fb8c6bf460e7387e4191ec11f5baaa7fe50914d5b581aa95a4f5d1050af7da0"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_unidade.md",
+      "destination": "Historia/_blueprints/3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_unidade.md",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "63e3fc9f83f40d1aa94b39aff0ee2884af7cb891db6bb943b816234a099cf90b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-5-brasil-democratico-populismo-1945-1964/.gitkeep",
+      "destination": "Historia/_blueprints/3serie/unidade-5-brasil-democratico-populismo-1945-1964/.gitkeep",
+      "relative_path": "3serie/unidade-5-brasil-democratico-populismo-1945-1964/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-6-ditadura-militar-1964-1985/.gitkeep",
+      "destination": "Historia/_blueprints/3serie/unidade-6-ditadura-militar-1964-1985/.gitkeep",
+      "relative_path": "3serie/unidade-6-ditadura-militar-1964-1985/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-7-nova-republica-e-constituicao-de-1988/.gitkeep",
+      "destination": "Historia/_blueprints/3serie/unidade-7-nova-republica-e-constituicao-de-1988/.gitkeep",
+      "relative_path": "3serie/unidade-7-nova-republica-e-constituicao-de-1988/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Historia/3serie/unidade-8-mundo-contemporaneo-1991-presente/.gitkeep",
+      "destination": "Historia/_blueprints/3serie/unidade-8-mundo-contemporaneo-1991-presente/.gitkeep",
+      "relative_path": "3serie/unidade-8-mundo-contemporaneo-1991-presente/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Historia/1serie/.gitkeep",
+      "destination": "Historia/1serie/.gitkeep",
+      "relative_path": "1serie/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Historia/2serie/.gitkeep",
+      "destination": "Historia/2serie/.gitkeep",
+      "relative_path": "2serie/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Historia/3serie/unidade-1-primeira-guerra-mundial-e-revolucao-russa/.gitkeep",
+      "destination": "Historia/3serie/unidade-1-primeira-guerra-mundial-e-revolucao-russa/.gitkeep",
+      "relative_path": "3serie/unidade-1-primeira-guerra-mundial-e-revolucao-russa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Historia/3serie/unidade-2-periodo-entre-guerras-crise-e-totalitarismos/.gitkeep",
+      "destination": "Historia/3serie/unidade-2-periodo-entre-guerras-crise-e-totalitarismos/.gitkeep",
+      "relative_path": "3serie/unidade-2-periodo-entre-guerras-crise-e-totalitarismos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Historia/3serie/unidade-3-segunda-guerra-mundial-1939-1945/.gitkeep",
+      "destination": "Historia/3serie/unidade-3-segunda-guerra-mundial-1939-1945/.gitkeep",
+      "relative_path": "3serie/unidade-3-segunda-guerra-mundial-1939-1945/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/.gitkeep",
+      "destination": "Historia/3serie/unidade-4-guerra-fria-e-descolonizacoes/.gitkeep",
+      "relative_path": "3serie/unidade-4-guerra-fria-e-descolonizacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Historia/3serie/unidade-5-brasil-democratico-populismo-1945-1964/.gitkeep",
+      "destination": "Historia/3serie/unidade-5-brasil-democratico-populismo-1945-1964/.gitkeep",
+      "relative_path": "3serie/unidade-5-brasil-democratico-populismo-1945-1964/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Historia/3serie/unidade-6-ditadura-militar-1964-1985/.gitkeep",
+      "destination": "Historia/3serie/unidade-6-ditadura-militar-1964-1985/.gitkeep",
+      "relative_path": "3serie/unidade-6-ditadura-militar-1964-1985/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Historia/3serie/unidade-7-nova-republica-e-constituicao-de-1988/.gitkeep",
+      "destination": "Historia/3serie/unidade-7-nova-republica-e-constituicao-de-1988/.gitkeep",
+      "relative_path": "3serie/unidade-7-nova-republica-e-constituicao-de-1988/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Historia/3serie/unidade-8-mundo-contemporaneo-1991-presente/.gitkeep",
+      "destination": "Historia/3serie/unidade-8-mundo-contemporaneo-1991-presente/.gitkeep",
+      "relative_path": "3serie/unidade-8-mundo-contemporaneo-1991-presente/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/História/1série/Unidade 3 - Formação da Civilização Grega/Unidade 3: Formação da Civilização Grega.gdoc",
+      "destination": "Historia/1série/Unidade 3 - Formação da Civilização Grega/Unidade 3: Formação da Civilização Grega.gdoc",
+      "relative_path": "1série/Unidade 3 - Formação da Civilização Grega/Unidade 3: Formação da Civilização Grega.gdoc",
+      "action": "copied",
+      "sha256": "0fb7090cdf674e92ce0a74d94fff159109a3ba7dabcf2141f74706acee88e4aa"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/História/2série/Unidade 3 - Independência e Primeiro Reinado/Unidade 3 — Independência e Primeiro Reinado.gdoc",
+      "destination": "Historia/2série/Unidade 3 - Independência e Primeiro Reinado/Unidade 3 — Independência e Primeiro Reinado.gdoc",
+      "relative_path": "2série/Unidade 3 - Independência e Primeiro Reinado/Unidade 3 — Independência e Primeiro Reinado.gdoc",
+      "action": "copied",
+      "sha256": "756308aca832387f96839f5f63e181b062ce246d39ac01c71bff955b8b8525e7"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Historia/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": []
+}

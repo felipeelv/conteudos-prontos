@@ -1,4 +1,4 @@
-# Capítulo 1 — Preposições
+# CAPÍTULO 1 — PREPOSIÇÕES
 
 ---
 
@@ -6,153 +6,162 @@
 
 ## ***Em "livro de João" e "vou para a escola", o que a preposição faz?***
 
-Pedro leu dois bilhetes na mochila: "caderno de Ana" e "caderno para Ana". As palavras quase não mudaram, mas a relação entre elas ficou diferente.
+Pedro recebeu dois bilhetes parecidos: "caderno de Ana" e "caderno para Ana". As palavras mudaram pouco, mas a relação entre elas mudou tudo — em uma frase, o caderno pertence a Ana; na outra, o caderno será entregue a ela.
 
 ## 1. Uma Palavra que Liga
 
-A preposição é uma palavra invariável que liga um termo a outro dentro da frase.
+A preposição é uma palavra pequena que faz a ponte entre dois termos da frase.
 
 ### 1.1 Termo + preposição + termo
 
-A **preposição** liga duas palavras e cria uma relação de sentido entre elas. Ela aparece no meio de uma estrutura simples: termo + preposição + termo.
+A **preposição** é uma palavra **invariável** que liga um termo a outro dentro da frase. A estrutura é simples: termo + preposição + termo.
 
 Observe as frases:
 
-- *O caderno **de** Ana ficou em cima da mesa.*  
-  (preposição **de** — liga "caderno" a "Ana" e mostra posse)
-- *Maria viajou **com** os primos no fim de semana.*  
-  (preposição **com** — liga "viajou" a "primos" e mostra companhia)
+- *O caderno **de** Ana ficou na mesa.*  
+  (preposição "de" — liga "caderno" e "Ana")
+- *A turma saiu **para** a escola juntos.*  
+  (preposição "para" — liga "saiu" e "a escola")
 
 ### 1.2 Ligação e sentido
 
-A preposição não muda de forma e cumpre sempre a mesma função: ligar termos. A escolha da preposição decide qual relação aparece entre as palavras.
+Cada preposição cria uma **relação de sentido** entre os termos que ela liga. Trocar a preposição muda a relação.
 
 Compare os usos:
 
-- *Eu falei **com** a professora depois da aula.*  
-  (preposição **com** — companhia: a conversa foi entre as duas)
-- *Eu falei **sobre** a professora depois da aula.*  
-  (preposição **sobre** — assunto: a conversa foi a respeito dela)
+- *Cheguei **a** São Paulo.*  
+  (preposição "a" — direção do movimento)
+- *Cheguei **de** São Paulo.*  
+  (preposição "de" — origem do movimento)
 
 > ✅ **Preposição:**  
-> É a palavra invariável que liga dois termos e cria entre eles uma relação de sentido.
+> Palavra invariável que liga termos e mostra a relação entre eles.
 
 ## 2. Preposições Mais Frequentes
 
-As preposições mais usadas em português são poucas e aparecem em quase toda frase escrita ou falada.
+Algumas preposições aparecem o tempo todo na escrita e na fala.
 
 ### 2.1 De, em e para
 
-As preposições **de**, **em** e **para** estão entre as mais comuns da língua. Elas aparecem em frases simples, em bilhetes, em legendas e em livros.
+As preposições **de**, **em** e **para** estão entre as mais usadas. Cada uma carrega valores diferentes.
 
-Observe as frases:
+Observe:
 
-- *O livro **de** João está sobre a estante da sala.*  
-  (preposição **de** — liga "livro" a "João" e mostra posse)
-- *A turma chegou **em** silêncio na biblioteca.*  
-  (preposição **em** — liga "chegou" a "silêncio" e indica modo)
+- *Recebi um presente **de** minha avó.*  
+  (preposição "de" — origem)
+- *Os livros estão **em** cima da mesa.*  
+  (preposição "em" — lugar)
+
+| Preposição | Pergunta | Valor | Exemplo |
+|---|---|---|---|
+| de | de quem? de onde? | posse / origem | caderno **de** Ana |
+| em | onde? quando? | lugar / tempo | brinquei **em** casa |
+| para | para onde? para quê? | direção / finalidade | vou **para** o parque |
 
 ### 2.2 Com, por, sobre e entre
 
-Outras preposições muito frequentes são **com**, **por**, **sobre** e **entre**. Cada uma traz uma relação diferente entre os termos ligados.
+As preposições **com**, **por**, **sobre** e **entre** completam o grupo das mais frequentes.
 
 Compare os usos:
 
-- *Eu fui à escola **por** uma rua mais curta.*  
-  (preposição **por** — caminho: indica por onde se passou)
-- *O passarinho fez ninho **entre** os galhos da árvore.*  
-  (preposição **entre** — posição: indica algo no meio)
+- *Saí **com** meus pais no domingo.*  
+  (preposição "com" — companhia)
+- *Falei **sobre** o livro que li.*  
+  (preposição "sobre" — assunto)
 
-| Preposição | Pergunta que ela responde | Exemplo curto |
-|---|---|---|
-| **de** | de quem? de onde? | livro **de** Ana |
-| **em** | onde? quando? | brincamos **em** casa |
-| **para** | para onde? para quê? | saímos **para** o parque |
-| **com** | com quem? com o quê? | corri **com** o cachorro |
-| **por** | por onde? por quê? | passamos **por** aqui |
-| **sobre** | sobre o quê? | falamos **sobre** o filme |
-| **entre** | entre o que e o quê? | sentou **entre** os primos |
+| Preposição | Pergunta | Valor | Exemplo |
+|---|---|---|---|
+| com | com quem? com o quê? | companhia / instrumento | saí **com** meus pais |
+| por | por quê? por onde? | causa / caminho | passou **por** aqui |
+| sobre | sobre o quê? | assunto / posição superior | falei **sobre** o livro |
+| entre | entre o quê? | posição intermediária | sentou **entre** os amigos |
+
+> 💡 **Dica:**  
+> Para descobrir o valor da preposição, faça a pergunta correspondente ao termo seguinte.
 
 ## 3. O Sentido Muda
 
-Trocar uma preposição muda a relação entre os termos e, com isso, muda o sentido inteiro da frase.
+Uma preposição diferente pode mudar completamente o sentido da frase.
 
 ### 3.1 Posse, origem, direção e lugar
 
-A preposição **de** indica posse ou origem; **para** indica direção ou finalidade; **em** indica lugar ou tempo.
+Trocar a preposição entre termos parecidos muda a relação que a frase descreve.
 
-Observe as frases:
+Veja a comparação:
 
-- *A mochila **de** Lucas ficou no banco do ônibus.*  
-  (preposição **de** — posse: a mochila pertence a Lucas)
-- *Eu vou **para** São Paulo no domingo de manhã.*  
-  (preposição **para** — direção: indica o lugar de chegada)
+- *Caderno **de** Ana.*  
+  (relação de posse — o caderno pertence a Ana)
+- *Caderno **para** Ana.*  
+  (relação de direção — o caderno será entregue a Ana)
 
 ### 3.2 Companhia, causa, assunto e posição
 
-A preposição **com** marca companhia ou instrumento; **por** marca causa ou caminho; **sobre** marca assunto ou posição superior; **entre** marca posição intermediária.
+Outras preposições também criam pares contrastivos importantes.
 
-Compare os usos:
+Compare:
 
-- *A criança chorou **por** muito tempo no consultório.*  
-  (preposição **por** — duração/causa: indica o tempo do choro)
-- *O livro fala **sobre** os pássaros do cerrado brasileiro.*  
-  (preposição **sobre** — assunto: indica o tema do livro)
+- *Falei **com** Ana sobre a prova.*  
+  (companhia — Ana participou da conversa)
+- *Falei **sobre** Ana com a professora.*  
+  (assunto — Ana foi o tópico da conversa)
 
-> 💡 **Dica:**  
-> Para descobrir a relação que a preposição cria, pergunte: de quem? para onde? com quem? por quê? sobre o quê?
+> 📌 **Aplicação prática:**  
+> Antes de escrever, pergunte qual relação você quer mostrar e escolha a preposição que cria essa relação.
 
 ## 4. Norma, Uso e Clareza
 
-Na fala, é comum trocar formas de preposição; na escrita formal, vale a pena escolher a preposição que mostra a relação certa.
+Na fala e na escrita, as preposições aparecem em formas e registros diferentes.
 
 ### 4.1 "Para" e "pra" em registros diferentes
 
-Na conversa do dia a dia, muita gente diz "pra" no lugar de "para". É uma forma natural na fala, mas a escrita formal costuma usar **para**.
+Na fala cotidiana, formas como **pra**, **pro** e **num** aparecem com naturalidade. Na escrita formal, usamos as formas completas: **para**, **para o**, **em um**.
 
-Observe a diferença:
+Observe:
 
-- *Vou **pra** casa agora, mãe!*  
-  (registro informal — fala espontânea ou bilhete entre amigos)
-- *Vou **para** casa logo após o treino de futebol.*  
-  (registro formal — escrita escolar ou recado oficial)
+- *Vou **pra** casa agora.*  
+  (registro informal — comum na fala)
+- *Vou **para** casa agora.*  
+  (registro formal — esperado na escrita escolar)
 
 ### 4.2 Escolher a preposição certa
 
-Cada preposição cria uma relação. Quando o texto escolhe a preposição que combina com o que se quer dizer, o leitor entende sem dúvida a ligação entre as palavras.
+Na hora de escrever, a preposição certa ajuda o leitor a entender exatamente o que você quer dizer.
 
-Compare os usos:
+Compare:
 
-- *A carta era **de** Ana, não **para** Ana.*  
-  (preposição **de** — origem: Ana foi quem escreveu a carta)
-- *A carta era **para** Ana, não **de** Ana.*  
-  (preposição **para** — direção: Ana é quem ia receber a carta)
+- *O bilhete **de** Marcos chegou.*  
+  (Marcos é o autor do bilhete)
+- *O bilhete **para** Marcos chegou.*  
+  (Marcos é o destinatário do bilhete)
+
+> ⚠️ **Atenção:**  
+> A mesma frase pode mudar de sentido só pela troca da preposição.
 
 ---
 
 ## A LÍNGUA NO DIA A DIA
 
-Quando você escreve "presente para a vovó" em vez de "presente da vovó", o leitor entende que o presente vai ser entregue a ela, e não que pertence a ela. Eduardo Carlos Pereira (1855-1923), gramático e pastor presbiteriano brasileiro, publicou em 1907 a *Gramática Expositiva da Língua Portuguesa* e tratou as preposições como palavras que estabelecem relações entre os termos.
+Cada vez que você liga duas palavras com "de", "para", "com" ou "em", está usando uma preposição para mostrar a relação entre elas. Eduardo Carlos Pereira (1855–1923), gramático brasileiro e pastor presbiteriano, publicou em 1907 a *Gramática Expositiva da Língua Portuguesa*, que tratava a preposição como classe relacional e marcou o ensino brasileiro.
 
 ---
 
 ## E A BÍBLIA NISSO?
 
-> *"Quem anda em integridade anda seguro."*  
+> *"Quem anda em integridade anda seguro, mas o que perverte os seus caminhos será conhecido."*  
 > — **Provérbios 10:9**
 
-A preposição mantém sua forma e cumpre sua função: "de" continua "de" e "com" continua "com" em qualquer frase. No texto escrito com cuidado, cada palavra pequena ajuda a contar a verdade sobre o que liga as ideias.
+A preposição não muda de forma e cumpre sua função sem se disfarçar; escolher a preposição certa é também um cuidado com a verdade da relação que se quer mostrar.
 
-> 💬 **Para Conversar:** O que muda entre dizer "presente de Ana" e "presente para Ana"?
+> 💬 **Para Conversar:** Em quais momentos da sua vida uma palavra pequena pode mudar o sentido do que você quer dizer?
 
 ---
 
 ## Simplificando
 
-Preposição é a palavra invariável que liga dois termos e cria entre eles uma relação de sentido como posse, direção, companhia, lugar, causa ou assunto. Trocar a preposição troca a relação, e o sentido inteiro da frase muda junto.
+A preposição é uma palavra invariável que liga termos e cria entre eles uma relação de sentido como posse, origem, direção, lugar, companhia, causa, assunto ou posição.
 
 ## Para não esquecer
 
-- **Preposição** — palavra invariável que liga dois termos
+- **Preposição** — palavra invariável que liga termos
 - **Principais** — de, em, para, com, por, sobre, entre
-- **Sentido muda** — a preposição certa mostra a relação certa entre as palavras
+- **Trocar a preposição** — muda a relação entre os termos

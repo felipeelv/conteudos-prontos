@@ -1,0 +1,76 @@
+name: Gerar conteudo a partir de blueprint
+
+on:
+  repository_dispatch:
+    types: [blueprint_publicado]
+  workflow_dispatch:
+    inputs:
+      disciplina:
+        description: Disciplina do blueprint
+        required: true
+      ano:
+        description: Ano ou serie
+        required: true
+      unidade:
+        description: Unidade
+        required: true
+      blueprint_path:
+        description: Caminho no material-blueprints
+        required: true
+      blueprint_sha:
+        description: SHA do commit do material-blueprints
+        required: true
+      executor:
+        description: Executor LLM
+        required: false
+        default: claude
+      force:
+        description: Reprocessar mesmo se ja houver saida
+        required: false
+        default: "0"
+
+jobs:
+  gerar-conteudo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    env:
+      DISCIPLINA: ${{ github.event.client_payload.disciplina || inputs.disciplina }}
+      ANO: ${{ github.event.client_payload.ano || inputs.ano }}
+      UNIDADE: ${{ github.event.client_payload.unidade || inputs.unidade }}
+      BLUEPRINT_PATH: ${{ github.event.client_payload.blueprint_path || inputs.blueprint_path }}
+      BLUEPRINT_SHA: ${{ github.event.client_payload.blueprint_sha || inputs.blueprint_sha }}
+      SOURCE_REPO: ${{ github.event.client_payload.source_repo || 'felipeelv/material-blueprints' }}
+      TARGET_REPO: ${{ github.event.client_payload.target_repo || 'felipeelv/conteudos-prontos' }}
+      EXECUTOR: ${{ inputs.executor || 'claude' }}
+      FORCE: ${{ inputs.force || '0' }}
+
+    steps:
+      - name: Checkout autores-material
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_AUTOMATION_TOKEN || github.token }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Configure private submodule authentication
+        env:
+          GH_TOKEN: ${{ secrets.GH_AUTOMATION_TOKEN || github.token }}
+        run: |
+          git config --global url."https://x-access-token:${GH_TOKEN}@github.com/".insteadOf "https://github.com/"
+
+      - name: Install Claude Code
+        if: env.EXECUTOR == 'claude'
+        run: |
+          npm install -g @anthropic-ai/claude-code
+
+      - name: Run author and publish content
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          chmod +x scripts/run_autor_from_blueprint.sh
+          scripts/run_autor_from_blueprint.sh

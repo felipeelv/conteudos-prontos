@@ -1,0 +1,2116 @@
+{
+  "discipline": "Ciencias",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_ciencias"
+    ],
+    "blueprints": [
+      "Blueprints/ciencias",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias"
+    ],
+    "contents": [
+      "Conteudos Prontos/Ciencias",
+      "Unidade 3-/Ciencias"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_ciencias": {
+      "copied": 6,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 3
+    },
+    "blueprints::Blueprints::ciencias": {
+      "copied": 27,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 3
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Ciencias": {
+      "copied": 72,
+      "already_identical": 27,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Ciencias": {
+      "copied": 79,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 5
+    },
+    "conteudos::Unidade 3-::Ciencias": {
+      "copied": 6,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_ciencias/_shared/lib_common.sh",
+      "destination": "Ciencias/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_ciencias/AUTOR.md",
+      "destination": "Ciencias/_autor/AUTOR.md",
+      "relative_path": "AUTOR.md",
+      "action": "copied",
+      "sha256": "ddde876e3ae0643d42b9be71933d52b6cce3680d7872fc95c960b26d7eb5c34d"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_ciencias/CLAUDE.md",
+      "destination": "Ciencias/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "6e19c56266faec50ef1f2570939cf17079e283afe93ce569acff62c1fbf87d0f"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_ciencias/logs/20260429_073451_ciencias-8ano-unidade-4-ligacoes-quimicas.log",
+      "destination": null,
+      "relative_path": "logs/20260429_073451_ciencias-8ano-unidade-4-ligacoes-quimicas.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_ciencias/logs/20260430_160042_ciencias-8ano-unidade-5-reproducao-e-desenvolvimento.log",
+      "destination": null,
+      "relative_path": "logs/20260430_160042_ciencias-8ano-unidade-5-reproducao-e-desenvolvimento.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_ciencias/logs/20260430_192503_ciencias-6ano-unidade-4-transformacoes-da-materia.log",
+      "destination": null,
+      "relative_path": "logs/20260430_192503_ciencias-6ano-unidade-4-transformacoes-da-materia.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_ciencias/memoria-autor.md",
+      "destination": "Ciencias/_autor/memoria-autor.md",
+      "relative_path": "memoria-autor.md",
+      "action": "copied",
+      "sha256": "42480db36c1146aaae099ae0ca6ebca9895599db1aa228091de3212144d28420"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_ciencias/prompt-autor.md",
+      "destination": "Ciencias/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "ea8b331c34b58daf84c7c830ab35687df4c27d30a7661bd776aa5dacf7527439"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_ciencias/scripts/criar_capitulos.sh",
+      "destination": "Ciencias/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "2c6ee42a5eb08a184ce04c233ef370832c1a295053d9c67bf89b8c1045f949fd"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/.DS_Store",
+      "destination": null,
+      "relative_path": ".DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/1ano/unidade-4-respeito-e-diversidade/.gitkeep",
+      "destination": "Ciencias/_blueprints/1ano/unidade-4-respeito-e-diversidade/.gitkeep",
+      "relative_path": "1ano/unidade-4-respeito-e-diversidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/2ano/unidade-4-crescimento-das-plantas/.gitkeep",
+      "destination": "Ciencias/_blueprints/2ano/unidade-4-crescimento-das-plantas/.gitkeep",
+      "relative_path": "2ano/unidade-4-crescimento-das-plantas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/3ano/unidade-4-classificacao-dos-seres-vivos/.gitkeep",
+      "destination": "Ciencias/_blueprints/3ano/unidade-4-classificacao-dos-seres-vivos/.gitkeep",
+      "relative_path": "3ano/unidade-4-classificacao-dos-seres-vivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/4ano/.DS_Store",
+      "destination": null,
+      "relative_path": "4ano/.DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/4ano/unidade-4-microrganismos/.gitkeep",
+      "destination": "Ciencias/_blueprints/4ano/unidade-4-microrganismos/.gitkeep",
+      "relative_path": "4ano/unidade-4-microrganismos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/4ano/unidade-4-microrganismos/blueprint_capitulo_01_fungos-e-bacterias.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-4-microrganismos/blueprint_capitulo_01_fungos-e-bacterias.md",
+      "relative_path": "4ano/unidade-4-microrganismos/blueprint_capitulo_01_fungos-e-bacterias.md",
+      "action": "copied",
+      "sha256": "c541dc7064a25ae791c9a8a990fa9fa5f1c476c015d43bb88f0d9decb65bb4c2"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/4ano/unidade-4-microrganismos/blueprint_capitulo_02_microrganismos-uteis.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-4-microrganismos/blueprint_capitulo_02_microrganismos-uteis.md",
+      "relative_path": "4ano/unidade-4-microrganismos/blueprint_capitulo_02_microrganismos-uteis.md",
+      "action": "copied",
+      "sha256": "ec96518f62e002ca8b3aa7eb688112c4d79e0d79453bbb21be0facf33b640c18"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/4ano/unidade-4-microrganismos/blueprint_capitulo_03_prevencao-de-doencas.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-4-microrganismos/blueprint_capitulo_03_prevencao-de-doencas.md",
+      "relative_path": "4ano/unidade-4-microrganismos/blueprint_capitulo_03_prevencao-de-doencas.md",
+      "action": "copied",
+      "sha256": "115390610413726be5f759ff103eb385ccf6075069fde88cc006ddd952904b9c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/4ano/unidade-4-microrganismos/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-4-microrganismos/blueprint_unidade.md",
+      "relative_path": "4ano/unidade-4-microrganismos/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "954fd12ccb9c50a479a0bf5a645e7cca5998025ce6b2a8e00d564ae95c4d3a6f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/5ano/.DS_Store",
+      "destination": null,
+      "relative_path": "5ano/.DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/5ano/unidade-4-corpo-humano/.gitkeep",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/.gitkeep",
+      "relative_path": "5ano/unidade-4-corpo-humano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/5ano/unidade-4-corpo-humano/blueprint_capitulo_01_nutricao-do-organismo.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/blueprint_capitulo_01_nutricao-do-organismo.md",
+      "relative_path": "5ano/unidade-4-corpo-humano/blueprint_capitulo_01_nutricao-do-organismo.md",
+      "action": "copied",
+      "sha256": "25f24e192c578d7c217485b20bbd6214ca0128de2a9fdceb5d36ae7708c1848e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/5ano/unidade-4-corpo-humano/blueprint_capitulo_02_circulacao-e-distribuicao.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/blueprint_capitulo_02_circulacao-e-distribuicao.md",
+      "relative_path": "5ano/unidade-4-corpo-humano/blueprint_capitulo_02_circulacao-e-distribuicao.md",
+      "action": "copied",
+      "sha256": "02937caab4fb5a95ca33a72a214ce06bae72336fffc0eb936c1f09e420ddbc11"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/5ano/unidade-4-corpo-humano/blueprint_capitulo_03_sistema-imunologico.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/blueprint_capitulo_03_sistema-imunologico.md",
+      "relative_path": "5ano/unidade-4-corpo-humano/blueprint_capitulo_03_sistema-imunologico.md",
+      "action": "copied",
+      "sha256": "f762782483765294a466c3fe39470b489f847f0461c18e76894c864c54d9f151"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/5ano/unidade-4-corpo-humano/blueprint_capitulo_04_reproducao-humana.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/blueprint_capitulo_04_reproducao-humana.md",
+      "relative_path": "5ano/unidade-4-corpo-humano/blueprint_capitulo_04_reproducao-humana.md",
+      "action": "copied",
+      "sha256": "0b654b8c4aa423c6bce0d496818b0bcf2dd824ac8637d35f9711adb74f54e5ea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/5ano/unidade-4-corpo-humano/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/blueprint_unidade.md",
+      "relative_path": "5ano/unidade-4-corpo-humano/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "361999b2e1da27b2a6bc2db0203b494293f0edd0e96fa06cd3449d48a84598ca"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_01_transformacoes-fisicas-e-quimicas.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_01_transformacoes-fisicas-e-quimicas.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_01_transformacoes-fisicas-e-quimicas.md",
+      "action": "copied",
+      "sha256": "5aaaf62c9b9dc8b436d38a0b0342610add753373fa4839be57757e6536314cdc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_02_materiais-sinteticos.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_02_materiais-sinteticos.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_02_materiais-sinteticos.md",
+      "action": "copied",
+      "sha256": "5e1661e6903e7077a5a27b816466d451933879c2d7f20ea7e42e596a385ad371"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_03_impactos-ambientais-e-sustentabilidade.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_03_impactos-ambientais-e-sustentabilidade.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_03_impactos-ambientais-e-sustentabilidade.md",
+      "action": "copied",
+      "sha256": "00a3fe20560abed883110a0ec38cf35f268815333f96611b52427e4525e07b20"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/6ano/unidade-4-transformacoes-da-materia/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-4-transformacoes-da-materia/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "22aae1cf2f820c5dbed9485a0cf9cd25b03869c80d23e83ff27429453e197cf8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_01_biomas-do-brasil.md",
+      "destination": "Ciencias/_blueprints/7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_01_biomas-do-brasil.md",
+      "relative_path": "7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_01_biomas-do-brasil.md",
+      "action": "copied",
+      "sha256": "0460e1c609fe8308e07a3b1f9f03e6474fe5823716aa0d4d1a7ff61380bb5158"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_02_adaptacoes-e-biodiversidade.md",
+      "destination": "Ciencias/_blueprints/7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_02_adaptacoes-e-biodiversidade.md",
+      "relative_path": "7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_02_adaptacoes-e-biodiversidade.md",
+      "action": "copied",
+      "sha256": "739af6f80a09577cd994b8200f36f054422ce65468442fb05f2bf0a0bfee4062"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/7ano/unidade-4-ecossistemas-brasileiros/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/7ano/unidade-4-ecossistemas-brasileiros/blueprint_unidade.md",
+      "relative_path": "7ano/unidade-4-ecossistemas-brasileiros/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "7228cf5a1bc127ad38ce8f782622e098400823af56cc10907b10b5f46b67795d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/8ano/unidade-4-ligacoes-quimicas/.gitkeep",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/.gitkeep",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_01_por-que-atomos-se-ligam.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_01_por-que-atomos-se-ligam.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_01_por-que-atomos-se-ligam.md",
+      "action": "copied",
+      "sha256": "14a90daf6c6bbc92d89ad012bcb7bae406f09c73fbb0f222a0dfb53d86fa28f7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_02_ligacao-ionica.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_02_ligacao-ionica.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_02_ligacao-ionica.md",
+      "action": "copied",
+      "sha256": "817162a7899eeceb7090223b3fa4a78b4cf21b6b03f5d90079ea82b77c664655"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_03_ligacao-covalente.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_03_ligacao-covalente.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_03_ligacao-covalente.md",
+      "action": "copied",
+      "sha256": "3f8f0e44590d81bf44d6b24ad072d519c12bf81e8e130b824fc79c2527afa7b5"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_04_ligacao-metalica.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_04_ligacao-metalica.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_04_ligacao-metalica.md",
+      "action": "copied",
+      "sha256": "e38fe5998e3636eb31849ee7932beb3f0c47da7c76cbe7eecd437c5493ded619"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/ciencias/8ano/unidade-4-ligacoes-quimicas/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "eb52f5eea9843c07c708207251d83b87a1614ce3b7a4dc086085d91e4c211f65"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/1ano/unidade-1-materiais-ao-nosso-redor/.gitkeep",
+      "destination": "Ciencias/_blueprints/1ano/unidade-1-materiais-ao-nosso-redor/.gitkeep",
+      "relative_path": "1ano/unidade-1-materiais-ao-nosso-redor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/1ano/unidade-2-seres-vivos-ao-nosso-redor/.gitkeep",
+      "destination": "Ciencias/_blueprints/1ano/unidade-2-seres-vivos-ao-nosso-redor/.gitkeep",
+      "relative_path": "1ano/unidade-2-seres-vivos-ao-nosso-redor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/1ano/unidade-3-nosso-corpo/.gitkeep",
+      "destination": "Ciencias/_blueprints/1ano/unidade-3-nosso-corpo/.gitkeep",
+      "relative_path": "1ano/unidade-3-nosso-corpo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/1ano/unidade-4-respeito-e-diversidade/.gitkeep",
+      "destination": "Ciencias/_blueprints/1ano/unidade-4-respeito-e-diversidade/.gitkeep",
+      "relative_path": "1ano/unidade-4-respeito-e-diversidade/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/1ano/unidade-5-observando-a-natureza/.gitkeep",
+      "destination": "Ciencias/_blueprints/1ano/unidade-5-observando-a-natureza/.gitkeep",
+      "relative_path": "1ano/unidade-5-observando-a-natureza/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/1ano/unidade-6-aprendendo-a-observar/.gitkeep",
+      "destination": "Ciencias/_blueprints/1ano/unidade-6-aprendendo-a-observar/.gitkeep",
+      "relative_path": "1ano/unidade-6-aprendendo-a-observar/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/1ano/unidade-7-o-ceu-e-o-tempo/.gitkeep",
+      "destination": "Ciencias/_blueprints/1ano/unidade-7-o-ceu-e-o-tempo/.gitkeep",
+      "relative_path": "1ano/unidade-7-o-ceu-e-o-tempo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/1ano/unidade-8-nossa-terra/.gitkeep",
+      "destination": "Ciencias/_blueprints/1ano/unidade-8-nossa-terra/.gitkeep",
+      "relative_path": "1ano/unidade-8-nossa-terra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/2ano/unidade-1-materiais-e-suas-propriedades/.gitkeep",
+      "destination": "Ciencias/_blueprints/2ano/unidade-1-materiais-e-suas-propriedades/.gitkeep",
+      "relative_path": "2ano/unidade-1-materiais-e-suas-propriedades/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/2ano/unidade-2-seguranca-em-casa/.gitkeep",
+      "destination": "Ciencias/_blueprints/2ano/unidade-2-seguranca-em-casa/.gitkeep",
+      "relative_path": "2ano/unidade-2-seguranca-em-casa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/2ano/unidade-3-animais-e-plantas/.gitkeep",
+      "destination": "Ciencias/_blueprints/2ano/unidade-3-animais-e-plantas/.gitkeep",
+      "relative_path": "2ano/unidade-3-animais-e-plantas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/2ano/unidade-4-crescimento-das-plantas/.gitkeep",
+      "destination": "Ciencias/_blueprints/2ano/unidade-4-crescimento-das-plantas/.gitkeep",
+      "relative_path": "2ano/unidade-4-crescimento-das-plantas/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/2ano/unidade-5-agua-fonte-de-vida/.gitkeep",
+      "destination": "Ciencias/_blueprints/2ano/unidade-5-agua-fonte-de-vida/.gitkeep",
+      "relative_path": "2ano/unidade-5-agua-fonte-de-vida/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/2ano/unidade-6-o-sol-e-a-terra/.gitkeep",
+      "destination": "Ciencias/_blueprints/2ano/unidade-6-o-sol-e-a-terra/.gitkeep",
+      "relative_path": "2ano/unidade-6-o-sol-e-a-terra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/2ano/unidade-7-cuidando-do-ambiente/.gitkeep",
+      "destination": "Ciencias/_blueprints/2ano/unidade-7-cuidando-do-ambiente/.gitkeep",
+      "relative_path": "2ano/unidade-7-cuidando-do-ambiente/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/3ano/unidade-1-som-ao-nosso-redor/.gitkeep",
+      "destination": "Ciencias/_blueprints/3ano/unidade-1-som-ao-nosso-redor/.gitkeep",
+      "relative_path": "3ano/unidade-1-som-ao-nosso-redor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/3ano/unidade-2-luz-e-visao/.gitkeep",
+      "destination": "Ciencias/_blueprints/3ano/unidade-2-luz-e-visao/.gitkeep",
+      "relative_path": "3ano/unidade-2-luz-e-visao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/3ano/unidade-3-animais-e-seu-desenvolvimento/.gitkeep",
+      "destination": "Ciencias/_blueprints/3ano/unidade-3-animais-e-seu-desenvolvimento/.gitkeep",
+      "relative_path": "3ano/unidade-3-animais-e-seu-desenvolvimento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/3ano/unidade-4-classificacao-dos-seres-vivos/.gitkeep",
+      "destination": "Ciencias/_blueprints/3ano/unidade-4-classificacao-dos-seres-vivos/.gitkeep",
+      "relative_path": "3ano/unidade-4-classificacao-dos-seres-vivos/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/3ano/unidade-5-o-solo/.gitkeep",
+      "destination": "Ciencias/_blueprints/3ano/unidade-5-o-solo/.gitkeep",
+      "relative_path": "3ano/unidade-5-o-solo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/3ano/unidade-6-investigacao-cientifica-basica/.gitkeep",
+      "destination": "Ciencias/_blueprints/3ano/unidade-6-investigacao-cientifica-basica/.gitkeep",
+      "relative_path": "3ano/unidade-6-investigacao-cientifica-basica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/3ano/unidade-7-a-terra/.gitkeep",
+      "destination": "Ciencias/_blueprints/3ano/unidade-7-a-terra/.gitkeep",
+      "relative_path": "3ano/unidade-7-a-terra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/3ano/unidade-8-observando-o-ceu/.gitkeep",
+      "destination": "Ciencias/_blueprints/3ano/unidade-8-observando-o-ceu/.gitkeep",
+      "relative_path": "3ano/unidade-8-observando-o-ceu/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-1-misturas-e-transformacoes/.gitkeep",
+      "destination": "Ciencias/_blueprints/4ano/unidade-1-misturas-e-transformacoes/.gitkeep",
+      "relative_path": "4ano/unidade-1-misturas-e-transformacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-2-experimentos-cientificos/.gitkeep",
+      "destination": "Ciencias/_blueprints/4ano/unidade-2-experimentos-cientificos/.gitkeep",
+      "relative_path": "4ano/unidade-2-experimentos-cientificos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-3-cadeias-alimentares/.gitkeep",
+      "destination": "Ciencias/_blueprints/4ano/unidade-3-cadeias-alimentares/.gitkeep",
+      "relative_path": "4ano/unidade-3-cadeias-alimentares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-4-microrganismos/.gitkeep",
+      "destination": "Ciencias/_blueprints/4ano/unidade-4-microrganismos/.gitkeep",
+      "relative_path": "4ano/unidade-4-microrganismos/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-4-microrganismos/blueprint_capitulo_01_fungos-e-bacterias.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-4-microrganismos/blueprint_capitulo_01_fungos-e-bacterias.md",
+      "relative_path": "4ano/unidade-4-microrganismos/blueprint_capitulo_01_fungos-e-bacterias.md",
+      "action": "already_identical",
+      "sha256": "c541dc7064a25ae791c9a8a990fa9fa5f1c476c015d43bb88f0d9decb65bb4c2"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-4-microrganismos/blueprint_capitulo_02_microrganismos-uteis.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-4-microrganismos/blueprint_capitulo_02_microrganismos-uteis.md",
+      "relative_path": "4ano/unidade-4-microrganismos/blueprint_capitulo_02_microrganismos-uteis.md",
+      "action": "already_identical",
+      "sha256": "ec96518f62e002ca8b3aa7eb688112c4d79e0d79453bbb21be0facf33b640c18"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-4-microrganismos/blueprint_capitulo_03_prevencao-de-doencas.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-4-microrganismos/blueprint_capitulo_03_prevencao-de-doencas.md",
+      "relative_path": "4ano/unidade-4-microrganismos/blueprint_capitulo_03_prevencao-de-doencas.md",
+      "action": "already_identical",
+      "sha256": "115390610413726be5f759ff103eb385ccf6075069fde88cc006ddd952904b9c"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-4-microrganismos/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-4-microrganismos/blueprint_unidade.md",
+      "relative_path": "4ano/unidade-4-microrganismos/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "954fd12ccb9c50a479a0bf5a645e7cca5998025ce6b2a8e00d564ae95c4d3a6f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-5-ecossistemas/.gitkeep",
+      "destination": "Ciencias/_blueprints/4ano/unidade-5-ecossistemas/.gitkeep",
+      "relative_path": "4ano/unidade-5-ecossistemas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-5-ecossistemas/blueprint_capitulo_01_o-que-e-ecossistema.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-5-ecossistemas/blueprint_capitulo_01_o-que-e-ecossistema.md",
+      "relative_path": "4ano/unidade-5-ecossistemas/blueprint_capitulo_01_o-que-e-ecossistema.md",
+      "action": "copied",
+      "sha256": "6508972a9c7dee82d8be96f81e2602342e956524181b51e0f6f0ad8961e9038a"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-5-ecossistemas/blueprint_capitulo_02_solo-a-base-da-vida.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-5-ecossistemas/blueprint_capitulo_02_solo-a-base-da-vida.md",
+      "relative_path": "4ano/unidade-5-ecossistemas/blueprint_capitulo_02_solo-a-base-da-vida.md",
+      "action": "copied",
+      "sha256": "fb275772f7d439d0b9650eeb98500eb41e045228fae23fdfdbe99f2c12e27349"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-5-ecossistemas/blueprint_capitulo_03_ecossistemas-brasileiros.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-5-ecossistemas/blueprint_capitulo_03_ecossistemas-brasileiros.md",
+      "relative_path": "4ano/unidade-5-ecossistemas/blueprint_capitulo_03_ecossistemas-brasileiros.md",
+      "action": "copied",
+      "sha256": "6bf108bc8e8d0cc7a8c571be64b12e589fa13e2b6b39b134784139693ef128bb"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-5-ecossistemas/blueprint_capitulo_04_impactos-ambientais.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-5-ecossistemas/blueprint_capitulo_04_impactos-ambientais.md",
+      "relative_path": "4ano/unidade-5-ecossistemas/blueprint_capitulo_04_impactos-ambientais.md",
+      "action": "copied",
+      "sha256": "9fa7744c24b335504ff94b2db00af76349934abf975d56f816aa4781a3d01de9"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-5-ecossistemas/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/4ano/unidade-5-ecossistemas/blueprint_unidade.md",
+      "relative_path": "4ano/unidade-5-ecossistemas/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "0466925db0c2bf4b9c070cada5a96e36a1d9db00970546d38b9b74eb068d016b"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-6-tecnologia-e-ciencia/.gitkeep",
+      "destination": "Ciencias/_blueprints/4ano/unidade-6-tecnologia-e-ciencia/.gitkeep",
+      "relative_path": "4ano/unidade-6-tecnologia-e-ciencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-7-orientacao-no-espaco/.gitkeep",
+      "destination": "Ciencias/_blueprints/4ano/unidade-7-orientacao-no-espaco/.gitkeep",
+      "relative_path": "4ano/unidade-7-orientacao-no-espaco/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/4ano/unidade-8-o-ceu-e-os-astros/.gitkeep",
+      "destination": "Ciencias/_blueprints/4ano/unidade-8-o-ceu-e-os-astros/.gitkeep",
+      "relative_path": "4ano/unidade-8-o-ceu-e-os-astros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-1-propriedades-dos-materiais/.gitkeep",
+      "destination": "Ciencias/_blueprints/5ano/unidade-1-propriedades-dos-materiais/.gitkeep",
+      "relative_path": "5ano/unidade-1-propriedades-dos-materiais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-2-metodo-cientifico/.gitkeep",
+      "destination": "Ciencias/_blueprints/5ano/unidade-2-metodo-cientifico/.gitkeep",
+      "relative_path": "5ano/unidade-2-metodo-cientifico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-3-agua-no-planeta/.gitkeep",
+      "destination": "Ciencias/_blueprints/5ano/unidade-3-agua-no-planeta/.gitkeep",
+      "relative_path": "5ano/unidade-3-agua-no-planeta/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-4-corpo-humano/.gitkeep",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/.gitkeep",
+      "relative_path": "5ano/unidade-4-corpo-humano/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-4-corpo-humano/blueprint_capitulo_01_nutricao-do-organismo.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/blueprint_capitulo_01_nutricao-do-organismo.md",
+      "relative_path": "5ano/unidade-4-corpo-humano/blueprint_capitulo_01_nutricao-do-organismo.md",
+      "action": "already_identical",
+      "sha256": "25f24e192c578d7c217485b20bbd6214ca0128de2a9fdceb5d36ae7708c1848e"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-4-corpo-humano/blueprint_capitulo_02_circulacao-e-distribuicao.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/blueprint_capitulo_02_circulacao-e-distribuicao.md",
+      "relative_path": "5ano/unidade-4-corpo-humano/blueprint_capitulo_02_circulacao-e-distribuicao.md",
+      "action": "already_identical",
+      "sha256": "02937caab4fb5a95ca33a72a214ce06bae72336fffc0eb936c1f09e420ddbc11"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-4-corpo-humano/blueprint_capitulo_03_sistema-imunologico.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/blueprint_capitulo_03_sistema-imunologico.md",
+      "relative_path": "5ano/unidade-4-corpo-humano/blueprint_capitulo_03_sistema-imunologico.md",
+      "action": "already_identical",
+      "sha256": "f762782483765294a466c3fe39470b489f847f0461c18e76894c864c54d9f151"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-4-corpo-humano/blueprint_capitulo_04_reproducao-humana.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/blueprint_capitulo_04_reproducao-humana.md",
+      "relative_path": "5ano/unidade-4-corpo-humano/blueprint_capitulo_04_reproducao-humana.md",
+      "action": "already_identical",
+      "sha256": "0b654b8c4aa423c6bce0d496818b0bcf2dd824ac8637d35f9711adb74f54e5ea"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-4-corpo-humano/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-4-corpo-humano/blueprint_unidade.md",
+      "relative_path": "5ano/unidade-4-corpo-humano/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "361999b2e1da27b2a6bc2db0203b494293f0edd0e96fa06cd3449d48a84598ca"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-5-alimentacao-e-saude/.gitkeep",
+      "destination": "Ciencias/_blueprints/5ano/unidade-5-alimentacao-e-saude/.gitkeep",
+      "relative_path": "5ano/unidade-5-alimentacao-e-saude/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-5-alimentacao-e-saude/blueprint_capitulo_01_grupos-alimentares.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-5-alimentacao-e-saude/blueprint_capitulo_01_grupos-alimentares.md",
+      "relative_path": "5ano/unidade-5-alimentacao-e-saude/blueprint_capitulo_01_grupos-alimentares.md",
+      "action": "copied",
+      "sha256": "a99ee37d67cce25464328756a15a346019055bd97c2af8679da7a88aa5945228"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-5-alimentacao-e-saude/blueprint_capitulo_02_saude-integral.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-5-alimentacao-e-saude/blueprint_capitulo_02_saude-integral.md",
+      "relative_path": "5ano/unidade-5-alimentacao-e-saude/blueprint_capitulo_02_saude-integral.md",
+      "action": "copied",
+      "sha256": "63a4d34859356a804c7c36ace8b121337aa2ca9da47008b326594c0690f2ac87"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-5-alimentacao-e-saude/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/5ano/unidade-5-alimentacao-e-saude/blueprint_unidade.md",
+      "relative_path": "5ano/unidade-5-alimentacao-e-saude/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "b2337adaeae9d93c19cd9d9510b526d423899768cd138235a1a0f97c58e2e310"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-6-energia-e-recursos/.gitkeep",
+      "destination": "Ciencias/_blueprints/5ano/unidade-6-energia-e-recursos/.gitkeep",
+      "relative_path": "5ano/unidade-6-energia-e-recursos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-7-terra-e-universo/.gitkeep",
+      "destination": "Ciencias/_blueprints/5ano/unidade-7-terra-e-universo/.gitkeep",
+      "relative_path": "5ano/unidade-7-terra-e-universo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-8-o-universo-e-alem/.gitkeep",
+      "destination": "Ciencias/_blueprints/5ano/unidade-8-o-universo-e-alem/.gitkeep",
+      "relative_path": "5ano/unidade-8-o-universo-e-alem/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/5ano/unidade-9-ciencia-e-sociedade/.gitkeep",
+      "destination": "Ciencias/_blueprints/5ano/unidade-9-ciencia-e-sociedade/.gitkeep",
+      "relative_path": "5ano/unidade-9-ciencia-e-sociedade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-1-metodo-cientifico/.gitkeep",
+      "destination": "Ciencias/_blueprints/6ano/unidade-1-metodo-cientifico/.gitkeep",
+      "relative_path": "6ano/unidade-1-metodo-cientifico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-2-estados-fisicos-e-mudancas-de-estado/.gitkeep",
+      "destination": "Ciencias/_blueprints/6ano/unidade-2-estados-fisicos-e-mudancas-de-estado/.gitkeep",
+      "relative_path": "6ano/unidade-2-estados-fisicos-e-mudancas-de-estado/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-3-substancias-e-misturas/.gitkeep",
+      "destination": "Ciencias/_blueprints/6ano/unidade-3-substancias-e-misturas/.gitkeep",
+      "relative_path": "6ano/unidade-3-substancias-e-misturas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_01_transformacoes-fisicas-e-quimicas.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_01_transformacoes-fisicas-e-quimicas.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_01_transformacoes-fisicas-e-quimicas.md",
+      "action": "already_identical",
+      "sha256": "5aaaf62c9b9dc8b436d38a0b0342610add753373fa4839be57757e6536314cdc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_02_materiais-sinteticos.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_02_materiais-sinteticos.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_02_materiais-sinteticos.md",
+      "action": "already_identical",
+      "sha256": "5e1661e6903e7077a5a27b816466d451933879c2d7f20ea7e42e596a385ad371"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_03_impactos-ambientais-e-sustentabilidade.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_03_impactos-ambientais-e-sustentabilidade.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/blueprint_capitulo_03_impactos-ambientais-e-sustentabilidade.md",
+      "action": "already_identical",
+      "sha256": "00a3fe20560abed883110a0ec38cf35f268815333f96611b52427e4525e07b20"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-4-transformacoes-da-materia/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-4-transformacoes-da-materia/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "22aae1cf2f820c5dbed9485a0cf9cd25b03869c80d23e83ff27429453e197cf8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/.gitkeep",
+      "destination": "Ciencias/_blueprints/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/.gitkeep",
+      "relative_path": "6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/blueprint_capitulo_01_celulas-unidade-da-vida.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/blueprint_capitulo_01_celulas-unidade-da-vida.md",
+      "relative_path": "6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/blueprint_capitulo_01_celulas-unidade-da-vida.md",
+      "action": "copied",
+      "sha256": "8cf5e0ce653f8983909ea0adba42e8c1482b67b27eb39829bf1a67852f30fcf8"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/blueprint_capitulo_02_niveis-de-organizacao-biologica.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/blueprint_capitulo_02_niveis-de-organizacao-biologica.md",
+      "relative_path": "6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/blueprint_capitulo_02_niveis-de-organizacao-biologica.md",
+      "action": "copied",
+      "sha256": "418806f3fd99b7cbd350c3d39248a70dc343b51e76031b11b9628b71b1b4b699"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/blueprint_unidade.md",
+      "relative_path": "6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "f2d1cbc4924f7d6accc53264aa8a8662295941949f3a82d2141a18847cd29774"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-6-diversidade-de-seres-vivos/.gitkeep",
+      "destination": "Ciencias/_blueprints/6ano/unidade-6-diversidade-de-seres-vivos/.gitkeep",
+      "relative_path": "6ano/unidade-6-diversidade-de-seres-vivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-7-sistemas-do-corpo-humano/.gitkeep",
+      "destination": "Ciencias/_blueprints/6ano/unidade-7-sistemas-do-corpo-humano/.gitkeep",
+      "relative_path": "6ano/unidade-7-sistemas-do-corpo-humano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/6ano/unidade-8-agua-tratamento-e-sustentabilidade/.gitkeep",
+      "destination": "Ciencias/_blueprints/6ano/unidade-8-agua-tratamento-e-sustentabilidade/.gitkeep",
+      "relative_path": "6ano/unidade-8-agua-tratamento-e-sustentabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-1-introducao-a-estrutura-da-materia/.gitkeep",
+      "destination": "Ciencias/_blueprints/7ano/unidade-1-introducao-a-estrutura-da-materia/.gitkeep",
+      "relative_path": "7ano/unidade-1-introducao-a-estrutura-da-materia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-2-transformacoes-quimicas-e-energia/.gitkeep",
+      "destination": "Ciencias/_blueprints/7ano/unidade-2-transformacoes-quimicas-e-energia/.gitkeep",
+      "relative_path": "7ano/unidade-2-transformacoes-quimicas-e-energia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-3-energia-nos-ecossistemas/.gitkeep",
+      "destination": "Ciencias/_blueprints/7ano/unidade-3-energia-nos-ecossistemas/.gitkeep",
+      "relative_path": "7ano/unidade-3-energia-nos-ecossistemas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_01_biomas-do-brasil.md",
+      "destination": "Ciencias/_blueprints/7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_01_biomas-do-brasil.md",
+      "relative_path": "7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_01_biomas-do-brasil.md",
+      "action": "already_identical",
+      "sha256": "0460e1c609fe8308e07a3b1f9f03e6474fe5823716aa0d4d1a7ff61380bb5158"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_02_adaptacoes-e-biodiversidade.md",
+      "destination": "Ciencias/_blueprints/7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_02_adaptacoes-e-biodiversidade.md",
+      "relative_path": "7ano/unidade-4-ecossistemas-brasileiros/blueprint_capitulo_02_adaptacoes-e-biodiversidade.md",
+      "action": "already_identical",
+      "sha256": "739af6f80a09577cd994b8200f36f054422ce65468442fb05f2bf0a0bfee4062"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-4-ecossistemas-brasileiros/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/7ano/unidade-4-ecossistemas-brasileiros/blueprint_unidade.md",
+      "relative_path": "7ano/unidade-4-ecossistemas-brasileiros/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "7228cf5a1bc127ad38ce8f782622e098400823af56cc10907b10b5f46b67795d"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-5-impactos-ambientais/blueprint_capitulo_01_fenomenos-naturais.md",
+      "destination": "Ciencias/_blueprints/7ano/unidade-5-impactos-ambientais/blueprint_capitulo_01_fenomenos-naturais.md",
+      "relative_path": "7ano/unidade-5-impactos-ambientais/blueprint_capitulo_01_fenomenos-naturais.md",
+      "action": "copied",
+      "sha256": "3cd10099a43b2982c0a04365e1ea11053c0174c233b59f76f87105435b67bd41"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-5-impactos-ambientais/blueprint_capitulo_02_interferencia-humana.md",
+      "destination": "Ciencias/_blueprints/7ano/unidade-5-impactos-ambientais/blueprint_capitulo_02_interferencia-humana.md",
+      "relative_path": "7ano/unidade-5-impactos-ambientais/blueprint_capitulo_02_interferencia-humana.md",
+      "action": "copied",
+      "sha256": "22945cac1a8512b850ae504fa546d41bacb50e78590f3d9836960acb0680d3fe"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-5-impactos-ambientais/blueprint_capitulo_03_desenvolvimento-sustentavel.md",
+      "destination": "Ciencias/_blueprints/7ano/unidade-5-impactos-ambientais/blueprint_capitulo_03_desenvolvimento-sustentavel.md",
+      "relative_path": "7ano/unidade-5-impactos-ambientais/blueprint_capitulo_03_desenvolvimento-sustentavel.md",
+      "action": "copied",
+      "sha256": "58c5920e23168cb962454edcdd39346b01644743173f121b26eacf9c8994b451"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-5-impactos-ambientais/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/7ano/unidade-5-impactos-ambientais/blueprint_unidade.md",
+      "relative_path": "7ano/unidade-5-impactos-ambientais/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "c2e856ca7cad4ede044ffe60523be034cd6a398af63e2afe2dcc5393784b97bc"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-7-poluicao-ambiental/.gitkeep",
+      "destination": "Ciencias/_blueprints/7ano/unidade-7-poluicao-ambiental/.gitkeep",
+      "relative_path": "7ano/unidade-7-poluicao-ambiental/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/7ano/unidade-8-mudancas-climaticas-e-ciclos/.gitkeep",
+      "destination": "Ciencias/_blueprints/7ano/unidade-8-mudancas-climaticas-e-ciclos/.gitkeep",
+      "relative_path": "7ano/unidade-8-mudancas-climaticas-e-ciclos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-1-organizacao-do-corpo-humano/.gitkeep",
+      "destination": "Ciencias/_blueprints/8ano/unidade-1-organizacao-do-corpo-humano/.gitkeep",
+      "relative_path": "8ano/unidade-1-organizacao-do-corpo-humano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-2-quimica-tabela-periodica/.gitkeep",
+      "destination": "Ciencias/_blueprints/8ano/unidade-2-quimica-tabela-periodica/.gitkeep",
+      "relative_path": "8ano/unidade-2-quimica-tabela-periodica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-3-tecidos-e-divisao-celular/.gitkeep",
+      "destination": "Ciencias/_blueprints/8ano/unidade-3-tecidos-e-divisao-celular/.gitkeep",
+      "relative_path": "8ano/unidade-3-tecidos-e-divisao-celular/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-4-ligacoes-quimicas/.gitkeep",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/.gitkeep",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_01_por-que-atomos-se-ligam.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_01_por-que-atomos-se-ligam.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_01_por-que-atomos-se-ligam.md",
+      "action": "already_identical",
+      "sha256": "14a90daf6c6bbc92d89ad012bcb7bae406f09c73fbb0f222a0dfb53d86fa28f7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_02_ligacao-ionica.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_02_ligacao-ionica.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_02_ligacao-ionica.md",
+      "action": "already_identical",
+      "sha256": "817162a7899eeceb7090223b3fa4a78b4cf21b6b03f5d90079ea82b77c664655"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_03_ligacao-covalente.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_03_ligacao-covalente.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_03_ligacao-covalente.md",
+      "action": "already_identical",
+      "sha256": "3f8f0e44590d81bf44d6b24ad072d519c12bf81e8e130b824fc79c2527afa7b5"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_04_ligacao-metalica.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_04_ligacao-metalica.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/blueprint_capitulo_04_ligacao-metalica.md",
+      "action": "already_identical",
+      "sha256": "e38fe5998e3636eb31849ee7932beb3f0c47da7c76cbe7eecd437c5493ded619"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-4-ligacoes-quimicas/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-4-ligacoes-quimicas/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/blueprint_unidade.md",
+      "action": "already_identical",
+      "sha256": "eb52f5eea9843c07c708207251d83b87a1614ce3b7a4dc086085d91e4c211f65"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_capitulo_01_tipos-de-reproducao.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_capitulo_01_tipos-de-reproducao.md",
+      "relative_path": "8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_capitulo_01_tipos-de-reproducao.md",
+      "action": "copied",
+      "sha256": "171e1c9b07f8516092ba0c4b3e8564765897173940ac0f5a2af09abbdd4e46e7"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_capitulo_02_reproducao-em-plantas.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_capitulo_02_reproducao-em-plantas.md",
+      "relative_path": "8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_capitulo_02_reproducao-em-plantas.md",
+      "action": "copied",
+      "sha256": "2a71b2c3fbeef8f9165ac8f0650933f4279cf80ed20300c3b2574005bb11fd5f"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_capitulo_03_reproducao-em-animais.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_capitulo_03_reproducao-em-animais.md",
+      "relative_path": "8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_capitulo_03_reproducao-em-animais.md",
+      "action": "copied",
+      "sha256": "57b44f6d44529ab4a9b57db613fa2b24b1143f7a9d9d866af875aefb6f099282"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_unidade.md",
+      "destination": "Ciencias/_blueprints/8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_unidade.md",
+      "relative_path": "8ano/unidade-5-reproducao-e-desenvolvimento/blueprint_unidade.md",
+      "action": "copied",
+      "sha256": "6471ff4be8e5f97514ec09624f38f2950ecd90a2709bb46f834f8f1dbbfaa902"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-6-sistemas-integrados-1/.gitkeep",
+      "destination": "Ciencias/_blueprints/8ano/unidade-6-sistemas-integrados-1/.gitkeep",
+      "relative_path": "8ano/unidade-6-sistemas-integrados-1/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-7-reacoes-quimicas/.gitkeep",
+      "destination": "Ciencias/_blueprints/8ano/unidade-7-reacoes-quimicas/.gitkeep",
+      "relative_path": "8ano/unidade-7-reacoes-quimicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Ciencias/8ano/unidade-9-reproducao-humana-e-saude-sexual/.gitkeep",
+      "destination": "Ciencias/_blueprints/8ano/unidade-9-reproducao-humana-e-saude-sexual/.gitkeep",
+      "relative_path": "8ano/unidade-9-reproducao-humana-e-saude-sexual/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/.DS_Store",
+      "destination": null,
+      "relative_path": ".DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/1ano/unidade-1-materiais-ao-nosso-redor/.gitkeep",
+      "destination": "Ciencias/1ano/unidade-1-materiais-ao-nosso-redor/.gitkeep",
+      "relative_path": "1ano/unidade-1-materiais-ao-nosso-redor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/1ano/unidade-2-seres-vivos-ao-nosso-redor/.gitkeep",
+      "destination": "Ciencias/1ano/unidade-2-seres-vivos-ao-nosso-redor/.gitkeep",
+      "relative_path": "1ano/unidade-2-seres-vivos-ao-nosso-redor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/1ano/unidade-3-nosso-corpo/.gitkeep",
+      "destination": "Ciencias/1ano/unidade-3-nosso-corpo/.gitkeep",
+      "relative_path": "1ano/unidade-3-nosso-corpo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/1ano/unidade-4-respeito-e-diversidade/.gitkeep",
+      "destination": "Ciencias/1ano/unidade-4-respeito-e-diversidade/.gitkeep",
+      "relative_path": "1ano/unidade-4-respeito-e-diversidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/1ano/unidade-5-observando-a-natureza/.gitkeep",
+      "destination": "Ciencias/1ano/unidade-5-observando-a-natureza/.gitkeep",
+      "relative_path": "1ano/unidade-5-observando-a-natureza/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/1ano/unidade-6-aprendendo-a-observar/.gitkeep",
+      "destination": "Ciencias/1ano/unidade-6-aprendendo-a-observar/.gitkeep",
+      "relative_path": "1ano/unidade-6-aprendendo-a-observar/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/1ano/unidade-7-o-ceu-e-o-tempo/.gitkeep",
+      "destination": "Ciencias/1ano/unidade-7-o-ceu-e-o-tempo/.gitkeep",
+      "relative_path": "1ano/unidade-7-o-ceu-e-o-tempo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/1ano/unidade-8-nossa-terra/.gitkeep",
+      "destination": "Ciencias/1ano/unidade-8-nossa-terra/.gitkeep",
+      "relative_path": "1ano/unidade-8-nossa-terra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/2ano/unidade-1-materiais-e-suas-propriedades/.gitkeep",
+      "destination": "Ciencias/2ano/unidade-1-materiais-e-suas-propriedades/.gitkeep",
+      "relative_path": "2ano/unidade-1-materiais-e-suas-propriedades/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/2ano/unidade-2-seguranca-em-casa/.gitkeep",
+      "destination": "Ciencias/2ano/unidade-2-seguranca-em-casa/.gitkeep",
+      "relative_path": "2ano/unidade-2-seguranca-em-casa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/2ano/unidade-3-animais-e-plantas/.gitkeep",
+      "destination": "Ciencias/2ano/unidade-3-animais-e-plantas/.gitkeep",
+      "relative_path": "2ano/unidade-3-animais-e-plantas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/2ano/unidade-4-crescimento-das-plantas/.gitkeep",
+      "destination": "Ciencias/2ano/unidade-4-crescimento-das-plantas/.gitkeep",
+      "relative_path": "2ano/unidade-4-crescimento-das-plantas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/2ano/unidade-5-agua-fonte-de-vida/.gitkeep",
+      "destination": "Ciencias/2ano/unidade-5-agua-fonte-de-vida/.gitkeep",
+      "relative_path": "2ano/unidade-5-agua-fonte-de-vida/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/2ano/unidade-6-o-sol-e-a-terra/.gitkeep",
+      "destination": "Ciencias/2ano/unidade-6-o-sol-e-a-terra/.gitkeep",
+      "relative_path": "2ano/unidade-6-o-sol-e-a-terra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/2ano/unidade-7-cuidando-do-ambiente/.gitkeep",
+      "destination": "Ciencias/2ano/unidade-7-cuidando-do-ambiente/.gitkeep",
+      "relative_path": "2ano/unidade-7-cuidando-do-ambiente/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/3ano/unidade-1-som-ao-nosso-redor/.gitkeep",
+      "destination": "Ciencias/3ano/unidade-1-som-ao-nosso-redor/.gitkeep",
+      "relative_path": "3ano/unidade-1-som-ao-nosso-redor/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/3ano/unidade-2-luz-e-visao/.gitkeep",
+      "destination": "Ciencias/3ano/unidade-2-luz-e-visao/.gitkeep",
+      "relative_path": "3ano/unidade-2-luz-e-visao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/3ano/unidade-3-animais-e-seu-desenvolvimento/.gitkeep",
+      "destination": "Ciencias/3ano/unidade-3-animais-e-seu-desenvolvimento/.gitkeep",
+      "relative_path": "3ano/unidade-3-animais-e-seu-desenvolvimento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/3ano/unidade-4-classificacao-dos-seres-vivos/.gitkeep",
+      "destination": "Ciencias/3ano/unidade-4-classificacao-dos-seres-vivos/.gitkeep",
+      "relative_path": "3ano/unidade-4-classificacao-dos-seres-vivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/3ano/unidade-5-o-solo/.gitkeep",
+      "destination": "Ciencias/3ano/unidade-5-o-solo/.gitkeep",
+      "relative_path": "3ano/unidade-5-o-solo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/3ano/unidade-6-investigacao-cientifica-basica/.gitkeep",
+      "destination": "Ciencias/3ano/unidade-6-investigacao-cientifica-basica/.gitkeep",
+      "relative_path": "3ano/unidade-6-investigacao-cientifica-basica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/3ano/unidade-7-a-terra/.gitkeep",
+      "destination": "Ciencias/3ano/unidade-7-a-terra/.gitkeep",
+      "relative_path": "3ano/unidade-7-a-terra/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/3ano/unidade-8-observando-o-ceu/.gitkeep",
+      "destination": "Ciencias/3ano/unidade-8-observando-o-ceu/.gitkeep",
+      "relative_path": "3ano/unidade-8-observando-o-ceu/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/.DS_Store",
+      "destination": null,
+      "relative_path": "4ano/.DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-1-misturas-e-transformacoes/.gitkeep",
+      "destination": "Ciencias/4ano/unidade-1-misturas-e-transformacoes/.gitkeep",
+      "relative_path": "4ano/unidade-1-misturas-e-transformacoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-2-experimentos-cientificos/.gitkeep",
+      "destination": "Ciencias/4ano/unidade-2-experimentos-cientificos/.gitkeep",
+      "relative_path": "4ano/unidade-2-experimentos-cientificos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-3-cadeias-alimentares/.gitkeep",
+      "destination": "Ciencias/4ano/unidade-3-cadeias-alimentares/.gitkeep",
+      "relative_path": "4ano/unidade-3-cadeias-alimentares/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-4-microrganismos/.gitkeep",
+      "destination": "Ciencias/4ano/unidade-4-microrganismos/.gitkeep",
+      "relative_path": "4ano/unidade-4-microrganismos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-5-ecossistemas/.gitkeep",
+      "destination": "Ciencias/4ano/unidade-5-ecossistemas/.gitkeep",
+      "relative_path": "4ano/unidade-5-ecossistemas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-5-ecossistemas/capitulo_01_o-que-e-ecossistema.md",
+      "destination": "Ciencias/4ano/unidade-5-ecossistemas/capitulo_01_o-que-e-ecossistema.md",
+      "relative_path": "4ano/unidade-5-ecossistemas/capitulo_01_o-que-e-ecossistema.md",
+      "action": "copied",
+      "sha256": "db70c39f43330728ced723ca0a8c89f2d5e3d396db652f5dd7fbc6014a774112"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-5-ecossistemas/capitulo_02_solo-a-base-da-vida.md",
+      "destination": "Ciencias/4ano/unidade-5-ecossistemas/capitulo_02_solo-a-base-da-vida.md",
+      "relative_path": "4ano/unidade-5-ecossistemas/capitulo_02_solo-a-base-da-vida.md",
+      "action": "copied",
+      "sha256": "160ca03a7655ab46ca95242a94f175ddb4633562e7d6e5ee534f9002900a9c4e"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-5-ecossistemas/capitulo_03_ecossistemas-brasileiros.md",
+      "destination": "Ciencias/4ano/unidade-5-ecossistemas/capitulo_03_ecossistemas-brasileiros.md",
+      "relative_path": "4ano/unidade-5-ecossistemas/capitulo_03_ecossistemas-brasileiros.md",
+      "action": "copied",
+      "sha256": "9c880bbd87ca97359d29b9fac9becc04a8cf41935928d2e62d6bfa849e2735f1"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-5-ecossistemas/capitulo_04_impactos-ambientais.md",
+      "destination": "Ciencias/4ano/unidade-5-ecossistemas/capitulo_04_impactos-ambientais.md",
+      "relative_path": "4ano/unidade-5-ecossistemas/capitulo_04_impactos-ambientais.md",
+      "action": "copied",
+      "sha256": "7ee8054f58d4fa36a555e9ef32fd2f0a52dc72d5db0bd8affac86ada9b219c95"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-6-tecnologia-e-ciencia/.gitkeep",
+      "destination": "Ciencias/4ano/unidade-6-tecnologia-e-ciencia/.gitkeep",
+      "relative_path": "4ano/unidade-6-tecnologia-e-ciencia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-7-orientacao-no-espaco/.gitkeep",
+      "destination": "Ciencias/4ano/unidade-7-orientacao-no-espaco/.gitkeep",
+      "relative_path": "4ano/unidade-7-orientacao-no-espaco/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/4ano/unidade-8-o-ceu-e-os-astros/.gitkeep",
+      "destination": "Ciencias/4ano/unidade-8-o-ceu-e-os-astros/.gitkeep",
+      "relative_path": "4ano/unidade-8-o-ceu-e-os-astros/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/.DS_Store",
+      "destination": null,
+      "relative_path": "5ano/.DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-1-propriedades-dos-materiais/.gitkeep",
+      "destination": "Ciencias/5ano/unidade-1-propriedades-dos-materiais/.gitkeep",
+      "relative_path": "5ano/unidade-1-propriedades-dos-materiais/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-2-metodo-cientifico/.gitkeep",
+      "destination": "Ciencias/5ano/unidade-2-metodo-cientifico/.gitkeep",
+      "relative_path": "5ano/unidade-2-metodo-cientifico/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-3-agua-no-planeta/.gitkeep",
+      "destination": "Ciencias/5ano/unidade-3-agua-no-planeta/.gitkeep",
+      "relative_path": "5ano/unidade-3-agua-no-planeta/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-4-corpo-humano/.gitkeep",
+      "destination": "Ciencias/5ano/unidade-4-corpo-humano/.gitkeep",
+      "relative_path": "5ano/unidade-4-corpo-humano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-5-alimentacao-e-saude/.gitkeep",
+      "destination": "Ciencias/5ano/unidade-5-alimentacao-e-saude/.gitkeep",
+      "relative_path": "5ano/unidade-5-alimentacao-e-saude/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-5-alimentacao-e-saude/capitulo_01_grupos-alimentares.md",
+      "destination": "Ciencias/5ano/unidade-5-alimentacao-e-saude/capitulo_01_grupos-alimentares.md",
+      "relative_path": "5ano/unidade-5-alimentacao-e-saude/capitulo_01_grupos-alimentares.md",
+      "action": "copied",
+      "sha256": "028fecadd26ade58168e413ff771c95bb85477a9f7dd9c77a340b88c176d6fc4"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-5-alimentacao-e-saude/capitulo_02_saude-integral.md",
+      "destination": "Ciencias/5ano/unidade-5-alimentacao-e-saude/capitulo_02_saude-integral.md",
+      "relative_path": "5ano/unidade-5-alimentacao-e-saude/capitulo_02_saude-integral.md",
+      "action": "copied",
+      "sha256": "7a370f02a16c80542f882fc881bf8b8c3562d22d518f44a3681d4bbf54a07f7a"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-5-alimentacao-e-saude/metadata.json",
+      "destination": "Ciencias/5ano/unidade-5-alimentacao-e-saude/metadata.json",
+      "relative_path": "5ano/unidade-5-alimentacao-e-saude/metadata.json",
+      "action": "copied",
+      "sha256": "339dca429e5724d97acbd7f295dfaee5ce8c192aab3d3e1d5c8af275e22c9d56"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-6-energia-e-recursos/.gitkeep",
+      "destination": "Ciencias/5ano/unidade-6-energia-e-recursos/.gitkeep",
+      "relative_path": "5ano/unidade-6-energia-e-recursos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-7-terra-e-universo/.gitkeep",
+      "destination": "Ciencias/5ano/unidade-7-terra-e-universo/.gitkeep",
+      "relative_path": "5ano/unidade-7-terra-e-universo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-8-o-universo-e-alem/.gitkeep",
+      "destination": "Ciencias/5ano/unidade-8-o-universo-e-alem/.gitkeep",
+      "relative_path": "5ano/unidade-8-o-universo-e-alem/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/5ano/unidade-9-ciencia-e-sociedade/.gitkeep",
+      "destination": "Ciencias/5ano/unidade-9-ciencia-e-sociedade/.gitkeep",
+      "relative_path": "5ano/unidade-9-ciencia-e-sociedade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/.DS_Store",
+      "destination": null,
+      "relative_path": "6ano/.DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-1-metodo-cientifico-e-introducao-as-ciencias/.gitkeep",
+      "destination": "Ciencias/6ano/unidade-1-metodo-cientifico-e-introducao-as-ciencias/.gitkeep",
+      "relative_path": "6ano/unidade-1-metodo-cientifico-e-introducao-as-ciencias/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-2-estados-fisicos-e-mudancas-de-estado/.gitkeep",
+      "destination": "Ciencias/6ano/unidade-2-estados-fisicos-e-mudancas-de-estado/.gitkeep",
+      "relative_path": "6ano/unidade-2-estados-fisicos-e-mudancas-de-estado/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-4-transformacoes-da-materia/capitulo_01_transformacoes-fisicas-e-quimicas.md",
+      "destination": "Ciencias/6ano/unidade-4-transformacoes-da-materia/capitulo_01_transformacoes-fisicas-e-quimicas.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/capitulo_01_transformacoes-fisicas-e-quimicas.md",
+      "action": "copied",
+      "sha256": "9c9a638a6bb1f59265be327f468674e1ebfdb336881b9cbfd5df9c7d91d98ffe"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-4-transformacoes-da-materia/capitulo_02_materiais-sinteticos.md",
+      "destination": "Ciencias/6ano/unidade-4-transformacoes-da-materia/capitulo_02_materiais-sinteticos.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/capitulo_02_materiais-sinteticos.md",
+      "action": "copied",
+      "sha256": "66f935896c5b2211e3e65e9d8a756cb33d3b298fc26bbe57a281a902759c0ee3"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-4-transformacoes-da-materia/capitulo_03_impactos-ambientais-e-sustentabilidade.md",
+      "destination": "Ciencias/6ano/unidade-4-transformacoes-da-materia/capitulo_03_impactos-ambientais-e-sustentabilidade.md",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/capitulo_03_impactos-ambientais-e-sustentabilidade.md",
+      "action": "copied",
+      "sha256": "0be61d29953ef26bf761e7359f8fff5082ae4570f70fe1e9fddbc1e5d08fe461"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-4-transformacoes-da-materia/metadata.json",
+      "destination": "Ciencias/6ano/unidade-4-transformacoes-da-materia/metadata.json",
+      "relative_path": "6ano/unidade-4-transformacoes-da-materia/metadata.json",
+      "action": "copied",
+      "sha256": "840b4bd40488f33227524270b21100781d30db76c2394fbf5c7ebeb2b1bf667f"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/capitulo_01_celulas-unidade-da-vida.md",
+      "destination": "Ciencias/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/capitulo_01_celulas-unidade-da-vida.md",
+      "relative_path": "6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/capitulo_01_celulas-unidade-da-vida.md",
+      "action": "copied",
+      "sha256": "4c640b93e51efde0804cbb6dade37a451abdc512150d21b5251e138ad4491b13"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/capitulo_02_niveis-de-organizacao-biologica.md",
+      "destination": "Ciencias/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/capitulo_02_niveis-de-organizacao-biologica.md",
+      "relative_path": "6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/capitulo_02_niveis-de-organizacao-biologica.md",
+      "action": "copied",
+      "sha256": "0573a10755f879423d6c36dedbcc9fa51a534ac6eea0a40dd54bae5421af5c7c"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/metadata.json",
+      "destination": "Ciencias/6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/metadata.json",
+      "relative_path": "6ano/unidade-5-celulas-e-organizacao-dos-seres-vivos/metadata.json",
+      "action": "copied",
+      "sha256": "03b11a1c435554f79bbdeb516c25ef93114bb58e4c56f9ca680eac4c98c656e4"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-6-diversidade-de-seres-vivos/.gitkeep",
+      "destination": "Ciencias/6ano/unidade-6-diversidade-de-seres-vivos/.gitkeep",
+      "relative_path": "6ano/unidade-6-diversidade-de-seres-vivos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/6ano/unidade-8-agua-tratamento-e-sustentabilidade/.gitkeep",
+      "destination": "Ciencias/6ano/unidade-8-agua-tratamento-e-sustentabilidade/.gitkeep",
+      "relative_path": "6ano/unidade-8-agua-tratamento-e-sustentabilidade/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/7ano/.DS_Store",
+      "destination": null,
+      "relative_path": "7ano/.DS_Store",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/7ano/unidade-1-introducao-a-estrutura-da-materia/.gitkeep",
+      "destination": "Ciencias/7ano/unidade-1-introducao-a-estrutura-da-materia/.gitkeep",
+      "relative_path": "7ano/unidade-1-introducao-a-estrutura-da-materia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/7ano/unidade-2-transformacoes-quimicas-e-energia/.gitkeep",
+      "destination": "Ciencias/7ano/unidade-2-transformacoes-quimicas-e-energia/.gitkeep",
+      "relative_path": "7ano/unidade-2-transformacoes-quimicas-e-energia/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/7ano/unidade-3-energia-nos-ecossistemas/.gitkeep",
+      "destination": "Ciencias/7ano/unidade-3-energia-nos-ecossistemas/.gitkeep",
+      "relative_path": "7ano/unidade-3-energia-nos-ecossistemas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/7ano/unidade-7-poluicao-ambiental/.gitkeep",
+      "destination": "Ciencias/7ano/unidade-7-poluicao-ambiental/.gitkeep",
+      "relative_path": "7ano/unidade-7-poluicao-ambiental/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/7ano/unidade-8-mudancas-climaticas-e-ciclos/.gitkeep",
+      "destination": "Ciencias/7ano/unidade-8-mudancas-climaticas-e-ciclos/.gitkeep",
+      "relative_path": "7ano/unidade-8-mudancas-climaticas-e-ciclos/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-1-organizacao-do-corpo-humano/.gitkeep",
+      "destination": "Ciencias/8ano/unidade-1-organizacao-do-corpo-humano/.gitkeep",
+      "relative_path": "8ano/unidade-1-organizacao-do-corpo-humano/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-2-quimica-tabela-periodica/.gitkeep",
+      "destination": "Ciencias/8ano/unidade-2-quimica-tabela-periodica/.gitkeep",
+      "relative_path": "8ano/unidade-2-quimica-tabela-periodica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-3-tecidos-e-divisao-celular/.gitkeep",
+      "destination": "Ciencias/8ano/unidade-3-tecidos-e-divisao-celular/.gitkeep",
+      "relative_path": "8ano/unidade-3-tecidos-e-divisao-celular/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-4-ligacoes-quimicas/.gitkeep",
+      "destination": "Ciencias/8ano/unidade-4-ligacoes-quimicas/.gitkeep",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-4-ligacoes-quimicas/capitulo_01_por-que-atomos-se-ligam.md",
+      "destination": "Ciencias/8ano/unidade-4-ligacoes-quimicas/capitulo_01_por-que-atomos-se-ligam.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/capitulo_01_por-que-atomos-se-ligam.md",
+      "action": "copied",
+      "sha256": "21913245685809681bc71fadc23fd9daa8747615d4279e120e16ecd9652c794c"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-4-ligacoes-quimicas/capitulo_02_ligacao-ionica.md",
+      "destination": "Ciencias/8ano/unidade-4-ligacoes-quimicas/capitulo_02_ligacao-ionica.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/capitulo_02_ligacao-ionica.md",
+      "action": "copied",
+      "sha256": "ab921779358c3b023ca94f2716700fe7c1cfd4653dbc672590441f1c96824586"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-4-ligacoes-quimicas/capitulo_03_ligacao-covalente.md",
+      "destination": "Ciencias/8ano/unidade-4-ligacoes-quimicas/capitulo_03_ligacao-covalente.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/capitulo_03_ligacao-covalente.md",
+      "action": "copied",
+      "sha256": "ddbe4106c117578d5caa303563d4434cc4092efb34353803a80b76247764cb9c"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-4-ligacoes-quimicas/capitulo_04_ligacao-metalica.md",
+      "destination": "Ciencias/8ano/unidade-4-ligacoes-quimicas/capitulo_04_ligacao-metalica.md",
+      "relative_path": "8ano/unidade-4-ligacoes-quimicas/capitulo_04_ligacao-metalica.md",
+      "action": "copied",
+      "sha256": "434d89504ba21cff97b5aceb0523952a0db531c53e96e6b28a1c6d7df1c18ef2"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/.gitkeep",
+      "destination": "Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/.gitkeep",
+      "relative_path": "8ano/unidade-5-reproducao-e-desenvolvimento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/capitulo_01_tipos-de-reproducao.md",
+      "destination": "Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/capitulo_01_tipos-de-reproducao.md",
+      "relative_path": "8ano/unidade-5-reproducao-e-desenvolvimento/capitulo_01_tipos-de-reproducao.md",
+      "action": "copied",
+      "sha256": "ca2a9cf9b116edec01e5003fa1bba02c0141b8ccba78893e55542091742cfb55"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/capitulo_02_reproducao-em-plantas.md",
+      "destination": "Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/capitulo_02_reproducao-em-plantas.md",
+      "relative_path": "8ano/unidade-5-reproducao-e-desenvolvimento/capitulo_02_reproducao-em-plantas.md",
+      "action": "copied",
+      "sha256": "4b83b3e3951b67b295b844542d7b3fc0132fcdcb754e615956e872b5f6129d9f"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/capitulo_03_reproducao-em-animais.md",
+      "destination": "Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/capitulo_03_reproducao-em-animais.md",
+      "relative_path": "8ano/unidade-5-reproducao-e-desenvolvimento/capitulo_03_reproducao-em-animais.md",
+      "action": "copied",
+      "sha256": "1fd7d3617637d7358d63dcf9451d1fd838231cb1a952277c00025568fc6b293c"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/metadata.json",
+      "destination": "Ciencias/8ano/unidade-5-reproducao-e-desenvolvimento/metadata.json",
+      "relative_path": "8ano/unidade-5-reproducao-e-desenvolvimento/metadata.json",
+      "action": "copied",
+      "sha256": "98a943c728c3af530a62cff196b2c9490377940d32abed71d90a7f5fc1af9f09"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-6-sistemas-integrados-1/.gitkeep",
+      "destination": "Ciencias/8ano/unidade-6-sistemas-integrados-1/.gitkeep",
+      "relative_path": "8ano/unidade-6-sistemas-integrados-1/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-7-reacoes-quimicas/.gitkeep",
+      "destination": "Ciencias/8ano/unidade-7-reacoes-quimicas/.gitkeep",
+      "relative_path": "8ano/unidade-7-reacoes-quimicas/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Ciencias/8ano/unidade-9-reproducao-humana-e-saude-sexual/.gitkeep",
+      "destination": "Ciencias/8ano/unidade-9-reproducao-humana-e-saude-sexual/.gitkeep",
+      "relative_path": "8ano/unidade-9-reproducao-humana-e-saude-sexual/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Ciencias/4ano/Unidade 3 - Cadeias Alimentares/Unidade 3 — Cadeias Alimentares | 4º Ano (2º Bimestre).gdoc",
+      "destination": "Ciencias/4ano/Unidade 3 - Cadeias Alimentares/Unidade 3 — Cadeias Alimentares | 4º Ano (2º Bimestre).gdoc",
+      "relative_path": "4ano/Unidade 3 - Cadeias Alimentares/Unidade 3 — Cadeias Alimentares | 4º Ano (2º Bimestre).gdoc",
+      "action": "copied",
+      "sha256": "8111e05a9ef1e6af250ed2ff8dd6a0c7763ac924ec8b79a1898e89829080cbc9"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Ciencias/5ano/Unidade 3 - Água no Planeta/Unidade 3 — Água no Planeta | 5º Ano.gdoc",
+      "destination": "Ciencias/5ano/Unidade 3 - Água no Planeta/Unidade 3 — Água no Planeta | 5º Ano.gdoc",
+      "relative_path": "5ano/Unidade 3 - Água no Planeta/Unidade 3 — Água no Planeta | 5º Ano.gdoc",
+      "action": "copied",
+      "sha256": "3cea9d840edc869c1ba8c0beae3d8e7f65ddc40b1c6fccf1276cda95a0fb3117"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Ciencias/6ano/Unidade 3 - Substâncias e Misturas/Unidade 3 — Substâncias e Misturas.gdoc",
+      "destination": "Ciencias/6ano/Unidade 3 - Substâncias e Misturas/Unidade 3 — Substâncias e Misturas.gdoc",
+      "relative_path": "6ano/Unidade 3 - Substâncias e Misturas/Unidade 3 — Substâncias e Misturas.gdoc",
+      "action": "copied",
+      "sha256": "a29a630eea3dc02b3483e2dfbe85b29b7a491515ab7243171d8cb4668538de8e"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Ciencias/7ano/Unidade 3 - Energia nos Ecossistemas/ Unidade 3 — Energia nos Ecossistemas .gdoc",
+      "destination": "Ciencias/7ano/Unidade 3 - Energia nos Ecossistemas/ Unidade 3 — Energia nos Ecossistemas .gdoc",
+      "relative_path": "7ano/Unidade 3 - Energia nos Ecossistemas/ Unidade 3 — Energia nos Ecossistemas .gdoc",
+      "action": "copied",
+      "sha256": "dbdc27f3b854905fa707a3c3a61b620cf6df844f3d6be04bc606e4bf44affcf9"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Ciencias/8ano/Unidade 3 - Tecidos e Divisão Celular/Unidade 3 — Tecidos e Divisão Celular.gdoc",
+      "destination": "Ciencias/8ano/Unidade 3 - Tecidos e Divisão Celular/Unidade 3 — Tecidos e Divisão Celular.gdoc",
+      "relative_path": "8ano/Unidade 3 - Tecidos e Divisão Celular/Unidade 3 — Tecidos e Divisão Celular.gdoc",
+      "action": "copied",
+      "sha256": "6554a7bfd058bd4b67235e1985802fd02b1a2c76c88992f7e563e084cb3a28f7"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Unidade 3-",
+      "source": "Unidade 3-/Ciencias/8ano/Unidade 3 - Tecidos e Divisão Celular/Unidade 3 — Tecidos e Divisão Celular_v2.gdoc",
+      "destination": "Ciencias/8ano/Unidade 3 - Tecidos e Divisão Celular/Unidade 3 — Tecidos e Divisão Celular_v2.gdoc",
+      "relative_path": "8ano/Unidade 3 - Tecidos e Divisão Celular/Unidade 3 — Tecidos e Divisão Celular_v2.gdoc",
+      "action": "copied",
+      "sha256": "df418665f006cbb56db7b5054c2bdaf8270ea3923c1c2b56ab4054c29ceb4897"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Ciencias/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": [
+    "Ciencias/4ano/unidade-5-ecossistemas/metadata.json",
+    "Ciencias/8ano/unidade-4-ligacoes-quimicas/metadata.json"
+  ]
+}

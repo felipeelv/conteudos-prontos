@@ -1,0 +1,10 @@
+{
+  "disciplina": "Filosofia",
+  "ano": "2serie",
+  "unidade": "bimestre-4-pos-modernidade-e-apologetica",
+  "blueprint_path": "Filosofia/_blueprints/2serie/bimestre-4-pos-modernidade-e-apologetica",
+  "autor_path": "Filosofia/_autor",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "status": "migrado",
+  "migration_note": "metadata criado automaticamente durante migração estrutural segura"
+}

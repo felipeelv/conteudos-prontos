@@ -1,0 +1,612 @@
+{
+  "discipline": "Portugues 2",
+  "generated_at": "2026-05-01T13:37:01-03:00",
+  "strategy": "copy-only; no old source deleted; conflicts preserved",
+  "sources": {
+    "authors": [
+      "autores-material/autores/autor_portugues-2"
+    ],
+    "blueprints": [
+      "Blueprints/portugues 2",
+      "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2"
+    ],
+    "contents": [
+      "Conteudos Prontos/Portugues 2"
+    ]
+  },
+  "summary": {
+    "autor::autores-material/autores::autor_portugues-2": {
+      "copied": 9,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 2
+    },
+    "blueprints::Blueprints::portugues 2": {
+      "copied": 3,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "blueprints::autores-material/PRODUCAO/Blueprint/blueprints::Portugues 2": {
+      "copied": 21,
+      "already_identical": 3,
+      "conflicts": 0,
+      "skipped": 0
+    },
+    "conteudos::Conteudos Prontos::Portugues 2": {
+      "copied": 24,
+      "already_identical": 0,
+      "conflicts": 0,
+      "skipped": 0
+    }
+  },
+  "items": [
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/_shared/lib_common.sh",
+      "destination": "Portugues 2/_autor/_shared/lib_common.sh",
+      "relative_path": "_shared/lib_common.sh",
+      "action": "copied",
+      "sha256": "cda4b49b24e71444ada0fe07e060e4976ccea163e69cd99d1760af9005318755"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/CLAUDE.md",
+      "destination": "Portugues 2/_autor/CLAUDE.md",
+      "relative_path": "CLAUDE.md",
+      "action": "copied",
+      "sha256": "2ba620f6111ca57132b1052b8977306bc42079f35d1025d1e83f06e5e87d778a"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/logs/20260429_000235_portugues-1-5ano-unidade-4-preposicoes-interjeicoes-e-conjuncoes.log",
+      "destination": null,
+      "relative_path": "logs/20260429_000235_portugues-1-5ano-unidade-4-preposicoes-interjeicoes-e-conjuncoes.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/logs/20260429_000646_portugues-1-5ano-unidade-4-preposicoes-interjeicoes-e-conjuncoes.log",
+      "destination": null,
+      "relative_path": "logs/20260429_000646_portugues-1-5ano-unidade-4-preposicoes-interjeicoes-e-conjuncoes.log",
+      "action": "skipped",
+      "reason": "ignored operational/log file"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/memoria-autor.md",
+      "destination": "Portugues 2/_autor/memoria-autor.md",
+      "relative_path": "memoria-autor.md",
+      "action": "copied",
+      "sha256": "6b487eacdd1c83bdedb54f723860f4a3f8570711f70539869f8ba5475e40ee0d"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/modelo-ef2.md",
+      "destination": "Portugues 2/_autor/modelo-ef2.md",
+      "relative_path": "modelo-ef2.md",
+      "action": "copied",
+      "sha256": "d2b3429c25bbc134f0a1a7cd825b5636c78fb975e5e8575deb47a8502af5f34f"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/modelo-em.md",
+      "destination": "Portugues 2/_autor/modelo-em.md",
+      "relative_path": "modelo-em.md",
+      "action": "copied",
+      "sha256": "a7336748ab7b9dc3a9ce7e6ac72d7460959d57ed962b6b595e35771ddc09422a"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/prompt-autor.md",
+      "destination": "Portugues 2/_autor/prompt-autor.md",
+      "relative_path": "prompt-autor.md",
+      "action": "copied",
+      "sha256": "4204be54904a7c54899b5b6bcaf3881890430d12d7f949580137cf54e7fa3070"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/referencia-exemplos-linguagem.md",
+      "destination": "Portugues 2/_autor/referencia-exemplos-linguagem.md",
+      "relative_path": "referencia-exemplos-linguagem.md",
+      "action": "copied",
+      "sha256": "93757284c4995d0d0e8b1b06ddb995899c3687dc3fcaaac6fbbcb47a159867a1"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/referencia-regras-ortograficas.md",
+      "destination": "Portugues 2/_autor/referencia-regras-ortograficas.md",
+      "relative_path": "referencia-regras-ortograficas.md",
+      "action": "copied",
+      "sha256": "37f2968928770a1bbc33cc6a5d087790b5be69e372c975ebf74cb915447b7936"
+    },
+    {
+      "category": "autor",
+      "source_label": "autores-material/autores",
+      "source": "autores-material/autores/autor_portugues-2/scripts/criar_capitulos.sh",
+      "destination": "Portugues 2/_autor/scripts/criar_capitulos.sh",
+      "relative_path": "scripts/criar_capitulos.sh",
+      "action": "copied",
+      "sha256": "e20b844b70c79ef59f76284b5c95a5fc287dce3a43635916cd82f19f0e2c20a6"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 2/1serie/unidade-4-producao-textual-texto-narrativo/.gitkeep",
+      "destination": "Portugues 2/_blueprints/1serie/unidade-4-producao-textual-texto-narrativo/.gitkeep",
+      "relative_path": "1serie/unidade-4-producao-textual-texto-narrativo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 2/2serie/unidade-4-oralidade-debate-literario/.gitkeep",
+      "destination": "Portugues 2/_blueprints/2serie/unidade-4-oralidade-debate-literario/.gitkeep",
+      "relative_path": "2serie/unidade-4-oralidade-debate-literario/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "Blueprints",
+      "source": "Blueprints/portugues 2/3serie/unidade-4-coesao-coerencia-e-repertorio/.gitkeep",
+      "destination": "Portugues 2/_blueprints/3serie/unidade-4-coesao-coerencia-e-repertorio/.gitkeep",
+      "relative_path": "3serie/unidade-4-coesao-coerencia-e-repertorio/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/1serie/unidade-1-introducao-a-literatura/.gitkeep",
+      "destination": "Portugues 2/_blueprints/1serie/unidade-1-introducao-a-literatura/.gitkeep",
+      "relative_path": "1serie/unidade-1-introducao-a-literatura/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/1serie/unidade-2-producao-textual-resumo-e-fichamento/.gitkeep",
+      "destination": "Portugues 2/_blueprints/1serie/unidade-2-producao-textual-resumo-e-fichamento/.gitkeep",
+      "relative_path": "1serie/unidade-2-producao-textual-resumo-e-fichamento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/1serie/unidade-3-trovadorismo-e-humanismo/.gitkeep",
+      "destination": "Portugues 2/_blueprints/1serie/unidade-3-trovadorismo-e-humanismo/.gitkeep",
+      "relative_path": "1serie/unidade-3-trovadorismo-e-humanismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/1serie/unidade-4-producao-textual-texto-narrativo/.gitkeep",
+      "destination": "Portugues 2/_blueprints/1serie/unidade-4-producao-textual-texto-narrativo/.gitkeep",
+      "relative_path": "1serie/unidade-4-producao-textual-texto-narrativo/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/1serie/unidade-5-classicismo-e-quinhentismo/.gitkeep",
+      "destination": "Portugues 2/_blueprints/1serie/unidade-5-classicismo-e-quinhentismo/.gitkeep",
+      "relative_path": "1serie/unidade-5-classicismo-e-quinhentismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/1serie/unidade-6-oralidade-seminario/.gitkeep",
+      "destination": "Portugues 2/_blueprints/1serie/unidade-6-oralidade-seminario/.gitkeep",
+      "relative_path": "1serie/unidade-6-oralidade-seminario/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/1serie/unidade-7-barroco/.gitkeep",
+      "destination": "Portugues 2/_blueprints/1serie/unidade-7-barroco/.gitkeep",
+      "relative_path": "1serie/unidade-7-barroco/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/1serie/unidade-8-producao-textual-resenha-critica/.gitkeep",
+      "destination": "Portugues 2/_blueprints/1serie/unidade-8-producao-textual-resenha-critica/.gitkeep",
+      "relative_path": "1serie/unidade-8-producao-textual-resenha-critica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/2serie/unidade-1-romantismo-contexto-e-poesia-1-e-2-geracoes/.gitkeep",
+      "destination": "Portugues 2/_blueprints/2serie/unidade-1-romantismo-contexto-e-poesia-1-e-2-geracoes/.gitkeep",
+      "relative_path": "2serie/unidade-1-romantismo-contexto-e-poesia-1-e-2-geracoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/2serie/unidade-2-producao-textual-analise-literaria/.gitkeep",
+      "destination": "Portugues 2/_blueprints/2serie/unidade-2-producao-textual-analise-literaria/.gitkeep",
+      "relative_path": "2serie/unidade-2-producao-textual-analise-literaria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/2serie/unidade-3-romantismo-poesia-3-geracao-e-prosa/.gitkeep",
+      "destination": "Portugues 2/_blueprints/2serie/unidade-3-romantismo-poesia-3-geracao-e-prosa/.gitkeep",
+      "relative_path": "2serie/unidade-3-romantismo-poesia-3-geracao-e-prosa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/2serie/unidade-4-oralidade-debate-literario/.gitkeep",
+      "destination": "Portugues 2/_blueprints/2serie/unidade-4-oralidade-debate-literario/.gitkeep",
+      "relative_path": "2serie/unidade-4-oralidade-debate-literario/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/2serie/unidade-5-realismo-e-naturalismo/.gitkeep",
+      "destination": "Portugues 2/_blueprints/2serie/unidade-5-realismo-e-naturalismo/.gitkeep",
+      "relative_path": "2serie/unidade-5-realismo-e-naturalismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/2serie/unidade-6-producao-textual-dissertacao-introducao/.gitkeep",
+      "destination": "Portugues 2/_blueprints/2serie/unidade-6-producao-textual-dissertacao-introducao/.gitkeep",
+      "relative_path": "2serie/unidade-6-producao-textual-dissertacao-introducao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/2serie/unidade-7-parnasianismo-e-simbolismo/.gitkeep",
+      "destination": "Portugues 2/_blueprints/2serie/unidade-7-parnasianismo-e-simbolismo/.gitkeep",
+      "relative_path": "2serie/unidade-7-parnasianismo-e-simbolismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/2serie/unidade-8-producao-textual-dissertacao-desenvolvimento/.gitkeep",
+      "destination": "Portugues 2/_blueprints/2serie/unidade-8-producao-textual-dissertacao-desenvolvimento/.gitkeep",
+      "relative_path": "2serie/unidade-8-producao-textual-dissertacao-desenvolvimento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/3serie/unidade-1-pre-modernismo/.gitkeep",
+      "destination": "Portugues 2/_blueprints/3serie/unidade-1-pre-modernismo/.gitkeep",
+      "relative_path": "3serie/unidade-1-pre-modernismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/3serie/unidade-2-redacao-dissertativo-argumentativa-estrutura-completa/.gitkeep",
+      "destination": "Portugues 2/_blueprints/3serie/unidade-2-redacao-dissertativo-argumentativa-estrutura-completa/.gitkeep",
+      "relative_path": "3serie/unidade-2-redacao-dissertativo-argumentativa-estrutura-completa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/3serie/unidade-3-modernismo-1-e-2-geracoes/.gitkeep",
+      "destination": "Portugues 2/_blueprints/3serie/unidade-3-modernismo-1-e-2-geracoes/.gitkeep",
+      "relative_path": "3serie/unidade-3-modernismo-1-e-2-geracoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/3serie/unidade-4-coesao-coerencia-e-repertorio/.gitkeep",
+      "destination": "Portugues 2/_blueprints/3serie/unidade-4-coesao-coerencia-e-repertorio/.gitkeep",
+      "relative_path": "3serie/unidade-4-coesao-coerencia-e-repertorio/.gitkeep",
+      "action": "already_identical",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/3serie/unidade-5-modernismo-3-geracao-e-literatura-africana/.gitkeep",
+      "destination": "Portugues 2/_blueprints/3serie/unidade-5-modernismo-3-geracao-e-literatura-africana/.gitkeep",
+      "relative_path": "3serie/unidade-5-modernismo-3-geracao-e-literatura-africana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/3serie/unidade-6-redacao-enem-competencias/.gitkeep",
+      "destination": "Portugues 2/_blueprints/3serie/unidade-6-redacao-enem-competencias/.gitkeep",
+      "relative_path": "3serie/unidade-6-redacao-enem-competencias/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/3serie/unidade-7-literatura-contemporanea-e-revisao-geral/.gitkeep",
+      "destination": "Portugues 2/_blueprints/3serie/unidade-7-literatura-contemporanea-e-revisao-geral/.gitkeep",
+      "relative_path": "3serie/unidade-7-literatura-contemporanea-e-revisao-geral/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "blueprints",
+      "source_label": "autores-material/PRODUCAO/Blueprint/blueprints",
+      "source": "autores-material/PRODUCAO/Blueprint/blueprints/Portugues 2/3serie/unidade-8-redacao-treino-intensivo/.gitkeep",
+      "destination": "Portugues 2/_blueprints/3serie/unidade-8-redacao-treino-intensivo/.gitkeep",
+      "relative_path": "3serie/unidade-8-redacao-treino-intensivo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/1serie/unidade-1-introducao-a-literatura/.gitkeep",
+      "destination": "Portugues 2/1serie/unidade-1-introducao-a-literatura/.gitkeep",
+      "relative_path": "1serie/unidade-1-introducao-a-literatura/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/1serie/unidade-2-producao-textual-resumo-e-fichamento/.gitkeep",
+      "destination": "Portugues 2/1serie/unidade-2-producao-textual-resumo-e-fichamento/.gitkeep",
+      "relative_path": "1serie/unidade-2-producao-textual-resumo-e-fichamento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/1serie/unidade-3-trovadorismo-e-humanismo/.gitkeep",
+      "destination": "Portugues 2/1serie/unidade-3-trovadorismo-e-humanismo/.gitkeep",
+      "relative_path": "1serie/unidade-3-trovadorismo-e-humanismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/1serie/unidade-4-producao-textual-texto-narrativo/.gitkeep",
+      "destination": "Portugues 2/1serie/unidade-4-producao-textual-texto-narrativo/.gitkeep",
+      "relative_path": "1serie/unidade-4-producao-textual-texto-narrativo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/1serie/unidade-5-classicismo-e-quinhentismo/.gitkeep",
+      "destination": "Portugues 2/1serie/unidade-5-classicismo-e-quinhentismo/.gitkeep",
+      "relative_path": "1serie/unidade-5-classicismo-e-quinhentismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/1serie/unidade-6-oralidade-seminario/.gitkeep",
+      "destination": "Portugues 2/1serie/unidade-6-oralidade-seminario/.gitkeep",
+      "relative_path": "1serie/unidade-6-oralidade-seminario/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/1serie/unidade-7-barroco/.gitkeep",
+      "destination": "Portugues 2/1serie/unidade-7-barroco/.gitkeep",
+      "relative_path": "1serie/unidade-7-barroco/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/1serie/unidade-8-producao-textual-resenha-critica/.gitkeep",
+      "destination": "Portugues 2/1serie/unidade-8-producao-textual-resenha-critica/.gitkeep",
+      "relative_path": "1serie/unidade-8-producao-textual-resenha-critica/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/2serie/unidade-1-romantismo-contexto-e-poesia-1-e-2-geracoes/.gitkeep",
+      "destination": "Portugues 2/2serie/unidade-1-romantismo-contexto-e-poesia-1-e-2-geracoes/.gitkeep",
+      "relative_path": "2serie/unidade-1-romantismo-contexto-e-poesia-1-e-2-geracoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/2serie/unidade-2-producao-textual-analise-literaria/.gitkeep",
+      "destination": "Portugues 2/2serie/unidade-2-producao-textual-analise-literaria/.gitkeep",
+      "relative_path": "2serie/unidade-2-producao-textual-analise-literaria/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/2serie/unidade-3-romantismo-poesia-3-geracao-e-prosa/.gitkeep",
+      "destination": "Portugues 2/2serie/unidade-3-romantismo-poesia-3-geracao-e-prosa/.gitkeep",
+      "relative_path": "2serie/unidade-3-romantismo-poesia-3-geracao-e-prosa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/2serie/unidade-4-oralidade-debate-literario/.gitkeep",
+      "destination": "Portugues 2/2serie/unidade-4-oralidade-debate-literario/.gitkeep",
+      "relative_path": "2serie/unidade-4-oralidade-debate-literario/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/2serie/unidade-5-realismo-e-naturalismo/.gitkeep",
+      "destination": "Portugues 2/2serie/unidade-5-realismo-e-naturalismo/.gitkeep",
+      "relative_path": "2serie/unidade-5-realismo-e-naturalismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/2serie/unidade-6-producao-textual-dissertacao-introducao/.gitkeep",
+      "destination": "Portugues 2/2serie/unidade-6-producao-textual-dissertacao-introducao/.gitkeep",
+      "relative_path": "2serie/unidade-6-producao-textual-dissertacao-introducao/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/2serie/unidade-7-parnasianismo-e-simbolismo/.gitkeep",
+      "destination": "Portugues 2/2serie/unidade-7-parnasianismo-e-simbolismo/.gitkeep",
+      "relative_path": "2serie/unidade-7-parnasianismo-e-simbolismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/2serie/unidade-8-producao-textual-dissertacao-desenvolvimento/.gitkeep",
+      "destination": "Portugues 2/2serie/unidade-8-producao-textual-dissertacao-desenvolvimento/.gitkeep",
+      "relative_path": "2serie/unidade-8-producao-textual-dissertacao-desenvolvimento/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/3serie/unidade-1-pre-modernismo/.gitkeep",
+      "destination": "Portugues 2/3serie/unidade-1-pre-modernismo/.gitkeep",
+      "relative_path": "3serie/unidade-1-pre-modernismo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/3serie/unidade-2-redacao-dissertativo-argumentativa-estrutura-completa/.gitkeep",
+      "destination": "Portugues 2/3serie/unidade-2-redacao-dissertativo-argumentativa-estrutura-completa/.gitkeep",
+      "relative_path": "3serie/unidade-2-redacao-dissertativo-argumentativa-estrutura-completa/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/3serie/unidade-3-modernismo-1-e-2-geracoes/.gitkeep",
+      "destination": "Portugues 2/3serie/unidade-3-modernismo-1-e-2-geracoes/.gitkeep",
+      "relative_path": "3serie/unidade-3-modernismo-1-e-2-geracoes/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/3serie/unidade-4-coesao-coerencia-e-repertorio/.gitkeep",
+      "destination": "Portugues 2/3serie/unidade-4-coesao-coerencia-e-repertorio/.gitkeep",
+      "relative_path": "3serie/unidade-4-coesao-coerencia-e-repertorio/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/3serie/unidade-5-modernismo-3-geracao-e-literatura-africana/.gitkeep",
+      "destination": "Portugues 2/3serie/unidade-5-modernismo-3-geracao-e-literatura-africana/.gitkeep",
+      "relative_path": "3serie/unidade-5-modernismo-3-geracao-e-literatura-africana/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/3serie/unidade-6-redacao-enem-competencias/.gitkeep",
+      "destination": "Portugues 2/3serie/unidade-6-redacao-enem-competencias/.gitkeep",
+      "relative_path": "3serie/unidade-6-redacao-enem-competencias/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/3serie/unidade-7-literatura-contemporanea-e-revisao-geral/.gitkeep",
+      "destination": "Portugues 2/3serie/unidade-7-literatura-contemporanea-e-revisao-geral/.gitkeep",
+      "relative_path": "3serie/unidade-7-literatura-contemporanea-e-revisao-geral/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "conteudos",
+      "source_label": "Conteudos Prontos",
+      "source": "Conteudos Prontos/Portugues 2/3serie/unidade-8-redacao-treino-intensivo/.gitkeep",
+      "destination": "Portugues 2/3serie/unidade-8-redacao-treino-intensivo/.gitkeep",
+      "relative_path": "3serie/unidade-8-redacao-treino-intensivo/.gitkeep",
+      "action": "copied",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "category": "documentacao",
+      "source_label": "migration",
+      "source": null,
+      "destination": "Portugues 2/README.md",
+      "relative_path": "README.md",
+      "action": "created_discipline_readme"
+    }
+  ],
+  "metadata_created": []
+}

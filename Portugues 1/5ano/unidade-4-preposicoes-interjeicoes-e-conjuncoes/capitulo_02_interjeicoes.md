@@ -1,4 +1,4 @@
-# Capítulo 2 — Interjeições
+# CAPÍTULO 2 — INTERJEIÇÕES
 
 ---
 
@@ -6,152 +6,161 @@
 
 ## ***"Ah!" e "Epa!" expressam o mesmo sentimento?***
 
-Em uma tirinha, três personagens dizem apenas "Oba!", "Ai!" e "Psiu!". Quase não há frase completa, mas o leitor entende a alegria, a dor e o pedido de atenção.
+Em uma tirinha do mural, três personagens dizem apenas "Oba!", "Ai!" e "Psiu!". Quase não há frase completa, mas o leitor entende alegria, dor e pedido de atenção.
 
 ## 1. Uma Palavra que Vale por uma Frase
 
-A interjeição é uma palavra ou expressão invariável que mostra uma reação e pode valer por uma frase inteira.
+A interjeição é uma palavra curta que carrega uma reação inteira.
 
 ### 1.1 Reação em uma palavra
 
-A **interjeição** expressa emoção, reação, apelo ou cumprimento. Ela aparece sozinha, sem precisar de outras palavras para completar o sentido.
+A **interjeição** é uma palavra ou expressão **invariável** que expressa emoção, reação, apelo ou cumprimento — e pode valer por uma frase inteira.
 
-Observe as frases:
+Observe as falas:
 
-- *— **Oba!** A festa vai começar agora!*  
-  (interjeição **Oba!** — alegria: vale por uma frase inteira de comemoração)
-- *— **Ai!** Pisei no caco de vidro do quintal.*  
-  (interjeição **Ai!** — dor: vale por uma frase inteira de queixa)
+- *"**Oba!** Vou ao parque hoje."*  
+  (interjeição "Oba!" — expressa alegria)
+- *"**Ai!** Bati o pé na cadeira."*  
+  (interjeição "Ai!" — expressa dor)
 
 ### 1.2 O contexto ajuda a entender
 
-A mesma interjeição pode mudar de sentido conforme a situação. Quem ouve ou lê descobre o sentido pelo **contexto**: o que aconteceu antes, o tom da voz e a cena ao redor.
+A mesma interjeição pode mudar de sentido conforme a situação. O contexto e a entonação representada na escrita ajudam o leitor a interpretar.
 
-Compare os usos:
+Compare:
 
-- *— **Ah!** Que vista bonita do alto da serra!*  
-  (interjeição **Ah!** — admiração: a cena é uma surpresa boa)
-- *— **Ah...** Esqueci o caderno em casa de novo.*  
-  (interjeição **Ah** — desânimo: a cena é uma decepção)
+- *"**Ah!** Que ideia boa."*  
+  (interjeição "Ah!" — expressa satisfação ou descoberta)
+- *"**Ah...** Não foi bem assim."*  
+  (interjeição "Ah..." — expressa decepção ou hesitação)
 
 > ✅ **Interjeição:**  
-> É a palavra invariável que vale por uma frase inteira e expressa uma reação imediata.
+> Palavra invariável que expressa reação e pode valer por uma frase inteira.
 
 ## 2. Famílias de Interjeições
 
-As interjeições se organizam em famílias conforme o tipo de reação que expressam.
+As interjeições se organizam em grupos pela função que cumprem.
 
 ### 2.1 Alegria, dor e susto
 
-As interjeições de **alegria** mostram comemoração; as de **dor** mostram sofrimento ou incômodo; as de **susto** ou **surpresa** mostram reação a algo inesperado.
+Algumas interjeições mostram emoções imediatas: comemoração, dor física e surpresa.
 
-Observe as frases:
+Observe:
 
-- *— **Viva!** Vencemos o jogo no último minuto!*  
-  (interjeição **Viva!** — alegria: expressa comemoração da vitória)
-- *— **Nossa!** A tempestade arrancou o telhado da casinha.*  
-  (interjeição **Nossa!** — surpresa: expressa espanto diante da cena)
+- *"**Viva!** Conseguimos terminar o trabalho."*  
+  (interjeição "Viva!" — alegria, comemoração)
+- *"**Nossa!** Não vi você chegando."*  
+  (interjeição "Nossa!" — surpresa)
+
+| Função | Interjeições | Exemplo |
+|---|---|---|
+| alegria | Oba! Viva! Ah! | **Oba!** Hoje tem feira. |
+| dor | Ai! Ui! | **Ai!** Machuquei o dedo. |
+| susto / surpresa | Nossa! Ué! Epa! | **Epa!** Quase caí. |
 
 ### 2.2 Apelo, cumprimento e despedida
 
-Outras interjeições servem para chamar a atenção (**apelo**), saudar (**cumprimento**) ou se afastar com educação (**despedida**).
+Outras interjeições servem para chamar atenção, cumprimentar ou se despedir.
 
-Compare os usos:
+Compare:
 
-- *— **Psiu!** A peça vai começar em silêncio.*  
-  (interjeição **Psiu!** — apelo: pedido de atenção e silêncio)
-- *— **Olá!** Fico feliz em ver você por aqui.*  
-  (interjeição **Olá!** — cumprimento: saudação ao chegar)
+- *"**Psiu!** A apresentação vai começar."*  
+  (interjeição "Psiu!" — apelo, pedido de silêncio)
+- *"**Olá!** Tudo bem com vocês?"*  
+  (interjeição "Olá!" — cumprimento)
 
-| Função | Interjeições mais comuns |
-|---|---|
-| Alegria | **Oba!**, **Viva!**, **Eba!** |
-| Dor | **Ai!**, **Ui!** |
-| Susto / surpresa | **Nossa!**, **Ué!**, **Epa!** |
-| Apelo | **Psiu!**, **Ei!**, **Olha!** |
-| Cumprimento | **Olá!**, **Oi!** |
-| Despedida | **Tchau!**, **Adeus!** |
+| Função | Interjeições | Exemplo |
+|---|---|---|
+| apelo / chamado | Psiu! Ei! Olha! | **Ei!** Espere por mim. |
+| cumprimento | Olá! Oi! | **Olá!** Bom dia. |
+| despedida | Tchau! Até! | **Tchau!** Até amanhã. |
+
+> 💡 **Dica:**  
+> Antes de classificar a interjeição, descubra se o falante está reagindo, chamando ou saudando.
 
 ## 3. Pontuação das Interjeições
 
-A interjeição expressa emoção, e a escrita representa essa emoção com o ponto de exclamação.
+Na escrita, a interjeição quase sempre vem com sinal de exclamação.
 
 ### 3.1 O ponto de exclamação
 
-O **ponto de exclamação** marca a emoção, o chamado ou o susto que a interjeição traz. Ele aparece logo depois da palavra, mesmo quando a frase continua adiante.
+O **ponto de exclamação** marca emoção, surpresa, chamado ou intensidade. Ele aparece logo depois da interjeição.
 
-Observe as frases:
+Observe:
 
-- ***Eba!** Hoje a aula foi cancelada por causa da chuva.*  
-  (ponto de exclamação — marca a alegria da interjeição **Eba**)
-- ***Epa!** Quase derrubei o copo de suco na mesa.*  
-  (ponto de exclamação — marca o susto da interjeição **Epa**)
+- *"**Oba!** Hoje tem festa na escola."*  
+  (ponto de exclamação após a interjeição isolada)
+- *"**Ai!** Pisei numa pedra."*  
+  (interjeição seguida de frase explicando a reação)
 
 ### 3.2 Interjeição no diálogo
 
-Em um diálogo, a interjeição costuma abrir a fala do personagem. A frase que vem depois explica a cena ou completa a reação.
+Em diálogos, a interjeição costuma aparecer no início da fala e depois da exclamação vem uma frase comum.
 
-Compare os usos:
+Veja a sequência:
 
-- *— **Ai!** Esse galho está cheio de espinhos.*  
-  (interjeição abre a fala — a frase seguinte explica a dor)
-- *— **Olá!** Cheguei mais cedo para ajudar a arrumar a sala.*  
-  (interjeição abre a fala — a frase seguinte explica o cumprimento)
+- *— **Nossa!** Você cresceu muito desde o ano passado.*  
+  (interjeição abre a fala em um diálogo)
+- *— **Tchau!** A gente se vê na próxima aula.*  
+  (interjeição encerra com despedida no diálogo)
 
-> ⚠️ **Atenção:**  
-> "Ei!" é interjeição e serve de chamado; "João," é vocativo, vem com vírgula e nomeia quem é chamado.
+> 📌 **Aplicação prática:**  
+> A interjeição pode aparecer sozinha ou como abertura de uma frase, sempre com ponto de exclamação.
 
 ## 4. Uso e Registro
 
-A interjeição é natural em conversas e diálogos, mas aparece pouco em textos escritos formais.
+As interjeições aparecem mais em alguns gêneros do que em outros.
 
 ### 4.1 Conversa, tirinha e mensagem
 
-Em **diálogos**, **tirinhas** e **mensagens** entre amigos, a interjeição traduz a emoção do falante de modo direto. O leitor "ouve" o tom da voz pela palavra escolhida.
+Em conversas, tirinhas e mensagens, as interjeições são frequentes. Elas ajudam a representar reação e tom.
 
-Observe as frases:
+Observe:
 
-- *Mensagem da Júlia: "**Oba!** Já estou indo aí, te encontro na praça."*  
-  (registro informal — interjeição combina com o tom da conversa)
-- *Tirinha: o personagem leva um tropeço e diz "**Ui!**".*  
-  (registro de tirinha — a interjeição mostra a dor da cena rápida)
+- *Mensagem: "**Oba!** Acabei a tarefa."*  
+  (interjeição comum em mensagem informal)
+- *Tirinha: o personagem grita "**Ai!**" depois de tropeçar.*  
+  (interjeição típica em balão de fala)
 
 ### 4.2 Quando evitar em texto formal
 
-Em uma redação escolar mais séria, em uma carta oficial ou em um relatório, a interjeição costuma ficar fora. Esses textos pedem palavras que descrevem o que foi sentido em vez de marcar a emoção com exclamação.
+Em textos formais, como uma redação escolar expositiva, as interjeições são raras. O texto pede explicação clara, sem reação imediata.
 
-Compare os usos:
+Compare:
 
-- *Bilhete para o amigo: "**Nossa!** Que jogo emocionante na final!"*  
-  (registro informal — interjeição combina com o gênero)
-- *Relatório da turma: "A final foi um jogo emocionante até o último minuto."*  
-  (registro formal — descreve a emoção em vez de exclamá-la)
+- *Em diálogo: "**Nossa!** Que descoberta interessante."*  
+  (interjeição cabe no contexto informal)
+- *Em texto formal: "A descoberta é interessante porque amplia o conhecimento sobre o tema."*  
+  (sem interjeição — explicação direta no texto formal)
+
+> ⚠️ **Atenção:**  
+> Use interjeição em diálogo ou tirinha; em texto formal expositivo, prefira frases explicativas.
 
 ---
 
 ## A LÍNGUA NO DIA A DIA
 
-Quando você escreve "Oba! Cheguei!" em uma mensagem, a interjeição já mostra ao colega de outro lado da tela a alegria de chegar antes mesmo de explicar por quê. Francisco da Silveira Bueno (1898-1989), gramático, filólogo e lexicógrafo brasileiro, organizou entre 1963 e 1967 o *Grande Dicionário Etimológico-Prosódico da Língua Portuguesa* e ajudou a registrar interjeições e expressões da fala em obras de referência.
+Cada vez que você manda uma mensagem com "Oba!" ou solta um "Ai!" ao bater o pé na mesa, está usando uma interjeição para expressar uma reação. Francisco da Silveira Bueno (1898–1989), gramático e lexicógrafo brasileiro nascido em Atibaia (SP), publicou entre 1958 e 1969 o *Grande Dicionário Etimológico-Prosódico da Língua Portuguesa*, registrando palavras e seus sentidos com cuidado etimológico.
 
 ---
 
 ## E A BÍBLIA NISSO?
 
-> *"Quem é fiel no pouco também é fiel no muito."*  
+> *"Quem é fiel no pouco também é fiel no muito; e quem é injusto no pouco também é injusto no muito."*  
 > — **Lucas 16:10**
 
-Uma palavra pequena pode mostrar com transparência a reação verdadeira de quem fala. Escolher "Oba!" para a alegria e "Ai!" para a dor é um modo de comunicar com honestidade até nas frases mais curtas.
+A interjeição expressa diretamente o que se sente, e cuidar da palavra escolhida no momento da reação é parte de cuidar da clareza no que se comunica.
 
-> 💬 **Para Conversar:** Que interjeição você usaria ao receber uma boa notícia? E ao levar um susto?
+> 💬 **Para Conversar:** Que interjeição você usa quando recebe uma boa notícia — e como o tom de voz ajuda a reforçar a reação?
 
 ---
 
 ## Simplificando
 
-Interjeição é a palavra invariável que vale por uma frase inteira e expressa emoção, reação, apelo ou cumprimento. Ela costuma vir com ponto de exclamação e aparece com naturalidade em diálogos, tirinhas e mensagens.
+A interjeição é uma palavra invariável que expressa emoção, reação, apelo ou cumprimento, normalmente acompanhada de ponto de exclamação e mais comum em diálogos, tirinhas e mensagens informais do que em textos formais.
 
 ## Para não esquecer
 
-- **Interjeição** — palavra que vale por uma frase e mostra reação
+- **Interjeição** — palavra invariável que vale por uma frase
 - **Famílias** — alegria, dor, susto, apelo, cumprimento, despedida
-- **Exclamação** — pontuação esperada da interjeição
+- **Pontuação** — quase sempre acompanhada de ponto de exclamação
