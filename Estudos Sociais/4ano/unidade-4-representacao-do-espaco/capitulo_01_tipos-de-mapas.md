@@ -142,14 +142,10 @@ Para a planta ficar clara, é bom organizar:
 
 Desenhe a planta da sua sala vista de cima, marcando porta, janelas, quadro, mesas e pelo menos três símbolos criados por você na legenda.
 
----
-
-#### 📚 Curiosidade dos Estudos Sociais
-
-Em 1570, na cidade de Antuérpia, o cartógrafo Abraham Ortelius publicou o *Theatrum Orbis Terrarum*, um livro com 53 mapas no mesmo formato. Esse livro é considerado o primeiro **atlas** do mundo — coleção organizada de vários mapas em um único volume.
+> 📚 **Curiosidade:**  
+> Em 1570, na cidade de Antuérpia, o cartógrafo Abraham Ortelius publicou o *Theatrum Orbis Terrarum*, um livro com 53 mapas no mesmo formato. Esse livro é considerado o primeiro **atlas** do mundo — coleção organizada de vários mapas em um único volume.
 
 ---
-
 ## Enquanto isso...
 
 Muito antes de Ortelius, os hebreus já registravam, em seus livros sagrados, a ideia de um mundo medido e organizado por Deus. No livro de Jó, o Senhor pergunta: *"Onde estavas tu, quando eu fundava a terra? Quem lhe pôs as medidas?"*. A imagem é poderosa: a terra como algo medido com cuidado, não montada por acaso.
@@ -188,14 +184,10 @@ Quem aprende a ser fiel no desenho da sala também aprende a ser fiel em coisas 
 
 🏛️ **Legado:** Ortelius mostrou que organizar com clareza é tão importante quanto desenhar com beleza.
 
----
-
-## Você já pensou nisso?
-
-Um mapa pode parecer bonito e ainda assim confundir quem o lê. Se a legenda estiver faltando, se as cores forem trocadas ou se o título não disser o tema, qualquer pessoa pode entender errado.
+> 🤔 **Você já pensou nisso?**  
+> Um mapa pode parecer bonito e ainda assim confundir quem o lê. Se a legenda estiver faltando, se as cores forem trocadas ou se o título não disser o tema, qualquer pessoa pode entender errado.
 
 ---
-
 ## Simplificando
 
 Existem mapas diferentes porque cada um responde a uma pergunta diferente: o **mapa político** mostra divisões e cidades, o **mapa físico** mostra a natureza, o **mapa temático** destaca um assunto, o **globo terrestre** mostra a Terra arredondada e a **planta** mostra uma área pequena com muitos detalhes.

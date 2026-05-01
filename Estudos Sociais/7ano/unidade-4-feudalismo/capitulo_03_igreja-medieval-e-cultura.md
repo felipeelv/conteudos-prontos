@@ -2,218 +2,185 @@
 
 ## Se a Igreja Medieval construiu universidades (que temos hoje) e também a Inquisição, como avaliar a sua herança? Pode-se separar uma coisa da outra?
 
-Em Paris, por volta do ano 1200, a catedral de Notre-Dame ainda estava em obras: artesãos talhavam pedra, monges atravessavam o adro com manuscritos, estudantes discutiam teologia em latim e fiéis paravam para orar diante de andaimes enormes. Naquela mesma cidade, e nas mesmas décadas, a Igreja Medieval administrava terras, julgava conflitos religiosos e começava a perseguir grupos considerados heréticos. A mesma instituição que organizava saber, arte e ensino também controlava crenças e punia quem fugisse da doutrina oficial. 💭
+Por volta de 1200, em Paris, andaimes envolviam a catedral de Notre-Dame. Pedreiros levantavam pedras enormes, monges atravessavam a praça com manuscritos, estudantes discutiam latim em mesas improvisadas. A mesma instituição que organizava esse esforço cultural também julgava ideias e perseguia heresias. 💭
 
 > 💬 **Para Conversar:**  
 > Quando uma instituição faz coisas importantes e também coisas graves, como a História deve avaliá-la?
 
 ---
 
-## 1. Uma Igreja com Terras e Poder
+## 1. Uma Igreja com terras e poder
 
-Pensar a Igreja Medieval só como instituição religiosa é entender só metade da história. Ela era também grande proprietária de terras, tribunal próprio e força política do Ocidente. Os dois lados desta seção mostram como esse poder funcionava.
+Na Europa feudal, a Igreja não era apenas espaço de oração. Era uma das maiores proprietárias de terras e tinha autoridade política e jurídica reconhecida em todo o Ocidente.
 
 ### 1.1 Fé, terra e autoridade
 
-Já no Capítulo 2, vimos que o **clero** era uma das três ordens da sociedade estamental. Ao longo dos séculos, mosteiros e bispados receberam tantas doações de terras de reis e nobres que se tornaram, em muitas regiões, os maiores proprietários da Europa. Bispos e abades governavam feudos, cobravam tributos e organizavam a defesa local, ao lado dos nobres leigos.
+A **Igreja Medieval** acumulava terras por doações de nobres, heranças e dízimos. Bispos e abades atuavam como senhores feudais, com servos, exércitos e tribunais próprios. O **clero** virou a primeira ordem da sociedade estamental e a única instituição com poder organizado em todo o Ocidente cristão.
 
-A Igreja também tinha leis e tribunais próprios. O **direito canônico** — conjunto de normas religiosas da Igreja — regulava casamento, herança, bens religiosos e conduta de clérigos. Os **tribunais eclesiásticos** — tribunais ligados à Igreja, responsáveis por julgar clérigos e questões religiosas ou morais — atuavam ao lado dos tribunais reais. As principais formas de poder da Igreja eram:
+A Igreja exercia esse poder em três frentes:
 
-- terras e rendas, em mosteiros, bispados e paróquias;
-- tribunais e leis próprios (direito canônico);
-- influência cultural sobre arte, festas e calendário.
+- **espiritual**, oferecendo sacramentos e mediação com o sagrado;
+- **econômica**, controlando vastas terras e cobrando dízimos;
+- **jurídica**, com **tribunais eclesiásticos** (ligados à Igreja, julgavam clérigos e questões religiosas) baseados no **direito canônico** (conjunto de normas religiosas).
 
 > 💡 **Você sabia?**  
-> Em muitos reinos, os bispos eram tão poderosos quanto condes — e participavam ativamente de guerras, conselhos e disputas políticas.
+> Estima-se que, no auge da Idade Média, a Igreja chegou a controlar até um terço das terras cultiváveis da Europa Ocidental.
 
 ### 1.2 Papa, imperador e bispos
 
-No alto da hierarquia eclesiástica estava o **papa**, considerado sucessor do apóstolo Pedro e líder da Igreja Ocidental. Abaixo dele, os **bispos** dirigiam dioceses, ordenavam padres e administravam bens eclesiásticos. A grande pergunta da Idade Média central foi: quem podia nomear esses bispos — o papa, com base na autoridade religiosa, ou o imperador, com base no poder político?
+O **Papa**, bispo de Roma, era reconhecido como autoridade máxima da Igreja Ocidental. Os reis e imperadores precisavam de sua bênção para legitimar coroações. Mas Papa e imperador disputavam poder, especialmente sobre quem podia nomear bispos.
 
-Esse confronto ficou conhecido como **Querela das Investiduras** — disputa entre papa e imperador sobre quem poderia nomear bispos. Ela se estendeu de 1076 a 1122 e teve momentos dramáticos, como a **Humilhação de Canossa** (1077), em que o imperador Henrique IV esperou três dias na neve, vestido como penitente, para ser perdoado pelo papa Gregório VII. A querela terminou em 1122 com a Concordata de Worms: o papa concedia o caráter espiritual aos bispos; o imperador, os bens materiais. Os principais pontos da disputa foram:
+Essa disputa explodiu na **Querela das Investiduras** (1076–1122):
 
-- quem nomeava bispos e abades em cada território;
-- até onde ia a autoridade do papa sobre o imperador;
-- como separar poder espiritual e poder temporal.
+- o Papa Gregório VII proibiu que reis nomeassem bispos;
+- o imperador Henrique IV reagiu e foi excomungado;
+- em 1077, Henrique caminhou até o castelo de Canossa para pedir perdão de joelhos na neve — episódio conhecido como **Humilhação de Canossa**;
+- o conflito só foi resolvido em 1122, com a Concordata de Worms.
 
----
+> ⏸️ **Pare e Pense:**  
+> Quem deveria ter mais autoridade dentro de um reino: quem comanda o exército ou quem comanda a vida espiritual?
 
-## 2. Mosteiros e Preservação do Saber
+## 2. Mosteiros e preservação do saber
 
-Enquanto a Igreja se firmava nos centros de poder, outra parte do clero vivia em silêncio, em comunidades isoladas. Os mosteiros não eram apenas lugares de oração: foram, durante séculos, os principais guardiães do conhecimento europeu.
+Enquanto papas e imperadores disputavam o poder, mosteiros espalhados pelo campo construíam um trabalho silencioso e duradouro: copiavam manuscritos e preservavam o conhecimento da Antiguidade.
 
 ### 2.1 Rezar, trabalhar e copiar
 
-Um **mosteiro** era uma comunidade religiosa onde monges viviam, trabalhavam, oravam e copiavam textos. A vida monástica ocidental foi organizada pela **Regra de São Bento** — conjunto de orientações para a vida monástica ocidental, escrita por **Bento de Núrsia** no século VI. A regra resumiu o ideal monástico em uma frase em latim: **ora et labora**, "reza e trabalha".
+O **mosteiro** era a comunidade religiosa onde monges viviam, oravam, trabalhavam e estudavam. A vida monástica ocidental se organizou em torno da **Regra de São Bento**, escrita em 529. Sua síntese ficou famosa em três palavras latinas:
 
-A rotina do monge unia oração e produção concreta. Em um único dia, ele podia:
+> *Ora et labora* — "reza e trabalha".
 
-- rezar várias vezes nos chamados ofícios divinos;
-- trabalhar na horta, na cozinha, na enfermaria ou no scriptorium;
-- estudar a Bíblia e textos da tradição cristã.
+A rotina do mosteiro misturava:
 
-> 💭 **Pense um pouco:**  
-> Por que organizar a vida em uma rotina fixa pode ajudar uma comunidade a durar séculos sem se desfazer?
+- horários fixos de oração ao longo do dia e da noite;
+- trabalho agrícola para sustento da comunidade;
+- estudo e cópia de textos no **scriptorium** (sala dedicada à cópia de manuscritos).
 
 ### 2.2 Manuscritos que atravessaram séculos
 
-Em uma sala chamada **scriptorium** — sala ou espaço de cópia de manuscritos em mosteiros —, monges passavam horas copiando obras à mão. Sem imprensa, cada cópia era feita letra a letra, com penas, tintas e pergaminhos. Eles copiavam Bíblias e livros litúrgicos, mas também obras gregas e romanas que, sem esse trabalho, teriam se perdido para sempre.
+No scriptorium, monges copiavam à mão livros bíblicos, textos da Antiguidade greco-romana e tratados teológicos. Sem essas cópias, boa parte da literatura clássica teria desaparecido. Os mosteiros funcionavam, ao mesmo tempo, como:
 
-Quando os primeiros centros urbanos voltaram a se reorganizar, séculos depois, os textos guardados nos mosteiros voltaram a circular. A herança intelectual do Ocidente passou, em boa parte, por essas mesas silenciosas. Os mosteiros contribuíram com:
+- bibliotecas que guardavam o saber acumulado;
+- escolas onde leitura e escrita eram ensinadas;
+- centros agrícolas que adotavam técnicas como a rotação trienal.
 
-- cópia e preservação de textos bíblicos e clássicos;
-- centros de estudo onde se aprendia latim e leitura;
-- pequenas bibliotecas que serviram de base para escolas posteriores.
+Quem lê hoje uma tragédia grega ou um diálogo de Aristóteles depende, sem saber, de algum monge anônimo. Foi ele que copiou esse texto pacientemente, em pleno século IX, X ou XI.
 
----
+## 3. Cultura medieval: Deus, arte e razão
 
-## 3. Cultura Medieval: Deus, Arte e Razão
-
-A cultura medieval não era religiosa por acaso — ela era estruturada em torno de Deus. Essa visão moldou arquitetura, arte, literatura, ensino e filosofia. Os quatro subtópicos a seguir mostram como.
+A cultura medieval colocava Deus no centro de tudo. Essa visão aparecia na arte, na literatura e até na forma como universidades organizavam o estudo.
 
 ### 3.1 Teocentrismo: Deus no centro
 
-O **teocentrismo** era a visão de mundo em que Deus é o centro da explicação da vida. Tudo — política, trabalho, família, festas, calendário — era pensado em referência à fé cristã. Não havia separação clara entre vida pública e vida religiosa: o Natal organizava o ano agrícola, o domingo organizava a semana, batismo e morte marcavam o ciclo da pessoa.
+O **teocentrismo** é a visão de mundo em que Deus é o centro da explicação da vida. Tudo — a ordem social, o destino dos reinos, as pestes e as colheitas — era interpretado a partir dessa referência. Educação, arte e ciência caminhavam dentro dessa moldura.
 
-Essa centralidade aparecia em:
-
-- festas religiosas que estruturavam o calendário;
-- educação ministrada por clérigos;
-- arte voltada para a vida bíblica e a vida dos santos.
+> 💭 **Pense um pouco:**  
+> Toda sociedade tem alguma coisa "no centro" — pode ser Deus, mercado, ciência, nação. O que parece estar no centro da nossa hoje?
 
 ### 3.2 Românico e gótico em pedra e luz
 
-Duas grandes formas de construir igrejas marcaram a Idade Média. A **arte românica** era um estilo medieval com paredes espessas, arcos arredondados e pequenas janelas — a igreja parecia uma fortaleza, escura e protetora, lembrando que Deus protege contra o mal. Já a **arte gótica** era um estilo medieval com arcos apontados, **vitrais** (janelas com vidros coloridos formando imagens religiosas) e igrejas mais altas e iluminadas — a luz que entrava era símbolo da presença divina.
+A **arte românica** (séculos X–XII) erguia igrejas com paredes espessas, arcos arredondados e janelas pequenas. A sensação era de fortaleza, abrigo, peso. Já a **arte gótica** (séculos XII–XV) trouxe arcos apontados, **vitrais** coloridos e construções mais altas e iluminadas.
 
-A diferença não era só estética: era também teológica. As principais marcas que separam os dois estilos são:
+A diferença visual carregava sentido religioso:
 
-- arcos arredondados (românico) x arcos apontados (gótico);
-- paredes grossas e escuras (românico) x vitrais coloridos e luz (gótico);
-- aspecto de fortaleza (românico) x aspecto de altura e leveza (gótico).
-
-> 💡 **Você sabia?**  
-> Algumas catedrais góticas levaram mais de um século para ficar prontas — quem começava a obra sabia que jamais a veria concluída.
+- o românico expressava a Igreja como refúgio diante de um mundo perigoso;
+- o gótico expressava a Igreja como elevação rumo ao céu;
+- os vitrais funcionavam como "Bíblia dos pobres", contando histórias para quem não sabia ler.
 
 ### 3.3 Canções, trovadores e universidades
 
-A literatura medieval também era marcada pela fé e pelo mundo dos cavaleiros. As **canções de gesta** narravam feitos de guerreiros cristãos; a mais famosa é a **Canção de Rolando**, sobre um cavaleiro de Carlos Magno morto em uma emboscada. Já o **trovadorismo** unia poesia e música nas cortes do sul da França e da península ibérica, cantando amor cortês e críticas sociais.
+A literatura medieval tinha dois grandes gêneros. As **canções de gesta** eram poemas heroicos sobre cavaleiros e batalhas — a **Canção de Rolando** é o exemplo mais famoso. O **trovadorismo** trazia poesia lírica, falando de amor cortês, lealdade e cortesia.
 
-Em paralelo, no século XII, surgiram as primeiras **universidades medievais** — corporações de mestres e estudantes ligadas à Igreja, em cidades como Bolonha, Paris e Oxford. Elas ensinavam principalmente:
-
-- artes liberais (gramática, lógica, retórica, aritmética, geometria, astronomia, música);
-- direito (canônico e romano);
-- medicina;
-- teologia.
+A partir do século XII, surgiram as **universidades medievais** como Bolonha, Paris e Oxford. Elas nasciam de corporações de mestres e estudantes ligadas à Igreja, ensinando teologia, direito, medicina e artes liberais.
 
 ### 3.4 Fé e razão na escolástica
 
-Foi nesse ambiente universitário que nasceu a **escolástica** — método de estudo que buscava conciliar fé cristã e razão filosófica. Os escolásticos liam textos bíblicos, autores cristãos antigos e filósofos como Aristóteles, recém-traduzidos do árabe e do grego. Para eles, a razão humana, bem usada, podia ajudar a entender melhor a fé — não substituí-la.
+A **escolástica** era o método de estudo que buscava conciliar fé cristã e razão filosófica. O grande nome dessa tradição foi **Tomás de Aquino**. Em sua obra *Suma Teológica*, ele tentou mostrar que crer e pensar não eram caminhos opostos, mas podiam dialogar.
 
-O grande nome desse método foi **Tomás de Aquino**, frade dominicano italiano que, no século XIII, escreveu a *Suma Teológica*. Nela, ele apresentava perguntas, ouvia objeções, respondia com argumentos e fechava com refutações. A escolástica buscava:
+A escolástica organizou o estudo em três passos:
 
-- examinar perguntas difíceis com rigor lógico;
-- mostrar que fé cristã e razão filosófica podiam dialogar;
-- formar mestres capazes de ensinar e debater nas universidades.
+- formular uma pergunta (*quaestio*);
+- apresentar argumentos a favor e contra (*disputatio*);
+- chegar a uma conclusão fundamentada (*responsio*).
 
----
+Esse método deixou marcas profundas na forma como universidades discutem ideias até hoje.
 
-## 4. Inquisição Medieval: Controle e Repressão
+## 4. Inquisição medieval: controle e repressão
 
-A Igreja Medieval também tinha um lado repressivo, e ignorá-lo seria distorcer a história. Esta seção apresenta a Inquisição medieval e mostra por que ela é diferente da Inquisição moderna que aparecerá séculos depois.
+O mesmo poder religioso que organizava saber e cultura também perseguia ideias. A Inquisição mostra esse lado mais duro da Igreja Medieval.
 
 ### 4.1 O que a Igreja chamava de heresia
 
-Em meados do século XIII, alguns grupos cristãos passaram a discordar de pontos importantes da doutrina oficial — eram chamados de **heréticos** pela Igreja. Os mais conhecidos foram os **cátaros**, no sul da França, que viam o mundo material como mau, e os **valdenses**, no norte da Itália, que defendiam a leitura direta da Bíblia em língua comum, sem mediação obrigatória do clero.
+Heresia era qualquer doutrina considerada contrária ao ensino oficial da Igreja. A partir de 1231, o Papa Gregório IX criou a **Inquisição medieval**: tribunal religioso encarregado de identificar, julgar e punir hereges.
 
-Para combater essas ideias, em 1231, o papa Gregório IX criou a **Inquisição medieval** — tribunal criado para combater heresias na Idade Média. Ela funcionava através de:
+Dois grupos foram especialmente perseguidos:
 
-- inquéritos sobre comunidades suspeitas;
-- interrogatórios feitos por inquisidores ligados a ordens religiosas;
-- penas que iam da penitência pública à entrega ao chamado braço secular para execução.
+- **cátaros**, no sul da França, que pregavam um cristianismo dualista e rejeitavam a hierarquia eclesial;
+- **valdenses**, que defendiam pobreza voluntária e leitura direta da Bíblia.
 
 > ⏸️ **Pare e Pense:**  
-> Quando uma instituição mistura defesa da fé com punição de pessoas, o que fica mais difícil de controlar: as ideias ou o uso da força?
+> Quando uma instituição confunde discordância com ameaça, o que ela perde no caminho?
 
 ### 4.2 Inquisição medieval não é Inquisição moderna
 
-Aqui é preciso muito cuidado. A Inquisição medieval surgiu no século XIII para combater heresias dentro da cristandade ocidental. Já a Inquisição moderna espanhola (1478) e a portuguesa (1536), que aparecerão em outra unidade, foram tribunais ligados às monarquias católicas, nascidos em outro contexto, com outras vítimas — judeus convertidos, muçulmanos convertidos e cristãos suspeitos de heresia em tempos de Reforma e Contrarreforma.
-
-Misturar as duas é um erro comum, mas grave. As principais diferenças entre elas são:
-
-- a Inquisição medieval combatia heresias dentro da cristandade europeia;
-- a Inquisição moderna está ligada a monarquias e a tensões pós-Reforma;
-- as vítimas, métodos e contextos políticos são distintos em cada uma.
+A **Inquisição medieval** (séc. XIII–XIV) é diferente da Inquisição moderna espanhola e portuguesa (séc. XV em diante), que será estudada mais adiante. As duas usam o mesmo nome, mas têm contextos, alvos e objetivos políticos distintos. Confundir as duas apaga diferenças importantes que ajudam a entender cada época.
 
 ---
 
 ## 🤝 Sua Parte
+Compare uma imagem de igreja românica e uma de catedral gótica. Marque três diferenças visuais e relacione cada uma à visão religiosa da época.
 
-Compare em sala uma imagem de igreja românica e uma de catedral gótica, marque três diferenças visuais e relacione cada uma à visão religiosa medieval explicada neste capítulo.
-
----
-
-#### 📚 Curiosidade dos Estudos Sociais
-
-Muitas universidades europeias nasceram como corporações de mestres e estudantes ligadas à Igreja: Bolonha (1088), Paris (cerca de 1150) e Oxford (cerca de 1167). Quando você ouve falar em "reitor", "calouro" ou "diploma", está usando palavras que vêm direto desse mundo medieval.
+> 📚 **Curiosidade:**  
+> Muitas universidades europeias nasceram de corporações de mestres e estudantes ligadas à Igreja, como Bolonha, Paris e Oxford — essas três continuam funcionando até hoje.
 
 ---
-
 ## Enquanto isso...
 
-Enquanto a Igreja se consolidava como instituição central do Ocidente, a vida cristã monástica também passava por reformas. A **Regra de São Bento** (529) deu o primeiro grande modelo de mosteiro; a fundação de **Cluny** (910) buscou renovar a vida religiosa e libertar mosteiros do controle de nobres leigos. No século XIII, surgiram novas ordens, como **franciscanos** e **dominicanos**, dedicados à pregação e ao ensino — e foi dentro dessas ordens que apareceram muitos mestres das primeiras universidades. Foi também esse cristianismo medieval que, ao traduzir Aristóteles e debater a relação entre fé e razão, deu base para a escolástica.
+Enquanto a Europa feudal se consolidava, a trajetória cristã construía marcos que ainda nos influenciam. A Regra de São Bento (529) organizou a vida monástica. Cluny (910) reformou o monaquismo. A Querela das Investiduras (1076–1122) testou os limites entre Igreja e Estado. Franciscanos e dominicanos, no século XIII, levaram a vida religiosa para fora dos mosteiros e ajudaram a fundar universidades.
 
 O que estava em jogo:
 
-- a preservação do conhecimento por monges em mosteiros e scriptoria;
-- a tensão entre Igreja e poder político (Querela das Investiduras);
-- a convivência possível entre fé cristã e razão filosófica.
+- a preservação do conhecimento clássico e bíblico em meio à fragmentação política;
+- a tensão sempre viva entre poder espiritual e poder temporal.
 
 ## E para hoje...
 
 *"**Quem é fiel no pouco, também é fiel no muito; e quem é injusto no pouco, também é injusto no muito.**"*  
 — **Lucas 16:10**
 
-A busca da verdade exige integridade intelectual. Isso significa investigar com honestidade, considerar as evidências de todos os lados, reconhecer aquilo que ainda não se entendeu e não aceitar respostas fáceis só porque elas confirmam o que a gente já pensava antes. Com esse versículo, podemos aprender que:
+A busca da verdade exige integridade intelectual. Isso significa investigar com honestidade, comparar evidências e não aceitar respostas fáceis só porque são convenientes. A escolástica medieval, no que tinha de melhor, mostra essa atitude: encarar perguntas difíceis com rigor.
 
-- a Igreja Medieval foi centro de poder, terra e cultura;
-- mosteiros preservaram textos e práticas de estudo;
-- a cultura medieval era marcada pelo teocentrismo;
-- a Inquisição medieval mostra que o poder religioso também podia reprimir.
+Com esse versículo, podemos aprender que:
 
-Quem é honesto nos pequenos detalhes do estudo — citar a fonte, admitir o que não sabe, ouvir o lado contrário — costuma ser também honesto nas grandes decisões da vida.
+- estudar com integridade é reconhecer o que a história tem de luminoso e de sombrio;
+- ser fiel à verdade no pouco — uma data, uma diferença, uma fonte — é o que prepara para julgar o muito.
 
 > 💬 **Para Conversar:**  
 > Quando você descobre que uma história tem lados bons e ruins, você tenta entender os dois ou escolhe só o lado mais fácil?
 
 ---
-
 ## Esse foi o "cara"
 
-**Tomás de Aquino (1225-1274)**
+**Tomás de Aquino (1225–1274)**
 
-- Frade dominicano nascido no Reino da Sicília, estudou em Nápoles, Colônia (com Alberto Magno) e Paris, onde se tornou mestre na universidade.
-- Escreveu a *Suma Teológica*, uma das obras centrais da escolástica, organizada em perguntas, objeções, respostas e refutações.
-- Buscou mostrar que fé cristã e razão filosófica podem dialogar — usando inclusive Aristóteles para sustentar argumentos cristãos.
+- Frade dominicano nascido no Reino da Sicília, estudou em Nápoles, Colônia e Paris, sob a orientação de Alberto Magno.
+- Escreveu a *Suma Teológica*, uma das obras centrais da escolástica, em que articula fé cristã e razão filosófica.
+- Defendeu que a investigação racional e a revelação cristã não se anulavam, mas podiam dialogar e se iluminar mutuamente.
 
-🏛️ **Legado:** Tomás de Aquino mostra a força intelectual da Idade Média e a tentativa de pensar a fé com rigor racional.
+🏛️ **Legado:** mostrou a força intelectual da Idade Média e abriu caminho para o estudo da fé com rigor racional.
 
----
-
-## Você já pensou nisso?
-
-Chamar a Idade Média de "idade das trevas" apaga universidades, catedrais, manuscritos e debates filosóficos profundos. Mas idealizar a Idade Média também esconde perseguições, controle religioso e desigualdades duríssimas. O trabalho da História não é torcer por um lado: é olhar a herança inteira com honestidade.
+> 🤔 **Você já pensou nisso?**  
+> Chamar a Idade Média de "idade das trevas" apaga universidades, catedrais e debates filosóficos; idealizá-la apaga perseguições e controle religioso — o trabalho da História é olhar a herança inteira.
 
 ---
-
 ## Simplificando
 
-A Igreja Medieval tinha terras, autoridade política e influência cultural enormes. Mosteiros preservaram manuscritos e organizaram a vida religiosa, enquanto bispos e papas disputavam poder com imperadores. A cultura medieval era teocêntrica e aparece em igrejas românicas, catedrais góticas, canções, trovadores, universidades e na escolástica de Tomás de Aquino. A Inquisição medieval, criada em 1231 contra heresias, mostra o lado repressivo desse poder e deve ser distinguida da Inquisição moderna, que será estudada em outra unidade.
+A Igreja Medieval reunia terras, autoridade política e influência cultural. Mosteiros preservaram manuscritos e saberes; a cultura era teocêntrica e aparece em igrejas românicas, catedrais góticas, literatura e escolástica. A Inquisição medieval mostra o lado repressivo desse poder — distinto da Inquisição moderna, que vem séculos depois.
 
 ---
-
 ## Para não esquecer
 
-- Igreja Medieval = instituição religiosa, política, econômica e cultural.
-- Mosteiros = scriptorium, *ora et labora* e cópia de manuscritos.
-- Teocentrismo = Deus no centro da visão de mundo.
-- Inquisição medieval ≠ Inquisição moderna.
+- **Igreja Medieval:** religiosa, política, econômica e cultural.
+- **Mosteiros:** preservação de saberes via cópia de manuscritos.
+- **Teocentrismo:** Deus no centro da visão de mundo.
+- **Inquisição medieval:** combateu heresias; ≠ Inquisição moderna.

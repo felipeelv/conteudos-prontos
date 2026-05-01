@@ -133,14 +133,10 @@ Ao mexer no zoom, é possível notar:
 
 No pátio ou na sala, marque o Leste pelo nascer do Sol, complete uma rosa dos ventos no caderno e, depois, crie uma legenda e uma escala simples para a planta da sua sala.
 
----
-
-#### 📚 Curiosidade dos Estudos Sociais
-
-Antes do GPS, marinheiros atravessavam oceanos contando estrelas, observando o Sol e usando bússolas com muito cuidado. Pequenos erros de direção, depois de muitos dias de viagem, podiam levar o navio a ilhas distantes do destino — por isso medir bem fazia toda a diferença.
+> 📚 **Curiosidade:**  
+> Antes do GPS, marinheiros atravessavam oceanos contando estrelas, observando o Sol e usando bússolas com muito cuidado. Pequenos erros de direção, depois de muitos dias de viagem, podiam levar o navio a ilhas distantes do destino — por isso medir bem fazia toda a diferença.
 
 ---
-
 ## Enquanto isso...
 
 Enquanto navegadores aprendiam a medir rumos com cuidado, a Bíblia já lembrava que medida certa não é só técnica — é também respeito ao próximo. Em Provérbios, está escrito: *"Balança enganosa é abominação para o Senhor, mas o peso justo é o seu prazer."* A ideia vale para o comércio, mas também para mapas: medir errado prejudica quem confia na medida.
@@ -179,14 +175,10 @@ Um mapa bem-feito é um pequeno presente para quem precisa achar o caminho.
 
 🏛️ **Legado:** Pedro Nunes mostrou que medir com cuidado não é detalhe — é respeito por quem vai depender daquela medida.
 
----
-
-## Você já pensou nisso?
-
-O Norte não precisa ficar sempre em cima do mapa para o desenho representar o espaço corretamente. O que importa é o mapa avisar como está orientado, com a rosa dos ventos ou um símbolo claro. Sem isso, qualquer pessoa pode se confundir.
+> 🤔 **Você já pensou nisso?**  
+> O Norte não precisa ficar sempre em cima do mapa para o desenho representar o espaço corretamente. O que importa é o mapa avisar como está orientado, com a rosa dos ventos ou um símbolo claro. Sem isso, qualquer pessoa pode se confundir.
 
 ---
-
 ## Simplificando
 
 **Pontos cardeais** e **colaterais** indicam direções, e a **rosa dos ventos** os organiza num símbolo só; a **bússola** aponta o norte, a **legenda** explica os símbolos do mapa e a **escala** mostra a relação entre o desenho e o tamanho real do lugar.
