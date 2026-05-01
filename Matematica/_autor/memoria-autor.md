@@ -68,3 +68,44 @@ Every chapter follows this architecture, in order:
 4. **NA VIDA REAL** — maximum 2 sentences
 5. **E A BÍBLIA NISSO?** — (1) verse in bold and centered using `#### Center **...**`; (2) 1–2 direct sentences connecting the concept to the biblical principle — no bullet, no dynamic title, no explicit analogy ("assim como X, Y"), no separate supporting verse; (3) *Para Conversar* in blockquote
 6. **Simplificando** — maximum 2 dense sentences synthesizing the arc of the chapter. **This is the final closing block. "Para não esquecer" is not included.**
+
+---
+
+## Cache de validações
+
+> Atualizado automaticamente pelo agente `validador-matematica-1` (invocado pela skill `autor-matematica-1` no Passo 4.5). Não pesquise itens já listados — reuse a validação registrada.
+
+### Fórmulas e identidades validadas
+
+| Fórmula | Validação | Validada em | Data |
+|---|---|---|---|
+| _(nenhuma ainda)_ | | | |
+
+### Cálculos passo-a-passo verificados
+
+| Cálculo | Resultado | Verificada em | Data |
+|---|---|---|---|
+| `(2+3) · 4 = 5 · 4 = 20` | ✅ correto | 4ano/Un4/Cap1 | 2026-05-01 |
+| `(8-3) · 2 = 5 · 2 = 10` | ✅ correto | 4ano/Un4/Cap1 | 2026-05-01 |
+| `(4+2) · 3 = 6 · 3 = 18` | ✅ correto | 4ano/Un4/Cap1 | 2026-05-01 |
+| `4+2 · 3 = 4+6 = 10` | ✅ correto (precedência: × antes de +) | 4ano/Un4/Cap1 | 2026-05-01 |
+| `3 · (2+5) = 3 · 7 = 21` | ✅ correto | 4ano/Un4/Cap1 | 2026-05-01 |
+| `3 · 2 + 3 · 5 = 6 + 15 = 21` | ✅ correto (distributiva confere) | 4ano/Un4/Cap1 | 2026-05-01 |
+| `4 · (3+2) = 4 · 5 = 20` | ✅ correto | 4ano/Un4/Cap1 | 2026-05-01 |
+| `4 · 3 + 4 · 2 = 12 + 8 = 20` | ✅ correto (distributiva confere) | 4ano/Un4/Cap1 | 2026-05-01 |
+| `5 · (10+4) = 5 · 14 = 70` | ✅ correto | 4ano/Un4/Cap1 | 2026-05-01 |
+| `5 · 10 + 5 · 4 = 50 + 20 = 70` | ✅ correto (distributiva confere) | 4ano/Un4/Cap1 | 2026-05-01 |
+| `2 · (6+3) = 2 · 9 = 18` | ✅ correto | 4ano/Un4/Cap1 | 2026-05-01 |
+| `2 · 6 + 2 · 3 = 12 + 6 = 18` | ✅ correto (distributiva confere) | 4ano/Un4/Cap1 | 2026-05-01 |
+
+### Personagens / dados históricos validados
+
+| Item | Resultado validado | Fonte | Validado em | Data |
+|---|---|---|---|---|
+| Robert Recorde | matemático galês, c. 1510–1558. Inventou o sinal de igualdade `=` em sua obra *The Whetstone of Witte* (1557). | Perplexity (Wikipedia EN/PT, MacTutor, Britannica) | 4ano/Un4/Cap1 | 2026-05-01 |
+
+### Versículos confirmados (ARA — Almeida Revista e Atualizada)
+
+| Referência | Tradução exata | Capítulos | Última validação |
+|---|---|---|---|
+| Provérbios 10:9 | "Quem anda em integridade anda seguro, mas o que perverte os seus caminhos será conhecido." | 4ano/Un4/Cap1 | 2026-05-01 |
