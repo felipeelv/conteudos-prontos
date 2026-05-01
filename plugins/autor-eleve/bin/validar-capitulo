@@ -192,6 +192,88 @@ if [[ "$disciplina" == "Estatistica e Educacao Financeira" ]]; then
   fi
 fi
 
+# --- Regras de Estudos Sociais e Historia ---
+if [[ "$disciplina" == "Estudos Sociais" || "$disciplina" == "Historia" ]]; then
+
+  # ES1. Sem topico numerado >= 5 (capitulo tem exatamente 4)
+  if grep -nE '^## [5-9]\.' "$file" > /dev/null; then
+    linha=$(grep -nE '^## [5-9]\.' "$file" | head -1 | cut -d: -f1)
+    add_violacao "ES1 (linha $linha): topico numerado >= 5 (capitulo deve ter exatamente 4)"
+  fi
+
+  # ES2. Sem heading "Explorando os Conceitos"
+  if grep -nE '^## *Explorando os Conceitos' "$file" > /dev/null; then
+    linha=$(grep -nE '^## *Explorando os Conceitos' "$file" | head -1 | cut -d: -f1)
+    add_violacao "ES2 (linha $linha): heading 'Explorando os Conceitos' proibido (fluxo direto da intro para ## 1.)"
+  fi
+
+  # ES3. Headings pos-conteudo na ordem
+  ordem_es=("🤝 Sua Parte" "📚 Curiosidade dos Estudos Sociais" "Enquanto isso\\.\\.\\." "E para hoje\\.\\.\\." "Esse foi o \"cara\"" "Você já pensou nisso\\?" "Simplificando" "Para n[ãa]o esquecer")
+  pos_anterior_es=0
+  for h in "${ordem_es[@]}"; do
+    pos=$(grep -nE "^#{2,4} *$h" "$file" | head -1 | cut -d: -f1 || true)
+    if [[ -z "$pos" ]]; then
+      add_violacao "ES3: heading pos-conteudo ausente: $h"
+      continue
+    fi
+    if [[ "$pos" -lt "$pos_anterior_es" ]]; then
+      add_violacao "ES3: heading $h fora de ordem (linha $pos vem antes de $pos_anterior_es)"
+      break
+    fi
+    pos_anterior_es="$pos"
+  done
+
+  # ES4. ## Para nao esquecer com 3 a 4 bullets
+  bullets_es=$(awk '
+    /^## *Para n[ãa]o esquecer/{flag=1; next}
+    flag && /^#{1,4} /{flag=0}
+    flag && /^[-*] /{count++}
+    END{print count+0}
+  ' "$file")
+  if [[ "$bullets_es" -lt 3 || "$bullets_es" -gt 4 ]]; then
+    add_violacao "ES4: 'Para nao esquecer' tem $bullets_es bullets (esperado: 3-4)"
+  fi
+
+  # ES5. ## E para hoje... contem > 💬 **Para Conversar:**
+  if ! awk '/^## *E para hoje/{flag=1; next} flag && /^## /{flag=0} flag' "$file" | grep -qE '> *💬 \*\*Para Conversar:'; then
+    add_violacao "ES5: 'E para hoje...' sem bloco '> 💬 **Para Conversar:**'"
+  fi
+
+  # ES6. ## E para hoje... NAO contem rotulo proibido "Valores para nossa vida:"
+  if awk '/^## *E para hoje/{flag=1; next} flag && /^## /{flag=0} flag' "$file" | grep -qE '\*\*Valores para nossa vida:\*\*'; then
+    add_violacao "ES6: 'E para hoje...' usa rotulo proibido '**Valores para nossa vida:**' (usar transicao narrativa contextual)"
+  fi
+
+  # ES7. ## Esse foi o "cara" contem 🏛️ **Legado:**
+  if ! awk '/^## *Esse foi o "cara"/{flag=1; next} flag && /^## /{flag=0} flag' "$file" | grep -qE '🏛️ *\*\*Legado:'; then
+    add_violacao "ES7: 'Esse foi o \"cara\"' sem '🏛️ **Legado:**'"
+  fi
+
+  # ES8. Introducao (antes do ## 1.) contem > 💬 **Para Conversar:**
+  if ! awk '/^## 1\./{exit} {print}' "$file" | grep -qE '> *💬 \*\*Para Conversar:'; then
+    add_violacao "ES8: introducao sem '> 💬 **Para Conversar:**' antes do '## 1.'"
+  fi
+
+  # ES9. Maximo 2 tabelas (grupos de linhas que comecam com |)
+  tabelas=$(awk '
+    /^\|/ {if (!in_table) { in_table=1; n++ }}
+    !/^\|/ {in_table=0}
+    END {print n+0}
+  ' "$file")
+  if [[ "$tabelas" -gt 2 ]]; then
+    add_violacao "ES9: $tabelas tabelas no capitulo (max: 2)"
+  fi
+
+  # ES10. Boxes precisam estar em blockquote (linha comeca com > antes do emoji+titulo)
+  violacoes_es10=$(grep -nE '^[^>]*[💭⏸️💡💬] +\*\*(Pense um pouco|Pare e Pense|Voc[êe] sabia|Para Conversar)' "$file" || true)
+  if [[ -n "$violacoes_es10" ]]; then
+    while IFS= read -r v; do
+      n=$(echo "$v" | cut -d: -f1)
+      add_violacao "ES10 (linha $n): box sem '>' (precisa estar em blockquote)"
+    done <<< "$violacoes_es10"
+  fi
+fi
+
 # --- Saida ---
 if [[ ${#violacoes[@]} -eq 0 ]]; then
   echo "[validar-capitulo] OK: $file"

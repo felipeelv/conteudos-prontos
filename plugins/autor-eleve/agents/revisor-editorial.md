@@ -36,6 +36,27 @@ Aplique TODAS as 10 validacoes:
 13. **Sem `**Lembre-se de:**`** dentro do bloco `## E A BÍBLIA NISSO?` — o rótulo do mnemônico bíblico deve emergir do tema do capítulo (frase de ação contextualizada em negrito).
 14. **Máximo 1 box por seção principal `## N.`** — contar linhas no formato `> [emoji] **Título:**` dentro de cada seção numerada e reportar quando passar de 1.
 
+### Estudos Sociais e Historia
+
+Aplique TODAS as 10 validacoes especificas:
+
+1. **Sem topico numerado >= 5** (`## 5.`, `## 6.` ...) — capitulo tem exatamente 4 topicos numerados.
+2. **Sem heading `## Explorando os Conceitos`** — fluxo direto da introducao para `## 1.`.
+3. **Headings pos-conteudo na ordem exata**: `## 🤝 Sua Parte` -> `#### 📚 Curiosidade dos Estudos Sociais` -> `## Enquanto isso...` -> `## E para hoje...` -> `## Esse foi o "cara"` -> `## Você já pensou nisso?` -> `## Simplificando` -> `## Para não esquecer`.
+4. **`## Para não esquecer` tem 3 a 4 bullets** (estilo memory triggers — palavras-chave, nao frases completas).
+5. **`## E para hoje...` contem `> 💬 **Para Conversar:**`** (segundo `Para Conversar` do capitulo, depois do da introducao).
+6. **`## E para hoje...` NAO contem `**Valores para nossa vida:**`** — rotulo proibido. Usar transicao narrativa contextual ("Com esse versiculo, podemos aprender que:", etc.).
+7. **`## Esse foi o "cara"` contem `🏛️ **Legado:**`**.
+8. **Introducao contem `> 💬 **Para Conversar:**`** antes do `## 1.` (primeiro `Para Conversar` do capitulo).
+9. **Maximo 2 tabelas** no capitulo. Tabelas substituem prosa/lista, nunca acrescentam conteudo novo.
+10. **Boxes em blockquote** — `💭 **Pense um pouco`, `⏸️ **Pare e Pense`, `💡 **Você sabia`, `💬 **Para Conversar` precisam estar em linha que comece com `>`.
+
+**Regras adicionais (fora do hook automatico):**
+- Personagem-chave do `## Esse foi o "cara"` = exatamente o do blueprint (nao substituir, nao inventar).
+- Versiculo do `## E para hoje...` = exatamente o do blueprint (nao trocar, nao parafrasear).
+- Sem bloco de exercicios (vai em outro material).
+- Maximo 2 boxes por secao principal `##` numerada.
+
 ### Outras disciplinas
 
 Por enquanto, apenas estrutura basica:
