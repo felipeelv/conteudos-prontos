@@ -96,17 +96,22 @@ Para cada blueprint_capitulo:
 
 ### 6. Checklist de validação (rodar ANTES de salvar cada capítulo)
 
+> **Padrão editorial vigente: v2 (desde 2026-05-02).** Referência canônica: `~/conteudos-prontos/Geografia/_autor/PADRAO_EDITORIAL_v2.md`. As validações abaixo refletem o padrão v2.
+
 | # | Regra | Como validar |
 |---|---|---|
 | GEO1 | **Sem `## 5.` ou superior** — exatamente 4 tópicos numerados | `grep` por `^## [5-9]\.` |
-| GEO2 | **Sem emoji em heading `##` ou `###`**, exceto duas exceções nomeadas: `## 🤝 Sua Parte` (H2) e `#### 📚 Curiosidade Geográfica` (H4) | `grep` por emoji em heading; whitelist apenas as duas linhas exatas |
-| GEO3 | **Headings pós-conteúdo na ordem exata** (8 blocos): `## 🤝 Sua Parte` → `#### 📚 Curiosidade Geográfica` → `## Em outros lugares do mundo...` → `## E para hoje...` → `## Esse foi o "cara"` → `## Você já pensou nisso?` → `## Simplificando` → `## Para não esquecer` | `grep` por cada |
-| GEO4 | **`## Para não esquecer` tem 3 a 4 bullets** (formato `Termo: explicação breve em uma frase`) | contar `- ` na seção |
+| GEO2 | **Sem emoji em heading `##` ou `###`**, exceto uma exceção nomeada: `## 🤝 Sua Parte` (H2). `📚 Curiosidade` e `🤔 Você já pensou nisso?` agora são blockquotes — não headings | `grep` por emoji em heading; whitelist apenas a linha `## 🤝 Sua Parte` |
+| GEO3 | **Sequência fixa pós-conteúdo (v2)**: `## 🤝 Sua Parte` → `> 📚 **Curiosidade:**` (blockquote) → `## Em outros lugares do mundo...` → `## E para hoje...` → `## Esse foi o "cara"` → `> 🤔 **Você já pensou nisso?**` (blockquote) → `## Simplificando` → `## Para não esquecer` | `grep` por cada — atenção: 2 itens são blockquotes, não headings |
+| GEO4 | **`## Para não esquecer` tem 3 a 4 bullets** no formato `**Termo:** definição em uma linha` (sem segunda frase, sem exemplo) | contar `- **` na seção |
 | GEO5 | **`## E para hoje...` contém `> 💬 **Para Conversar:**`** (segundo do capítulo) | `grep` na seção |
-| GEO6 | **Introdução contém `> 💬 **Para Conversar:**`** (primeiro do capítulo, antes de `## Explorando os Conceitos`) | `grep` na faixa antes do heading |
-| GEO7 | **`## Esse foi o "cara"` contém `🏛️ **Legado:**`** | `grep` na seção |
-| GEO8 | **`## Em outros lugares do mundo...` contém `Diferenças relevantes:`** | `grep` na seção |
+| GEO6 | **Após o prelúdio (antes de `## Explorando os Conceitos`) há `> 💬 **Para Conversar:**`** — pergunta reflexiva em 2ª pessoa que fecha o prelúdio | `grep` na faixa antes do heading |
+| GEO7 | **`## Esse foi o "cara"` termina com box `> 🏛️ **Legado:**`** em formato blockquote (com `>` e quebra de linha interna) | `grep -E '^> 🏛️ \*\*Legado'` |
+| GEO8 | **`## Em outros lugares do mundo...` contém `Diferenças relevantes:`** antes da lista | `grep` na seção |
 | GEO9 | **Pelo menos um box de ancoragem espacial** — `> 📍 **No Mapa:**`, `> 🌍 **Em Escala:**` ou `> 📊 **Em Números:**` presente no capítulo | `grep -E '^> *(📍 \*\*No Mapa\|🌍 \*\*Em Escala\|📊 \*\*Em Números)'` |
+| GEO10 | **Frases ≤ 25 palavras**, parágrafos com 2-3 frases (máx 4 linhas), sem frases proibidas ("É importante destacar", "De maneira geral", "Podemos compreender", etc.) | revisão visual + `grep -i` para frases proibidas |
+| GEO11 | **Pergunta provocativa (H2)** ancorada na tensão central do conteúdo, não na narrativa do prelúdio | revisão manual |
+| GEO12 | **Prelúdio em estilo crônica seca** — lugar+horário concretos no início, frases curtas com cadência, repetição como recurso, frase-ponte ao final | revisão manual |
 
 **Se alguma validação falhar:** corrija o capítulo e rode novamente. Não salve um capítulo que falha em validações.
 
@@ -116,43 +121,55 @@ Para cada blueprint_capitulo:
 - Atualize `~/conteudos-prontos/Geografia/_PROGRESSO.md` (incrementar contador, atualizar data, adicionar linha no histórico)
 - Se for o último capítulo da unidade, liste todos os arquivos gerados e ofereça commit do diretório (sem fazer sem confirmação)
 
-## Regras invioláveis (resumo — versão completa em `_autor/CLAUDE.md`)
+## Regras invioláveis (v2 — versão completa em `_autor/CLAUDE.md` e `_autor/PADRAO_EDITORIAL_v2.md`)
 
 1. **NUNCA** criar bloco de exercícios (lista de questões numeradas) — exercícios vão em outro material.
 2. **NUNCA** criar tópico numerado depois do `## 4.` — capítulo tem **exatamente** 4 tópicos numerados.
-3. **NUNCA** colocar emoji em heading `##` ou `###`. **Exceções permitidas:** `## 🤝 Sua Parte` (H2) e `#### 📚 Curiosidade Geográfica` (H4 — único H4 do capítulo).
-4. **NUNCA** abrir a introdução com "Neste capítulo vamos…" ou listar conceitos/topônimos/dados antecipadamente.
-5. **NUNCA** ultrapassar a extensão da introdução por série (1ª–2ª EM: 5-6 frases | 3ª EM: 6-8 frases).
-6. **NUNCA** apresentar conceito espacial **sem ancorá-lo em um lugar real** (topônimo, paisagem, escala). Geografia que não localiza vira teoria abstrata.
-7. **NUNCA** tratar países como atores monolíticos — distinguir governo, povo, elites, regiões.
-8. **NUNCA** relativizar consenso científico em meio ambiente (IPCC, IBGE, painéis nacionais são base — não opinião contrária).
-9. **NUNCA** apresentar geopolítica controversa com uma única perspectiva — incluir mais de um ângulo.
-10. **NUNCA** usar tabelas e blocos de código por padrão. **Exceção:** tabela simples para comparar biomas, climas, blocos econômicos ou indicadores quando for o jeito mais claro.
-11. **NUNCA** usar boxes (`💭`, `⏸️`, `💡`, `💬`, `📍`, `🌍`, `📊`) sem `>` à frente — formatação obrigatória em blockquote com quebra de linha interna (título com 2 espaços ao final + conteúdo na linha seguinte, ambos dentro de `>`).
-12. **NUNCA** omitir o `> 💬 **Para Conversar:**` da introdução **ou** o do bloco `## E para hoje...`. São **dois** "Para Conversar" diferentes.
-13. **NUNCA** trocar o geógrafo do `## Esse foi o "cara"` — vem literal do blueprint.
-14. **NUNCA** trocar ou parafrasear o versículo do `## E para hoje...` — vem literal do blueprint.
+3. **NUNCA** colocar emoji em heading `##` ou `###`. **Única exceção:** `## 🤝 Sua Parte` (H2). `📚 Curiosidade` e `🤔 Você já pensou nisso?` agora são **blockquotes**, não headings.
+4. **NUNCA** abrir o prelúdio com "Neste capítulo vamos…" ou listar conceitos/topônimos/dados antecipadamente.
+5. **NUNCA** escrever frase com mais de 25 palavras. Ideal: 8-16 palavras. Cada frase faz uma única função.
+6. **NUNCA** parágrafo com mais de 4 linhas no resultado final. Agrupar 2-3 frases relacionadas; quebrar quando o foco mudar.
+7. **NUNCA** usar frases proibidas: "É importante destacar que", "Podemos compreender que", "De maneira geral", "Em grande parte", "De forma direta".
+8. **NUNCA** apresentar conceito espacial **sem ancorá-lo em um lugar real** (topônimo, paisagem, escala). Geografia que não localiza vira teoria abstrata.
+9. **NUNCA** tratar países como atores monolíticos — distinguir governo, povo, elites, regiões.
+10. **NUNCA** relativizar consenso científico em meio ambiente (IPCC, IBGE, painéis nacionais são base — não opinião contrária).
+11. **NUNCA** apresentar geopolítica controversa com uma única perspectiva — incluir mais de um ângulo.
+12. **NUNCA** usar tabelas e blocos de código por padrão. **Exceção:** tabela simples para comparar biomas, climas, blocos econômicos ou indicadores quando for o jeito mais claro.
+13. **NUNCA** usar boxes interativos (`💭`, `⏸️`, `💡`, `💬`, `📍`, `🌍`, `📊`, `🏛️`, `📚`, `🤔`) sem `>` à frente.
+14. **NUNCA** omitir o `> 💬 **Para Conversar:**` do prelúdio **ou** o do bloco `## E para hoje...`. São **dois** "Para Conversar" diferentes.
+15. **NUNCA** trocar o geógrafo do `## Esse foi o "cara"` — vem literal do blueprint.
+16. **NUNCA** trocar ou parafrasear o versículo do `## E para hoje...` — vem literal do blueprint.
+17. **NUNCA** colocar o `🏛️ Legado` como linha solta — sempre como box `> 🏛️ **Legado:**` com quebra de linha interna.
+18. **NUNCA** colocar segunda frase, exemplo ou desenvolvimento em `## Para não esquecer` — apenas `**Termo:** definição em uma linha`.
 
-## Estrutura fixa do capítulo
+## Estrutura fixa do capítulo (v2)
 
 ```
 # Capítulo X — TEMA
 
-## Pergunta-problema (pergunta aberta com tensão espacial ou geopolítica)
+## [Pergunta provocativa ancorada na tensão central do conteúdo]
 
-[Texto introdutório narrativo — cena espacial concreta + tensão central + chamada ao aluno em segunda pessoa. Máx. 5-6 frases (1ª-2ª EM) ou 6-8 frases (3ª EM).]
+[Prelúdio narrativo em estilo crônica seca — lugar + horário concretos no início, frases curtas com cadência, repetição como recurso, encadeamento por causa, frase-ponte ao final. Tom: desperte interesse, NÃO rigor técnico.]
 
 > 💬 **Para Conversar:**  
-> [pergunta reflexiva em segunda pessoa, adaptada ao tema]
+> [pergunta reflexiva em segunda pessoa, fecha o prelúdio]
 
 ---
 
-## Explorando os Conceitos
-
 ## 1. [Conceito ou processo geográfico]
-[Abertura sintética: 2-3 frases]
-### 1.1 [Pergunta orientadora]
-### 1.2 [Pergunta orientadora]
+[Abertura sintética: 1-2 frases]
+
+> [Synthesis blockquote — frase-síntese que arremata a definição, sem emoji]
+
+### 1.1 [Subtópico]
+[Parágrafo curto: 2-3 frases]
+> [Synthesis blockquote opcional]
+[Frase de transição + lista com explicação direta]
+> 📍/📊/🌍 **Box interativo:**
+
+### 1.2 [Subtópico]
+[mesma lógica]
+
 ## 2. [...]
 ## 3. [...]
 ## 4. [Aplicação atual / impactos espaciais / conexão com a vida do aluno]
@@ -160,20 +177,34 @@ Para cada blueprint_capitulo:
 ---
 
 ## 🤝 Sua Parte
-[Aplicação prática e cidadania ambiental/territorial — máximo 1 frase]
+[1 parágrafo curto — atividade prática conectada à realidade do aluno]
 
 ---
 
-#### 📚 Curiosidade Geográfica
-[Fato espacial ou cartográfico que amplia o tema — 1-2 frases]
+> 📚 **Curiosidade:** [1-2 frases. Fato concreto, surpreendente. NÃO É HEADING — é blockquote único.]
 
 ---
 
 ## Em outros lugares do mundo...
-[Comparação espacial com outro país/continente/bioma + lista "Diferenças relevantes:" com bullets]
+
+[2 parágrafos de contexto comparativo Brasil × outro lugar]
+
+Diferenças relevantes:
+
+- **[Aspecto]:** [Brasil] × [outro lugar];
+- **[Aspecto]:** [Brasil] × [outro lugar];
+- ...
+
+---
 
 ## E para hoje...
-[Versículo bíblico (itálico/negrito + referência) + comentário cristão + transição narrativa contextual ("Com isso, podemos aprender que:") + bullets de aprendizados + frase de síntese]
+
+***"[Versículo]"*** *([Referência])*
+
+[1 parágrafo curto conectando o conceito do capítulo ao princípio bíblico]
+
+- [aplicação direta 1];
+- [aplicação direta 2].
 
 > 💬 **Para Conversar:**  
 > [pergunta reflexiva em segunda pessoa]
@@ -182,29 +213,35 @@ Para cada blueprint_capitulo:
 
 ## Esse foi o "cara"
 
-**Nome do geógrafo (datas)**
+**[Nome] ([datas])**
 
-[Bullets biográficos: nome, época, país, área de atuação + ideia central]
+- [bullet biográfico curto: formação];
+- [bullet biográfico curto: contribuição];
+- [bullet biográfico curto: legado/influência].
 
-🏛️ **Legado:** uma linha curta.
+> 🏛️ **Legado:**  
+> [Síntese de impacto histórico em 1-2 frases]
 
 ---
 
-## Você já pensou nisso?
-[Problematização — questionar simplificações comuns: "mapa não é o território", "globalização não é homogeneização", etc.]
+> 🤔 **Você já pensou nisso?** [1-2 frases. Provocação que tensiona o conteúdo. NÃO É HEADING — é blockquote único.]
 
 ---
 
 ## Simplificando
-[Resumo em 1-2 parágrafos curtos para revisão rápida]
+
+[Parágrafo 1: síntese factual do capítulo]
+
+> [Parágrafo 2: reflexão em synthesis blockquote, sem emoji]
 
 ---
 
 ## Para não esquecer
-- Termo 1: explicação em uma frase;
-- Termo 2: explicação em uma frase;
-- Termo 3: explicação em uma frase;
-(3 a 4 bullets, formato "Termo: explicação breve")
+
+- **Termo:** definição em uma linha (sem segunda frase, sem exemplo);
+- **Termo:** definição em uma linha;
+- **Termo:** definição em uma linha;
+(3 a 4 bullets, formato `**Termo:** def`)
 ```
 
 ## Adaptação por série
@@ -215,7 +252,19 @@ Para cada blueprint_capitulo:
 | **2ª série EM** | Geografia humana e econômica (população, urbanização, agricultura, indústria, geopolítica clássica, blocos econômicos, globalização). Análise espacial articulada com processos sociais e econômicos. Leitura crítica de gráficos e dados demográficos. Texto introdutório: 5-6 frases. |
 | **3ª série EM** | Síntese e aprofundamento — geopolítica contemporânea, conflitos atuais, sustentabilidade, geografia do Brasil em escala regional, questões agrárias, urbanas e ambientais. Foco em interpretação, vestibulares/ENEM, conexão entre escalas (local–regional–global). Texto introdutório: 6-8 frases. Posicionamento argumentativo. |
 
-## Boxes interativos (sempre em blockquote, mínimo 1 por `##` numerado)
+## Boxes e blockquotes (catálogo v2)
+
+### Synthesis blockquote (sem emoji) — recurso de respiração visual
+
+Frase-síntese isolada como blockquote SEM emoji. Função: arrematar a conclusão de uma ideia e criar respiração visual entre parágrafos densos. Use em dois momentos:
+- **Síntese de abertura** — encerra a definição inicial de uma seção
+- **Síntese reflexiva** — arremata uma ideia entre dois parágrafos
+
+```markdown
+> Frase-síntese aqui. Sem emoji, sem título.
+```
+
+### Boxes interativos (com emoji + título em negrito)
 
 ```
 > 💭 **Pense um pouco:**       — pergunta curta de reflexão individual
@@ -224,25 +273,39 @@ Para cada blueprint_capitulo:
 > 📍 **No Mapa:**              — referência espacial concreta (onde, escala, fronteira)
 > 🌍 **Em Escala:**            — comparação local × regional × global
 > 📊 **Em Números:**           — dado quantitativo (área, população, PIB, taxa, vazão)
-> 💬 **Para Conversar:**       — pergunta reflexiva em segunda pessoa (introdução + "E para hoje...")
+> 💬 **Para Conversar:**       — pergunta reflexiva em segunda pessoa (intro + "E para hoje...")
+> 🏛️ **Legado:**               — síntese de impacto histórico (em "Esse foi o cara")
+> 📚 **Curiosidade:**          — fato curioso (bloco fixo entre Sua Parte e Em outros lugares)
+> 🤔 **Você já pensou nisso?** — provocação reflexiva (bloco fixo entre Esse foi o cara e Simplificando)
 ```
+
+**Mínimo 1 box** por seção principal `## 1.`, `## 2.`, `## 3.`, `## 4.`.
 
 **Pelo menos UM** dos três boxes de ancoragem (`📍 No Mapa`, `🌍 Em Escala`, `📊 Em Números`) precisa aparecer no capítulo — Geografia sem ancoragem espacial vira teoria.
 
-**Formato obrigatório:** título na 1ª linha com 2 espaços ao final, conteúdo na 2ª linha — ambos dentro do blockquote.
+**Formato obrigatório:** título na 1ª linha com 2 espaços ao final, conteúdo na 2ª linha — ambos dentro do blockquote. Exceção: `📚 Curiosidade` e `🤔 Você já pensou nisso?` podem ser inline (título e texto na mesma linha) por serem secos e curtos.
 
-## Blocos pós-conteúdo (NESTA ORDEM — 8 blocos)
+## Blocos pós-conteúdo (v2 — NESTA ORDEM)
 
 ```
-## 🤝 Sua Parte                                      (1 frase, cidadania ambiental/territorial)
-#### 📚 Curiosidade Geográfica                        (H4 — fato espacial pontual, 1-2 frases)
-## Em outros lugares do mundo...                     (comparação espacial + lista "Diferenças relevantes:")
-## E para hoje...                                    (versículo + comentário + transição contextual + bullets + Para Conversar)
-## Esse foi o "cara"                                 (linha **Nome (datas)** + bullets biográficos + 🏛️ **Legado:**)
-## Você já pensou nisso?                             (problematização — 1-2 frases questionando simplificação)
-## Simplificando                                     (1-2 parágrafos curtos)
-## Para não esquecer                                 (3-4 bullets formato "Termo: explicação breve")
+## 🤝 Sua Parte                                       (H2 — 1 parágrafo curto, atividade prática)
+> 📚 **Curiosidade:** ...                             (BLOCKQUOTE inline — fato curioso, 1-2 frases)
+## Em outros lugares do mundo...                      (H2 — 2 parágrafos + lista "Diferenças relevantes:")
+## E para hoje...                                     (H2 — versículo + 1 parágrafo + 1-2 bullets + Para Conversar)
+## Esse foi o "cara"                                  (H2 — **Nome (datas)** + bullets + box `> 🏛️ **Legado:**`)
+> 🤔 **Você já pensou nisso?** ...                    (BLOCKQUOTE inline — provocação, 1-2 frases)
+## Simplificando                                      (H2 — exatamente 2 parágrafos, P2 em synthesis blockquote)
+## Para não esquecer                                  (H2 — 3-4 bullets, formato `**Termo:** def em 1 linha`)
 ```
+
+**Mudanças do padrão v1 → v2 (2026-05-02):**
+- `📚 Curiosidade` deixou de ser H4 (`#### 📚 Curiosidade Geográfica`) e virou blockquote inline (`> 📚 **Curiosidade:** ...`)
+- `🤔 Você já pensou nisso?` deixou de ser H2 e virou blockquote inline (`> 🤔 **Você já pensou nisso?** ...`)
+- `🏛️ Legado` deixou de ser linha solta (`🏛️ **Legado:** ...`) e virou box completo (`> 🏛️ **Legado:**` + linha de texto dentro do `>`)
+- Pergunta-problema renomeada para **pergunta provocativa** — agora ancorada na tensão central do conteúdo, não na narrativa
+- Prelúdio em estilo crônica seca (lugar+horário, frases curtas, repetição como recurso)
+- Synthesis blockquote (sem emoji) introduzido como recurso oficial de respiração visual
+- Frases ≤ 25 palavras, parágrafos com 2-3 frases, frases proibidas listadas
 
 ## Tensão central da disciplina
 

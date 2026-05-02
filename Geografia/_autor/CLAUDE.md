@@ -2,9 +2,11 @@
 
 > **Disciplinas cobertas (Blueprint):** `Geografia` (Ensino Médio: 1ª, 2ª e 3ª séries)
 > **Pasta de prompt:** `PRODUCAO/Prompts Criador de Conteudo/Geografia/`
-> **Modelo editorial:** `prompt-autor.md` da pasta acima — **fonte de verdade absoluta para forma**.
+> **Modelo editorial:** `_autor/PADRAO_EDITORIAL_v2.md` (canônico, vigente desde 2026-05-02). `prompt-autor.md` mantido como referência histórica do padrão v1.
 
 > **Distinção importante:** este AUTOR cobre **somente Geografia do Ensino Médio**. Conteúdo geográfico do Ensino Fundamental (1º–9º ano, integrado com História) é responsabilidade do AUTOR de Estudos Sociais.
+
+> **⚠️ Padrão editorial v2 vigente (2026-05-02):** o padrão atual difere do `prompt-autor.md` em pontos importantes. Antes de produzir qualquer capítulo, leia `_autor/PADRAO_EDITORIAL_v2.md` na íntegra. Mudanças-chave em relação ao v1: `📚 Curiosidade` e `🤔 Você já pensou nisso?` viraram blockquotes (não headings); `🏛️ Legado` virou box; pergunta-problema → pergunta provocativa; prelúdio em estilo crônica seca; synthesis blockquote (sem emoji) introduzido como recurso; frases ≤ 25 palavras; parágrafos 2-3 frases; lista de frases proibidas.
 
 ---
 
@@ -14,24 +16,31 @@ Material **expositivo-analítico-espacial** para Ensino Médio. O capítulo apre
 
 A leitura é **espacializada**: parte de uma cena geográfica concreta (uma enchente, um porto, uma fronteira, um deslizamento), percorre 4 tópicos numerados com subtópicos, ancora dado cartográfico/quantitativo em lugares reais, e fecha com blocos especiais que ampliam o olhar, comparam com outros territórios, conectam à cosmovisão cristã (mordomia da terra, justiça espacial) e provocam o aluno.
 
-## Estrutura fixa do capítulo (do `prompt-autor.md`)
+## Estrutura fixa do capítulo (v2 — canônica)
+
+> Para a estrutura completa com exemplos, consulte `_autor/PADRAO_EDITORIAL_v2.md`. Versão resumida abaixo.
 
 ```
 # Capítulo X — TEMA
-## Pergunta-problema (pergunta aberta com tensão espacial ou geopolítica)
-[Texto introdutório narrativo: cena espacial + tensão central + chamada ao aluno. Máx. 5-6 frases (1ª-2ª EM) ou 6-8 frases (3ª EM).]
+
+## [Pergunta provocativa ancorada na tensão central do conteúdo]
+
+[Prelúdio em estilo crônica seca — lugar+horário concretos, frases curtas, repetição como recurso, frase-ponte ao final. NÃO é descrição técnica.]
 
 > 💬 **Para Conversar:**
-> [pergunta reflexiva em segunda pessoa]
+> [pergunta reflexiva em segunda pessoa, fecha o prelúdio]
 
 ---
 
-## Explorando os Conceitos
-
 ## 1. [Conceito ou processo geográfico]
-[Abertura sintética: 2-3 frases]
-### 1.1 [Pergunta orientadora]
-### 1.2 [Pergunta orientadora]
+[Abertura sintética: 1-2 frases]
+
+> [Synthesis blockquote — frase-síntese sem emoji que arremata]
+
+### 1.1 [Subtópico]
+[Parágrafo curto: 2-3 frases] → [synthesis blockquote opcional] → [transição + lista] → [box interativo]
+
+### 1.2 [Subtópico]
 
 ## 2. [...]
 ## 3. [...]
@@ -40,62 +49,61 @@ A leitura é **espacializada**: parte de uma cena geográfica concreta (uma ench
 ---
 
 ## 🤝 Sua Parte
-[Aplicação prática e cidadania ambiental/territorial.]
+[1 parágrafo curto.]
 
 ---
 
-#### 📚 Curiosidade Geográfica
-[Fato espacial ou cartográfico que amplia o tema.]
+> 📚 **Curiosidade:** [1-2 frases. NÃO é heading.]
 
 ---
 
 ## Em outros lugares do mundo...
-[Comparação espacial com outro país/continente/bioma + lista "Diferenças relevantes:" com bullets.]
+[2 parágrafos + lista "Diferenças relevantes:".]
+
+---
 
 ## E para hoje...
-[Versículo bíblico (itálico/negrito + referência) + comentário cristão + transição + lista de aprendizados + síntese]
-
-> 💬 **Para Conversar:**
-> [pergunta reflexiva em segunda pessoa]
+[Versículo + 1 parágrafo curto + 1-2 bullets de aplicação + box `> 💬 Para Conversar`.]
 
 ---
 
 ## Esse foi o "cara"
-[Geógrafo/cartógrafo/explorador: bullets biográficos + 🏛️ Legado.]
+[**Nome (datas)** + bullets biográficos + box `> 🏛️ **Legado:**`]
 
 ---
 
-## Você já pensou nisso?
-[Problematização — questionar simplificações comuns: "mapa não é o território", "globalização não é homogeneização".]
+> 🤔 **Você já pensou nisso?** [1-2 frases. NÃO é heading.]
 
 ---
 
 ## Simplificando
-[Resumo em 1-2 parágrafos para revisão rápida.]
+[Parágrafo 1: síntese factual. Parágrafo 2: synthesis blockquote sem emoji.]
 
 ---
 
 ## Para não esquecer
-- Termo 1: explicação em uma frase;
-- Termo 2: explicação em uma frase;
-- Termo 3: explicação em uma frase;
-(Mínimo 3, máximo 4 bullets — formato "Termo: explicação breve")
+- **Termo:** definição em uma linha;
+- **Termo:** definição em uma linha;
+- **Termo:** definição em uma linha;
+(3 a 4 bullets, formato `**Termo:** def`. SEM segunda frase, SEM exemplo.)
 ```
 
-## Regras invioláveis (Geografia)
+## Regras invioláveis (Geografia v2)
 
 - ❌ **NUNCA** criar tópico numerado depois do `## 4.` — capítulo de Geografia tem **exatamente** 4 tópicos numerados.
-- ❌ **NUNCA** colocar emoji em heading `##` ou `###`. **Exceções permitidas:**
-  - `## 🤝 Sua Parte` — H2 com emoji (bloco especial nomeado).
-  - `#### 📚 Curiosidade Geográfica` — H4 com emoji (único H4 do capítulo).
-- ❌ **NUNCA** abrir o texto introdutório com "Neste capítulo vamos…" ou listar conceitos/topônimos/dados.
-- ❌ **NUNCA** transformar a introdução em resumo do capítulo.
+- ❌ **NUNCA** colocar emoji em heading `##` ou `###`. **Única exceção:** `## 🤝 Sua Parte`. `📚 Curiosidade` e `🤔 Você já pensou nisso?` são **blockquotes**, não headings.
+- ❌ **NUNCA** abrir o prelúdio com "Neste capítulo vamos…" ou listar conceitos/topônimos/dados.
+- ❌ **NUNCA** escrever frase com mais de 25 palavras. Ideal: 8-16 palavras. Cada frase faz uma única função (definir, explicar, exemplificar, comparar OU concluir).
+- ❌ **NUNCA** parágrafo com mais de 4 linhas. Agrupar 2-3 frases relacionadas; quebrar quando o foco mudar.
+- ❌ **NUNCA** usar frases proibidas: "É importante destacar que", "Podemos compreender que", "De maneira geral", "Em grande parte", "De forma direta".
 - ❌ **NUNCA** apresentar conceito espacial **sem ancorá-lo em um lugar real** (topônimo, paisagem, escala). Geografia que não localiza vira teoria abstrata.
-- ❌ **NUNCA** usar boxes interativos sem `>` (blockquote) — todos têm `>` e quebra de linha interna (dois espaços + nova linha dentro do blockquote).
+- ❌ **NUNCA** usar boxes interativos sem `>` (blockquote) — todos têm `>` e quebra de linha interna (dois espaços + nova linha dentro do blockquote). Exceção formato inline: `📚 Curiosidade` e `🤔 Você já pensou nisso?` (título + texto na mesma linha).
+- ❌ **NUNCA** colocar `🏛️ Legado` como linha solta — sempre como box `> 🏛️ **Legado:**` com quebra de linha interna.
+- ❌ **NUNCA** colocar segunda frase, exemplo ou desenvolvimento em `## Para não esquecer` — só `**Termo:** def em uma linha`.
 - ❌ **NUNCA** tratar países como atores monolíticos — distinguir governo, povo, elites, regiões.
 - ❌ **NUNCA** relativizar consenso científico em meio ambiente (IPCC, IBGE, painéis nacionais são base — não opinião contrária).
 - ❌ **NUNCA** usar tabelas e blocos de código por padrão. **Exceção:** tabela simples para comparar biomas, climas, blocos econômicos ou indicadores quando for o jeito mais claro.
-- ❌ **NUNCA** omitir o `> 💬 **Para Conversar:**` da introdução **ou** o do bloco `## E para hoje...`. São **dois** "Para Conversar" diferentes.
+- ❌ **NUNCA** omitir o `> 💬 **Para Conversar:**` do prelúdio **ou** o do bloco `## E para hoje...`. São **dois** "Para Conversar" diferentes.
 - ❌ **NUNCA** apresentar geopolítica controversa com uma única perspectiva — incluir mais de um ângulo.
 
 ## Regras estruturais (Geografia)
@@ -153,27 +161,22 @@ cd PRODUCAO/PIPELINE_CONTEUDO/autores/geografia
 ./scripts/criar_capitulos.sh -d "Geografia" -a "3serie" -u "unidade-7-ordem-mundial" --yes
 ```
 
-## Validações pós-geração
+## Validações pós-geração (v2 — checklist GEO1-GEO12)
 
-O script `criar_capitulos.sh` valida cada capítulo gerado contra:
-
-1. **Sem `## 5.`** (ou `## 6.`, etc.) — Geografia tem exatamente 4 tópicos numerados.
-2. **Sem emoji em heading `##` ou `###`** — exceto as duas exceções nomeadas (`## 🤝 Sua Parte` e `#### 📚 Curiosidade Geográfica`).
-3. **Headings pós-conteúdo presentes** na ordem correta:
-   - `## 🤝 Sua Parte`
-   - `#### 📚 Curiosidade Geográfica`
-   - `## Em outros lugares do mundo...`
-   - `## E para hoje...`
-   - `## Esse foi o "cara"`
-   - `## Você já pensou nisso?`
-   - `## Simplificando`
-   - `## Para não esquecer`
-4. **`## Para não esquecer` tem 3 a 4 bullets** — não 2, não 5+.
-5. **`## E para hoje...` contém `> 💬 **Para Conversar:**`** — bloco obrigatório do final.
-6. **Introdução também contém `> 💬 **Para Conversar:**`** — antes de `## Explorando os Conceitos`. (Logo, **dois** "Para Conversar" no capítulo total.)
-7. **`## Esse foi o "cara"` contém `🏛️ **Legado:**`** — elemento obrigatório.
-8. **`## Em outros lugares do mundo...` contém `Diferenças relevantes:`** — heurística de presença da lista comparativa.
-9. **Pelo menos um box de ancoragem espacial/cartográfica** (`📍 **No Mapa:**`, `🌍 **Em Escala:**` ou `📊 **Em Números:**`) presente no capítulo — Geografia sem ancoragem espacial vira teoria.
+| # | Regra |
+|---|---|
+| GEO1 | Sem `## 5.` ou superior |
+| GEO2 | Sem emoji em heading exceto `## 🤝 Sua Parte` |
+| GEO3 | Sequência fixa pós-conteúdo: `## 🤝 Sua Parte` → `> 📚 **Curiosidade:**` (blockquote) → `## Em outros lugares do mundo...` → `## E para hoje...` → `## Esse foi o "cara"` → `> 🤔 **Você já pensou nisso?**` (blockquote) → `## Simplificando` → `## Para não esquecer` |
+| GEO4 | `## Para não esquecer` tem 3-4 bullets no formato `**Termo:** def em uma linha` |
+| GEO5 | `## E para hoje...` contém `> 💬 **Para Conversar:**` |
+| GEO6 | Após o prelúdio (antes de `## Explorando os Conceitos`) há `> 💬 **Para Conversar:**` |
+| GEO7 | `## Esse foi o "cara"` termina com box `> 🏛️ **Legado:**` (blockquote, não linha solta) |
+| GEO8 | `## Em outros lugares do mundo...` contém `Diferenças relevantes:` |
+| GEO9 | Pelo menos um box de ancoragem espacial (`📍`, `🌍` ou `📊`) presente |
+| GEO10 | Frases ≤ 25 palavras, parágrafos com 2-3 frases, sem frases proibidas |
+| GEO11 | Pergunta provocativa (H2) ancorada na tensão central do conteúdo |
+| GEO12 | Prelúdio em estilo crônica seca (lugar+horário, frases curtas, repetição) |
 
 Falhas listam violações e param o pipeline antes do commit.
 
