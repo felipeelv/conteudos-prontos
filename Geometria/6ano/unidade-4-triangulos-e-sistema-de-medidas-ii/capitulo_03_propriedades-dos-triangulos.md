@@ -17,7 +17,7 @@ Quando os três cantos de um triângulo de papel são colocados lado a lado, ele
 
 Na figura, os três ângulos internos aparecem reunidos sobre uma linha reta.  
 
-![TikZ 1 — Três ângulos formando 180 graus](figuras/cap03_tikz-1.png)
+![TikZ 1 — Três ângulos formando 180 graus](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap03_tikz-1.png)
 
 O experimento mostra uma ideia importante:
 
@@ -66,7 +66,7 @@ $$\hat{C} = 60^{\circ}$$
 
 Na figura, o ângulo desconhecido aparece no vértice C.  
 
-![TikZ 2 — Ângulo desconhecido](figuras/cap03_tikz-2.png)
+![TikZ 2 — Ângulo desconhecido](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap03_tikz-2.png)
 
 ### 2.2 Conferir a soma
 
@@ -110,7 +110,7 @@ $$c < a + b$$
 
 Na figura, as varetas conseguem se encontrar e fechar um triângulo.  
 
-![TikZ 3 — Três medidas que formam triângulo](figuras/cap03_tikz-3.png)
+![TikZ 3 — Três medidas que formam triângulo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap03_tikz-3.png)
 
 Para testar medidas, observe:
 

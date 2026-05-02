@@ -15,7 +15,7 @@ A área de uma pirâmide depende das faces triangulares e da única base.
 
 A **área lateral** é a soma das áreas das faces laterais. Em uma pirâmide regular, as faces laterais são triângulos congruentes, e o apótema lateral $$g$$ funciona como altura desses triângulos.
 
-![TikZ 1 — Faces laterais triangulares](figuras/cap02_tikz-1.png)
+![TikZ 1 — Faces laterais triangulares](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/2serie/unidade-4-piramides/figuras/cap02_tikz-1.png)
 
 Para uma pirâmide regular:
 
@@ -63,7 +63,7 @@ O volume da pirâmide é um terço do volume do prisma de mesma base e mesma alt
 
 Considere um prisma e uma pirâmide com a mesma área da base $$A_B$$ e a mesma altura $$h$$.
 
-![TikZ 2 — Prisma e pirâmide de mesma base e altura](figuras/cap02_tikz-2.png)
+![TikZ 2 — Prisma e pirâmide de mesma base e altura](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/2serie/unidade-4-piramides/figuras/cap02_tikz-2.png)
 
 O prisma ocupa:
 
@@ -100,7 +100,7 @@ Um tronco de pirâmide surge quando uma pirâmide é cortada por um plano parale
 
 O **tronco de pirâmide** é a parte da pirâmide entre a base original e uma secção paralela a essa base.
 
-![TikZ 3 — Secção paralela formando tronco de pirâmide](figuras/cap02_tikz-3.png)
+![TikZ 3 — Secção paralela formando tronco de pirâmide](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/2serie/unidade-4-piramides/figuras/cap02_tikz-3.png)
 
 Na secção paralela:
 
@@ -132,7 +132,7 @@ $$V_{\mathrm{tronco}} = \frac{h}{3}(A_B + A_b + \sqrt{A_B \cdot A_b})$$
 
 O termo $$\sqrt{A_B \cdot A_b}$$ funciona como uma média geométrica entre as áreas das bases. Ele preserva a relação entre a base maior e a base menor.
 
-![TikZ 4 — Tronco de pirâmide com bases e altura](figuras/cap02_tikz-4.png)
+![TikZ 4 — Tronco de pirâmide com bases e altura](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/2serie/unidade-4-piramides/figuras/cap02_tikz-4.png)
 
 Quando as bases são quadradas de arestas $$a$$ e $$b$$:
 

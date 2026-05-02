@@ -25,7 +25,7 @@ Em uma construção, a régua:
 
 O **compasso** conserva uma distância. Ele traça circunferências, arcos e transporta a mesma abertura para outro lugar.
 
-![TikZ 1 — Régua, compasso e raio](figuras/cap02_tikz-1.png)
+![TikZ 1 — Régua, compasso e raio](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap02_tikz-1.png)
 
 Use o compasso para:
 
@@ -41,7 +41,7 @@ O triângulo equilátero nasce da interseção de dois arcos iguais.
 
 Comece com um segmento $$\overline{AB}$$. Abra o compasso com essa medida e trace um arco com centro em $$A$$ e outro com centro em $$B$$.
 
-![TikZ 2 — Triângulo equilátero por arcos](figuras/cap02_tikz-2.png)
+![TikZ 2 — Triângulo equilátero por arcos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap02_tikz-2.png)
 
 Passos:
 
@@ -68,7 +68,7 @@ O quadrado pode ser construído a partir de uma circunferência e dois diâmetro
 
 Trace uma circunferência de centro $$O$$ e marque um diâmetro $$\overline{AC}$$. Depois trace a mediatriz desse diâmetro, encontrando os pontos $$B$$ e $$D$$ na circunferência.
 
-![TikZ 3 — Quadrado inscrito por diâmetros perpendiculares](figuras/cap02_tikz-3.png)
+![TikZ 3 — Quadrado inscrito por diâmetros perpendiculares](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap02_tikz-3.png)
 
 Elementos usados:
 
@@ -98,7 +98,7 @@ O hexágono regular inscrito usa a mesma abertura do raio seis vezes.
 
 Trace uma circunferência de centro $$O$$ e raio $$r$$. Escolha um ponto $$A$$ na circunferência e mantenha o compasso com abertura $$r$$.
 
-![TikZ 4 — Hexágono regular inscrito](figuras/cap02_tikz-4.png)
+![TikZ 4 — Hexágono regular inscrito](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap02_tikz-4.png)
 
 Passos:
 

@@ -21,7 +21,7 @@ $$\overline{AD} \parallel \overline{BC}$$
 
 Trace a diagonal $$\overline{AC}$$. Ela divide o paralelogramo em dois triângulos: $$\triangle ABC$$ e $$\triangle CDA$$.
 
-![TikZ 1 — Paralelogramo com diagonal auxiliar](figuras/cap02_tikz-1.png)
+![TikZ 1 — Paralelogramo com diagonal auxiliar](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap02_tikz-1.png)
 
 Ideia da demonstração:
 
@@ -67,7 +67,7 @@ $$\hat{C} = 68^{\circ}$$
 
 As diagonais de um paralelogramo se cortam no ponto médio de ambas. Essa propriedade é mais forte do que apenas dizer que as diagonais se cruzam.
 
-![TikZ 2 — Diagonais cortando-se ao meio](figuras/cap02_tikz-2.png)
+![TikZ 2 — Diagonais cortando-se ao meio](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap02_tikz-2.png)
 
 Se as diagonais $$\overline{AC}$$ e $$\overline{BD}$$ se cortam em $$P$$, então:
 
@@ -91,7 +91,7 @@ Casos especiais não substituem as propriedades do paralelogramo; eles acrescent
 
 Um **retângulo** é um paralelogramo com 4 ângulos retos. Além das propriedades gerais dos paralelogramos, ele tem diagonais congruentes.
 
-![TikZ 3 — Retângulo com diagonais congruentes](figuras/cap02_tikz-3.png)
+![TikZ 3 — Retângulo com diagonais congruentes](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap02_tikz-3.png)
 
 No retângulo:
 
@@ -106,7 +106,7 @@ Justificativa: as diagonais do retângulo podem ser vistas como hipotenusas de t
 
 Um **losango** é um paralelogramo com 4 lados congruentes. Suas diagonais são perpendiculares e bissetam os ângulos.
 
-![TikZ 4 — Losango com diagonais perpendiculares](figuras/cap02_tikz-4.png)
+![TikZ 4 — Losango com diagonais perpendiculares](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap02_tikz-4.png)
 
 No losango:
 
@@ -140,7 +140,7 @@ Na definição inclusiva, trapézio é quadrilátero com pelo menos 1 par de lad
 
 As **bases** de um trapézio são os lados paralelos. Quando o trapézio tem apenas um par de lados paralelos, os outros dois lados são chamados de lados não paralelos.
 
-![TikZ 5 — Bases e lados de um trapézio](figuras/cap02_tikz-5.png)
+![TikZ 5 — Bases e lados de um trapézio](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap02_tikz-5.png)
 
 Termos úteis:
 
@@ -169,7 +169,7 @@ A base média liga os pontos médios dos lados não paralelos.
 
 A **base média** do trapézio é o segmento que une os pontos médios dos lados não paralelos. Ela é paralela às bases e sua medida é a média aritmética das bases.
 
-![TikZ 6 — Base média do trapézio](figuras/cap02_tikz-6.png)
+![TikZ 6 — Base média do trapézio](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap02_tikz-6.png)
 
 Relação principal:
 

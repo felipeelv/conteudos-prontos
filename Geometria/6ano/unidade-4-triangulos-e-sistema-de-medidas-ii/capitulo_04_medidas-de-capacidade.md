@@ -17,7 +17,7 @@ Medir capacidade é responder à pergunta: quanto cabe aqui dentro? Essa medida 
 
 Na figura, recipientes de tamanhos diferentes mostram capacidades diferentes.  
 
-![TikZ 1 — Recipientes com capacidades diferentes](figuras/cap04_tikz-1.png)
+![TikZ 1 — Recipientes com capacidades diferentes](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap04_tikz-1.png)
 
 Três ideias são importantes:
 
@@ -77,7 +77,7 @@ $$1\mathrm{L} = 1000\mathrm{ml}$$
 
 Na figura, a escala mostra unidades maiores e menores que o litro.  
 
-![TikZ 2 — Escala decimal de capacidade](figuras/cap04_tikz-2.png)
+![TikZ 2 — Escala decimal de capacidade](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap04_tikz-2.png)
 
 Três unidades aparecem com frequência:
 
@@ -148,7 +148,7 @@ $$1\mathrm{ml} = 1\mathrm{cm}^3$$
 
 Na figura, o cubo representa a ideia de 1 L ocupando um espaço.  
 
-![TikZ 3 — Cubo de 1 dm³ representando 1 L](figuras/cap04_tikz-3.png)
+![TikZ 3 — Cubo de 1 dm³ representando 1 L](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap04_tikz-3.png)
 
 Essa relação serve como ponte:
 

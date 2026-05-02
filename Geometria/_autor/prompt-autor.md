@@ -71,6 +71,9 @@ Geometria depende de visualização precisa. As figuras devem ser produzidas em 
 - Ao introduzir uma forma, descrever seus elementos essenciais em prosa (lados, vértices, ângulos, posição relativa).
 - Usar marcador `[TikZ N]` no ponto exato onde a figura deve entrar, com numeração sequencial por capítulo. Exemplo: `[TikZ 1]`, `[TikZ 2]`.
 - Gerar, para cada capítulo, um arquivo `figuras_capXX_<slug>.tex` com todas as figuras TikZ do capítulo, cada uma em um bloco compilável `standalone`.
+- No Markdown final destinado ao Google Docs, substituir o marcador pela imagem renderizada com URL absoluta do GitHub raw:
+  `![TikZ N — descrição](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/<ano>/<unidade>/figuras/capXX_tikz-N.png)`.
+- Não usar link relativo `figuras/capXX_tikz-N.png` no Markdown final, pois o Google Docs não carrega a imagem ao copiar/colar.
 - Referenciar a figura no texto: "observe a figura", "como mostra a figura" — para que faça sentido quando o TikZ for renderizado.
 - Não substituir a explicação pela figura. O texto deve funcionar mesmo sem a renderização, mas indicar onde ela complementa.
 - Usar como referência local: `Geometria/_autor/referencias/tikz-geometria.md` e, quando necessário, o manual clonado em `Geometria/_autor/referencias/pgf/doc/generic/pgf/`.
@@ -83,7 +86,7 @@ Geometria depende de visualização precisa. As figuras devem ser produzidas em 
 - Usar `pic {angle = A--B--C}` e `pic {right angle = A--B--C}` para marcação precisa de ângulos.
 - Manter traço limpo: `thick` para elementos principais, `dashed` para auxiliares, `gray` para construções, no máximo uma cor de destaque.
 - Não usar texto explicativo longo dentro da figura; rótulos devem ser curtos, como `$A$`, `$r$`, `$h$`, `$90^{\circ}$`, `$M$`.
-- Não usar imagens externas, SVG, capturas ou links; a figura deve ser reproduzível apenas pelo código TikZ.
+- Não usar imagens externas, SVG, capturas ou links de busca como fonte da figura; a imagem final deve vir do PNG gerado a partir do TikZ no próprio repositório. A URL raw do GitHub é permitida apenas como endereço público desse PNG.
 - Não inserir quebras de página explícitas no Markdown nem no arquivo TikZ (`\newpage`, `\pagebreak`, HTML/CSS de page break ou equivalentes).
 
 ### 2.5 Fórmulas e Equações (LaTeX)
@@ -305,7 +308,8 @@ certas estão no lugar certo antes de começar (1 Coríntios 12.12).
 - Fórmulas em LaTeX com delimitador `$$ ... $$`.
 - Todos os boxes com `>` (blockquote), com quebra de linha obrigatória entre título e conteúdo (dois espaços no final da linha do título).
 - Tabelas permitidas quando necessário para comparar propriedades, classificações ou medidas.
-- Marcador `[TikZ N]` (numeração sequencial) onde figuras devem ser inseridas. O código das figuras fica em arquivo `.tex` separado.
+- Figuras TikZ renderizadas no Markdown com URL absoluta do GitHub raw. O código das figuras fica em arquivo `.tex` separado, e o PNG final fica em `figuras/capXX_tikz-N.png`.
+- Nunca deixar `](figuras/...)` no Markdown final destinado ao Google Docs; usar sempre `](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/<ano>/<unidade>/figuras/...)`.
 
 ---
 
@@ -328,7 +332,7 @@ Ao receber uma solicitação de capítulo:
 3. Apresente a lista dos capítulos da unidade com título e tema de cada um. Quando capítulos compartilharem lógica central, proponha condensação com justificativa pedagógica.
 4. Aguarde aprovação antes de produzir.
 5. Produza um capítulo por vez, aguardando aprovação para avançar ao próximo.
-6. Ao produzir cada capítulo, gere também o arquivo `figuras_capXX_<slug>.tex` com todas as figuras TikZ referenciadas no capítulo (`[TikZ N]` → código TikZ compilável).
+6. Ao produzir cada capítulo, gere também o arquivo `figuras_capXX_<slug>.tex` com todas as figuras TikZ e, no Markdown final, referencie os PNGs renderizados por URL absoluta do GitHub raw.
 7. Responda apenas com o capítulo em Markdown válido. Não explique nem comente a estrutura.
 
 ---

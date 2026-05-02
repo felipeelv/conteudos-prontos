@@ -67,10 +67,14 @@ Geometria depende de fórmulas escritas em LaTeX, renderizadas via Auto-LaTeX Eq
 - ✅ Descrever em prosa os elementos essenciais da figura antes do marcador (lados, vértices, ângulos, posição relativa).
 - ✅ O texto deve funcionar mesmo sem a figura — indicar onde ela complementa, não substituir explicação por figura.
 - ✅ O código das figuras fica em arquivo separado `figuras_capXX_<slug>.tex`, **não** no corpo do capítulo.
+- ✅ No Markdown final destinado ao Google Docs, cada figura renderizada deve usar URL absoluta do GitHub raw:
+  `https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/<ano>/<unidade>/figuras/capXX_tikz-N.png`.
+- ✅ O PNG referenciado pela URL raw deve existir em `Geometria/<ano>/<unidade>/figuras/` e ser gerado a partir do TikZ local.
 - ✅ Cada figura TikZ deve ser compilável em `standalone`, com `\documentclass[tikz,border=3mm]{standalone}`, `\usepackage{tikz}` e `\begin{tikzpicture}...\end{tikzpicture}`.
 - ✅ Usar `\coordinate` para pontos, `\node` para rótulos, `\draw` para elementos e `\usetikzlibrary{angles,quotes,calc,intersections}` quando necessário.
 - ✅ Usar `pic {angle = A--B--C}` e `pic {right angle = A--B--C}` para marcação precisa de ângulos.
 - ❌ Nunca usar imagens externas, SVG, capturas, links de busca ou descrições soltas como substituto da figura.
+- ❌ Nunca deixar links relativos `](figuras/...)` no Markdown final de capítulo, porque o Google Docs não importa essas imagens ao copiar/colar.
 - ❌ Nunca inserir quebras de página explícitas no Markdown nem no arquivo TikZ (`\newpage`, `\pagebreak`, HTML/CSS de page break ou equivalentes).
 
 ## Regras invioláveis — estrutura
@@ -162,7 +166,7 @@ O script `criar_capitulos.sh` valida cada capítulo gerado contra:
    - sem `\;` nem `\,` (renderizam como pontuação literal)
    - sem `°` literal (usar `^{\circ}`)
    - sem caracteres acentuados (á, ã, é, ó, ç, …) dentro do bloco
-8. **Marcador `[TikZ N]` em uso** — pelo menos uma figura referenciada (heurística para Geometria; alerta, não erro).
+8. **Figura TikZ em uso** — pelo menos uma figura referenciada como URL raw do GitHub ou marcador `[TikZ N]` intermediário (heurística para Geometria; alerta, não erro).
 9. **Sem dois boxes (`>`) consecutivos** dentro do mesmo subtópico.
 
 Falhas listam violações e param o pipeline antes do commit.

@@ -295,6 +295,11 @@ REGRAS INVIOLAVEIS DE FIGURAS EM TIKZ
   a explicacao pela renderizacao.
 - Para cada capitulo, gerar tambem um arquivo figuras_capXX_<slug>.tex no mesmo diretorio
   do capitulo, contendo todas as figuras TikZ referenciadas por [TikZ N].
+- No Markdown final destinado ao Google Docs, a figura deve aparecer como imagem Markdown
+  com URL absoluta do GitHub raw, nao como caminho relativo:
+  ![TikZ N - descricao](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/$ANO/$UNIT_STEM/figuras/capXX_tikz-N.png)
+- Nao deixar links relativos do tipo ](figuras/capXX_tikz-N.png) no Markdown final; o Google Docs
+  nao carrega essas imagens ao copiar/colar.
 - Cada figura TikZ deve ser um documento standalone compilavel:
   \\documentclass[tikz,border=3mm]{standalone}, \\usepackage{tikz},
   \\begin{document}, \\begin{tikzpicture} ... \\end{tikzpicture}, \\end{document}.
@@ -303,7 +308,8 @@ REGRAS INVIOLAVEIS DE FIGURAS EM TIKZ
   projecoes, construcoes auxiliares ou intersecoes.
 - Usar pic {angle = A--B--C} e pic {right angle = A--B--C} para marcacoes precisas.
 - Nao usar imagens externas, SVG, capturas, links de busca ou descricoes soltas como
-  substituto da figura.
+  substituto da figura. A URL raw do GitHub e permitida apenas quando aponta para PNG gerado
+  a partir do TikZ no proprio repositorio.
 
 REGRAS INVIOLAVEIS DE ESTRUTURA
 ================================
@@ -377,6 +383,7 @@ REGRAS DE EXECUCAO
 1. Leia primeiro o manual editorial e o CLAUDE.md especifico. Depois o blueprint da unidade.
 2. Para cada blueprint_capitulo_NN_<slug>.md, gere exatamente um arquivo capitulo_NN_<slug>.md.
 3. Para cada capitulo, gere tambem exatamente um arquivo figuras_capNN_<slug>.tex com as figuras TikZ.
+   No Markdown final, referencie os PNGs renderizados por URL raw do GitHub.
 4. Salve todos os arquivos exclusivamente em: $OUTPUT_DIR
 5. Nao altere os blueprints nem os arquivos de prompt/referencia.
 6. Conteudo final em portugues brasileiro, em Markdown valido.
@@ -521,14 +528,18 @@ if [[ $EXEC_EXIT -eq 0 ]]; then
       done <<< "$LATEX_VIOL"
     fi
 
-    # 8. Marcador [TikZ N] em uso (heurística — só warn, não falha)
-    if ! grep -qE '\[TikZ [0-9]+\]' "$cap"; then
-      log_warn "$cap_name: nenhum marcador [TikZ N] encontrado — confira se o capítulo realmente dispensa figuras"
+    # 8. Figura TikZ em uso (heurística — só warn, não falha)
+    if grep -qE '\]\(figuras/' "$cap"; then
+      log_error "$cap_name: usa link relativo ](figuras/...) — usar URL raw do GitHub no Markdown final"
+      VIOLATIONS=$((VIOLATIONS + 1))
+    fi
+    if ! grep -qE '\[TikZ [0-9]+\]|raw\.githubusercontent\.com/felipeelv/conteudos-prontos/main/Geometria/.*/figuras/cap[0-9]+_tikz-[0-9]+\.png' "$cap"; then
+      log_warn "$cap_name: nenhuma figura TikZ detectada — confira se o capítulo realmente dispensa figuras"
     else
       fig_name="$(basename "$cap" .md)"
       fig_name="${fig_name#capitulo_}"
       fig_file="$OUTPUT_DIR/figuras_cap${fig_name}.tex"
-      if [[ ! -f "$fig_file" ]]; then
+      if grep -qE '\[TikZ [0-9]+\]' "$cap" && [[ ! -f "$fig_file" ]]; then
         log_error "$cap_name: usa marcador [TikZ N], mas não existe arquivo de figuras esperado: $(basename "$fig_file")"
         VIOLATIONS=$((VIOLATIONS + 1))
       fi

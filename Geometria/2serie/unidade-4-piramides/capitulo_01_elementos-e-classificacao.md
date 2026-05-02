@@ -15,7 +15,7 @@ Uma pirâmide é um sólido com uma única base poligonal.
 
 Uma **pirâmide** é um sólido formado por uma base poligonal e faces laterais triangulares que se encontram em um único ponto, chamado **ápice**.
 
-![TikZ 1 — Pirâmide com base, faces e ápice](figuras/cap01_tikz-1.png)
+![TikZ 1 — Pirâmide com base, faces e ápice](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/2serie/unidade-4-piramides/figuras/cap01_tikz-1.png)
 
 Elementos essenciais:
 
@@ -38,7 +38,7 @@ Compare:
 - no prisma, o volume usa a base inteira ao longo da altura;
 - na pirâmide, o sólido afunila até um ponto.
 
-![TikZ 2 — Pirâmide e prisma comparados](figuras/cap01_tikz-2.png)
+![TikZ 2 — Pirâmide e prisma comparados](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/2serie/unidade-4-piramides/figuras/cap01_tikz-2.png)
 
 ## 2. Elementos da Pirâmide
 
@@ -59,7 +59,7 @@ Use este vocabulário:
 
 A **altura** da pirâmide é a distância perpendicular do ápice ao plano da base. Ela não é uma aresta lateral e não é necessariamente desenhada na superfície do sólido.
 
-![TikZ 3 — Altura perpendicular ao plano da base](figuras/cap01_tikz-3.png)
+![TikZ 3 — Altura perpendicular ao plano da base](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/2serie/unidade-4-piramides/figuras/cap01_tikz-3.png)
 
 Para identificar a altura:
 
@@ -79,7 +79,7 @@ O **apótema da base**, indicado por $$m$$, é o segmento que vai do centro da b
 
 O **apótema lateral**, indicado por $$g$$, é o segmento que vai do ápice ao ponto médio de uma aresta da base. Em pirâmide regular, ele é a altura de uma face lateral.
 
-![TikZ 4 — Apótema da base e apótema lateral](figuras/cap01_tikz-4.png)
+![TikZ 4 — Apótema da base e apótema lateral](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/2serie/unidade-4-piramides/figuras/cap01_tikz-4.png)
 
 Não confunda:
 
@@ -127,7 +127,7 @@ A classificação depende da posição do ápice e da forma da base.
 
 Uma **pirâmide reta** tem o ápice projetado no centro da base. Uma **pirâmide oblíqua** tem o ápice projetado fora do centro da base.
 
-![TikZ 5 — Pirâmide reta e pirâmide oblíqua](figuras/cap01_tikz-5.png)
+![TikZ 5 — Pirâmide reta e pirâmide oblíqua](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/2serie/unidade-4-piramides/figuras/cap01_tikz-5.png)
 
 Critérios:
 
@@ -141,7 +141,7 @@ Uma **pirâmide regular** é uma pirâmide reta cuja base é um polígono regula
 
 Um **tetraedro regular** é uma pirâmide triangular com quatro faces equiláteras congruentes.
 
-![TikZ 6 — Tetraedro regular](figuras/cap01_tikz-6.png)
+![TikZ 6 — Tetraedro regular](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/2serie/unidade-4-piramides/figuras/cap01_tikz-6.png)
 
 Classifique com cuidado:
 

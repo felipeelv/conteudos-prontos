@@ -26,7 +26,7 @@ Em uma construção:
 
 O **compasso** mantém uma distância fixa. Ele pode transportar uma medida, traçar arcos e construir circunferências.
 
-![TikZ 1 — Segmento, raio e compasso](figuras/cap03_tikz-1.png)
+![TikZ 1 — Segmento, raio e compasso](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap03_tikz-1.png)
 
 Ideias centrais:
 
@@ -42,7 +42,7 @@ Triângulo equilátero e quadrado retomam a lógica de preservar medidas.
 
 Para construir um triângulo equilátero, comece por um segmento dado $$\overline{AB}$$ e use dois arcos de mesma abertura.
 
-![TikZ 2 — Triângulo equilátero por dois arcos](figuras/cap03_tikz-2.png)
+![TikZ 2 — Triângulo equilátero por dois arcos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap03_tikz-2.png)
 
 Passos:
 
@@ -61,7 +61,7 @@ $$\overline{AB} = \overline{BC} = \overline{CA}$$
 
 Para construir um quadrado, comece pelo lado $$\overline{AB}$$. Depois, construa perpendiculares por $$A$$ e por $$B$$ e transfira a medida do lado com o compasso.
 
-![TikZ 3 — Quadrado a partir de um lado](figuras/cap03_tikz-3.png)
+![TikZ 3 — Quadrado a partir de um lado](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap03_tikz-3.png)
 
 Conferência:
 
@@ -85,7 +85,7 @@ Essa divisão faz cada lado do hexágono regular inscrito ter a mesma medida do 
 
 $$lado = raio$$
 
-![TikZ 4 — Hexágono regular inscrito](figuras/cap03_tikz-4.png)
+![TikZ 4 — Hexágono regular inscrito](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap03_tikz-4.png)
 
 ### 3.2 Marcando seis pontos na circunferência
 
@@ -120,7 +120,7 @@ Para o hexágono:
 - resultado: ligar os vértices;
 - conferência: verificar o fechamento e os lados congruentes.
 
-![TikZ 5 — Fluxograma do hexágono regular](figuras/cap03_tikz-5.png)
+![TikZ 5 — Fluxograma do hexágono regular](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap03_tikz-5.png)
 
 ### 4.2 Conferindo o resultado
 

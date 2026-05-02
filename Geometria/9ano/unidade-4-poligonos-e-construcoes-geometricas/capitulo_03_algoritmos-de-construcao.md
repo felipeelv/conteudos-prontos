@@ -25,7 +25,7 @@ A estrutura pode ser resumida assim:
 
 $$\mathrm{Entrada} \rightarrow \mathrm{Passo\ 1} \rightarrow \mathrm{Passo\ 2} \rightarrow \mathrm{Saida}$$
 
-![TikZ 1 — Estrutura de algoritmo](figuras/cap03_tikz-1.png)
+![TikZ 1 — Estrutura de algoritmo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap03_tikz-1.png)
 
 ### 1.2 Onde mora a ambiguidade
 
@@ -46,7 +46,7 @@ O fluxograma mostra dependências entre os passos.
 
 Um **fluxograma** representa ações por caixas e sequência por setas. Ele ajuda a ver se algum passo depende de outro que ainda não foi feito.
 
-![TikZ 2 — Fluxograma da construção do hexágono](figuras/cap03_tikz-2.png)
+![TikZ 2 — Fluxograma da construção do hexágono](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap03_tikz-2.png)
 
 Um fluxograma simples precisa mostrar:
 
@@ -84,7 +84,7 @@ Uma sequência possível para o hexágono:
 - usar circunferências ou arcos de raio $$r$$ para obter os próximos pontos;
 - ligar pontos consecutivos com segmentos.
 
-![TikZ 3 — Comandos como passos geométricos](figuras/cap03_tikz-3.png)
+![TikZ 3 — Comandos como passos geométricos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap03_tikz-3.png)
 
 ### 3.2 Testar, observar e corrigir
 

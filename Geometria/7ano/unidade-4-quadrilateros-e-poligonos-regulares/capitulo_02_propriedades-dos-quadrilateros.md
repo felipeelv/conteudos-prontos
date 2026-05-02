@@ -17,7 +17,7 @@ Em todo **paralelogramo**, os lados opostos são paralelos e congruentes.
 
 Na figura, os pares opostos têm a mesma medida.
 
-![TikZ 1 — Lados opostos de um paralelogramo](figuras/cap02_tikz-1.png)
+![TikZ 1 — Lados opostos de um paralelogramo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap02_tikz-1.png)
 
 Em um paralelogramo $$ABCD$$:
 
@@ -60,7 +60,7 @@ As diagonais revelam o centro do paralelogramo.
 
 As **diagonais** de um paralelogramo se cortam no ponto médio. Isso quer dizer que cada diagonal fica dividida em duas partes iguais.
 
-![TikZ 2 — Diagonais se cortando no ponto médio](figuras/cap02_tikz-2.png)
+![TikZ 2 — Diagonais se cortando no ponto médio](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap02_tikz-2.png)
 
 Se as diagonais $$\overline{AC}$$ e $$\overline{BD}$$ se cortam em $$M$$, então:
 
@@ -100,7 +100,7 @@ Em um **trapézio**, as bases são os lados paralelos. Como usamos a definição
 
 Na figura aparecem base maior, base menor e lados não paralelos.
 
-![TikZ 3 — Bases de um trapézio](figuras/cap02_tikz-3.png)
+![TikZ 3 — Bases de um trapézio](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap02_tikz-3.png)
 
 Elementos principais:
 
@@ -114,7 +114,7 @@ A **altura** do trapézio é a distância perpendicular entre as bases.
 
 Observe que a altura não precisa coincidir com um lado do trapézio.
 
-![TikZ 4 — Altura do trapézio](figuras/cap02_tikz-4.png)
+![TikZ 4 — Altura do trapézio](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap02_tikz-4.png)
 
 Três cuidados ajudam:
 

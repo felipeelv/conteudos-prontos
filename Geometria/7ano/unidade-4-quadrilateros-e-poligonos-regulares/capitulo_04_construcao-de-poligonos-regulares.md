@@ -22,7 +22,7 @@ Cada instrumento tem uma função:
 - ponto de interseção: marca onde dois traços se encontram;
 - conferência: verifica se a propriedade foi preservada.
 
-![TikZ 1 — Régua, compasso e segmento inicial](figuras/cap04_tikz-1.png)
+![TikZ 1 — Régua, compasso e segmento inicial](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap04_tikz-1.png)
 
 ### 1.2 Por que seguir passos importa
 
@@ -41,7 +41,7 @@ O triângulo equilátero pode ser construído a partir de um segmento dado.
 
 Comece com um segmento $$\overline{AB}$$. Com o compasso aberto na medida desse segmento, trace um arco com centro em $$A$$ e outro com centro em $$B$$.
 
-![TikZ 2 — Construção do triângulo equilátero](figuras/cap04_tikz-2.png)
+![TikZ 2 — Construção do triângulo equilátero](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap04_tikz-2.png)
 
 Passos:
 
@@ -72,7 +72,7 @@ Comece pelo segmento $$\overline{AB}$$. Pelos extremos, trace retas perpendicula
 
 Na construção, os ângulos nos vértices $$A$$ e $$B$$ precisam ser retos.
 
-![TikZ 3 — Construção inicial do quadrado](figuras/cap04_tikz-3.png)
+![TikZ 3 — Construção inicial do quadrado](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap04_tikz-3.png)
 
 Use estes critérios:
 
@@ -100,7 +100,7 @@ Um procedimento geométrico também pode ser registrado como algoritmo.
 
 Um **algoritmo** é uma sequência de passos para realizar uma tarefa. Um **fluxograma** representa essa sequência visualmente.
 
-![TikZ 4 — Fluxograma de construção](figuras/cap04_tikz-4.png)
+![TikZ 4 — Fluxograma de construção](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap04_tikz-4.png)
 
 Um bom fluxograma tem:
 
@@ -119,7 +119,7 @@ Em um padrão simples:
 - todos os triângulos equiláteros mantêm lados congruentes;
 - os encaixes devem respeitar as medidas construídas.
 
-![TikZ 5 — Composição com polígonos regulares](figuras/cap04_tikz-5.png)
+![TikZ 5 — Composição com polígonos regulares](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap04_tikz-5.png)
 
 > 👁️ **Observe:**  
 > Um padrão bonito ainda precisa preservar as propriedades geométricas para continuar regular.

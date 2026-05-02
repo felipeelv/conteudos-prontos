@@ -15,7 +15,7 @@ Um **triângulo** é um **polígono** formado por 3 lados.
 
 Todo triângulo tem 3 lados, 3 vértices e uma região interna limitada por esses lados. Observe uma figura com três segmentos ligados ponta a ponta, formando uma estrutura fechada.
 
-![TikZ 1 — Triângulo como polígono fechado](figuras/cap01_tikz-1.png)
+![TikZ 1 — Triângulo como polígono fechado](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap01_tikz-1.png)
 
 Três elementos precisam aparecer juntos:
 
@@ -44,7 +44,7 @@ $$\overline{CA}$$
 
 Ao observar a figura, repare que cada lado nasce de uma ligação entre dois pontos.
 
-![TikZ 2 — Vértices e lados do triângulo ABC](figuras/cap01_tikz-2.png)
+![TikZ 2 — Vértices e lados do triângulo ABC](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap01_tikz-2.png)
 
 Uma leitura correta segue esta ordem:
 
@@ -72,7 +72,7 @@ $$\hat{C}$$
 
 Na figura, cada arco marca a abertura que nasce em um vértice.
 
-![TikZ 3 — Ângulos internos do triângulo ABC](figuras/cap01_tikz-3.png)
+![TikZ 3 — Ângulos internos do triângulo ABC](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap01_tikz-3.png)
 
 Para identificar um ângulo interno, observe três informações:
 
@@ -109,7 +109,7 @@ A **altura** é o segmento perpendicular que sai de um vértice e chega ao lado 
 
 Na figura, a altura sai do vértice C e encontra o lado $$\overline{AB}$$ em H.
 
-![TikZ 4 — Altura relativa ao lado AB](figuras/cap01_tikz-4.png)
+![TikZ 4 — Altura relativa ao lado AB](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap01_tikz-4.png)
 
 Duas ideias são essenciais:
 
@@ -124,7 +124,7 @@ A **mediana** é o segmento que sai de um vértice e chega ao ponto médio do la
 
 Na figura, M é o ponto médio de $$\overline{AB}$$, e o segmento que liga C a M é uma mediana.
 
-![TikZ 5 — Mediana relativa ao lado AB](figuras/cap01_tikz-5.png)
+![TikZ 5 — Mediana relativa ao lado AB](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap01_tikz-5.png)
 
 A relação de ponto médio pode ser registrada assim:
 
@@ -146,7 +146,7 @@ A **bissetriz** é o segmento que sai de um vértice e divide o ângulo interno 
 
 Na figura, o segmento $$\overline{AD}$$ divide o ângulo do vértice A em duas aberturas iguais.
 
-![TikZ 6 — Bissetriz do ângulo A](figuras/cap01_tikz-6.png)
+![TikZ 6 — Bissetriz do ângulo A](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap01_tikz-6.png)
 
 A relação da bissetriz pode ser registrada assim:
 

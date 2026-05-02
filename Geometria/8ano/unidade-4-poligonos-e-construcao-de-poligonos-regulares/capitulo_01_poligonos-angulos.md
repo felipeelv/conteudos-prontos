@@ -19,7 +19,7 @@ $$S = 180^{\circ}$$
 
 Essa propriedade é o ponto de partida porque outros polígonos podem ser divididos em triângulos.
 
-![TikZ 1 — Triângulo como peça básica](figuras/cap01_tikz-1.png)
+![TikZ 1 — Triângulo como peça básica](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap01_tikz-1.png)
 
 Três ideias importam:
 
@@ -35,7 +35,7 @@ $$S_i = 2 \cdot 180^{\circ}$$
 
 $$S_i = 360^{\circ}$$
 
-![TikZ 2 — Quadrilátero dividido em dois triângulos](figuras/cap01_tikz-2.png)
+![TikZ 2 — Quadrilátero dividido em dois triângulos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap01_tikz-2.png)
 
 Isso explica por que a soma interna de qualquer quadrilátero convexo é 360 graus.
 
@@ -47,7 +47,7 @@ A mesma decomposição funciona para polígonos com mais lados.
 
 Escolha um vértice e trace diagonais para os vértices que não são vizinhos dele. Em um polígono convexo, essas diagonais ficam dentro da figura.
 
-![TikZ 3 — Pentágono e hexágono decompostos em triângulos](figuras/cap01_tikz-3.png)
+![TikZ 3 — Pentágono e hexágono decompostos em triângulos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap01_tikz-3.png)
 
 O padrão é:
 
@@ -143,7 +143,7 @@ Também vale:
 
 $$a_i + a_e = 180^{\circ}$$
 
-![TikZ 4 — Ângulo interno e externo em polígono regular](figuras/cap01_tikz-4.png)
+![TikZ 4 — Ângulo interno e externo em polígono regular](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap01_tikz-4.png)
 
 **Exemplo**
 

@@ -15,7 +15,7 @@ Quadriláteros são polígonos de quatro lados, mas essa definição precisa ser
 
 Um **quadrilátero** é um polígono formado por 4 lados, 4 vértices e 4 ângulos internos. Em geral, quando estudamos soma de ângulos e diagonais nesta unidade, trabalhamos com quadriláteros convexos, nos quais as diagonais ficam no interior da figura.
 
-![TikZ 1 — Elementos de um quadrilátero](figuras/cap01_tikz-1.png)
+![TikZ 1 — Elementos de um quadrilátero](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap01_tikz-1.png)
 
 Elementos principais:
 
@@ -31,7 +31,7 @@ A notação $$ABCD$$ indica a ordem dos vértices no contorno. Por isso, $$\over
 
 Uma **diagonal** liga dois vértices não consecutivos. Em um quadrilátero, partindo de cada vértice há apenas uma diagonal possível, mas cada diagonal seria contada duas vezes se somássemos vértice por vértice.
 
-![TikZ 2 — Diagonais de um quadrilátero](figuras/cap01_tikz-2.png)
+![TikZ 2 — Diagonais de um quadrilátero](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap01_tikz-2.png)
 
 A quantidade pode ser confirmada pela fórmula geral:
 
@@ -71,7 +71,7 @@ Portanto, em qualquer quadrilátero convexo $$ABCD$$:
 
 $$\hat{A} + \hat{B} + \hat{C} + \hat{D} = 360^{\circ}$$
 
-![TikZ 3 — Quadrilátero dividido em dois triângulos](figuras/cap01_tikz-3.png)
+![TikZ 3 — Quadrilátero dividido em dois triângulos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap01_tikz-3.png)
 
 **Exemplo**
 
@@ -93,7 +93,7 @@ Nesta unidade, usamos a definição inclusiva: **trapézio** é um quadrilátero
 
 Um **paralelogramo** é um quadrilátero com 2 pares de lados opostos paralelos. Como 2 pares incluem pelo menos 1 par, todo paralelogramo é também trapézio nessa definição.
 
-![TikZ 4 — Trapézio e paralelogramo na hierarquia inclusiva](figuras/cap01_tikz-4.png)
+![TikZ 4 — Trapézio e paralelogramo na hierarquia inclusiva](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap01_tikz-4.png)
 
 Relação de inclusão:
 
@@ -131,7 +131,7 @@ Uma classificação de nível médio precisa trazer justificativa, contraexemplo
 
 Objetos cotidianos ajudam a testar definições, mas o objeto não substitui a propriedade geométrica.
 
-![TikZ 5 — Hierarquia inclusiva dos quadriláteros](figuras/cap01_tikz-5.png)
+![TikZ 5 — Hierarquia inclusiva dos quadriláteros](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/1serie/unidade-4-quadrilateros/figuras/cap01_tikz-5.png)
 
 Exemplos:
 

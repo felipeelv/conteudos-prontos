@@ -41,7 +41,7 @@ $$1\mathrm{h} = 3600\mathrm{s}$$
 
 Na figura, o relógio mostra a relação entre 12 marcações principais e 60 minutos.  
 
-![TikZ 1 — Relógio e marcações de tempo](figuras/cap05_tikz-1.png)
+![TikZ 1 — Relógio e marcações de tempo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap05_tikz-1.png)
 
 ## 2. Dia, Semana, Mês e Ano
 
@@ -59,7 +59,7 @@ $$1\mathrm{semana} = 7\mathrm{dias}$$
 
 Na rotina, essas unidades aparecem juntas: hora da aula, dia da prova, semana de entrega e prazo de estudo.
 
-![TikZ 2 — Linha do tempo de um dia](figuras/cap05_tikz-2.png)
+![TikZ 2 — Linha do tempo de um dia](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap05_tikz-2.png)
 
 ### 2.2 Mês e ano
 
@@ -73,7 +73,7 @@ Um ano bissexto tem 366 dias.
 
 $$1\mathrm{ano} = 366\mathrm{dias}$$
 
-![TikZ 3 — Semana, mês e ano no calendário](figuras/cap05_tikz-3.png)
+![TikZ 3 — Semana, mês e ano no calendário](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap05_tikz-3.png)
 
 ## 3. Convertendo Medidas de Tempo
 
@@ -139,7 +139,7 @@ Então:
 
 $$3\mathrm{h} + 1\mathrm{h}15\mathrm{min} = 4\mathrm{h}15\mathrm{min}$$
 
-![TikZ 4 — Reagrupamento de minutos em horas](figuras/cap05_tikz-4.png)
+![TikZ 4 — Reagrupamento de minutos em horas](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap05_tikz-4.png)
 
 ### 4.2 Duração entre horários
 

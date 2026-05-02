@@ -17,7 +17,7 @@ Um polígono com todos os lados congruentes é **equilátero**. Isso é necessá
 
 Observe a diferença entre lados iguais e regularidade completa.
 
-![TikZ 1 — Lados iguais e regularidade completa](figuras/cap01_tikz-1.png)
+![TikZ 1 — Lados iguais e regularidade completa](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap01_tikz-1.png)
 
 Critérios importantes:
 
@@ -73,7 +73,7 @@ E a conferência é:
 
 $$a_i + a_e = 180^{\circ}$$
 
-![TikZ 2 — Ângulo interno e externo](figuras/cap01_tikz-2.png)
+![TikZ 2 — Ângulo interno e externo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap01_tikz-2.png)
 
 **Exemplo**
 
@@ -99,7 +99,7 @@ O apótema mede a distância do centro do polígono regular até um lado.
 
 O **apótema** é o segmento que sai do centro do polígono regular e chega perpendicularmente ao ponto médio de um lado.
 
-![TikZ 3 — Apótema em polígono regular](figuras/cap01_tikz-3.png)
+![TikZ 3 — Apótema em polígono regular](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap01_tikz-3.png)
 
 Ele tem três características:
 
@@ -137,7 +137,7 @@ Inscrição e circunscrição descrevem a relação entre polígono e circunfer�
 
 Um **polígono inscrito** tem todos os vértices sobre uma circunferência. Essa circunferência é chamada de **circunferência circunscrita** ao polígono.
 
-![TikZ 4 — Polígono inscrito em circunferência](figuras/cap01_tikz-4.png)
+![TikZ 4 — Polígono inscrito em circunferência](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap01_tikz-4.png)
 
 Nesse caso:
 
@@ -149,7 +149,7 @@ Nesse caso:
 
 Um **polígono circunscrito** envolve uma circunferência interna tangente aos seus lados. Essa circunferência é chamada de **circunferência inscrita** no polígono.
 
-![TikZ 5 — Polígono circunscrito a circunferência](figuras/cap01_tikz-5.png)
+![TikZ 5 — Polígono circunscrito a circunferência](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap01_tikz-5.png)
 
 A diferença principal é:
 

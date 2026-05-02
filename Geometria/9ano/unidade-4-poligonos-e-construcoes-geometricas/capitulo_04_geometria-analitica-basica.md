@@ -15,7 +15,7 @@ O plano cartesiano transforma posição em par ordenado.
 
 O **plano cartesiano** é formado por dois eixos perpendiculares: eixo $$x$$ e eixo $$y$$. Eles se cruzam na **origem**, indicada por $$(0,0)$$.
 
-![TikZ 1 — Plano cartesiano e quadrantes](figuras/cap04_tikz-1.png)
+![TikZ 1 — Plano cartesiano e quadrantes](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap04_tikz-1.png)
 
 Elementos principais:
 
@@ -50,7 +50,7 @@ Para $$A(x_A,y_A)$$ e $$B(x_B,y_B)$$:
 
 $$M = \left(\frac{x_A + x_B}{2}, \frac{y_A + y_B}{2}\right)$$
 
-![TikZ 2 — Ponto médio de um segmento](figuras/cap04_tikz-2.png)
+![TikZ 2 — Ponto médio de um segmento](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap04_tikz-2.png)
 
 Isso significa:
 
@@ -88,7 +88,7 @@ Distância entre dois pontos é o comprimento do segmento que os une.
 
 Entre dois pontos, podemos medir o deslocamento horizontal e o deslocamento vertical. Esses deslocamentos formam os catetos de um triângulo retângulo.
 
-![TikZ 3 — Deslocamentos horizontal e vertical](figuras/cap04_tikz-3.png)
+![TikZ 3 — Deslocamentos horizontal e vertical](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap04_tikz-3.png)
 
 Para pontos $$A$$ e $$B$$:
 
@@ -146,7 +146,7 @@ $$P = 4 + 3 + 5$$
 
 $$P = 12$$
 
-![TikZ 4 — Triângulo no plano cartesiano](figuras/cap04_tikz-4.png)
+![TikZ 4 — Triângulo no plano cartesiano](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/9ano/unidade-4-poligonos-e-construcoes-geometricas/figuras/cap04_tikz-4.png)
 
 ### 4.2 Áreas com base e altura
 

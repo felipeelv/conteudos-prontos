@@ -17,7 +17,7 @@ Um **quadrilátero** é um polígono com 4 lados, 4 vértices e 4 ângulos inter
 
 Observe a figura com os elementos principais de um quadrilátero.
 
-![TikZ 1 — Elementos de um quadrilátero](figuras/cap01_tikz-1.png)
+![TikZ 1 — Elementos de um quadrilátero](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap01_tikz-1.png)
 
 Três elementos são essenciais:
 
@@ -49,7 +49,7 @@ Um **paralelogramo** é um quadrilátero com 2 pares de lados opostos paralelos.
 
 Na figura, os lados opostos seguem a mesma direção.
 
-![TikZ 2 — Paralelogramo com dois pares de lados paralelos](figuras/cap01_tikz-2.png)
+![TikZ 2 — Paralelogramo com dois pares de lados paralelos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap01_tikz-2.png)
 
 Isso significa:
 
@@ -67,7 +67,7 @@ As diferenças principais são:
 - **losango:** paralelogramo com 4 lados congruentes;
 - **quadrado:** paralelogramo com 4 lados congruentes e 4 ângulos retos.
 
-![TikZ 3 — Retângulo, losango e quadrado](figuras/cap01_tikz-3.png)
+![TikZ 3 — Retângulo, losango e quadrado](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap01_tikz-3.png)
 
 **Exemplo**
 
@@ -99,7 +99,7 @@ $$\mathrm{quadrado} \subset \mathrm{losango} \subset \mathrm{paralelogramo} \sub
 
 O diagrama mostra a ideia de classes dentro de classes.
 
-![TikZ 4 — Inclusão de classes de quadriláteros](figuras/cap01_tikz-4.png)
+![TikZ 4 — Inclusão de classes de quadriláteros](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap01_tikz-4.png)
 
 ## 4. Trapézios
 
@@ -125,7 +125,7 @@ Tipos principais:
 - **trapézio isósceles:** tem lados não paralelos congruentes;
 - **trapézio escaleno:** não tem lados não paralelos congruentes.
 
-![TikZ 5 — Tipos de trapézio](figuras/cap01_tikz-5.png)
+![TikZ 5 — Tipos de trapézio](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap01_tikz-5.png)
 
 **Exemplo**
 

@@ -19,7 +19,7 @@ $$S = 180^{\circ}$$
 
 Um quadrilátero pode ser dividido em 2 triângulos; um pentágono pode ser dividido em 3; um hexágono, em 4.
 
-![TikZ 1 — Polígonos divididos em triângulos](figuras/cap03_tikz-1.png)
+![TikZ 1 — Polígonos divididos em triângulos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap03_tikz-1.png)
 
 O padrão é:
 
@@ -90,7 +90,7 @@ Valores frequentes ajudam a conferir cálculos.
 | Hexágono regular | 6 | $$720^{\circ}$$ | $$120^{\circ}$$ |
 | Octógono regular | 8 | $$1080^{\circ}$$ | $$135^{\circ}$$ |
 
-![TikZ 2 — Polígonos regulares e ângulos internos](figuras/cap03_tikz-2.png)
+![TikZ 2 — Polígonos regulares e ângulos internos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap03_tikz-2.png)
 
 ## 3. Ângulos Externos
 
@@ -122,7 +122,7 @@ Em um polígono regular, todos os externos são iguais:
 
 $$a_e = \frac{360^{\circ}}{n}$$
 
-![TikZ 3 — Ângulo interno e ângulo externo](figuras/cap03_tikz-3.png)
+![TikZ 3 — Ângulo interno e ângulo externo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap03_tikz-3.png)
 
 > 📐 **Fazendo as Contas:**  
 > Em um octógono regular, cada ângulo externo mede 45 graus, pois 360 dividido por 8 é 45.
@@ -141,7 +141,7 @@ Isso acontece porque:
 - 4 quadrados completam 360 graus;
 - 3 hexágonos regulares completam 360 graus.
 
-![TikZ 4 — Mosaicos com polígonos regulares](figuras/cap03_tikz-4.png)
+![TikZ 4 — Mosaicos com polígonos regulares](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/7ano/unidade-4-quadrilateros-e-poligonos-regulares/figuras/cap03_tikz-4.png)
 
 ### 4.2 Quando o ângulo não fecha 360 graus
 

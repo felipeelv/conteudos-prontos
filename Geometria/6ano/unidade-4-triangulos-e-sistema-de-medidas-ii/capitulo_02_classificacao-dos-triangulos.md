@@ -17,7 +17,7 @@ Um triângulo **equilátero** tem 3 lados congruentes. Congruentes, aqui, signif
 
 Na figura, os três lados têm 4 cm.  
 
-![TikZ 1 — Triângulo equilátero](figuras/cap02_tikz-1.png)
+![TikZ 1 — Triângulo equilátero](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap02_tikz-1.png)
 
 A relação pode ser registrada assim:
 
@@ -39,7 +39,7 @@ Um triângulo **isósceles** tem pelo menos 2 lados congruentes. O terceiro lado
 
 Na figura, os lados $$\overline{AB}$$ e $$\overline{AC}$$ têm a mesma medida.  
 
-![TikZ 2 — Triângulo isósceles](figuras/cap02_tikz-2.png)
+![TikZ 2 — Triângulo isósceles](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap02_tikz-2.png)
 
 A relação pode ser registrada assim:
 
@@ -61,7 +61,7 @@ Um triângulo **escaleno** tem 3 lados com medidas diferentes. Nenhum par de lad
 
 Na figura, cada lado tem uma medida própria.  
 
-![TikZ 3 — Triângulo escaleno](figuras/cap02_tikz-3.png)
+![TikZ 3 — Triângulo escaleno](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap02_tikz-3.png)
 
 Três sinais confirmam um escaleno:
 
@@ -85,7 +85,7 @@ $$0^{\circ} < \hat{A} < 90^{\circ}$$
 
 Na figura, todos os ângulos são menores que $$90^{\circ}$$.  
 
-![TikZ 4 — Triângulo acutângulo](figuras/cap02_tikz-4.png)
+![TikZ 4 — Triângulo acutângulo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap02_tikz-4.png)
 
 Para reconhecer um acutângulo, verifique:
 
@@ -105,7 +105,7 @@ $$\hat{A} = 90^{\circ}$$
 
 Na figura, o quadradinho marca o ângulo reto.  
 
-![TikZ 5 — Triângulo retângulo](figuras/cap02_tikz-5.png)
+![TikZ 5 — Triângulo retângulo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap02_tikz-5.png)
 
 Três cuidados são importantes:
 
@@ -125,7 +125,7 @@ $$90^{\circ} < \hat{A} < 180^{\circ}$$
 
 Na figura, o ângulo em A é maior que um ângulo reto.  
 
-![TikZ 6 — Triângulo obtusângulo](figuras/cap02_tikz-6.png)
+![TikZ 6 — Triângulo obtusângulo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/6ano/unidade-4-triangulos-e-sistema-de-medidas-ii/figuras/cap02_tikz-6.png)
 
 Para reconhecer um obtusângulo, observe:
 

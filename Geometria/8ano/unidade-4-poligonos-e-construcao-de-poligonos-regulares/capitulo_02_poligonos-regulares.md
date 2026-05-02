@@ -27,7 +27,7 @@ Essa condição verifica:
 
 Um **polígono regular** é equilátero e equiângulo ao mesmo tempo.
 
-![TikZ 1 — Regularidade exige lados e ângulos](figuras/cap02_tikz-1.png)
+![TikZ 1 — Regularidade exige lados e ângulos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap02_tikz-1.png)
 
 Critério operacional:
 
@@ -49,7 +49,7 @@ O **quadrado** é regular porque:
 - tem 4 ângulos retos;
 - mantém a mesma propriedade em todos os vértices.
 
-![TikZ 2 — Triângulo equilátero e quadrado](figuras/cap02_tikz-2.png)
+![TikZ 2 — Triângulo equilátero e quadrado](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap02_tikz-2.png)
 
 ### 2.2 Pentágono regular e hexágono regular
 
@@ -62,7 +62,7 @@ Compare:
 - losango não quadrado: lados congruentes, mas ângulos diferentes;
 - retângulo não quadrado: ângulos congruentes, mas lados não todos congruentes.
 
-![TikZ 3 — Exemplos e contraexemplos](figuras/cap02_tikz-3.png)
+![TikZ 3 — Exemplos e contraexemplos](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap02_tikz-3.png)
 
 ## 3. Simetria e Padrão
 
@@ -74,7 +74,7 @@ Um **eixo de simetria** divide a figura em duas partes correspondentes. Polígon
 
 Na figura, os eixos passam pelo centro e alinham partes opostas.
 
-![TikZ 4 — Eixos de simetria em polígonos regulares](figuras/cap02_tikz-4.png)
+![TikZ 4 — Eixos de simetria em polígonos regulares](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap02_tikz-4.png)
 
 Observe:
 
@@ -100,7 +100,7 @@ Polígonos regulares podem ser estudados a partir de uma circunferência.
 
 Um **polígono inscrito** tem todos os vértices sobre uma circunferência. A **circunferência circunscrita** é a que passa por todos esses vértices.
 
-![TikZ 5 — Hexágono regular inscrito](figuras/cap02_tikz-5.png)
+![TikZ 5 — Hexágono regular inscrito](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/8ano/unidade-4-poligonos-e-construcao-de-poligonos-regulares/figuras/cap02_tikz-5.png)
 
 Termos importantes:
 

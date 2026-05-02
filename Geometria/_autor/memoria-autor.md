@@ -4,6 +4,9 @@ Felipe works as a content author or curriculum coordinator at a Brazilian Christ
 
 The textbook integrates a Christian worldview throughout, including a mandatory "E A BÍBLIA NISSO?" section in every chapter. Content is produced as Markdown with LaTeX math notation, rendered via AutoLaTeX Equations (CodeCogs) in Google Docs.
 
+For TikZ figures, the production source remains local LaTeX/TikZ in `figuras_capXX_<slug>.tex`, and the rendered PNGs remain under each unit's `figuras/` folder. The final Markdown used with Google Docs must not keep relative links like `](figuras/cap01_tikz-1.png)`, because copy/paste into Docs will lose the image. Use absolute GitHub raw URLs instead:
+`https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Geometria/<ano>/<unidade>/figuras/capXX_tikz-N.png`.
+
 **Current state**
 
 Units completed across grade levels (most recent sessions):
@@ -57,7 +60,7 @@ A system prompt governing chapter production style exists and has been revised i
 - **Para não esquecer** — 3–5 short memory-trigger bullets (refined to 3–4 in EM content)
 - **Fórmulas do capítulo**
 
-**Output:** Two files per chapter — chapter content + separate image specification file (unless Felipe waives the image file). All files written to `/home/claude/`, then copied to `/mnt/user-data/outputs/`.
+**Output:** chapter content with GitHub raw image URLs + separate TikZ source file. After rendering, every final chapter Markdown should point to the rendered PNG through `raw.githubusercontent.com`, not through local relative `figuras/` paths.
 
 **Tools & resources**
 
