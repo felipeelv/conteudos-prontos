@@ -62,7 +62,7 @@ A regra recursiva, em linguagem algébrica, é:
 
 $$a_{n} = 2 \cdot a_{n-1} + 1$$
 
-![Sequência 2, 5, 11, 23, 47 com setas indicando a regra recursiva "dobro do anterior mais 1"](../../_tikz/build/7ano/unidade-4-introducao-algebra/sequencia-recursiva-dobro-mais-um.png)
+![Sequência 2, 5, 11, 23, 47 com setas indicando a regra recursiva "dobro do anterior mais 1"](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/7ano/unidade-4-introducao-algebra/sequencia-recursiva-dobro-mais-um.png)
 
 ### 2.2 Caso base
 

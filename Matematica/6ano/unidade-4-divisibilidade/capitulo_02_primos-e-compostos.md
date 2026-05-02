@@ -96,7 +96,7 @@ Em forma de potência:
 
 $$60 = 2^{2} \cdot 3 \cdot 5$$
 
-![Árvore de fatores de 60 mostrando a decomposição em 2, 2, 3 e 5](../../_tikz/build/6ano/unidade-4-divisibilidade/arvore-fatores-60.png)
+![Árvore de fatores de 60 mostrando a decomposição em 2, 2, 3 e 5](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/6ano/unidade-4-divisibilidade/arvore-fatores-60.png)
 
 ### 3.2 Tabela de divisões
 

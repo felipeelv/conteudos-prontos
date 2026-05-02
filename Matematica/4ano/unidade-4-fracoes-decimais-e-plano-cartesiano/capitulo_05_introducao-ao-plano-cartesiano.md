@@ -86,7 +86,7 @@ O ponto $$(2, 3)$$ fica 2 à direita e 3 para cima.
 
 São dois lugares diferentes no plano.
 
-![Plano cartesiano com os pontos (3,2) e (2,3) marcados em posições distintas](../../_tikz/build/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/eixo-cartesiano-3x2-vs-2x3.png)
+![Plano cartesiano com os pontos (3,2) e (2,3) marcados em posições distintas](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/eixo-cartesiano-3x2-vs-2x3.png)
 
 > ⚠️ **Atenção:**  
 > Em $$(x, y)$$, primeiro vem o eixo $$x$$, depois o eixo $$y$$ — sempre nessa ordem.

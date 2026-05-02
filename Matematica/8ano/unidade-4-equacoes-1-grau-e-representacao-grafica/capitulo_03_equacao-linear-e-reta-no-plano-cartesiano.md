@@ -101,7 +101,7 @@ Veja o exemplo abaixo.
 
 Marcando $$(0, 5)$$, $$(2, 9)$$ e $$(5, 15)$$ no plano e ligando-os, aparece a reta da equação $$y = 5 + 2x$$.
 
-![Reta da equação y = 5 + 2x no plano cartesiano com os pontos (0,5), (2,9) e (5,15) marcados](../../_tikz/build/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/reta-y-igual-5-mais-2x.png)
+![Reta da equação y = 5 + 2x no plano cartesiano com os pontos (0,5), (2,9) e (5,15) marcados](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/reta-y-igual-5-mais-2x.png)
 
 A reta representa **todos** os pares-solução da equação — não apenas os 3 marcados, mas os infinitos outros que existem.
 

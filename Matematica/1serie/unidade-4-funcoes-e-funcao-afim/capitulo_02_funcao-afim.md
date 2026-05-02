@@ -246,7 +246,7 @@ $$C_2(50) = 1{,}20 \cdot 50 + 20 = 60 + 20 = 80$$
 
 Os dois custam $$R\$ 80{,}00$$ no ponto de equilíbrio.
 
-![Gráfico das funções de custo de dois planos de telefonia: C1(m) = 0,80m + 40 (azul) e C2(m) = 1,20m + 20 (vermelho), cruzando-se no ponto (50, 80)](../../_tikz/build/1serie/unidade-4-funcoes-e-funcao-afim/comparacao-planos-telefonia.png)
+![Gráfico das funções de custo de dois planos de telefonia: C1(m) = 0,80m + 40 (azul) e C2(m) = 1,20m + 20 (vermelho), cruzando-se no ponto (50, 80)](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/1serie/unidade-4-funcoes-e-funcao-afim/comparacao-planos-telefonia.png)
 
 Antes de 50 minutos, o Plano B (vermelho) é mais barato — começa com taxa fixa menor. Depois de 50 minutos, o Plano A (azul) é mais barato — sua taxa por minuto é menor, e essa diferença compensa a taxa fixa maior.
 

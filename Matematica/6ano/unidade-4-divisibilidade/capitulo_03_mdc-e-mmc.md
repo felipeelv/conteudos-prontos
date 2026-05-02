@@ -35,7 +35,7 @@ Entre os divisores comuns 1, 2, 3, 4, 6 e 12, o maior é 12. Logo:
 
 $$\mathrm{MDC}(24, 36) = 12$$
 
-![Diagrama mostrando os divisores de 24 e 36, com 12 destacado como o MDC](../../_tikz/build/6ano/unidade-4-divisibilidade/divisores-comuns-24-36.png)
+![Diagrama mostrando os divisores de 24 e 36, com 12 destacado como o MDC](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/6ano/unidade-4-divisibilidade/divisores-comuns-24-36.png)
 
 > 🔢 **Padrão:**  
 > O MDC responde à pergunta: qual é a maior divisão comum sem sobras?

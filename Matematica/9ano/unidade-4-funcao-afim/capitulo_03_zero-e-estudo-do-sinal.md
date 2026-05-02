@@ -123,7 +123,7 @@ Para $$f(x) = 2x - 6$$, com $$a = 2 > 0$$ (função crescente):
 - $$f(x) = 0$$ quando $$x = 3$$.
 - $$f(x) > 0$$ quando $$x > 3$$.
 
-![Gráfico de f(x) = 2x - 6 com o zero em (3, 0) e regiões do plano coloridas: à esquerda em vermelho onde f(x) é negativo, à direita em azul onde f(x) é positivo](../../_tikz/build/9ano/unidade-4-funcao-afim/estudo-do-sinal-2x-menos-6.png)
+![Gráfico de f(x) = 2x - 6 com o zero em (3, 0) e regiões do plano coloridas: à esquerda em vermelho onde f(x) é negativo, à direita em azul onde f(x) é positivo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/9ano/unidade-4-funcao-afim/estudo-do-sinal-2x-menos-6.png)
 
 Já para $$f(t) = -2t + 20$$, com $$a = -2 < 0$$ (função decrescente), o zero é em $$t = 10$$:
 

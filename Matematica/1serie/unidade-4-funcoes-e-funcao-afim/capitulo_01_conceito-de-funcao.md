@@ -38,7 +38,7 @@ A relação CPF → pessoa é função: cada CPF identifica uma única pessoa.
 
 Já a relação pessoa → time favorito **não** é função: uma mesma pessoa pode declarar gostar de dois times ao mesmo tempo, ou de nenhum — falta a unicidade.
 
-![Comparação de dois diagramas de flechas. À esquerda, em azul, uma relação que é função: cada elemento do conjunto A está ligado a exatamente uma imagem em B. À direita, em vermelho, uma relação que NÃO é função: o elemento 2 está ligado a duas imagens diferentes em B](../../_tikz/build/1serie/unidade-4-funcoes-e-funcao-afim/relacao-funcao-vs-nao-funcao.png)
+![Comparação de dois diagramas de flechas. À esquerda, em azul, uma relação que é função: cada elemento do conjunto A está ligado a exatamente uma imagem em B. À direita, em vermelho, uma relação que NÃO é função: o elemento 2 está ligado a duas imagens diferentes em B](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/1serie/unidade-4-funcoes-e-funcao-afim/relacao-funcao-vs-nao-funcao.png)
 
 > 🔢 **Padrão:**  
 > Função = relação com unicidade — uma entrada, no máximo uma saída associada.

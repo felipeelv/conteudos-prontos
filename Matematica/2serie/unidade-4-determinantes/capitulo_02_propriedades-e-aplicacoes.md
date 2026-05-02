@@ -238,7 +238,7 @@ $$\det(A) = 1 \cdot 4 - 2 \cdot 3 = 4 - 6 = -2$$
 
 $$A^{-1}$$ tem primeira linha $$\bigl(\tfrac{4}{-2},\ \tfrac{-2}{-2}\bigr) = (-2,\ 1)$$ e segunda linha $$\bigl(\tfrac{-3}{-2},\ \tfrac{1}{-2}\bigr) = (1{,}5;\ -0{,}5)$$.
 
-![Fluxo visual do cálculo da inversa: matriz A com primeira linha (1,2) e segunda (3,4), com det = -2; em seguida a matriz dos cofatores (4,-3 / -2,1), depois a adjunta (transposta dos cofatores: 4,-2 / -3,1) e finalmente a inversa, obtida dividindo a adjunta pelo determinante](../../_tikz/build/2serie/unidade-4-determinantes/fluxo-matriz-inversa.png)
+![Fluxo visual do cálculo da inversa: matriz A com primeira linha (1,2) e segunda (3,4), com det = -2; em seguida a matriz dos cofatores (4,-3 / -2,1), depois a adjunta (transposta dos cofatores: 4,-2 / -3,1) e finalmente a inversa, obtida dividindo a adjunta pelo determinante](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/2serie/unidade-4-determinantes/fluxo-matriz-inversa.png)
 
 ### 5.3 Verificação por produto com a identidade
 

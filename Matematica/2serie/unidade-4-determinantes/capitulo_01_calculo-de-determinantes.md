@@ -62,7 +62,7 @@ $$\det(A) = a \cdot d - b \cdot c$$
 
 Geometricamente, o cálculo segue uma "X" — produto da diagonal principal menos produto da diagonal secundária.
 
-![Matriz 2x2 genérica com setas ilustrando o cálculo do determinante: produto da diagonal principal a·d (em azul, positivo) menos produto da diagonal secundária b·c (em vermelho, negativo)](../../_tikz/build/2serie/unidade-4-determinantes/matriz-2x2-ad-menos-bc.png)
+![Matriz 2x2 genérica com setas ilustrando o cálculo do determinante: produto da diagonal principal a·d (em azul, positivo) menos produto da diagonal secundária b·c (em vermelho, negativo)](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/2serie/unidade-4-determinantes/matriz-2x2-ad-menos-bc.png)
 
 Veja o exemplo abaixo.
 
@@ -85,7 +85,7 @@ Para matrizes de ordem 3, há um método específico — a Regra de Sarrus.
 
 A Regra de Sarrus consiste em repetir as duas primeiras colunas da matriz à direita dela, formando um arranjo $$3 \times 5$$. Em seguida, traçam-se três diagonais que descem da esquerda para a direita — as **diagonais principais** — e somam-se os produtos dos elementos de cada diagonal.
 
-![Regra de Sarrus aplicada a matriz 3x3 genérica: as duas primeiras colunas são copiadas à direita; três diagonais descendentes em azul são as principais (somadas com sinal +) e três diagonais ascendentes em vermelho são as secundárias (somadas com sinal −)](../../_tikz/build/2serie/unidade-4-determinantes/sarrus-3x3.png)
+![Regra de Sarrus aplicada a matriz 3x3 genérica: as duas primeiras colunas são copiadas à direita; três diagonais descendentes em azul são as principais (somadas com sinal +) e três diagonais ascendentes em vermelho são as secundárias (somadas com sinal −)](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/2serie/unidade-4-determinantes/sarrus-3x3.png)
 
 A soma das diagonais principais é:
 
@@ -162,7 +162,7 @@ $$A_{ij} = (-1)^{i+j} \cdot M_{ij}$$
 
 Os sinais formam um padrão alternado em forma de tabuleiro de xadrez.
 
-![Quadro 3x3 de sinais alternados dos cofatores: posições com soma i+j par são positivas (+), posições com soma ímpar são negativas (−)](../../_tikz/build/2serie/unidade-4-determinantes/sinais-cofatores-3x3.png)
+![Quadro 3x3 de sinais alternados dos cofatores: posições com soma i+j par são positivas (+), posições com soma ímpar são negativas (−)](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/2serie/unidade-4-determinantes/sinais-cofatores-3x3.png)
 
 Veja o exemplo abaixo.
 

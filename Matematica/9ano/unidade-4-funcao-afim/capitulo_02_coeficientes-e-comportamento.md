@@ -84,7 +84,7 @@ Em $$g(x) = -3x + 1$$ (com $$a = -3 < 0$$):
 
 Os valores de $$g(x)$$ diminuem à medida que $$x$$ aumenta — função decrescente.
 
-![Comparação visual entre f(x) = 2x + 1 (crescente, em azul) e g(x) = -3x + 1 (decrescente, em vermelho), com mesmo intercepto (0, 1)](../../_tikz/build/9ano/unidade-4-funcao-afim/comparacao-coeficiente-angular.png)
+![Comparação visual entre f(x) = 2x + 1 (crescente, em azul) e g(x) = -3x + 1 (decrescente, em vermelho), com mesmo intercepto (0, 1)](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Matematica/_tikz/build/9ano/unidade-4-funcao-afim/comparacao-coeficiente-angular.png)
 
 ---
 
