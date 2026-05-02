@@ -2,8 +2,8 @@
 #
 # criar_capitulos.sh — AUTOR especializado de Física.
 # Gera capítulos finais a partir dos blueprints aprovados, com regras editoriais
-# específicas (sem "Sua Parte", LaTeX compatível com AutoLaTeX/CodeCogs, fórmulas
-# pós-conteúdo apenas do 8º ano em diante, nomenclatura brasileira).
+# específicas (sem "Sua Parte", sem seção final de fórmulas, LaTeX compatível
+# com AutoLaTeX/CodeCogs, nomenclatura brasileira).
 #
 # Uso:
 #   ./scripts/criar_capitulos.sh                                                 # interativo
@@ -169,13 +169,6 @@ TIMESTAMP=$(date +%Y%m%d_%H%M%S)
 LOG_SAFE="$(slugify "$DISCIPLINA-$ANO-$UNIT_STEM")"
 LOG_FILE="$AUTOR_DIR/logs/${TIMESTAMP}_${LOG_SAFE}.log"
 
-# --- Determinar se "Fórmulas do capítulo" é obrigatório (8º ano em diante) ---
-# Heurística: se ANO está em {6ano, 7ano}, bloco é OPCIONAL/OMITIDO; senão, OBRIGATÓRIO.
-FORMULAS_REQUIRED=1
-case "$ANO" in
-  6ano|7ano) FORMULAS_REQUIRED=0 ;;
-esac
-
 # --- Resumo do plano ---
 echo -e "${C_BOLD}Autoria de Física${C_RESET}"
 echo "  Disciplina:       $DISCIPLINA"
@@ -192,11 +185,7 @@ echo "  Saída:            $OUTPUT_DIR"
 echo "  Capítulos:        ${#CHAPTER_BLUEPRINTS[@]}"
 echo "  Executor:         $EXECUTOR"
 echo "  CLAUDE.md específico: $AUTOR_DIR/CLAUDE.md"
-if [[ $FORMULAS_REQUIRED -eq 1 ]]; then
-  echo "  '## Fórmulas do capítulo': OBRIGATÓRIO ($ANO >= 8º)"
-else
-  echo "  '## Fórmulas do capítulo': OMITIDO ($ANO em 6º/7º — Física qualitativa)"
-fi
+echo "  '## Fórmulas do capítulo': OMITIDO (regra vigente para todas as séries)"
 echo
 
 # --- Dry-run sai aqui ---
@@ -233,12 +222,7 @@ REFS_GLOBAIS_LIST=""
 $(printf '%s\n' "${REFERENCIAS_GLOBAIS[@]}")
 "
 
-FORMULAS_LINE=""
-if [[ $FORMULAS_REQUIRED -eq 1 ]]; then
-  FORMULAS_LINE="- '## Formulas do capitulo' e OBRIGATORIO neste ano ($ANO) — listar todas as formulas apresentadas com nome e grandezas."
-else
-  FORMULAS_LINE="- '## Formulas do capitulo' deve ser OMITIDO neste ano ($ANO) — Fisica qualitativa, sem fechamento de formulas."
-fi
+FORMULAS_LINE="- NUNCA criar '## Formulas do capitulo'. As formulas ficam integradas ao corpo do capitulo, proximas ao conceito e ao exemplo."
 
 PROMPT="Voce vai escrever todos os capitulos finais de uma unidade didatica de FISICA a partir dos blueprints aprovados.
 
@@ -309,7 +293,6 @@ ESTRUTURA FIXA DOS BLOCOS POS-CONTEUDO (NESTA ORDEM EXATA)
 2. ## E A BÍBLIA NISSO?              (versiculo em blockquote → conexao 1-2 frases → 1 bullet de aplicacao → > 💬 **Para Conversar:**)
 3. ## Simplificando                  (1-2 paragrafos curtos, NAO bullets)
 4. ## Para não esquecer              (2 a 3 bullets no formato 'Termo: explicacao breve')
-5. ## Fórmulas do capítulo           (lista de formulas com nome e grandezas)
 ${FORMULAS_LINE}
 
 ADAPTACAO POR SERIE
@@ -322,7 +305,7 @@ ADAPTACAO POR SERIE
 HIERARQUIA DE AUTORIDADE
 ========================
 Quando o blueprint pedir conteudo que nao cabe na estrutura padrao:
-- Estrutura: segue o prompt-autor (4 topicos numerados + 5 blocos pos-conteudo na ordem fixa).
+- Estrutura: segue o prompt-autor (4 topicos numerados + 4 blocos pos-conteudo na ordem fixa).
 - Conteudo factual (fisico-personagem, fenomeno, valor numerico): EMBUTE em '📝 Exemplo', '💡 Você sabia?', '📏 Medidas Impressionantes', '⚡ Física no Dia a Dia' ou '## NA VIDA REAL'.
 - Exercicios pedidos pelo blueprint: DESCARTADOS desta saida (ficam em caderno de atividades separado).
 - Conexao biblica explicita: SEMPRE em '## E A BÍBLIA NISSO?' — nunca em outros blocos.
@@ -404,17 +387,10 @@ if "$EXECUTOR" "${EXEC_CMD[@]}" > "$LOG_FILE" 2>&1; then
       fi
     done
 
-    # 5.b ## Fórmulas do capítulo: obrigatório do 8º ano em diante
-    if [[ $FORMULAS_REQUIRED -eq 1 ]]; then
-      if ! grep -qE '^## Fórmulas do capítulo' "$cap"; then
-        log_error "$cap_name: heading obrigatório ausente: ## Fórmulas do capítulo (obrigatório em $ANO)"
-        VIOLATIONS=$((VIOLATIONS + 1))
-      fi
-    else
-      # Em 6º/7º, presença é tolerada mas avisa (não fatal)
-      if grep -qE '^## Fórmulas do capítulo' "$cap"; then
-        log_warn "$cap_name: '## Fórmulas do capítulo' presente em $ANO (esperado: omitido — Física qualitativa)"
-      fi
+    # 5.b ## Fórmulas do capítulo: removido do projeto
+    if grep -qE '^## Fórmulas do capítulo' "$cap"; then
+      log_error "$cap_name: heading removido do padrão: ## Fórmulas do capítulo"
+      VIOLATIONS=$((VIOLATIONS + 1))
     fi
 
     # 6. Para não esquecer = 2 a 3 bullets

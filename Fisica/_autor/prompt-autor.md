@@ -186,10 +186,6 @@ Para não esquecer
 - Conceito 1: explicação em uma frase;
 - Conceito 2: explicação em uma frase;
 (2 a 3 itens — formato "Termo: explicação breve")
----
-Fórmulas do capítulo
-Lista das fórmulas apresentadas no capítulo, com nome e grandezas.
-(Apenas para 8º ano em diante)
 ```
 
 ## 4. Estilo
@@ -202,6 +198,7 @@ Lista das fórmulas apresentadas no capítulo, com nome e grandezas.
 - Analogias concretas. Para 6º–7º ano: universo do aluno (esportes, cozinha, transporte, brincadeiras).
 - Grandezas físicas sempre acompanhadas de unidade no SI.
 - Fórmulas integradas ao texto, nunca isoladas sem contexto.
+- Não criar seção `## Fórmulas do capítulo` em nenhuma série. As fórmulas devem aparecer apenas dentro do desenvolvimento do capítulo, com explicação das grandezas logo após cada fórmula.
 - Produzir no momento apenas **Unidade 4**, ano a ano, até que todas as séries solicitadas estejam concluídas.
 - Usar ilustrações TikZ sempre que o contexto físico puder ficar mais concreto para o aluno. Quanto mais visual for a explicação, melhor.
 - Manter o código TikZ em `figuras_capXX_<slug>.tex`, renderizar PNGs em `Fisica/<ano>/<unidade>/figuras/` e inserir no Markdown final somente URLs raw do GitHub, nunca links relativos `figuras/...`.

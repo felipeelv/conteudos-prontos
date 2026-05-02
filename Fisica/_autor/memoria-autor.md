@@ -2,6 +2,17 @@
 
 Felipe is producing a multi-grade Physics textbook series for a Christian school in Brazil, covering grades 6–9 (Ensino Fundamental) and years 1–2 of Ensino Médio. All content is written in Brazilian Portuguese, follows BNCC curriculum alignment, and integrates a faith-based reflection section ("E a Bíblia Nisso?") into every chapter. The project is organized by grade level, bimester, and unit, with chapter numbering resetting at each new unit. Content is delivered as Markdown files with LaTeX equations, structured for potential use in Google Docs via the AutoLaTeX/CodeCogs rendering pipeline.
 
+**Atualização vigente — Unidade 4 de Física**
+
+- Produzir apenas `unidade-4` até Felipe concluir todos os anos/séries.
+- A seção `## Fórmulas do capítulo` foi removida do padrão do autor. Não gerar em nenhuma série; manter fórmulas apenas no corpo do capítulo, junto do conceito e do exemplo.
+- Tom e linguagem sempre calibrados ao ano/série: parágrafos curtos, diretos, sem perder a linha conceitual.
+- `## Para não esquecer` com no máximo 3 pontos, preferencialmente 3 quando todos forem essenciais.
+- `## E A BÍBLIA NISSO?` segue o formato sintético aprovado: versículo em blockquote, conexão curta com o fenômeno físico, exatamente 1 aplicação em bullet e `> 💬 **Para Conversar:**`.
+- Usar TikZ sempre que deixar o conceito mais concreto. Salvar fontes em `figuras_capXX_<slug>.tex`, PNGs em `Fisica/<ano>/<unidade>/figuras/` e links no Markdown como URL raw do GitHub.
+- Ao concluir e validar uma unidade, fazer commit e push do escopo da unidade, mantendo arquivos não relacionados fora do commit.
+- Lote já produzido e publicado com esse padrão visual: 6ano, 7ano, 8ano, 9ano, 1serie, 2serie e 3serie da Unidade 4. Os capítulos mais recentes ainda podem conter `## Fórmulas do capítulo`; a regra nova vale daqui para frente.
+
 **Current state**
 
 Recent sessions have covered:
@@ -28,6 +39,7 @@ Each session follows the same approval-gated workflow: propose chapter structure
 
 - **Current production scope:** until Felipe says otherwise, produce only **Unidade 4** content, moving grade by grade/year by year until all years are complete. Do not expand to other units in the same grade unless explicitly requested.
 - **TikZ illustration rule:** Physics chapters should be visually supported whenever a diagram clarifies the phenomenon. Prefer 2 or more TikZ illustrations per chapter when the topic benefits from visual context. Keep source files beside the chapter as `figuras_capXX_<slug>.tex`, render PNGs under the unit `figuras/` folder, and reference each image in Markdown with a GitHub raw URL: `https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Fisica/<ano>/<unidade>/figuras/capXX_tikz-N.png`. Do not use relative `](figuras/...)` links in final Markdown because Google Docs copy/paste loses those images.
+- **Formula summary removed:** do not generate `## Fórmulas do capítulo`. Formulas remain integrated in the explanatory flow.
 - **Concise student memory:** "Para não esquecer" must have **2-3 bullets maximum**, preferably 3 only when each point is essential.
 - **Publish-after-unit rule:** when a full unit is completed and verified, commit and push the scoped unit changes immediately so GitHub raw image URLs become available for Google Docs validation. Keep unrelated local files out of the commit.
 - **Workflow:** Propose chapter list → approval → one chapter at a time → content/accuracy review → targeted edits → final delivery. Never advance without explicit sign-off.
@@ -39,10 +51,10 @@ Each session follows the same approval-gated workflow: propose chapter structure
   - Definitions: one short sentence
   - All boxes (💭 ⏸️ 💡 📏 ⚡ 🧪 📐): use Markdown blockquote format `> emoji **Título:** texto` — title line and single-sentence content
   - Never place two boxes consecutively — always separate with at least one content paragraph
-  - "E a Bíblia Nisso?": maximum 2 short principles, no excessive development or pietism; includes opening verse, connection sentence, two principles with scripture citations, and a discussion question
+  - "E a Bíblia Nisso?": versículo em blockquote, conexão curta, exatamente 1 aplicação em bullet e uma pergunta `Para Conversar`
   - "Para não esquecer": maximum 2–3 bullets
   - "Simplificando" and "NA VIDA REAL": concise and direct
-  - "Sua Parte": tight word limit
+  - Não criar "Sua Parte" nem "Fórmulas do capítulo"
 
 **Tools & resources**
 

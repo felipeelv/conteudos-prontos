@@ -10,7 +10,7 @@
 
 Material **fenomenológico-matemático** para EF II (6º–9º) e Ensino Médio (1ª–3ª séries). O capítulo articula fenômeno observável → modelo físico → formalismo matemático, com nível de matematização progressivo por série (qualitativo no 6º–7º, fórmulas simples a partir do 8º, formalismo completo no EM).
 
-A leitura sai da **pergunta-problema do cotidiano**, percorre 4 tópicos numerados com subtópicos e fecha com 5 blocos pós-conteúdo (incluindo "Fórmulas do capítulo" do 8º ano em diante). Cada conceito é apresentado como **conceito → explicação → exemplo**, com fórmulas em LaTeX delimitado por `$$ ... $$`.
+A leitura sai da **pergunta-problema do cotidiano**, percorre 4 tópicos numerados com subtópicos e fecha com 4 blocos pós-conteúdo. Cada conceito é apresentado como **conceito → explicação → exemplo**, com fórmulas em LaTeX delimitado por `$$ ... $$` e integradas ao fluxo do capítulo.
 
 ## Estrutura fixa do capítulo (do `prompt-autor.md`)
 
@@ -44,9 +44,6 @@ A leitura sai da **pergunta-problema do cotidiano**, percorre 4 tópicos numerad
 - [Termo: explicação breve em uma frase]
 - ...
 (2 a 3 itens)
----
-## Fórmulas do capítulo
-[Lista das fórmulas apresentadas, com nome e grandezas — apenas para 8º ano em diante.]
 ```
 
 **Não há "Sua Parte" nem qualquer bloco de exercícios no capítulo do aluno.** As atividades vivem em outro material.
@@ -71,6 +68,7 @@ A leitura sai da **pergunta-problema do cotidiano**, percorre 4 tópicos numerad
 - ❌ **NUNCA** compactar múltiplas operações na mesma linha do exemplo resolvido — uma operação por linha (dados → fórmula com símbolos → substituição → simplificação → resultado com unidade).
 - ❌ **NUNCA** usar "Lei de Charles" para a transformação isobárica — a tradição brasileira chama de **"Lei de Gay-Lussac (1ª lei)"** (isobárica) e **"Lei de Gay-Lussac (2ª lei)"** (isocórica).
 - ❌ **NUNCA** usar link relativo `](figuras/...)` para imagem TikZ no Markdown final — usar URL absoluta do GitHub raw.
+- ❌ **NUNCA** criar a seção `## Fórmulas do capítulo` em nenhuma série. Fórmulas ficam no desenvolvimento do conteúdo, não em bloco final.
 
 ## Regra LaTeX — formalismo matemático (inviolável)
 
@@ -96,7 +94,7 @@ Toda fórmula vai em LaTeX delimitado por `$$ ... $$`, compatível com **AutoLaT
 - ✅ **`## E A BÍBLIA NISSO?`** tem 4 elementos na ordem: **(1) versículo em blockquote** → **(2) conexão tema-princípio em 1-2 frases** → **(3) exatamente 1 aplicação em bullet** com título curto → **(4) `> 💬 **Para Conversar:**` 1 pergunta**.
 - ✅ **`## Simplificando`** tem **1-2 parágrafos curtos** (não bullets).
 - ✅ **`## Para não esquecer`** tem **2 a 3 bullets**, preferencialmente 3, no formato "Termo: explicação breve em uma frase".
-- ✅ **`## Fórmulas do capítulo`** existe **apenas do 8º ano em diante** — lista das fórmulas apresentadas com nome e grandezas. Em 6º/7º, este bloco é omitido.
+- ✅ Fórmulas continuam no corpo do capítulo, próximas ao conceito correspondente, com definição das grandezas e unidades logo após a fórmula.
 
 ## Regras TikZ para Física
 
@@ -110,8 +108,8 @@ Toda fórmula vai em LaTeX delimitado por `$$ ... $$`, compatível com **AutoLaT
 
 ## Adaptação por série
 
-- **6º–7º ano EF II:** conceitos qualitativos, exemplos cotidianos, vocabulário científico gradual. Fórmulas raras e sempre com exemplo numérico imediato. **Sem `## Fórmulas do capítulo`.**
-- **8º–9º ano EF II:** fórmulas simples com unidades, exemplos resolvidos passo a passo, fenômenos como gancho. **Inclui `## Fórmulas do capítulo`.**
+- **6º–7º ano EF II:** conceitos qualitativos, exemplos cotidianos, vocabulário científico gradual. Fórmulas raras e sempre com exemplo numérico imediato.
+- **8º–9º ano EF II:** fórmulas simples com unidades, exemplos resolvidos passo a passo, fenômenos como gancho.
 - **1ª–2ª série EM:** formalismo matemático completo, modelos físicos e suas limitações, articulação grandezas/gráficos/equações.
 - **3ª série EM:** síntese, articulação entre temas, problemas de vestibular/ENEM.
 
@@ -119,7 +117,7 @@ Toda fórmula vai em LaTeX delimitado por `$$ ... $$`, compatível com **AutoLaT
 
 Quando o **blueprint** pedir conteúdo que não cabe na estrutura padrão de Física:
 
-1. **Estrutura:** segue o `prompt-autor.md` (4 tópicos numerados + 5 blocos pós-conteúdo na ordem fixa).
+1. **Estrutura:** segue o `prompt-autor.md` (4 tópicos numerados + 4 blocos pós-conteúdo na ordem fixa).
 2. **Conteúdo factual** (físico-personagem, fenômeno motivador, valor numérico): embute no bloco mais natural — `📝 Exemplo`, `💡 Você sabia?`, `📏 Medidas Impressionantes`, `⚡ Física no Dia a Dia` ou `## NA VIDA REAL`.
 3. **Exercícios pedidos pelo blueprint:** **descartados** desta saída. Ficam no caderno de atividades separado.
 4. **Conexão bíblica explícita:** vai sempre em `## E A BÍBLIA NISSO?` — nunca em outros blocos.
@@ -148,13 +146,13 @@ O script `criar_capitulos.sh` valida cada capítulo gerado contra:
    - `## E A BÍBLIA NISSO?`
    - `## Simplificando`
    - `## Para não esquecer`
-   - `## Fórmulas do capítulo` (somente se ANO ∉ {6ano, 7ano}).
 6. **`## Para não esquecer` tem 2 a 3 bullets** — não 1, não 4+.
 7. **`## E A BÍBLIA NISSO?` contém versículo em blockquote, 1 bullet de aplicação e `> 💬 **Para Conversar:**`** — formato obrigatório.
 8. **LaTeX `\text{` proibido dentro de `$$ ... $$`** — usar `\mathrm{`.
 9. **Caracteres acentuados/cedilha proibidos dentro de `$$ ... $$`** (`ç ã é ó ê á â í ú`).
 10. **Sem dois boxes (`>`) consecutivos** (heurística: bloco `>` seguido de linha em branco seguida de novo bloco `>`).
 11. **Links TikZ em Markdown por URL raw**, nunca `](figuras/...)`.
+12. **Sem `## Fórmulas do capítulo`** — seção removida do padrão.
 
 Falhas listam violações e param o pipeline antes do commit.
 
