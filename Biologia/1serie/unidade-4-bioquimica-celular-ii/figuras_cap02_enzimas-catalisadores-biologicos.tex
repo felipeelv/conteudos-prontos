@@ -1,0 +1,16 @@
+\documentclass[tikz,border=3mm]{standalone}
+\usepackage[T1]{fontenc}
+\usetikzlibrary{arrows.meta,positioning}
+\begin{document}
+\begin{tikzpicture}[>=Latex,node distance=0.8cm]
+  \tikzstyle{box}=[draw,rounded corners=2pt,very thick,align=center,minimum width=2.5cm,minimum height=0.75cm]
+  \node[box,fill=blue!10] (s) {substrato};
+  \node[box,fill=green!12,right=1.0cm of s] (e) {enzima\\sitio ativo};
+  \node[box,fill=orange!12,right=1.0cm of e] (p) {produto};
+  \draw[very thick,->] (s) -- (e) node[midway,above] {encaixe};
+  \draw[very thick,->] (e) -- (p) node[midway,above] {reacao};
+  \node[box,fill=yellow!18,below=1.0cm of e] (ea) {menor energia\\de ativacao};
+  \draw[thick,->] (ea) -- (e);
+  \node[align=center,above=0.35cm of e] {enzima acelera sem ser consumida};
+\end{tikzpicture}
+\end{document}

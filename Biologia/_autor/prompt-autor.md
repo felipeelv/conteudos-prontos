@@ -97,6 +97,9 @@ Para não esquecer
 - `---` apenas entre blocos pós-conteúdo.
 - Sem tabelas nem código, a menos que pedido.
 - Cruzamentos genéticos, quando indispensáveis, podem usar tabela simples (Punnett) ou notação inline (Aa × Aa).
+- Como apostila didática, usar ilustrações TikZ quando a visualização melhorar a aprendizagem. Priorize imagens para cromossomos, gametas, heredogramas, quadros de Punnett, proteínas, enzimas, hipóteses de origem da vida, regulação gênica, epigenética, mutações, reparo do DNA, PCR e fluxos de biotecnologia.
+- A imagem TikZ deve entrar no Markdown por link bruto do GitHub: `https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/.../figuras/capXX_tikz-1.png`. Não usar caminho relativo `figuras/...` nem `blob/main`, pois isso falha ao copiar para Google Docs.
+- Salvar a fonte como `figuras_capXX_<slug>.tex`, renderizar o PNG em `Biologia/<ano>/<unidade>/figuras/` e não versionar `.aux`, `.log` ou `.pdf`.
 
 ## 6. Adaptação por Série
 

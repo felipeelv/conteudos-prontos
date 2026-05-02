@@ -1,0 +1,19 @@
+\documentclass[tikz,border=3mm]{standalone}
+\usepackage[T1]{fontenc}
+\usetikzlibrary{arrows.meta,positioning}
+\begin{document}
+\begin{tikzpicture}[>=Latex,node distance=0.75cm]
+  \tikzstyle{box}=[draw,rounded corners=2pt,very thick,align=center,minimum width=2.6cm,minimum height=0.75cm]
+  \node[box,fill=blue!10] (seq) {sequencia DNA\\nao muda};
+  \node[box,fill=green!12,below left=0.9cm and 0.2cm of seq] (met) {metilacao\\DNA};
+  \node[box,fill=orange!12,below=0.9cm of seq] (his) {histonas\\cromatina};
+  \node[box,fill=purple!10,below right=0.9cm and 0.2cm of seq] (rna) {RNAs\\regulatorios};
+  \node[box,fill=yellow!18,below=1.0cm of his] (exp) {expressao\\maior ou menor};
+  \draw[very thick,->] (seq) -- (met);
+  \draw[very thick,->] (seq) -- (his);
+  \draw[very thick,->] (seq) -- (rna);
+  \draw[thick,->] (met) -- (exp);
+  \draw[thick,->] (his) -- (exp);
+  \draw[thick,->] (rna) -- (exp);
+\end{tikzpicture}
+\end{document}

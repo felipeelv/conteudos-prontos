@@ -85,6 +85,9 @@ Esta regra é replicada no PROMPT enviado ao executor.
   - `🔬 **No Laboratório:**` — experimento ou técnica clássica em uma frase
   - `📊 **Em Números:**` — dado quantitativo surpreendente
 - ✅ **Nomenclatura científica correta:** nomes de cientistas grafados completos na primeira ocorrência (Darwin, Mendel, Fischer, Koshland, Watson & Crick); nomes científicos de espécies em itálico quando aparecerem (`*Homo sapiens*`); processos biológicos com nome formal.
+- ✅ **Ilustrações TikZ** sempre que ajudarem o aluno a visualizar uma ideia biológica: cruzamentos genéticos, heredogramas, cromossomos, proteínas, enzimas, origem da vida, regulação gênica, epigenética, mutações, reparo do DNA, PCR e fluxos de biotecnologia. A imagem deve explicar uma relação ou processo, não decorar a página.
+- ✅ **Padrão de imagem TikZ no Markdown:** inserir link bruto do GitHub (`https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/.../figuras/capXX_tikz-1.png`) para funcionar ao copiar para Google Docs; nunca usar caminho relativo `figuras/...` nem link `blob/main`.
+- ✅ **Padrão de arquivos TikZ:** fonte em `figuras_capXX_<slug>.tex`; PNG final em `Biologia/<ano>/<unidade>/figuras/`; não versionar `.aux`, `.log` ou `.pdf`.
 - ✅ `## 4.` traz **aplicação ao cotidiano, saúde, ecologia ou biotecnologia** — não é mais um tópico teórico.
 - ✅ `🤝 Sua Parte` traz **ação concreta** (autocuidado, hábito de saúde, atitude ambiental, decisão consciente sobre biotecnologia).
 - ✅ `O que a Bíblia diz sobre [tema]` tem **estrutura de 3 elementos**: prosa conectando tema à visão bíblica → versículo em destaque (itálico/negrito + referência) → parágrafo de mordomia + lista `Olhe como você pode fazer:` com 2 ações práticas.
@@ -136,6 +139,7 @@ O script `criar_capitulos.sh` valida cada capítulo gerado contra:
 6. **Sem personificação grosseira da natureza** — heurística: detecta `a célula quer`, `o gene decide`, `o organismo busca`, `a natureza escolhe`.
 7. **Pelo menos 1 box** no capítulo (linha começando com um dos emojis: 💭 ⏸️ 💡 🧬 🔬 📊).
 8. **Capítulo cita ao menos uma das âncoras bíblicas** (mordomia, criação, dignidade, templo, Gênesis, Salmo) — heurística para garantir cosmovisão presente.
+9. **Quando houver imagem TikZ**, validar que o Markdown usa link `raw.githubusercontent.com` e que o PNG existe em `figuras/`.
 
 Falhas listam violações e param o pipeline antes do commit.
 
