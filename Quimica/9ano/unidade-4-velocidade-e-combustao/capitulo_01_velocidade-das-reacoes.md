@@ -8,6 +8,8 @@
 
 Uma explosão, um comprimido efervescente e a ferrugem de um portão são transformações químicas, mas não acontecem no mesmo ritmo. A pergunta química é simples: o que faz uma reação acelerar, desacelerar ou quase parar?
 
+![TikZ 1 — Fatores que alteram a velocidade de uma reação](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/9ano/unidade-4-velocidade-e-combustao/figuras/cap01_tikz-1.png)
+
 ---
 
 ## 1. O Que é Velocidade de Reação

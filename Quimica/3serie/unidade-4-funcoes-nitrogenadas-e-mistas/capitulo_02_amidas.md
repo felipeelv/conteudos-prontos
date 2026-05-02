@@ -8,6 +8,8 @@
 
 Esses exemplos parecem distantes, mas compartilham uma ligação importante entre carbonila e nitrogênio. A função amida mostra como uma pequena conexão estrutural pode alterar propriedades e sustentar moléculas essenciais à vida.
 
+![TikZ 1 — Diferença entre amina, amida e ligação peptídica](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/figuras/cap02_tikz-1.png)
+
 ---
 
 ## 1. O Grupo Amida

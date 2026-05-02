@@ -8,6 +8,8 @@
 
 A lei de velocidade mostra que a reação responde às concentrações de modo experimental, não por palpite. A catálise completa essa leitura ao mostrar que um caminho químico diferente pode acelerar a transformação sem consumir o catalisador.
 
+![TikZ 1 — Lei de velocidade e caminho catalisado](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/2serie/unidade-4-cinetica-quimica/figuras/cap04_tikz-1.png)
+
 ---
 
 ## 1. Lei de Velocidade

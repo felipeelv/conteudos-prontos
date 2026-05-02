@@ -66,6 +66,9 @@ A escrita opera implicitamente nos três níveis do **triângulo de Johnstone** 
 - ✅ **Fórmulas em LaTeX** entre `$$...$$`, sem `\text{}`, sem acentos, sem `\;`/`\,`. Vírgula decimal `{,}`. Unidades em `\mathrm{}`.
 - ✅ **Fórmulas químicas em texto corrido** podem usar Unicode (H₂O, NaCl, CO₂, Cu²⁺) — apenas fora de `$$...$$`.
 - ✅ **Tabelas** sempre que houver dados comparativos, propriedades contrastantes ou classificações. Máximo 5 colunas.
+- ✅ **Ilustrações TikZ** quando o conceito ficar mais didático com apoio visual: partículas, colisões, energia de ativação, relações massa-mol-partículas, etapas de reação, fatores cinéticos e reconhecimento de grupos funcionais. Usar imagem como apoio à explicação, não como enfeite.
+- ✅ **Padrão de imagem TikZ no Markdown:** inserir link bruto do GitHub (`https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/.../figuras/capXX_tikz-1.png`) para funcionar ao copiar para Google Docs; nunca usar caminho relativo `figuras/...` nem link `blob/main`.
+- ✅ **Padrão de arquivos TikZ:** fonte em `figuras_capXX_<slug>.tex`; PNG final em `Quimica/<ano>/<unidade>/figuras/`; não versionar `.aux`, `.log` ou `.pdf`.
 - ✅ `## X. Aplicações Práticas` é lista de **5-6 itens**, cada item em **1 linha direta**: `- **Aplicação:** descrição curta`.
 - ✅ `## O que a Bíblia diz sobre [assunto]` segue **estrutura fixa** (5 elementos):
   1. **1-2 frases** conectando conteúdo científico ao tema bíblico

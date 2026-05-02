@@ -152,6 +152,26 @@ Comandos frequentes:
 
 Usar sempre que houver dados comparativos, propriedades contrastantes ou classificações. Máximo 5 colunas. Formato Markdown padrão.
 
+### 2.6 Ilustrações TikZ
+
+Como apostila didática, use ilustrações TikZ quando o aluno precisar visualizar relações, processos ou estruturas que ficam abstratos apenas em texto.
+
+Usar especialmente em:
+
+- partículas, colisões e fatores que alteram velocidade de reação
+- energia de ativação, catalisador e caminho reacional
+- relações massa → mol → número de partículas
+- leitura de grupos funcionais e comparação de funções orgânicas
+- fluxos conceituais que conectam fenômeno macroscópico, modelo microscópico e representação simbólica
+
+Regras técnicas:
+
+- fonte TikZ em `figuras_capXX_<slug>.tex`
+- PNG final em `Quimica/<ano>/<unidade>/figuras/`
+- chamada no Markdown com link bruto do GitHub: `https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/.../figuras/capXX_tikz-1.png`
+- nunca usar caminho relativo `figuras/...` nem link `blob/main`, pois isso falha ao copiar para Google Docs
+- não versionar `.aux`, `.log` ou `.pdf`
+
 ---
 
 ## 3. Blocos Pós-Conteúdo
@@ -223,7 +243,7 @@ Tabela com **Conceito** e **Ideia Central**. 4–8 linhas conforme densidade do 
 - Separar parágrafos com linha em branco
 - Listas com `-` para bullets
 - `---` entre blocos principais
-- Diagramas ASCII entre ` ``` `
+- Diagramas simples podem usar ASCII entre ` ``` `, mas preferir TikZ quando a visualização melhorar a aprendizagem
 - Boxes sempre com `>` (blockquote)
 - LaTeX com `$$ ... $$` seguindo as regras da seção 2.4
 

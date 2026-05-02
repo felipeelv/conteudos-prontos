@@ -8,6 +8,8 @@
 
 Muitas moléculas orgânicas ganham propriedades marcantes quando apresentam nitrogênio. Nas aminas, esse nitrogênio lembra a amônia, mas aparece ligado a cadeias carbônicas.
 
+![TikZ 1 — Aminas primárias, secundárias e terciárias](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/figuras/cap01_tikz-1.png)
+
 ---
 
 ## 1. O Grupo Amina

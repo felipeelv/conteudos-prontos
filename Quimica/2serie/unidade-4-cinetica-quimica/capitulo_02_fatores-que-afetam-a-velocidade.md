@@ -8,6 +8,8 @@
 
 A substância pode ser a mesma, mas as condições ao redor mudam o ritmo da reação. A cinética química explica esses efeitos pela frequência e eficácia das colisões entre partículas.
 
+![TikZ 1 — Como cada fator aumenta colisões ou energia das partículas](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/2serie/unidade-4-cinetica-quimica/figuras/cap02_tikz-1.png)
+
 ---
 
 ## 1. Natureza dos Reagentes

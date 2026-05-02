@@ -8,6 +8,8 @@
 
 CFCs, TNT, cheiro de alho, odor de gás de cozinha e aminoácidos parecem temas separados. Todos exigem leitura estrutural: observar heteroátomos, grupos funcionais e combinações na mesma molécula.
 
+![TikZ 1 — Mapa de reconhecimento de outras funções orgânicas](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/figuras/cap03_tikz-1.png)
+
 ---
 
 ## 1. Haletos Orgânicos

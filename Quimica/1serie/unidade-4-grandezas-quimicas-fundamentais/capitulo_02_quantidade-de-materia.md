@@ -8,6 +8,8 @@
 
 A balança mede massa, mas o químico precisa saber quantas partículas estão envolvidas. O mol resolve essa ponte entre o mundo invisível das moléculas e o mundo mensurável do laboratório.
 
+![TikZ 1 — Mol como ponte entre massa, quantidade de matéria e partículas](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/1serie/unidade-4-grandezas-quimicas-fundamentais/figuras/cap02_tikz-1.png)
+
 ---
 
 ## 1. O Mol Como Ponte

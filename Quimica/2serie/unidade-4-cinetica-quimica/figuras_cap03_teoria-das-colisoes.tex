@@ -1,0 +1,18 @@
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+\begin{document}
+\begin{tikzpicture}[x=1cm,y=1cm,>=Latex]
+  \draw[->,thick] (0,0) -- (6,0) node[right] {caminho da reacao};
+  \draw[->,thick] (0,0) -- (0,4) node[above] {energia};
+  \draw[very thick,red!70!black] plot[smooth] coordinates {(0.5,1.0) (1.5,1.2) (2.7,3.4) (3.9,1.7) (5.2,1.5)};
+  \draw[very thick,blue!70!black,dashed] plot[smooth] coordinates {(0.5,1.0) (1.6,1.15) (2.8,2.25) (4.0,1.65) (5.2,1.5)};
+  \draw[dashed] (0.5,1.0) -- (2.7,1.0);
+  \draw[<->,thick] (2.15,1.0) -- (2.15,3.4) node[midway,left] {$E_a$};
+  \node at (2.85,3.65) {complexo ativado};
+  \node[red!70!black] at (4.7,2.6) {sem catalisador};
+  \node[blue!70!black] at (4.2,2.05) {com catalisador};
+  \node at (0.9,0.72) {reagentes};
+  \node at (5.0,1.2) {produtos};
+\end{tikzpicture}
+\end{document}

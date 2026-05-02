@@ -8,6 +8,8 @@
 
 Uma vela coberta por um copo diminui e apaga porque o oxigênio disponível acaba. A cor da chama, a fumaça e os gases formados mostram que combustão é uma reação química com condições e produtos diferentes.
 
+![TikZ 1 — Combustão completa, combustão incompleta e triângulo do fogo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/9ano/unidade-4-velocidade-e-combustao/figuras/cap02_tikz-1.png)
+
 ---
 
 ## 1. O Que é Combustão

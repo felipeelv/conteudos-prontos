@@ -8,6 +8,8 @@
 
 Um comprimido efervescente desaparece, uma solução muda de cor e um reagente é consumido enquanto um produto se forma. A cinética química mede essa transformação acompanhando concentração, tempo e evidências experimentais.
 
+![TikZ 1 — Concentração de reagente e produto ao longo do tempo](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/2serie/unidade-4-cinetica-quimica/figuras/cap01_tikz-1.png)
+
 ---
 
 ## 1. O Que a Velocidade Mede

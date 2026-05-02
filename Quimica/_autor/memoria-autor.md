@@ -5,7 +5,8 @@ Felipe Rosa is developing structured educational chemistry content in Portuguese
 **Atualização vigente — Unidade 4**
 
 - Produzir sempre `unidade-4` enquanto Felipe estiver concluindo os anos/séries por disciplina.
-- Para Química, manter o padrão próprio da disciplina: Markdown sem TikZ, com fórmulas em `$$...$$`, aplicações práticas, conexão bíblica e síntese tabular.
+- Para Química, manter o padrão próprio da disciplina: Markdown com fórmulas em `$$...$$`, aplicações práticas, conexão bíblica e síntese tabular; usar ilustrações TikZ quando o apoio visual for didático para o aluno.
+- Quando usar TikZ, salvar a fonte como `figuras_capXX_<slug>.tex`, renderizar PNG em `figuras/` e inserir no Markdown o link bruto do GitHub (`raw.githubusercontent.com`) para funcionar ao copiar para Google Docs.
 - Ajustar tom e densidade ao ano/série: 9º ano mais concreto e qualitativo; Ensino Médio mais técnico, com cálculos quando o blueprint exigir.
 - Ao concluir e validar uma unidade completa, fazer commit e push do escopo da unidade, deixando arquivos não relacionados fora do commit.
 

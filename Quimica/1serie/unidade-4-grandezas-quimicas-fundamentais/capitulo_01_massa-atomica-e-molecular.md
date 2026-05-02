@@ -8,6 +8,8 @@
 
 Um átomo isolado é pequeno demais para ser pesado em uma balança comum. A Química resolve esse problema criando uma escala própria, capaz de ligar átomos invisíveis a massas comparáveis entre si.
 
+![TikZ 1 — Escala microscópica da unidade u e massas moleculares](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/1serie/unidade-4-grandezas-quimicas-fundamentais/figuras/cap01_tikz-1.png)
+
 ---
 
 ## 1. Unidade de Massa Atômica

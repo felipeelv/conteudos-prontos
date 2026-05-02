@@ -1,0 +1,16 @@
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+\begin{document}
+\begin{tikzpicture}[node distance=0.8cm]
+  \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=3cm,minimum height=0.95cm,align=center]
+  \node[box,fill=blue!10] (a1) {primaria\\$R-NH_2$};
+  \node[box,fill=green!12,right=0.8cm of a1] (a2) {secundaria\\$R-NH-R'$};
+  \node[box,fill=orange!12,right=0.8cm of a2] (a3) {terciaria\\$R-NR'-R''$};
+  \node[draw,rounded corners=2pt,fill=gray!10,align=center,below=1cm of a2] (n) {criterio: numero de grupos organicos ligados ao nitrogenio};
+  \draw[very thick] (a1) -- (n);
+  \draw[very thick] (a2) -- (n);
+  \draw[very thick] (a3) -- (n);
+  \node[align=center,above=0.35cm of a2] {aminas derivam da amonia};
+\end{tikzpicture}
+\end{document}

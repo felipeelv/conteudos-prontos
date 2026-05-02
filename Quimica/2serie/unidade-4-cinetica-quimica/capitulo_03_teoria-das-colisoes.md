@@ -8,6 +8,8 @@
 
 Em um gás ou solução, partículas se encontram continuamente. A teoria das colisões mostra que uma reação só ocorre quando o choque tem energia suficiente e orientação adequada.
 
+![TikZ 1 — Energia de ativação e complexo ativado no caminho da reação](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/2serie/unidade-4-cinetica-quimica/figuras/cap03_tikz-1.png)
+
 ---
 
 ## 1. Colisões Efetivas
