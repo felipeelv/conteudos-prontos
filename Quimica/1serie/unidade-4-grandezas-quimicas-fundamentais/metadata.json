@@ -1,0 +1,11 @@
+{
+  "disciplina": "Quimica",
+  "ano": "1serie",
+  "unidade": "Unidade 4 - Grandezas Quimicas Fundamentais",
+  "origem": "Quimica/_blueprints/1serie/unidade-4-grandezas-quimicas-fundamentais",
+  "capitulos": [
+    "capitulo_01_massa-atomica-e-molecular.md",
+    "capitulo_02_quantidade-de-materia.md"
+  ],
+  "status": "gerado"
+}

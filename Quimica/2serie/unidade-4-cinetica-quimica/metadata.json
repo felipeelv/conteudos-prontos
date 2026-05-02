@@ -1,0 +1,13 @@
+{
+  "disciplina": "Quimica",
+  "ano": "2serie",
+  "unidade": "Unidade 4 - Cinetica Quimica",
+  "origem": "Quimica/_blueprints/2serie/unidade-4-cinetica-quimica",
+  "capitulos": [
+    "capitulo_01_velocidade-das-reacoes.md",
+    "capitulo_02_fatores-que-afetam-a-velocidade.md",
+    "capitulo_03_teoria-das-colisoes.md",
+    "capitulo_04_lei-de-velocidade-e-catalise.md"
+  ],
+  "status": "gerado"
+}

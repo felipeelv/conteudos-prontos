@@ -2,6 +2,13 @@
 
 Felipe Rosa is developing structured educational chemistry content in Portuguese for a Brazilian school (Colégio Eleve), spanning multiple grade levels: 9º ano (Ensino Fundamental), 1ª série, and 2ª série (Ensino Médio). The project integrates scientific rigor with biblical reflection, targeting age-appropriate depth without sacrificing conceptual clarity. Content is delivered as standalone `.md` files, compatible with the Auto LaTeX Equations Chrome extension for formula rendering.
 
+**Atualização vigente — Unidade 4**
+
+- Produzir sempre `unidade-4` enquanto Felipe estiver concluindo os anos/séries por disciplina.
+- Para Química, manter o padrão próprio da disciplina: Markdown sem TikZ, com fórmulas em `$$...$$`, aplicações práticas, conexão bíblica e síntese tabular.
+- Ajustar tom e densidade ao ano/série: 9º ano mais concreto e qualitativo; Ensino Médio mais técnico, com cálculos quando o blueprint exigir.
+- Ao concluir e validar uma unidade completa, fazer commit e push do escopo da unidade, deixando arquivos não relacionados fora do commit.
+
 **Current state**
 
 Active production spans multiple grade levels and units. Recent completed work includes:

@@ -1,0 +1,12 @@
+{
+  "disciplina": "Quimica",
+  "ano": "3serie",
+  "unidade": "Unidade 4 - Funcoes Nitrogenadas e Mistas",
+  "origem": "Quimica/_blueprints/3serie/unidade-4-funcoes-nitrogenadas-e-mistas",
+  "capitulos": [
+    "capitulo_01_aminas.md",
+    "capitulo_02_amidas.md",
+    "capitulo_03_outras-funcoes.md"
+  ],
+  "status": "gerado"
+}

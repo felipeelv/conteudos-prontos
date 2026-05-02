@@ -1,0 +1,11 @@
+{
+  "disciplina": "Quimica",
+  "ano": "9ano",
+  "unidade": "Unidade 4 - Velocidade e Combustao",
+  "origem": "Quimica/_blueprints/9ano/unidade-4-velocidade-e-combustao",
+  "capitulos": [
+    "capitulo_01_velocidade-das-reacoes.md",
+    "capitulo_02_reacoes-de-combustao.md"
+  ],
+  "status": "gerado"
+}
