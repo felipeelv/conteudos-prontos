@@ -1,10 +1,18 @@
 # Capítulo 2 — O Período Helenístico
 
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg?width=1280" alt="Mosaico de Issos, Alexandre vs Dario III" width="720">
+</p>
+
+<p align="center"><sub><em>Mosaico de Issos (c. 100 a.C.), encontrado na Casa do Fauno em Pompeia. Mostra o confronto entre Alexandre, o Grande, e Dario III na Batalha de Issos (333 a.C.). Museu Arqueológico Nacional de Nápoles. Wikimedia Commons. Domínio público.</em></sub></p>
+
 ## Alexandre levou cultura grega ao Oriente ou impôs sua visão de mundo a povos que tinham as suas próprias?
 
-Górdio, 333 a.C. O templo guarda um nó famoso. Quem desatasse o cabo, dizia a tradição, governaria a Ásia. Reis e sacerdotes tentaram por gerações. Falharam. Alexandre, jovem rei macedônio, chega ao templo. Olha o nó. Saca a espada. Corta. O cabo se parte com um único golpe. A multidão silencia.
+Górdio, 333 a.C. O templo guarda um nó famoso. Quem desatasse o cabo, dizia a tradição, governaria a Ásia. Reis e sacerdotes tentaram por gerações. Falharam.
 
-A cena resume um modo de governar. Cortar pela força o que não se resolve pelo diálogo. Mas o império que nasce dessa lâmina também abre rotas. Funda cidades. Mistura línguas. Aproxima povos que viviam separados. Esse capítulo é sobre conquista militar e troca cultural — e sobre a dificuldade de separar uma coisa da outra.
+Alexandre saca a espada e corta. O cabo se parte com um único golpe.
+
+A cena resume um modo de governar — cortar pela força o que não se resolve pelo diálogo. Mas o império que nasce dessa lâmina também abre rotas, funda cidades, mistura línguas. Esse capítulo é sobre conquista militar e troca cultural caminhando juntas.
 
 > 💬 **Para Conversar:**  
 > Quando uma cultura se espalha junto com um exército, isso é encontro cultural ou dominação?
@@ -13,25 +21,35 @@ A cena resume um modo de governar. Cortar pela força o que não se resolve pelo
 
 ## 1. A conquista macedônica
 
-A **Macedônia** era um reino ao norte do mundo grego, antes visto como periférico por muitas pólis. Após a Guerra do Peloponeso, a região aproveitou a fragilidade grega para se firmar como nova potência militar.
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Philip-ii-of-macedon.jpg?width=600" alt="Busto de Filipe II da Macedônia, Museus Vaticanos" width="380">
+</p>
 
-> A crise das pólis, vista no capítulo anterior, abriu espaço para um vizinho que muitos consideravam atrasado.
+<p align="center"><sub><em>Busto de Filipe II da Macedônia, pai de Alexandre. Cópia romana do séc. I d.C. de um original grego. Museu Chiaramonti, Vaticano. Foto: Fotogeniss / Wikimedia Commons. CC BY-SA 3.0.</em></sub></p>
 
-### 1.1 A Grécia enfraquecida depois das guerras
+A **Macedônia** era um reino ao norte do mundo grego, antes visto como periférico por muitas pólis. Após a Guerra do Peloponeso, ela se firmou como nova potência militar.
 
-As pólis gregas saíram da Guerra do Peloponeso esgotadas. Atenas perdeu hegemonia. Esparta tentou liderar e fracassou. Tebas teve seu momento e também caiu. Cada vitória rápida foi seguida de nova rivalidade. Os recursos militares se esgotavam. A confiança política também.
+> A crise das pólis abriu espaço para um vizinho que muitos consideravam atrasado.
+
+### 1.1 A Grécia enfraquecida e a falange macedônica
+
+As pólis gregas saíram da Guerra do Peloponeso esgotadas. Filipe II observou e agiu.
+
+- **Falange macedônica:** formação compacta com longas lanças (sarissas);
+- **Diferencial:** disciplina, alcance e velocidade superiores à falange grega;
+- **Combinação:** força militar + diplomacia + compra de aliados;
+- **Resultado:** Macedônia virou principal potência militar dos Bálcãs.
 
 > Quando ninguém consegue liderar com estabilidade, alguém de fora costuma assumir o vácuo.
 
-Filipe II, rei macedônio, observou esse cenário com atenção. Reorganizou seu exército. Criou a **falange macedônica**, formação militar com longas lanças (sarissas) que avançava em bloco compacto. Combinou disciplina, alcance e velocidade.
-
 ### 1.2 Filipe II e a vitória de Queroneia
 
-Filipe II combinou diplomacia e força. Comprou aliados. Intimidou rivais. Conquistou minas e portos estratégicos. Em 338 a.C., venceu uma coalizão de pólis gregas em **Queroneia**, batalha que selou a hegemonia macedônica. A unificação grega não foi adesão livre. Foi imposição militar.
+Filipe II combinou força e diplomacia para impor hegemonia.
 
-- **Falange macedônica:** formação com lanças longas, mais eficiente que a falange grega tradicional;
-- **Queroneia (338 a.C.):** vitória decisiva sobre Atenas e Tebas;
-- **Liga de Corinto:** aliança liderada por Filipe II, com pólis gregas obrigadas a participar.
+- **Conquistas iniciais:** minas de ouro e portos estratégicos;
+- **Queroneia (338 a.C.):** vitória decisiva sobre coalizão liderada por Atenas e Tebas;
+- **Liga de Corinto:** aliança imposta por Filipe II às pólis derrotadas;
+- **Unificação grega:** não foi adesão livre — foi imposição militar.
 
 > ⏸️ **Pare e Pense:**  
 > Uma unificação imposta pela força é igual a uma união política voluntária? O que muda no resultado a longo prazo?
@@ -40,101 +58,128 @@ Filipe II combinou diplomacia e força. Comprou aliados. Intimidou rivais. Conqu
 
 ## 2. O império de Alexandre, o Grande
 
-Filipe II foi assassinado em 336 a.C. O trono passou para o filho, Alexandre, que tinha 20 anos. Ele herdou um reino organizado e um projeto pronto: invadir o Império Persa. Em treze anos, criou o maior império que o mundo grego já tinha visto.
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/MacedonEmpire.jpg?width=1280" alt="Mapa do Império de Alexandre, o Grande, em sua extensão máxima (323 a.C.)" width="720">
+</p>
 
-> Alexandre não inventou o projeto imperial macedônico — herdou-o, executou-o e o ampliou para muito além do que seu pai imaginara.
+<p align="center"><sub><em>Império de Alexandre, o Grande, em sua extensão máxima (323 a.C.). Estendia-se da Grécia ao vale do Indo, passando por Egito, Pérsia e Mesopotâmia. Wikimedia Commons. Domínio público.</em></sub></p>
+
+Filipe II foi assassinado em 336 a.C. Alexandre, com 20 anos, herdou o trono e o projeto: invadir o Império Persa.
+
+> Em treze anos, Alexandre criou o maior império que o mundo grego já tinha visto.
 
 ### 2.1 Um jovem rei no comando de um projeto antigo
 
-Alexandre foi educado por **Aristóteles**, um dos maiores filósofos gregos. Aprendeu retórica, ciência, política e literatura. Conhecia a *Ilíada* quase de cor. Mas sua formação não foi apenas intelectual: cresceu em um exército. Conhecia logística, comando e estratégia.
+Alexandre foi educado por **Aristóteles**. Conhecia retórica, ciência, política e literatura — e crescera em um exército.
 
-Aos 20 anos, assumiu o trono. Reprimiu revoltas internas em Tebas e nas pólis gregas. Em 334 a.C., atravessou o estreito de Helesponto e iniciou a campanha contra a Pérsia.
+- **336 a.C.:** assume o trono aos 20 anos;
+- **335 a.C.:** reprime revoltas em Tebas e nas pólis gregas;
+- **334 a.C.:** atravessa o Helesponto e inicia a campanha contra a Pérsia;
+- **Estratégia:** combinava velocidade militar e propaganda heroica.
 
 > 💡 **Você sabia?**  
 > Alexandre carregava uma cópia da *Ilíada* em todas as campanhas. Acreditava-se descendente de Aquiles e tratava a guerra como missão heroica.
 
 ### 2.2 Da Pérsia ao Egito e até a Índia
 
-A campanha foi rápida e devastadora. Alexandre venceu Dario III em três batalhas decisivas:
+A campanha foi rápida e devastadora. Alexandre derrotou Dario III em três batalhas decisivas.
 
 - **Grânico (334 a.C.):** primeira vitória em território persa;
 - **Issos (333 a.C.):** derrota direta do exército de Dario III;
-- **Gaugamela (331 a.C.):** vitória final que abriu o caminho para Babilônia e Persépolis.
+- **Gaugamela (331 a.C.):** vitória final que abriu Babilônia e Persépolis;
+- **Egito (331 a.C.):** aclamado faraó; fundou Alexandria;
+- **Hidaspes (326 a.C.):** vitória contra Poro, na Índia; exército recusa seguir.
 
-Em seguida, Alexandre chegou ao Egito, onde foi aclamado faraó. Fundou **Alexandria**, na foz do Nilo, em 331 a.C. Seguiu para a Pérsia, queimou Persépolis e avançou até regiões próximas à Índia. Em 326 a.C., venceu o rei Poro às margens do rio Hidaspes. Seu exército, exausto, recusou-se a continuar. Alexandre voltou para a Babilônia, onde morreu em 323 a.C., aos 32 anos.
+Alexandre voltou para a Babilônia, onde morreu em 323 a.C., aos 32 anos.
 
 ### 2.3 Libertador, conquistador ou os dois?
 
-Alexandre se apresentava como libertador dos povos sob domínio persa. Mas conquistava cidades pela força, queimava capitais e impunha tributos. Fundou cerca de setenta cidades com seu nome ou ligadas ao seu projeto. Misturou costumes gregos e orientais. Casou-se com Roxana, princesa bactriana. Adotou trajes persas. Exigiu que generais macedônios casassem com nobres iranianas.
+Alexandre se apresentava como libertador dos povos sob domínio persa, mas conquistava cidades pela força.
+
+- **Cerca de 70 cidades:** fundadas com seu nome ou ligadas ao seu projeto;
+- **Casamentos políticos:** com Roxana (princesa bactriana) e exigência de casamentos similares aos generais;
+- **Síntese cultural:** trajes persas, cerimônias orientais, panteão grego;
+- **Custo humano:** destruição de capitais, escravidão e perda de autonomia para muitos povos.
 
 > 💭 **Pense um pouco:**  
 > Alexandre foi tratado como deus em algumas regiões e como invasor em outras. O mesmo evento pode ter dois nomes — depende de quem conta a história.
-
-A questão de fundo é difícil de resolver. Para alguns povos, a chegada grega trouxe novidades culturais e econômicas. Para outros, foi destruição, escravidão e perda de autonomia. As duas leituras são, ao mesmo tempo, verdadeiras.
 
 ---
 
 ## 3. A cultura helenística
 
-Após a morte de Alexandre, o império se fragmentou. Mas a circulação cultural iniciada pela conquista não parou. Pelo contrário, se aprofundou em escala mediterrânea e oriental.
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Venus_de_Milo_Louvre_Ma399_n4.jpg?width=800" alt="Vênus de Milo, escultura helenística do Museu do Louvre" width="380">
+</p>
 
-> O Helenismo não é cultura grega "pura": é mistura, circulação e disputa cultural entre tradições gregas e orientais.
+<p align="center"><sub><em>Vênus de Milo (Afrodite de Melos), c. 130-100 a.C. Mármore de Paros, encontrada em Melos em 1820. Museu do Louvre (inv. Ma 399). Foto: Jastrow / Wikimedia Commons. Domínio público.</em></sub></p>
 
-### 3.1 Depois de Alexandre: império dividido
+Após a morte de Alexandre, o império se fragmentou. Mas a circulação cultural iniciada pela conquista se aprofundou.
 
-Sem sucessor preparado, os generais de Alexandre — chamados *diádocos* — disputaram o império por décadas. Por volta de 280 a.C., três grandes **reinos helenísticos** se consolidaram. Um **reino helenístico** é um Estado surgido da divisão do império de Alexandre entre seus generais.
+> O Helenismo não é cultura grega "pura". É mistura, circulação e disputa cultural entre tradições gregas e orientais.
 
-- **Reino Ptolomaico:** Egito, fundado por Ptolomeu, com capital em Alexandria;
-- **Reino Selêucida:** Síria, Mesopotâmia e parte da Pérsia, fundado por Seleuco;
-- **Reino Antigônida:** Macedônia e parte da Grécia, fundado por Antígono.
+### 3.1 Império dividido e reinos helenísticos
 
-### 3.2 Koiné, cidades e circulação de saberes
+Sem sucessor preparado, os generais de Alexandre — chamados *diádocos* — disputaram o império por décadas.
 
-A **koiné** era a forma comum da língua grega difundida no mundo helenístico. Funcionava como língua franca em cidades, comércio, ciência e administração. Permitiu que pessoas de origens diferentes conversassem, escrevessem cartas, fizessem negócios e leitura de obras filosóficas.
+- **Reino Ptolomaico:** Egito, capital em Alexandria; fundado por Ptolomeu;
+- **Reino Selêucida:** Síria, Mesopotâmia e parte da Pérsia; fundado por Seleuco;
+- **Reino Antigônida:** Macedônia e parte da Grécia; fundado por Antígono.
 
-O **cosmopolitismo** — modo de vida marcado por circulação entre diferentes povos, cidades e culturas — virou marca do período. Filósofos, médicos, mercadores, soldados e poetas viajavam por um espaço que ia da Grécia ao Indo.
+> Alexandre uniu por treze anos. Os generais dividiram pelos três séculos seguintes.
 
-> Pela primeira vez, a região do Mediterrâneo oriental compartilhou uma língua, uma moeda e um repertório cultural comuns.
+### 3.2 Koiné, cosmopolitismo e novos saberes
 
-### 3.3 Alexandria e o mundo helenístico
+A **koiné** era a forma comum da língua grega difundida no mundo helenístico — funcionava como língua franca em cidades, comércio e ciência.
 
-Alexandria, no Egito, virou polo cultural e científico. Tinha porto enorme, biblioteca colossal e rede de pesquisadores patrocinada pelos Ptolomeus. A **Biblioteca de Alexandria** buscou reunir cópias de todos os livros do mundo conhecido. O **Museu de Alexandria** funcionava como instituição de pesquisa associada à Biblioteca, dedicada ao estudo e preservação do saber.
-
-- Euclides escreveu seus *Elementos* de geometria;
-- Eratóstenes calculou a circunferência da Terra com surpreendente precisão;
-- Arquimedes formulou princípios de física e mecânica;
-- Astrônomos catalogaram estrelas e descreveram movimentos planetários.
+- **Cosmopolitismo:** circulação entre diferentes povos, cidades e culturas;
+- **Alexandria (Egito):** polo cultural com Biblioteca e Museu (instituição de pesquisa);
+- **Euclides:** *Elementos* de geometria, em Alexandria;
+- **Eratóstenes:** calculou a circunferência da Terra com surpreendente precisão;
+- **Arquimedes:** princípios de física e mecânica.
 
 > 💡 **Você sabia?**  
-> A Biblioteca de Alexandria recebia rolos vindos de todo o Mediterrâneo. Navios que aportavam tinham seus livros copiados antes de seguirem viagem — e às vezes a cópia ficava na biblioteca, e o original também.
+> A Biblioteca de Alexandria recebia rolos de todo o Mediterrâneo. Navios que aportavam tinham seus livros copiados — às vezes a cópia ficava na biblioteca, e o original também.
 
 ---
 
 ## 4. A conquista romana
 
-O mundo helenístico não desapareceu de uma vez. Foi sendo absorvido aos poucos por uma nova potência crescente no Ocidente: Roma.
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Statue-Augustus.jpg?width=600" alt="Augusto de Prima Porta, estátua do primeiro imperador romano" width="380">
+</p>
+
+<p align="center"><sub><em>Augusto de Prima Porta (séc. I d.C.). A estátua do primeiro imperador romano segue padrões helenísticos de proporção e idealização — Roma absorveu a estética grega ao mesmo tempo em que conquistava politicamente o mundo helenístico. Museus Vaticanos. Wikimedia Commons. Domínio público.</em></sub></p>
+
+O mundo helenístico não desapareceu de uma vez. Foi sendo absorvido por Roma.
 
 > Quando uma cultura é conquistada, sua herança não morre — ela é reinterpretada por quem a domina.
 
 ### 4.1 Quando Roma entra na história grega
 
-Roma cresceu na península itálica e, no século III a.C., já controlava boa parte dela. No século II a.C., expandiu-se pelo Mediterrâneo. Em 146 a.C., destruiu Corinto e transformou a Grécia em província romana. O reino Antigônida já havia caído. Os reinos Selêucida e Ptolomaico cairiam nas décadas seguintes.
+Roma cresceu na península itálica e expandiu-se pelo Mediterrâneo no séc. II a.C.
 
-A **conquista romana** encerrou a autonomia política dos reinos helenísticos. Mas não apagou sua cultura.
+- **Reino Antigônida:** caiu em 168 a.C., após batalha de Pidna;
+- **146 a.C.:** Roma destruiu Corinto e transformou a Grécia em província;
+- **Reino Selêucida:** absorvido em fases, último território conquistado em 64 a.C.;
+- **Reino Ptolomaico:** o último a cair, em 30 a.C., com o suicídio de Cleópatra VII.
 
 ### 4.2 Uma derrota política, uma vitória cultural?
 
-Os romanos ficaram impressionados com a cultura grega. Estudaram seus filósofos. Copiaram seus templos e estátuas. Aprenderam sua literatura. Adotaram seus deuses, com nomes latinos: Zeus virou Júpiter, Atena virou Minerva. O poeta romano Horácio escreveu que "a Grécia conquistada conquistou o seu rude conquistador".
+Os romanos ficaram impressionados com a cultura grega.
+
+- **Filosofia:** estudaram Platão, Aristóteles, estoicos e epicuristas;
+- **Templos:** copiaram colunas, estátuas e proporções gregas;
+- **Deuses:** adotaram com nomes latinos — Zeus virou Júpiter, Atena virou Minerva;
+- **Horácio:** escreveu que "a Grécia conquistada conquistou o seu rude conquistador".
 
 > A política se decide pelas armas. A cultura, muitas vezes, decide quem vence ao longo dos séculos.
-
-A herança grega chegou ao Ocidente também por mediação romana. Universidades medievais, Renascimento europeu e projetos políticos modernos beberam dessa fonte — sempre reinterpretada, nunca cópia exata.
 
 ---
 
 ## 🤝 Sua Parte
 
-Compare dois mapas: as conquistas de Alexandre por volta de 323 a.C. e os reinos helenísticos por volta de 250 a.C. Identifique três regiões que pertenceram a um único império e depois ficaram divididas em reinos diferentes. Pergunte-se: o que se manteve do projeto unificador e o que se perdeu?
+Compare dois mapas: as conquistas de Alexandre por volta de 323 a.C. e os reinos helenísticos por volta de 250 a.C. Identifique três regiões que pertenceram a um único império e depois ficaram divididas. O que se manteve do projeto unificador? O que se perdeu?
 
 ---
 
@@ -144,15 +189,14 @@ Compare dois mapas: as conquistas de Alexandre por volta de 323 a.C. e os reinos
 
 ## Enquanto isso...
 
-Enquanto Alexandre marchava sobre Babilônia, a Judeia ainda vivia sob domínio persa. Em 332 a.C., as tropas macedônias chegaram à região. A tradição registrada por Flávio Josefo conta que o sumo sacerdote recebeu Alexandre em Jerusalém. O templo foi preservado. Os sacrifícios continuaram. Mas começou a circular o grego, a koiné. Anos depois, sob os Ptolomeus, surgiria a Septuaginta — a tradução grega da Bíblia hebraica, feita em Alexandria.
+Enquanto Alexandre marchava sobre Babilônia, a Judeia ainda vivia sob domínio persa. Em 332 a.C., as tropas macedônias chegaram à região. Sob os Ptolomeus, surgiria em Alexandria a Septuaginta — tradução grega da Bíblia hebraica.
 
 O que estava em jogo:
 
-- **Macedônia:** consolidação de um império que ultrapassava o mundo grego;
+- **Macedônia:** consolidação de um império além do mundo grego;
 - **Pérsia:** o mais antigo dos grandes impérios da época, em colapso militar;
 - **Judeia:** preservação da identidade religiosa diante de novos dominadores;
-- **Egito:** transição do faraonato persa para os Ptolomeus gregos;
-- **Diferentes lógicas:** conquista militar, fusão cultural e resistência identitária convivendo no mesmo espaço.
+- **Egito:** transição do faraonato persa para os Ptolomeus gregos.
 
 ---
 
@@ -160,10 +204,10 @@ O que estava em jogo:
 
 ***"Quem anda em integridade anda seguro; mas o que perverte os seus caminhos será conhecido."*** *(Provérbios 10:9)*
 
-O poder amplia escolhas e também tenta justificar abusos. Alexandre tinha capacidade de tudo: queimar capitais, fundar cidades, declarar-se deus. A integridade aparece quando limites éticos continuam valendo mesmo na vitória — quando uma pessoa ou liderança não troca os princípios pelo que parece possível no momento da força.
+Alexandre teve poder de redesenhar fronteiras e culturas. Daniel, no exílio babilônico, manteve seus princípios mesmo servindo a impérios estrangeiros. A integridade aparece quando limites éticos continuam valendo mesmo na vitória — quando ter o poder de fazer não vira pretexto para o direito de fazer.
 
 - Ter poder para fazer algo não significa ter direito de fazê-lo;
-- A integridade é testada não na escassez, mas no auge — quando ninguém consegue impor limites de fora.
+- A integridade é testada não na escassez, mas no auge — quando ninguém impõe limites de fora.
 
 > 💬 **Para Conversar:**  
 > Em que situação da sua vida o poder de fazer alguma coisa pode ser confundido com o direito de fazê-la?
@@ -174,15 +218,13 @@ O poder amplia escolhas e também tenta justificar abusos. Alexandre tinha capac
 
 **Alexandre, o Grande (356-323 a.C.)**
 
-- Filho de Filipe II, rei da Macedônia, e da princesa Olímpia;
-- Foi educado por Aristóteles, um dos maiores filósofos da Antiguidade;
-- Assumiu o trono em 336 a.C., aos 20 anos;
-- Conquistou o Império Persa entre 334 e 331 a.C. e avançou até regiões próximas à Índia;
-- Fundou cerca de setenta cidades, incluindo Alexandria no Egito;
-- Morreu em Babilônia em 323 a.C., aos 32 anos, deixando um império sem sucessor estável.
+- Filho de Filipe II, rei da Macedônia, e educado por Aristóteles;
+- Assumiu o trono em 336 a.C., aos 20 anos, e iniciou a invasão da Pérsia;
+- Conquistou o Império Persa entre 334 e 331 a.C. e avançou até a Índia;
+- Morreu em Babilônia em 323 a.C., aos 32 anos, deixando império sem sucessor estável.
 
 > 🏛️ **Legado:**  
-> Alexandre transformou a cultura grega em fenômeno mediterrânico e oriental, mas sua expansão nasceu da guerra e da dominação — encontro cultural e violência política caminhando juntos.
+> Transformou a cultura grega em fenômeno mediterrânico e oriental — encontro cultural e violência política caminhando juntos.
 
 ---
 
@@ -192,15 +234,15 @@ O poder amplia escolhas e também tenta justificar abusos. Alexandre tinha capac
 
 ## Simplificando
 
-Filipe II aproveitou a crise das pólis e impôs a liderança macedônica em 338 a.C. Seu filho Alexandre herdou o projeto, conquistou o Império Persa e fundou cidades que mudaram o mapa do mundo conhecido. Após sua morte, em 323 a.C., o império se dividiu em reinos helenísticos. A cultura grega se misturou a tradições orientais até ser absorvida por Roma, em 146 a.C. e nas décadas seguintes.
+Filipe II aproveitou a crise das pólis e impôs a liderança macedônica em 338 a.C. Alexandre herdou o projeto, conquistou o Império Persa e fundou cidades que mudaram o mapa. Após sua morte em 323 a.C., o império se dividiu em reinos helenísticos — Ptolomaico, Selêucida e Antigônida. A cultura grega se misturou a tradições orientais até ser absorvida por Roma a partir de 146 a.C.
 
-> O Helenismo não foi nem cultura grega "pura" nem cultura oriental "absorvida": foi mistura intensa, produto da conquista e da circulação de povos, ideias e mercadorias.
+> O Helenismo não foi cultura grega "pura" nem cultura oriental "absorvida". Foi mistura intensa, produto da conquista e da circulação de povos, ideias e mercadorias.
 
 ---
 
 ## Para não esquecer
 
 - **Macedônia:** reino ao norte do mundo grego que conquistou as pólis no século IV a.C.
-- **Alexandre, o Grande:** rei macedônio que criou um império entre Grécia, Egito, Pérsia e Índia entre 336 e 323 a.C.
+- **Alexandre, o Grande:** rei macedônio que criou um império entre Grécia, Egito, Pérsia e Índia (336-323 a.C.).
 - **Helenismo:** período e cultura resultantes da fusão entre tradições gregas e orientais após Alexandre.
 - **Conquista romana:** absorção dos reinos helenísticos por Roma a partir de 146 a.C., com preservação seletiva da cultura grega.
