@@ -1,7 +1,12 @@
 \documentclass[tikz,border=3mm]{standalone}
+\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usetikzlibrary{arrows.meta,positioning}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 \begin{tikzpicture}[>=Latex,node distance=0.9cm]
   \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=2.2cm,minimum height=0.75cm,align=center]
   \node[box,fill=blue!10] (geno) {AaBb};
