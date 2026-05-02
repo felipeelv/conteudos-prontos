@@ -4,14 +4,18 @@
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Death%20of%20Socrates%20-%20Google%20Art%20Project.jpg?width=1280" alt="A Morte de Sócrates, pintura de Jacques-Louis David (1787)" width="720">
 </p>
 
-*A Morte de Sócrates, óleo sobre tela de Jacques-Louis David (1787). Sócrates, sereno, ergue a mão enquanto recebe a taça de cicuta dos guardas. Ao redor, discípulos choram. Platão aparece sentado aos pés do mestre, com a cabeça baixa.*  
+*A Morte de Sócrates, óleo de Jacques-Louis David (1787). Sócrates ergue a mão e recebe a taça de cicuta. Ao redor, discípulos choram.*  
 <sub>Crédito: Jacques-Louis David / Metropolitan Museum of Art, via Wikimedia Commons. Domínio público.</sub>
 
 ## O que os gregos fizeram que transformou para sempre o jeito como o Ocidente pensa, vota e cria arte?
 
-Atenas, 399 a.C. A prisão é simples. As paredes, frias. Sócrates está sentado no chão. Os amigos esperam ao lado. Eles trouxeram um plano de fuga. Subornaram guardas. Conseguiram uma rota segura. Tudo está pronto. Sócrates olha para os companheiros e recusa.
+Atenas, 399 a.C. A prisão é simples. As paredes, frias. Sócrates está sentado no chão. Os amigos esperam. Trouxeram um plano de fuga. Subornaram guardas. A rota está pronta.
 
-Ele tem 70 anos. O tribunal o condenou à morte por "corromper a juventude" e "introduzir novos deuses". A pena é beber cicuta — um veneno. Sócrates passou a vida ensinando que a coerência entre discurso e prática vale mais que a sobrevivência. Fugir agora seria desmentir tudo. Ele bebe a taça. A mesma cidade que celebrava o debate público mata um homem por fazer perguntas demais. Esse capítulo é sobre o que a cultura grega criou — e sobre o preço que ela cobrou de quem não aceitava silenciar.
+Sócrates olha para os companheiros e recusa.
+
+Ele tem 70 anos. Foi condenado por "corromper a juventude" e "introduzir novos deuses". A pena: cicuta. Sócrates passou a vida ensinando que coerência entre discurso e prática vale mais que sobreviver. Fugir agora seria desmentir tudo. Ele bebe a taça.
+
+A mesma cidade que celebrava o debate público mata um homem por fazer perguntas demais. Esse capítulo é sobre o que a cultura grega criou — e sobre o preço que ela cobrou.
 
 > 💬 **Para Conversar:**  
 > Fazer perguntas pode ser perigoso quando uma sociedade não quer encarar suas contradições?
@@ -24,55 +28,68 @@ Ele tem 70 anos. O tribunal o condenou à morte por "corromper a juventude" e "i
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20School%20of%20Athens.jpg?width=1280" alt="Escola de Atenas, afresco de Rafael" width="720">
 </p>
 
-*Escola de Atenas, afresco de Rafael (1509-1511), no Vaticano. No centro, Platão (com o dedo apontando para cima, simbolizando o mundo das ideias) caminha lado a lado com Aristóteles (com a mão estendida para o chão, simbolizando a observação do mundo concreto). Ao redor, dezenas de filósofos, matemáticos e cientistas gregos.*  
-<sub>Crédito: Raffaello Sanzio (Rafael) / Stanza della Segnatura, Vaticano, via Wikimedia Commons. Domínio público.</sub>
+*Escola de Atenas, afresco de Rafael (1509-1511). No centro, Platão (dedo para cima, mundo das ideias) e Aristóteles (mão para o chão, observação concreta).*  
+<sub>Crédito: Raffaello Sanzio / Stanza della Segnatura, Vaticano, via Wikimedia Commons. Domínio público.</sub>
 
-A **Filosofia** — palavra grega que significa "amor à sabedoria" — é a busca racional por respostas sobre verdade, justiça, natureza e vida humana. Surge na Grécia entre os séculos VII e IV a.C., em diálogo e tensão com a mitologia.
+A **Filosofia** — palavra grega para "amor à sabedoria" — é a busca racional por respostas sobre verdade, justiça, natureza e vida humana. Surgiu na Grécia entre os séculos VII e IV a.C.
 
-> A Filosofia grega não substituiu o mito como "erro" por "verdade" — ofereceu outra forma de pensar, ao lado da tradição religiosa.
+> A Filosofia grega não substituiu o mito por verdade. Ofereceu outra forma de pensar, ao lado da tradição religiosa.
 
 ### 1.1 Do mito ao logos, sem apagar os mitos
 
-O **mythos** era a explicação por narrativas sagradas, mitos e tradições. O **logos** era a explicação orientada por razão, argumento e investigação. Os primeiros filósofos não rejeitaram os deuses. Procuraram entender o mundo a partir de princípios racionais.
+Os primeiros filósofos buscaram ordem por trás das aparências. Não rejeitaram os deuses. Procuraram entender o mundo a partir de princípios racionais.
 
-Tales de Mileto perguntou de que era feita a natureza. Heráclito disse que tudo flui. Pitágoras estudou números e harmonias. Cada um buscava ordem por trás das aparências.
+- **Mythos:** explicação por narrativas sagradas, mitos e tradições;
+- **Logos:** explicação orientada por razão, argumento e investigação;
+- **Tales de Mileto:** perguntou de que era feita a natureza;
+- **Heráclito:** disse que tudo flui;
+- **Pitágoras:** estudou números e harmonias.
 
-> Mythos e logos coexistiram na Grécia. O teatro continuou contando mitos. A Filosofia continuou perguntando o porquê.
+> Mythos e logos coexistiram. O teatro continuou contando mitos. A Filosofia continuou perguntando o porquê.
 
 ### 1.2 Sócrates e a força das perguntas
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Socrates%20Louvre.jpg?width=800" alt="Busto de Sócrates, mármore romano do século I, no Museu do Louvre" width="480">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Socrates%20Louvre.jpg?width=800" alt="Busto de Sócrates, mármore romano do século I, no Museu do Louvre" width="420">
 </p>
 
-*Retrato de Sócrates. Mármore, obra romana do século I d.C., possivelmente cópia de um bronze perdido feito por Lisipo. Coleção do Museu do Louvre (inv. Ma 59).*  
+*Retrato de Sócrates. Mármore, obra romana do século I d.C., Museu do Louvre (inv. Ma 59).*  
 <sub>Crédito: Foto de Eric Gaba (User:Sting), via Wikimedia Commons. Domínio público.</sub>
 
-Sócrates (470-399 a.C.) viveu em Atenas durante o auge cultural e a Guerra do Peloponeso. Não escreveu livros. Conversava nas praças, mercados e ginásios com qualquer pessoa disposta a pensar. Seu estilo virou método: o **método socrático** é uma forma de aprender por perguntas que testam ideias e revelam contradições.
+Sócrates (470-399 a.C.) viveu em Atenas durante o auge cultural e a Guerra do Peloponeso. Não escreveu livros. Conversava nas praças, mercados e ginásios.
 
-Sócrates examinava virtudes que todos diziam conhecer: justiça, coragem, piedade, beleza. Pedia uma definição. A pessoa respondia. Ele perguntava de novo, com calma, e a definição se desfazia. A intenção não era humilhar. Era mostrar que pensar exige cuidado, paciência e honestidade.
+O **método socrático** é uma forma de aprender por perguntas que testam ideias e revelam contradições.
+
+Como funcionava na prática:
+
+- **Pergunta inicial:** o que é justiça? Coragem? Beleza?
+- **Resposta comum:** uma definição rápida da pessoa;
+- **Nova pergunta:** Sócrates testa a definição com casos concretos;
+- **Contradição:** a definição se desfaz;
+- **Conclusão:** pensar com cuidado vale mais que parecer certo.
 
 > 💭 **Pense um pouco:**  
-> Por que muitas pessoas se irritam quando alguém pede para definir uma palavra que elas usam todo dia?
+> Por que muita gente se irrita quando alguém pede para definir uma palavra que ela usa todo dia?
 
-A democracia ateniense julgou Sócrates em 399 a.C. As acusações: corromper jovens e introduzir novos deuses. O tribunal o condenou à morte por uma diferença pequena de votos. Ele aceitou a sentença. Bebeu cicuta cercado pelos amigos. Conhecemos suas ideias principalmente pelos diálogos de seu discípulo, **Platão**.
+Em 399 a.C., a democracia ateniense julgou Sócrates. Acusações: corromper jovens e introduzir novos deuses. O tribunal condenou à morte. Ele aceitou a sentença e bebeu cicuta cercado pelos amigos. Conhecemos suas ideias por **Platão**, seu discípulo.
 
 ### 1.3 Platão, Aristóteles e novos caminhos para pensar
 
-Platão (428-347 a.C.) registrou as conversas de Sócrates em diálogos. Fundou a **Academia**, primeira escola filosófica organizada do Ocidente. Desenvolveu a **teoria das ideias**: proposta segundo a qual realidades perfeitas e imutáveis explicam o mundo sensível. Para Platão, o que vemos é cópia imperfeita de modelos eternos.
+Platão e Aristóteles tomaram caminhos diferentes — e os dois marcaram a história do pensamento ocidental.
 
-Aristóteles (384-322 a.C.) foi discípulo de Platão por vinte anos. Discordou em muita coisa. Valorizou a observação concreta e a classificação. Estudou animais, plantas, governos, retórica, ética, física e poesia. Fundou o **Liceu**, sua própria escola. Criou a **lógica** — estudo das regras do pensamento e dos argumentos — como ferramenta para examinar qualquer assunto.
+- **Platão (428-347 a.C.):** registrou as conversas de Sócrates em diálogos; fundou a **Academia**, primeira escola filosófica do Ocidente; criou a **teoria das ideias** — realidades perfeitas e imutáveis explicam o mundo sensível;
+- **Aristóteles (384-322 a.C.):** discípulo de Platão por vinte anos; valorizou observação e classificação; estudou animais, plantas, governos, retórica, ética; fundou o **Liceu**; criou a **lógica**, estudo das regras do pensamento.
 
 > ⏸️ **Pare e Pense:**  
-> Platão olhava para fora do mundo sensível em busca de modelos perfeitos. Aristóteles olhava para dentro do mundo sensível em busca de regularidades. Qual desses caminhos te parece mais útil para entender problemas atuais?
+> Platão olhava para fora do mundo sensível em busca de modelos perfeitos. Aristóteles olhava para dentro dele em busca de regularidades. Qual desses caminhos te parece mais útil hoje?
 
 ---
 
 ## 2. O teatro grego
 
-O teatro grego não era entretenimento privado. Era ritual público, ligado à vida religiosa, política e social da pólis. Reunia milhares de pessoas em festivais coletivos.
+O teatro grego não era entretenimento privado. Era ritual público, ligado à religião, à política e à vida da pólis.
 
-> O teatro grego foi um dos primeiros espaços em que uma sociedade discutia seus dilemas em escala pública.
+> Foi um dos primeiros espaços em que uma sociedade discutia seus dilemas em escala pública.
 
 ### 2.1 Teatro como experiência pública
 
@@ -80,43 +97,58 @@ O teatro grego não era entretenimento privado. Era ritual público, ligado à v
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/20090727_epidavros04.jpg" alt="Teatro de Epidauro, anfiteatro grego antigo bem preservado" width="720">
 </p>
 
-*Teatro de Epidauro, construído no fim do século IV a.C. por Policleto, o Jovem. Comporta cerca de 14 mil espectadores. Sua acústica é tão precisa que uma moeda caindo no centro do palco pode ser ouvida nas últimas fileiras. Patrimônio da UNESCO desde 1988.*  
-<sub>Crédito: Foto de Jean Housen, via Wikimedia Commons. Licença CC BY-SA 3.0.</sub>
+*Teatro de Epidauro, fim do século IV a.C. Comporta 14 mil espectadores. Sua acústica é tão precisa que uma moeda no centro do palco é ouvida nas últimas fileiras.*  
+<sub>Crédito: Foto de Jean Housen, via Wikimedia Commons. CC BY-SA 3.0.</sub>
 
-Os principais festivais ocorriam em homenagem a Dionísio, deus do vinho, do êxtase e da fertilidade. Os **Festivais de Dionísio** reuniam toda a pólis. As peças eram apresentadas em anfiteatros ao ar livre. Em Atenas, milhares de cidadãos assistiam às mesmas tragédias e comédias por vários dias seguidos.
+Os festivais aconteciam em homenagem a Dionísio, deus do vinho e do êxtase. Eram eventos coletivos.
 
-O Estado pagava ingressos para cidadãos pobres. Autores competiam por prêmios. As peças tratavam de mitos antigos, mas tocavam questões da hora: guerra, justiça, exílio, traição, poder.
+- **Festivais de Dionísio:** reuniam toda a pólis em anfiteatros ao ar livre;
+- **Ingressos pagos pelo Estado:** garantia de acesso a cidadãos pobres;
+- **Concurso público:** autores competiam por prêmios;
+- **Temas:** mitos antigos com leitura sobre questões da hora — guerra, justiça, exílio, poder.
 
 ### 2.2 Tragédia, comédia e crítica social
 
-A **tragédia** era a peça teatral que apresentava conflitos humanos profundos, com tema de destino, justiça e sofrimento. Os grandes autores foram Ésquilo, Sófocles e Eurípides. Em *Antígona*, Sófocles mostra uma jovem que enfrenta o rei para enterrar o irmão. Em *As Troianas*, Eurípides retrata o sofrimento de mulheres após uma guerra.
+A **tragédia** apresenta conflitos humanos profundos: destino, justiça, sofrimento. A **comédia** usa humor e crítica para discutir sociedade e política.
 
-A **catarse** era o efeito de purificação ou elaboração emocional associado à tragédia. A pessoa saía do teatro com algo dentro de si transformado.
+Principais autores:
 
-A **comédia** era a peça teatral que usava humor e crítica para discutir sociedade e política. Aristófanes, principal autor, ridicularizava políticos e filósofos com nome e sobrenome. Em *As Nuvens*, satirizou o próprio Sócrates.
+- **Ésquilo:** tragédia, *Oresteia*;
+- **Sófocles:** tragédia, *Antígona* — jovem que enfrenta o rei para enterrar o irmão;
+- **Eurípides:** tragédia, *As Troianas* — sofrimento de mulheres após a guerra;
+- **Aristófanes:** comédia, ridicularizou políticos e até o próprio Sócrates em *As Nuvens*.
+
+A **catarse** era o efeito de purificação ou elaboração emocional associado à tragédia. A pessoa saía do teatro transformada.
 
 > 💡 **Você sabia?**  
-> Aristófanes escreveu uma peça inteira chamada *As Nuvens* zombando de Sócrates. O filósofo, na plateia, levantou-se para o público comparar a caricatura com o original.
+> Aristófanes escreveu *As Nuvens* zombando de Sócrates. O filósofo, na plateia, levantou-se para o público comparar a caricatura com o original.
 
 ---
 
 ## 3. Ciência, artes e Jogos Olímpicos
 
-A vida cultural grega não se limitou à Filosofia e ao teatro. História, medicina, arquitetura, escultura e esporte se desenvolveram com força no mesmo período.
+A vida cultural grega não se limitou à Filosofia e ao teatro. Ciência, arte e esporte se desenvolveram com força no mesmo período.
 
-> Os gregos não inventaram tudo sozinhos — Egito, Mesopotâmia e Pérsia já produziam conhecimento. Mas os gregos sistematizaram em formatos que circularam séculos.
+> Os gregos não inventaram tudo sozinhos. Sistematizaram em formatos que circularam por séculos.
 
 ### 3.1 Investigar o passado, o corpo e a natureza
 
-Heródoto (484-425 a.C.) é chamado de "pai da História" por sua obra sobre as Guerras Médicas. Reuniu relatos, viajou, comparou versões. Tucídides, vimos no Capítulo 1, escreveu sobre a Guerra do Peloponeso com método ainda mais crítico. A História como investigação racional do passado nasce nesse contexto.
+A investigação racional nasceu como prática reconhecível na Grécia clássica.
 
-Hipócrates (460-370 a.C.) virou referência da **medicina hipocrática**. Defendeu que doenças têm causas naturais — clima, alimentação, ambiente — e não punição divina. Fundou uma tradição clínica baseada em observação dos sintomas e ética profissional.
+- **Heródoto (484-425 a.C.):** chamado "pai da História"; escreveu sobre as Guerras Médicas;
+- **Tucídides:** escreveu sobre a Guerra do Peloponeso, com método ainda mais crítico;
+- **Hipócrates (460-370 a.C.):** **medicina hipocrática**; doenças têm causas naturais — clima, alimentação, ambiente — não punição divina;
+- **Ética profissional:** o juramento de Hipócrates ainda guia médicos hoje.
 
 ### 3.2 Beleza, proporção e competição
 
-A arquitetura grega se organizou em **ordens arquitetônicas**: conjuntos de regras de proporção e estilo em colunas e templos. As três principais foram a dórica, a jônica e a coríntia. A escultura buscou representar o corpo humano com naturalidade, equilíbrio e idealização.
+A arte e o esporte gregos buscaram proporção, equilíbrio e idealização do corpo humano.
 
-Os **Jogos Olímpicos**, realizados em Olímpia em honra a Zeus, reuniam atletas de várias pólis. Aconteciam a cada quatro anos desde 776 a.C. Suspendiam temporariamente conflitos entre algumas cidades — uma trégua sagrada. Mas só homens livres podiam competir. Mulheres não participavam nem assistiam às provas masculinas.
+- **Ordens arquitetônicas:** dórica, jônica e coríntia — regras de proporção e estilo em colunas e templos;
+- **Escultura:** corpo humano com naturalidade e idealização (Fídias, Mirón, Praxíteles);
+- **Jogos Olímpicos:** realizados em Olímpia em honra a Zeus, a cada quatro anos, desde 776 a.C.;
+- **Trégua sagrada:** suspensão temporária de conflitos entre algumas pólis durante os Jogos;
+- **Limite social:** só homens livres competiam ou assistiam às provas masculinas.
 
 > 💭 **Pense um pouco:**  
 > Uma trégua durante competições esportivas conseguiria, hoje, suspender conflitos políticos? Por que essa ideia ainda é inspiradora?
@@ -129,45 +161,48 @@ Os **Jogos Olímpicos**, realizados em Olímpia em honra a Zeus, reuniam atletas
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Acropolis%20Parthenon%20Athens%20Greece.jpg?width=1280" alt="Acrópole de Atenas com o Parthenon" width="720">
 </p>
 
-*Acrópole de Atenas, com o Parthenon ao centro, dedicado à deusa Atena. Construído entre 447 e 432 a.C. sob a liderança de Péricles, é o exemplo mais célebre da ordem dórica. Suas proporções inspiraram prédios públicos por toda a Europa e nas Américas até hoje.*  
+*Acrópole de Atenas, com o Parthenon ao centro. Construído entre 447 e 432 a.C. sob Péricles, é o exemplo mais célebre da ordem dórica.*  
 <sub>Crédito: Foto de Jebulon, via Wikimedia Commons. Domínio público (CC0).</sub>
 
-A cultura grega clássica foi reinterpretada por Roma, pelas tradições medievais cristãs, pelos pensadores renascentistas, pelos revolucionários modernos. Cada época escolheu o que valorizar e o que esquecer.
+A cultura grega clássica foi reinterpretada por Roma, pela Idade Média cristã, pelo Renascimento e pela modernidade. Cada época escolheu o que valorizar.
 
-> Legados culturais não são cópias perfeitas — são releituras feitas em outros contextos, com outros interesses e outras perguntas.
+> Legados culturais não são cópias perfeitas. São releituras feitas em outros contextos, com outros interesses.
 
 ### 4.1 O que permaneceu
 
-A democracia ateniense voltou como inspiração no final do século XVIII, nas revoluções americana e francesa, mas em forma representativa. A Filosofia grega voltou a circular nas universidades medievais, no Renascimento e nos debates modernos sobre ciência. O teatro virou referência para dramaturgia ocidental. As ordens arquitetônicas marcaram prédios públicos por toda a Europa e nas Américas. Os Jogos Olímpicos modernos foram criados em 1896 inspirados nos antigos.
+Quatro grandes legados atravessaram os séculos.
 
-- **Democracia:** retomada em forma representativa, séculos depois;
-- **Filosofia:** continua como base de cursos, debates e formação intelectual;
-- **Teatro:** modelo das tragédias e comédias ocidentais até hoje;
+- **Democracia:** retomada em forma representativa nas revoluções americana (1776) e francesa (1789);
+- **Filosofia:** base de cursos, debates e formação intelectual até hoje;
+- **Teatro:** modelo das tragédias e comédias ocidentais;
 - **Mitologia:** ainda alimenta literatura, cinema, jogos e psicanálise.
 
 ### 4.2 Legados não são cópias perfeitas
 
-Os romanos absorveram a cultura grega, mas a adaptaram. Cícero traduziu termos filosóficos para o latim. Os arquitetos romanos copiaram colunas, mas construíram seus próprios espaços. As universidades medievais leram Aristóteles através de comentadores árabes e persas. O Renascimento recuperou textos gregos, mas com olhar cristão.
+A herança grega chegou ao Ocidente sempre adaptada, traduzida, reinterpretada.
 
-> Cada releitura escolheu o que servia. A democracia ateniense direta virou modelo para parlamentares modernos — apesar de ser um sistema bem diferente do atual.
+- **Roma:** absorveu a cultura grega; Cícero traduziu termos filosóficos para o latim;
+- **Idade Média:** universidades leram Aristóteles via comentadores árabes e persas;
+- **Renascimento:** recuperou textos gregos, mas com olhar cristão;
+- **Modernidade:** democracia ateniense direta virou modelo para parlamentares — sistema bem diferente do original.
 
-A ideia de "Ocidente" como bloco único é simplificação. Sociedades diferentes em épocas diferentes pegaram pedaços da herança grega e os recombinaram com tradições próprias.
+> A ideia de "Ocidente" como bloco único é simplificação. Sociedades diferentes pegaram pedaços da herança grega e os recombinaram com tradições próprias.
 
 ---
 
 ## 🤝 Sua Parte
 
-Procure três imagens: um teatro grego (como o de Epidauro), um templo grego (como o Parthenon) e um mapa de uma pólis. Identifique como esses três espaços se relacionavam: religioso, político e cultural. Pergunte-se: que espaços, hoje, juntam essas três funções? E o que mudou quando elas se separaram?
+Procure três imagens: um teatro grego, um templo grego e um mapa de uma pólis. Identifique como esses três espaços se relacionavam — religioso, político e cultural. Pergunte-se: que espaços, hoje, juntam essas três funções?
 
 ---
 
-> 📚 **Curiosidade:** os Jogos Olímpicos antigos eram realizados em honra a Zeus e suspendiam temporariamente conflitos entre algumas pólis, mas não representavam igualdade universal — só homens livres competiam ou assistiam às provas masculinas.
+> 📚 **Curiosidade:** os Jogos Olímpicos antigos eram realizados em honra a Zeus e suspendiam temporariamente conflitos entre algumas pólis — mas só homens livres podiam competir ou assistir.
 
 ---
 
 ## Enquanto isso...
 
-Enquanto Sócrates discutia justiça em Atenas, na Judeia se encerrava o período profético do Antigo Testamento. Profetas como Malaquias, no século V a.C., chamavam o povo à fidelidade religiosa. Começava o chamado período intertestamentário — quase quatro séculos sem profetas conhecidos. Comunidades judaicas viveriam, nas décadas seguintes, sob domínio sucessivamente persa, helenístico e romano. Cada novo dominador trazia ameaça cultural. A identidade religiosa se preservou pela leitura da Torá nas sinagogas e pela memória das tradições.
+Enquanto Sócrates discutia justiça em Atenas, na Judeia se encerrava o período profético do Antigo Testamento. Profetas como Malaquias, no século V a.C., chamavam o povo à fidelidade religiosa. Começava o período intertestamentário — quase quatro séculos sem profetas conhecidos. As comunidades judaicas viveriam sob domínio sucessivamente persa, helenístico e romano. A identidade religiosa se preservou pela leitura da Torá nas sinagogas.
 
 O que estava em jogo:
 
@@ -175,7 +210,7 @@ O que estava em jogo:
 - **Esparta:** disciplina militar e formação austera dos cidadãos;
 - **Egito ptolomaico:** Alexandria reunia bibliotecas, ciência e culto a Serápis;
 - **Judeia:** preservação do monoteísmo e da Torá em meio a impérios sucessivos;
-- **Diferentes lógicas:** racionalidade filosófica, fidelidade religiosa, beleza artística e identidade comunitária — cada tradição dando sentido próprio à vida coletiva.
+- **Diferentes lógicas:** racionalidade filosófica, fidelidade religiosa, beleza artística e identidade comunitária.
 
 ---
 
@@ -183,7 +218,7 @@ O que estava em jogo:
 
 ***"Quem anda em integridade anda seguro; mas o que perverte os seus caminhos será conhecido."*** *(Provérbios 10:9)*
 
-Sócrates escolheu a coerência entre o que ensinava e o que fazia, mesmo quando isso custou sua vida. A integridade aparece quando uma pessoa não abandona seus princípios para escapar da pressão. Não é teimosia. É reconhecer que abandonar a verdade quando ela incomoda é trair quem se diz ser. Daniel, no exílio babilônico, fez escolha parecida: manteve a oração e a obediência a Deus mesmo sob ameaça de morte.
+Sócrates escolheu coerência entre o que ensinava e o que fazia, mesmo quando isso custou sua vida. Daniel, no exílio babilônico, fez escolha parecida: manteve oração e obediência mesmo sob ameaça. A integridade aparece quando a pessoa não abandona seus princípios para escapar da pressão.
 
 - A integridade é testada quando dizer a verdade tem custo concreto;
 - Coerência entre discurso e prática vale mais do que sobrevivência confortável.
@@ -198,26 +233,25 @@ Sócrates escolheu a coerência entre o que ensinava e o que fazia, mesmo quando
 **Sócrates (470-399 a.C.)**
 
 - Filósofo ateniense, filho de um escultor e de uma parteira;
-- Não deixou obras escritas; conhecemos suas ideias principalmente por discípulos como Platão e Xenofonte;
+- Não deixou obras escritas; suas ideias chegam pelos diálogos de Platão e Xenofonte;
 - Conversava em praças e mercados, examinando virtudes pelo método das perguntas;
-- Questionou valores, discursos e certezas da vida pública ateniense;
-- Foi julgado e condenado à morte em 399 a.C. por "corromper a juventude" e "introduzir novos deuses";
-- Recusou fugir e bebeu cicuta cercado pelos amigos, mantendo coerência com o que ensinava.
+- Foi julgado em 399 a.C. por "corromper a juventude" e "introduzir novos deuses";
+- Recusou fugir da prisão e bebeu cicuta cercado pelos amigos.
 
 > 🏛️ **Legado:**  
-> Sócrates representa a Filosofia como busca paciente da verdade e a integridade como fidelidade a princípios — mesmo quando o preço é a própria vida.
+> Representa a Filosofia como busca paciente da verdade e a integridade como fidelidade aos princípios — mesmo quando o preço é a própria vida.
 
 ---
 
-> 🤔 **Você já pensou nisso?** Legados culturais não permanecem iguais ao longo do tempo. Democracia, teatro, ciência e filosofia foram reinterpretados por outras sociedades, com novas adaptações, novas disputas e contradições próprias.
+> 🤔 **Você já pensou nisso?** Legados culturais não permanecem iguais ao longo do tempo. Democracia, teatro, ciência e filosofia foram reinterpretados por outras sociedades, com novas adaptações e contradições próprias.
 
 ---
 
 ## Simplificando
 
-A cultura grega clássica produziu formas duradouras de pensar, debater e criar. Sócrates, Platão e Aristóteles marcaram a Filosofia. O teatro discutiu publicamente dilemas coletivos. História, medicina, arquitetura, escultura e Jogos Olímpicos expressaram a busca por explicação, beleza e reconhecimento. Cada legado foi reinterpretado por sociedades posteriores — Roma, Idade Média, Renascimento e modernidade.
+A cultura grega clássica produziu formas duradouras de pensar, debater e criar. Sócrates, Platão e Aristóteles marcaram a Filosofia. O teatro discutiu publicamente dilemas coletivos. História, medicina, arquitetura, escultura e Jogos Olímpicos expressaram a busca por explicação, beleza e reconhecimento. Cada legado foi reinterpretado por Roma, Idade Média, Renascimento e modernidade.
 
-> Os gregos não inventaram tudo sozinhos, mas sistematizaram conhecimentos em formatos que circularam por mais de dois mil anos — sempre em diálogo com outras tradições culturais.
+> Os gregos não inventaram tudo sozinhos, mas sistematizaram conhecimentos em formatos que circularam por mais de dois mil anos.
 
 ---
 
@@ -226,35 +260,4 @@ A cultura grega clássica produziu formas duradouras de pensar, debater e criar.
 - **Filosofia:** busca racional por verdade, justiça e natureza, iniciada na Grécia entre os séculos VII e IV a.C.
 - **Método socrático:** forma de aprender por perguntas que testam ideias e revelam contradições.
 - **Teatro grego:** prática pública, religiosa e cívica que reunia toda a pólis nos festivais de Dionísio.
-- **Legado cultural:** conjunto de práticas gregas reinterpretadas por sociedades posteriores, sem cópia exata.
-
----
-
-## 🧪 Teste de formato (esta seção é só para você comparar — apague antes de publicar)
-
-A mesma imagem (Discóbolo de Mirón) inserida nos **dois formatos**. Cole esta seção no Google Docs e veja qual deles puxa a imagem corretamente.
-
-### Formato A — HTML `<img>` (recomendado)
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Discobolus%20Massimi%20Inv126371.jpg?width=800" alt="Discóbolo de Mirón" width="480">
-</p>
-
-*Discóbolo de Mirón (c. 460-450 a.C.), cópia romana em mármore.*
-
-### Formato B — Markdown puro `![]()` 
-
-![Discóbolo de Mirón](https://commons.wikimedia.org/wiki/Special:FilePath/Discobolus%20Massimi%20Inv126371.jpg?width=800)
-
-*Discóbolo de Mirón (c. 460-450 a.C.), cópia romana em mármore.*
-
----
-
-### Como testar no Google Docs
-
-1. Abra este arquivo no GitHub (ou em um preview de markdown como o do VS Code).
-2. Selecione tudo a partir do título, copie (Ctrl+C / Cmd+C).
-3. Cole no Google Docs (Ctrl+V / Cmd+V — **colar normalmente**, não "colar sem formatação").
-4. Compare: as imagens A vieram? E as B?
-
-**Plano B se nada vier:** no Google Docs, use **Inserir → Imagem → Por URL** e cole a URL da imagem manualmente. Funciona 100%, mas é manual.
+- **Legado cultural:** conjunto de práticas gregas reinterpretadas por sociedades posteriores.
