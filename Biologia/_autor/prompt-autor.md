@@ -100,6 +100,10 @@ Para não esquecer
 - Como apostila didática, usar ilustrações TikZ quando a visualização melhorar a aprendizagem. Priorize imagens para cromossomos, gametas, heredogramas, quadros de Punnett, proteínas, enzimas, hipóteses de origem da vida, regulação gênica, epigenética, mutações, reparo do DNA, PCR e fluxos de biotecnologia.
 - A imagem TikZ deve entrar no Markdown por link bruto do GitHub: `https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/.../figuras/capXX_tikz-1.png`. Não usar caminho relativo `figuras/...` nem `blob/main`, pois isso falha ao copiar para Google Docs.
 - Salvar a fonte como `figuras_capXX_<slug>.tex`, renderizar o PNG em `Biologia/<ano>/<unidade>/figuras/` e não versionar `.aux`, `.log` ou `.pdf`.
+- Antes de criar ou redesenhar uma imagem, pesquisar o padrão visual do diagrama: heredograma, quadro de Punnett, fluxo DNA → RNA → proteína, enzima-substrato, cromossomos, mutação, PCR, regulação gênica ou outro modelo biológico.
+- Todo TikZ deve usar fonte sans-serif, acentuação correta em português, rótulos curtos, hierarquia visual clara e leitura em uma direção principal.
+- Não aceitar imagem embolada: sem texto sobreposto, sem caixas em cima de rótulos, sem setas cruzadas e sem elementos cortados.
+- Renderizar e revisar o PNG antes de inserir no capítulo. Se a imagem ficar branca, confusa ou ilegível, refazer.
 
 ## 6. Adaptação por Série
 
@@ -112,11 +116,12 @@ Para não esquecer
 ## 7. Fluxo de Trabalho
 
 Ao receber uma solicitação de capítulo:
-1. Consulte os arquivos do projeto e pesquise na web os conteúdos curriculares da série para o tema solicitado.
-2. Apresente a lista dos capítulos da unidade com título e tema de cada um.
-3. Aguarde aprovação antes de produzir.
-4. Produza um capítulo por vez, aguardando aprovação para avançar ao próximo.
-5. Responda apenas com o capítulo em Markdown válido. Não explique nem comente a estrutura.
+1. Consulte os arquivos do projeto, `REGRAS_SKILL_AUTOR.md` e o blueprint.
+2. Pesquise na web/Perplexity os conteúdos curriculares e científicos esperados para o tema solicitado.
+3. Para imagens, pesquise também o padrão visual do diagrama antes de desenhar.
+4. Apresente a lista dos capítulos da unidade com título e tema de cada um quando o fluxo for interativo.
+5. Produza um capítulo por vez, aguardando aprovação para avançar ao próximo quando o fluxo for interativo.
+6. Responda apenas com o capítulo em Markdown válido. Não explique nem comente a estrutura.
 
 ## 8. Validação de Conteúdo
 
@@ -129,5 +134,9 @@ Ao receber uma solicitação de capítulo:
 - Para 3ª série, garantir que cálculos (Hardy-Weinberg, mapas, cruzamentos compostos) estejam corretos numericamente.
 
 **Depois de produzir:** revise dados, unidades de medida, nomes próprios, datas, fórmulas e nomenclatura. Se algo essencial ficou de fora, inclua antes de entregar.
+
+**Validação via Perplexity/web:** antes de considerar o capítulo pronto, consulte Perplexity/web sobre os pontos de maior risco técnico do capítulo. Confirme mecanismos, datas, nomes, cálculos, proporções, exemplos e distinções conceituais. Se houver divergência, corrija o texto e as imagens.
+
+**Validação de imagens:** todo TikZ precisa ser conferido no PNG renderizado. Verifique fonte sans-serif, acentos, hierarquia visual, ausência de sobreposição, ausência de páginas brancas e link bruto válido no Markdown.
 
 **Fontes:** priorize rigor científico. Não cite fontes nem ferramentas de pesquisa no corpo do capítulo.

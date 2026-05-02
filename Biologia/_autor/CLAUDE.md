@@ -10,6 +10,19 @@
 
 Antes de criar ou alterar qualquer imagem TikZ, aplicar o padrão de `_tools/CONVENCAO_TIKZ.md`: pesquisar referência visual para o tipo de diagrama, usar fonte sans-serif, manter acentuação correta em português, organizar a leitura em fluxo único, evitar setas cruzadas/sobreposição e revisar o PNG renderizado antes de considerar a figura pronta.
 
+## Skill do autor de Biologia
+
+Antes de produzir capítulos, ler e aplicar `Biologia/_autor/REGRAS_SKILL_AUTOR.md`. Essa skill operacionaliza três obrigações: pesquisa prévia com Perplexity/web, validação técnica pós-escrita e padrão visual para imagens biológicas.
+
+Regras centrais:
+
+- pesquisar o tema antes de escrever e cruzar com o blueprint;
+- validar tecnicamente nomes, datas, mecanismos, cálculos e distinções conceituais com Perplexity/web antes de concluir;
+- pesquisar o padrão visual de cada diagrama antes de criar ou redesenhar uma imagem;
+- usar TikZ com fonte sans-serif, acentuação correta, hierarquia visual clara e sem sobreposição;
+- renderizar e revisar visualmente cada PNG antes de inserir no Markdown;
+- corrigir o capítulo e as imagens sempre que a validação apontar erro ou ambiguidade.
+
 ## Identidade editorial de Biologia
 
 Material **expositivo-investigativo** para 9º ano EF II e Ensino Médio (1ª, 2ª e 3ª séries). O capítulo apresenta conceitos biológicos com rigor científico, ancora no cotidiano do aluno (corpo humano, natureza, biotecnologia) e fecha com aplicação prática + ancoragem cristã na **mordomia da criação** — **não é material de exercícios**. As atividades vivem em outro material.
@@ -144,10 +157,13 @@ O script `criar_capitulos.sh` valida cada capítulo gerado contra:
 7. **Pelo menos 1 box** no capítulo (linha começando com um dos emojis: 💭 ⏸️ 💡 🧬 🔬 📊).
 8. **Capítulo cita ao menos uma das âncoras bíblicas** (mordomia, criação, dignidade, templo, Gênesis, Salmo) — heurística para garantir cosmovisão presente.
 9. **Quando houver imagem TikZ**, validar que o Markdown usa link `raw.githubusercontent.com` e que o PNG existe em `figuras/`.
+10. **Validação técnica via Perplexity/web** — confirmar os pontos de maior risco científico antes de considerar o capítulo pronto.
+11. **Revisão visual das imagens** — nenhum TikZ pode ficar branco, cortado, com texto embolado, sem acentos ou com fonte serifada.
 
 Falhas listam violações e param o pipeline antes do commit.
 
 ## Referências
 
 - `PRODUCAO/Prompts Criador de Conteudo/Biologia/prompt-autor.md` — manual editorial completo
+- `Biologia/_autor/REGRAS_SKILL_AUTOR.md` — regras operacionais de pesquisa, validação técnica e imagens
 - `PLANEJAMENTO/Referencias/series.md`, `PLANEJAMENTO/Referencias/niveis_profundidade.md`, `PLANEJAMENTO/Referencias/niveis.md`, `PLANEJAMENTO/Referencias/objetivos_aprendizagem.md`

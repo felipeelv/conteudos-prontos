@@ -144,6 +144,8 @@ UNIDADE_BLUEPRINT="$BLUEPRINT_DIR/blueprint_unidade.md"
 PROMPT_DIR_FULL="$PROMPTS_ROOT/$PROMPT_DIR_NAME"
 PROMPT_AUTOR="$PROMPT_DIR_FULL/prompt-autor.md"
 [[ -f "$PROMPT_AUTOR" ]] || { log_error "prompt-autor.md ausente: $PROMPT_AUTOR"; exit 1; }
+SKILL_AUTOR="$AUTOR_DIR/REGRAS_SKILL_AUTOR.md"
+[[ -f "$SKILL_AUTOR" ]] || { log_error "REGRAS_SKILL_AUTOR.md ausente: $SKILL_AUTOR"; exit 1; }
 
 # --- Coletar referências do prompt (referencia-*.md + memoria-autor.md) ---
 declare -a REFERENCIAS_PROMPT=()
@@ -194,6 +196,7 @@ echo "  Saída:            $OUTPUT_DIR"
 echo "  Capítulos:        ${#CHAPTER_BLUEPRINTS[@]}"
 echo "  Executor:         $EXECUTOR"
 echo "  CLAUDE.md específico: $AUTOR_DIR/CLAUDE.md"
+echo "  Skill do autor:   $SKILL_AUTOR"
 echo
 
 # --- Dry-run sai aqui ---
@@ -255,10 +258,13 @@ ARQUIVOS DE LEITURA OBRIGATORIA
 2. CLAUDE.md especifico deste AUTOR de Biologia (regras invioláveis e validacoes):
    $AUTOR_DIR/CLAUDE.md
 
-3. Blueprint da unidade (lei geral aplicavel a todos os capitulos):
+3. Skill operacional do autor de Biologia (pesquisa, Perplexity, imagens e TikZ):
+   $SKILL_AUTOR
+
+4. Blueprint da unidade (lei geral aplicavel a todos os capitulos):
    $UNIDADE_BLUEPRINT
 
-4. Blueprints de capitulo a processar (um arquivo de saida por blueprint, na ordem listada):
+5. Blueprints de capitulo a processar (um arquivo de saida por blueprint, na ordem listada):
 $(printf '   - %s\n' "${CHAPTER_BLUEPRINTS[@]}")
 
 ${MODELOS_BLOCK}${REFS_PROMPT_LIST}${REFS_GLOBAIS_LIST}
@@ -286,6 +292,21 @@ REGRAS INVIOLAVEIS DE BIOLOGIA (do CLAUDE.md)
   diretos ao ponto.
 - NUNCA iniciar lista de subtopico sem FRASE DE TRANSICAO ('Tres coisas sao essenciais:',
   'Isso acontece porque:').
+
+PESQUISA, PERPLEXITY E IMAGENS (da REGRAS_SKILL_AUTOR.md)
+=========================================================
+- Antes de escrever cada capitulo, pesquise o tema com Perplexity/web e cruze com o blueprint.
+- Antes de criar ou redesenhar qualquer imagem, pesquise o padrao visual do diagrama biologico.
+- Valide com Perplexity/web os pontos de maior risco tecnico antes de considerar o capitulo pronto:
+  nomes, datas, mecanismos, calculos, proporcoes, exemplos, distincões conceituais e limites do modelo.
+- Nao cite Perplexity, links ou ferramentas no corpo do capitulo; use a pesquisa para corrigir o texto.
+- Use imagens somente quando elas melhorarem a aprendizagem de processos, relacoes ou estruturas.
+- Todo TikZ deve ter fonte sans-serif, acentuacao correta em portugues, rotulos curtos, hierarquia visual clara,
+  cores funcionais e leitura em uma direcao principal.
+- Nao aceite imagem embolada: sem texto sobreposto, sem caixas em cima de rotulos, sem setas cruzadas,
+  sem pagina branca e sem elementos cortados.
+- Renderize e revise visualmente cada PNG antes de inserir no Markdown.
+- O Markdown deve usar apenas link bruto raw.githubusercontent.com para PNGs.
 
 REGRA DA COSMOVISAO DA CRIACAO
 ================================
@@ -378,12 +399,13 @@ Quando o blueprint pedir conteudo que nao cabe na estrutura padrao:
 REGRAS DE EXECUCAO
 ==================
 1. Leia primeiro o manual editorial e o CLAUDE.md especifico. Depois o blueprint da unidade.
-2. Para cada blueprint_capitulo_NN_<slug>.md, gere exatamente um arquivo capitulo_NN_<slug>.md.
-3. Salve todos os capitulos exclusivamente em: $OUTPUT_DIR
-4. Nao altere os blueprints nem os arquivos de prompt/referencia.
-5. Conteudo final em portugues brasileiro, em Markdown valido.
-6. Apos gerar cada capitulo, valide contra o checklist do CLAUDE.md especifico antes de salvar.
-7. Se algum criterio falhar (especialmente as regras invioláveis e a regra da cosmovisao da criacao),
+2. Leia tambem a skill operacional do autor: $SKILL_AUTOR
+3. Para cada blueprint_capitulo_NN_<slug>.md, gere exatamente um arquivo capitulo_NN_<slug>.md.
+4. Salve todos os capitulos exclusivamente em: $OUTPUT_DIR
+5. Nao altere os blueprints nem os arquivos de prompt/referencia.
+6. Conteudo final em portugues brasileiro, em Markdown valido.
+7. Apos gerar cada capitulo, valide contra o checklist do CLAUDE.md e da skill operacional antes de salvar.
+8. Se algum criterio falhar (especialmente as regras invioláveis, a validação tecnica e a regra da cosmovisao da criacao),
    corrija ANTES de salvar.
 "
 
