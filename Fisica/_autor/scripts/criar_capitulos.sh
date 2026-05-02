@@ -306,9 +306,9 @@ REGRAS ESTRUTURAIS
 ESTRUTURA FIXA DOS BLOCOS POS-CONTEUDO (NESTA ORDEM EXATA)
 ============================================================
 1. ## NA VIDA REAL                  (situacao concreta → conceito em acao → por que importa, max 3-4 frases)
-2. ## E A BÍBLIA NISSO?              (versiculo → conexao 1-2 frases → max 2 principios numerados → > 💬 **Para Conversar:**)
+2. ## E A BÍBLIA NISSO?              (versiculo em blockquote → conexao 1-2 frases → 1 bullet de aplicacao → > 💬 **Para Conversar:**)
 3. ## Simplificando                  (1-2 paragrafos curtos, NAO bullets)
-4. ## Para não esquecer              (3 a 5 bullets no formato 'Termo: explicacao breve')
+4. ## Para não esquecer              (2 a 3 bullets no formato 'Termo: explicacao breve')
 5. ## Fórmulas do capítulo           (lista de formulas com nome e grandezas)
 ${FORMULAS_LINE}
 
@@ -337,6 +337,7 @@ REGRAS DE EXECUCAO
 5. Conteudo final em portugues brasileiro, em Markdown valido.
 6. Apos gerar cada capitulo, valide contra o checklist do CLAUDE.md especifico antes de salvar.
 7. Se algum criterio falhar (especialmente as regras invioláveis e a regra LaTeX), corrija ANTES de salvar.
+8. Para Unidade 4, inserir imagens TikZ sempre que ajudarem a concretizar o fenômeno; usar PNG renderizado com URL raw do GitHub no Markdown final, nunca link relativo para figuras/.
 "
 
 START=$(date +%s)
@@ -416,10 +417,10 @@ if "$EXECUTOR" "${EXEC_CMD[@]}" > "$LOG_FILE" 2>&1; then
       fi
     fi
 
-    # 6. Para não esquecer = 3 a 5 bullets
+    # 6. Para não esquecer = 2 a 3 bullets
     BULLETS=$(awk '/^## Para não esquecer/{flag=1; next} /^## /{flag=0} flag && /^- /' "$cap" | wc -l | tr -d ' ')
-    if [[ "$BULLETS" -lt 3 || "$BULLETS" -gt 5 ]]; then
-      log_error "$cap_name: '## Para não esquecer' tem $BULLETS bullets (esperado 3 a 5)"
+    if [[ "$BULLETS" -lt 2 || "$BULLETS" -gt 3 ]]; then
+      log_error "$cap_name: '## Para não esquecer' tem $BULLETS bullets (esperado 2 a 3)"
       VIOLATIONS=$((VIOLATIONS + 1))
     fi
 

@@ -35,7 +35,7 @@ A leitura sai da **pergunta-problema do cotidiano**, percorre 4 tópicos numerad
 [Exemplo direto: situação concreta → conceito em ação → por que importa. Máx 3-4 frases.]
 ---
 ## E A BÍBLIA NISSO?
-[Versículo de abertura → conexão tema-princípio (1-2 frases) → máx 2 princípios numerados → 💬 Para Conversar]
+[Versículo em blockquote → conexão tema-princípio curta → 1 aplicação em bullet → 💬 Para Conversar]
 ---
 ## Simplificando
 [1-2 parágrafos curtos, conceitos centrais.]
@@ -43,13 +43,21 @@ A leitura sai da **pergunta-problema do cotidiano**, percorre 4 tópicos numerad
 ## Para não esquecer
 - [Termo: explicação breve em uma frase]
 - ...
-(3 a 5 itens)
+(2 a 3 itens)
 ---
 ## Fórmulas do capítulo
 [Lista das fórmulas apresentadas, com nome e grandezas — apenas para 8º ano em diante.]
 ```
 
 **Não há "Sua Parte" nem qualquer bloco de exercícios no capítulo do aluno.** As atividades vivem em outro material.
+
+## Escopo operacional atual
+
+- ✅ Produzir **somente Unidade 4** até Felipe concluir todos os anos/séries.
+- ✅ Avançar ano a ano: ao trocar de ano, manter o foco em `unidade-4`.
+- ✅ Se a pasta ou blueprint da unidade 4 ainda não existir, criar a estrutura coerente com a sequência curricular local antes de produzir o conteúdo.
+- ✅ Ao concluir e validar uma unidade completa, fazer **commit e push** do escopo da unidade para liberar os links raw das imagens no GitHub.
+- ✅ Nunca incluir arquivos locais não relacionados no commit da unidade.
 
 ## Regras invioláveis (Física)
 
@@ -62,6 +70,7 @@ A leitura sai da **pergunta-problema do cotidiano**, percorre 4 tópicos numerad
 - ❌ **NUNCA** apresentar mais de 1 exemplo resolvido por seção/subtópico — escolher o mais didático.
 - ❌ **NUNCA** compactar múltiplas operações na mesma linha do exemplo resolvido — uma operação por linha (dados → fórmula com símbolos → substituição → simplificação → resultado com unidade).
 - ❌ **NUNCA** usar "Lei de Charles" para a transformação isobárica — a tradição brasileira chama de **"Lei de Gay-Lussac (1ª lei)"** (isobárica) e **"Lei de Gay-Lussac (2ª lei)"** (isocórica).
+- ❌ **NUNCA** usar link relativo `](figuras/...)` para imagem TikZ no Markdown final — usar URL absoluta do GitHub raw.
 
 ## Regra LaTeX — formalismo matemático (inviolável)
 
@@ -84,10 +93,20 @@ Toda fórmula vai em LaTeX delimitado por `$$ ... $$`, compatível com **AutoLaT
 - ✅ **Boxes** sempre em blockquote (`>`) com **título na 1ª linha terminada em 2 espaços** + conteúdo na 2ª linha. Máximo 1-2 frases por box. Mínimo 1 box por seção principal.
 - ✅ **Tipos de box:** `💭 Pense um pouco:`, `⏸️ Pare e Pense:`, `💡 Você sabia?`, `📏 Medidas Impressionantes:`, `⚡ Física no Dia a Dia:`, `📐 Fazendo as Contas:`, `🧪 Experimente:`.
 - ✅ **Exemplo resolvido:** título exato `📝 **Exemplo:**` (sem numeração, sem "resolvido"). Uma operação por linha. Apenas 1 exemplo por seção/subtópico.
-- ✅ **`## E A BÍBLIA NISSO?`** tem 4 elementos na ordem: **(1) versículo de abertura** ("Texto." Referência) → **(2) conexão tema-princípio em 1-2 frases** → **(3) no máximo 2 princípios numerados** com título curto + analogia + paralelo bíblico + versículo de apoio → **(4) `> 💬 **Para Conversar:**` 1 pergunta**.
+- ✅ **`## E A BÍBLIA NISSO?`** tem 4 elementos na ordem: **(1) versículo em blockquote** → **(2) conexão tema-princípio em 1-2 frases** → **(3) exatamente 1 aplicação em bullet** com título curto → **(4) `> 💬 **Para Conversar:**` 1 pergunta**.
 - ✅ **`## Simplificando`** tem **1-2 parágrafos curtos** (não bullets).
-- ✅ **`## Para não esquecer`** tem **3 a 5 bullets** no formato "Termo: explicação breve em uma frase".
+- ✅ **`## Para não esquecer`** tem **2 a 3 bullets**, preferencialmente 3, no formato "Termo: explicação breve em uma frase".
 - ✅ **`## Fórmulas do capítulo`** existe **apenas do 8º ano em diante** — lista das fórmulas apresentadas com nome e grandezas. Em 6º/7º, este bloco é omitido.
+
+## Regras TikZ para Física
+
+- ✅ Quanto mais visual o contexto, melhor para o aluno: usar ilustrações TikZ sempre que elas deixarem o fenômeno mais concreto.
+- ✅ Para 6º–7º ano, priorizar diagramas simples: setas, cenas, fluxos, escalas, comparações antes/depois, trajetórias e esquemas de energia/calor.
+- ✅ Manter o código das figuras em arquivo separado `figuras_capXX_<slug>.tex`, no mesmo diretório do capítulo.
+- ✅ Renderizar PNGs em `Fisica/<ano>/<unidade>/figuras/capXX_tikz-N.png`.
+- ✅ Referenciar no Markdown final com URL raw:
+  `https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Fisica/<ano>/<unidade>/figuras/capXX_tikz-N.png`.
+- ✅ Cada figura deve ser compilável em `standalone`, com `\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}`, `\usepackage{tikz}` e `\begin{tikzpicture}...\end{tikzpicture}`.
 
 ## Adaptação por série
 
@@ -130,11 +149,12 @@ O script `criar_capitulos.sh` valida cada capítulo gerado contra:
    - `## Simplificando`
    - `## Para não esquecer`
    - `## Fórmulas do capítulo` (somente se ANO ∉ {6ano, 7ano}).
-6. **`## Para não esquecer` tem 3 a 5 bullets** — não 2, não 6+.
-7. **`## E A BÍBLIA NISSO?` contém `> 💬 **Para Conversar:**`** — bloco obrigatório.
+6. **`## Para não esquecer` tem 2 a 3 bullets** — não 1, não 4+.
+7. **`## E A BÍBLIA NISSO?` contém versículo em blockquote, 1 bullet de aplicação e `> 💬 **Para Conversar:**`** — formato obrigatório.
 8. **LaTeX `\text{` proibido dentro de `$$ ... $$`** — usar `\mathrm{`.
 9. **Caracteres acentuados/cedilha proibidos dentro de `$$ ... $$`** (`ç ã é ó ê á â í ú`).
 10. **Sem dois boxes (`>`) consecutivos** (heurística: bloco `>` seguido de linha em branco seguida de novo bloco `>`).
+11. **Links TikZ em Markdown por URL raw**, nunca `](figuras/...)`.
 
 Falhas listam violações e param o pipeline antes do commit.
 

@@ -162,18 +162,16 @@ Exemplo simples, claro e direto de como o conceito do capítulo aparece na vida 
 E A BÍBLIA NISSO?
 [Estrutura obrigatória, nesta ordem:]
 
-1. **Versículo de abertura:** versículo bíblico em destaque que se conecte diretamente ao tema. Formato: "Texto do versículo." Referência.
+1. **Versículo de abertura:** versículo bíblico em blockquote, com o texto em uma linha e a referência na linha seguinte.
 
 2. **Conexão tema–princípio (1-2 frases):** conectar o conteúdo de Física a um princípio bíblico. Partir do fenômeno físico e chegar ao princípio. Tom direto, sem piedosismo.
 
-3. **Princípios numerados (máximo 2):** formato enxuto:
-   - **Título curto** (frase direta);
-   - Analogia com o conteúdo de Física + paralelo bíblico concreto + versículo de apoio;
-   - Cada princípio: máximo 2-3 frases no 6º–7º ano, 3-4 frases no EM.
+3. **Aplicação em bullet (exatamente 1):** formato enxuto:
+   - **Título curto.** Analogia com o conteúdo de Física + aplicação concreta para a vida do aluno.
 
 4. **💬 Para Conversar:** 1 pergunta reflexiva ligando o tema a decisões reais do aluno.
 
-**REGRA: ser sintético.** A seção inteira deve ser impactante e concisa — não um sermão. Máximo 2 princípios. Sem parágrafo de síntese adicional. Sem desenvolvimento excessivo.
+**REGRA: ser sintético.** A seção inteira deve ser impactante e concisa — não um sermão. Sem parágrafo de síntese adicional. Sem desenvolvimento excessivo.
 
 **Adaptação por série:**
 - **6º–7º ano:** linguagem simples, analogias do cotidiano do aluno (escola, amizades, jogos). Princípios curtos. Versículos acessíveis.
@@ -187,7 +185,7 @@ Resumo em 1-2 parágrafos, linguagem acessível, conceitos centrais.
 Para não esquecer
 - Conceito 1: explicação em uma frase;
 - Conceito 2: explicação em uma frase;
-(3 a 5 itens — formato "Termo: explicação breve")
+(2 a 3 itens — formato "Termo: explicação breve")
 ---
 Fórmulas do capítulo
 Lista das fórmulas apresentadas no capítulo, com nome e grandezas.
@@ -204,6 +202,10 @@ Lista das fórmulas apresentadas no capítulo, com nome e grandezas.
 - Analogias concretas. Para 6º–7º ano: universo do aluno (esportes, cozinha, transporte, brincadeiras).
 - Grandezas físicas sempre acompanhadas de unidade no SI.
 - Fórmulas integradas ao texto, nunca isoladas sem contexto.
+- Produzir no momento apenas **Unidade 4**, ano a ano, até que todas as séries solicitadas estejam concluídas.
+- Usar ilustrações TikZ sempre que o contexto físico puder ficar mais concreto para o aluno. Quanto mais visual for a explicação, melhor.
+- Manter o código TikZ em `figuras_capXX_<slug>.tex`, renderizar PNGs em `Fisica/<ano>/<unidade>/figuras/` e inserir no Markdown final somente URLs raw do GitHub, nunca links relativos `figuras/...`.
+- Ao concluir e validar uma unidade completa, fazer commit e push apenas do escopo daquela unidade, mantendo mudanças não relacionadas fora do commit.
 
 ## 5. Markdown
 

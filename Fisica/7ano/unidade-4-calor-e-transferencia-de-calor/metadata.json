@@ -1,0 +1,13 @@
+{
+  "disciplina": "Fisica",
+  "ano": "7ano",
+  "unidade": "Unidade 4 - Calor e Transferencia de Calor",
+  "origem": "Blueprint local criado no repositorio",
+  "blueprint_dir": "Fisica/_blueprints/7ano/unidade-4-calor-e-transferencia-de-calor",
+  "capitulos": [
+    "capitulo_01_calor-e-equilibrio-termico.md",
+    "capitulo_02_formas-de-transferencia-de-calor.md",
+    "capitulo_03_mudancas-de-estado-fisico.md"
+  ],
+  "status": "gerado"
+}

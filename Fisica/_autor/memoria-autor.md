@@ -26,6 +26,10 @@ Each session follows the same approval-gated workflow: propose chapter structure
 
 **Approach & patterns**
 
+- **Current production scope:** until Felipe says otherwise, produce only **Unidade 4** content, moving grade by grade/year by year until all years are complete. Do not expand to other units in the same grade unless explicitly requested.
+- **TikZ illustration rule:** Physics chapters should be visually supported whenever a diagram clarifies the phenomenon. Prefer 2 or more TikZ illustrations per chapter when the topic benefits from visual context. Keep source files beside the chapter as `figuras_capXX_<slug>.tex`, render PNGs under the unit `figuras/` folder, and reference each image in Markdown with a GitHub raw URL: `https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Fisica/<ano>/<unidade>/figuras/capXX_tikz-N.png`. Do not use relative `](figuras/...)` links in final Markdown because Google Docs copy/paste loses those images.
+- **Concise student memory:** "Para não esquecer" must have **2-3 bullets maximum**, preferably 3 only when each point is essential.
+- **Publish-after-unit rule:** when a full unit is completed and verified, commit and push the scoped unit changes immediately so GitHub raw image URLs become available for Google Docs validation. Keep unrelated local files out of the commit.
 - **Workflow:** Propose chapter list → approval → one chapter at a time → content/accuracy review → targeted edits → final delivery. Never advance without explicit sign-off.
 - **Self-review:** After delivering chapters, Claude conducts a content verification pass (formulas, nomenclature, conceptual accuracy, curriculum alignment) and presents ranked issues for approval before applying corrections.
 - **Formatting rules (enforced across all grades):**
