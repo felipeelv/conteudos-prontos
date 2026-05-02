@@ -1,7 +1,13 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning,circuits.ee.IEC}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 
 % TikZ 1
 \begin{tikzpicture}[>=Latex]
@@ -19,7 +25,7 @@
   \draw[very thick,->,blue!70!black] (3.3,0.35) -- (4.0,0.35) node[midway,above] {$I$};
   \node[draw,rounded corners=2pt,fill=gray!10,align=center] at (3.1,-1.55)
     {$U=\varepsilon-rI$};
-  \node[align=center] at (3.1,1.35) {parte da tensao se perde dentro do gerador};
+  \node[align=center] at (3.1,1.35) {parte da tensão se perde dentro do gerador};
 \end{tikzpicture}
 
 % TikZ 2
@@ -32,7 +38,7 @@
   \draw[dashed] (0,3) -- (5,3);
   \draw[dashed] (5,0) -- (5,3);
   \node[align=center] at (3.3,2.45) {reta: $U=\varepsilon-rI$};
-  \node[align=center] at (2.6,-0.55) {corrente de curto indica a resistencia interna};
+  \node[align=center] at (2.6,-0.55) {corrente de curto indica a resistência interna};
 \end{tikzpicture}
 
 \end{document}

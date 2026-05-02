@@ -1,19 +1,45 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning}
 \begin{document}
-\begin{tikzpicture}[>=Latex,node distance=0.65cm]
-  \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=3cm,minimum height=0.8cm,align=center]
-  \node[box,fill=green!12] (vel) {velocidade\\da reacao};
-  \node[box,fill=red!10,above left=0.9cm and 0.9cm of vel] (temp) {temperatura\\energia};
-  \node[box,fill=blue!10,above right=0.9cm and 0.9cm of vel] (conc) {concentracao\\colisoes};
-  \node[box,fill=orange!12,below left=0.9cm and 0.9cm of vel] (surf) {superficie\\contato};
-  \node[box,fill=purple!10,below right=0.9cm and 0.9cm of vel] (cat) {catalisador\\menor $E_a$};
-  \draw[very thick,->] (temp) -- (vel);
-  \draw[very thick,->] (conc) -- (vel);
-  \draw[very thick,->] (surf) -- (vel);
-  \draw[very thick,->] (cat) -- (vel);
-  \node[align=center,below=1.2cm of vel] {cada fator altera frequencia, energia ou caminho da colisao};
+
+\tikzset{every node/.append style={font=\sffamily\small}}
+\begin{tikzpicture}[x=1cm,y=1cm,>=Latex]
+  \tikzstyle{head}=[font=\sffamily\bfseries\small,align=center]
+  \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=3.15cm,minimum height=0.78cm,align=center]
+  \tikzstyle{arrow}=[very thick,->]
+
+  \node[head] at (0,4.15) {fator};
+  \node[head] at (4.15,4.15) {o que muda};
+  \node[head] at (8.3,4.15) {efeito na reação};
+
+  \node[box,fill=red!10] (f1) at (0,3.2) {temperatura};
+  \node[box,fill=gray!8] (m1) at (4.15,3.2) {mais energia};
+  \node[box,fill=green!10] (e1) at (8.3,3.2) {mais colisões eficazes};
+
+  \node[box,fill=blue!10] (f2) at (0,2.1) {concentração};
+  \node[box,fill=gray!8] (m2) at (4.15,2.1) {mais partículas};
+  \node[box,fill=green!10] (e2) at (8.3,2.1) {colisões mais frequentes};
+
+  \node[box,fill=orange!12] (f3) at (0,1.0) {superfície};
+  \node[box,fill=gray!8] (m3) at (4.15,1.0) {mais contato};
+  \node[box,fill=green!10] (e3) at (8.3,1.0) {mais encontros};
+
+  \node[box,fill=violet!10] (f4) at (0,-0.1) {catalisador};
+  \node[box,fill=gray!8] (m4) at (4.15,-0.1) {menor $E_a$};
+  \node[box,fill=green!10] (e4) at (8.3,-0.1) {caminho alternativo};
+
+  \foreach \i in {1,2,3,4}{
+    \draw[arrow] (f\i.east) -- (m\i.west);
+    \draw[arrow] (m\i.east) -- (e\i.west);
+  }
+
+  \node[draw,rounded corners=2pt,fill=gray!10,align=center,very thick] at (4.15,-1.1)
+    {todos aumentam a velocidade quando tornam\\as colisões mais prováveis ou eficazes};
 \end{tikzpicture}
 
 \begin{tikzpicture}[x=1cm,y=1cm,>=Latex]
@@ -27,7 +53,7 @@
     \draw[fill=orange!18,very thick] (\x,\y) rectangle +(0.25,0.25);
   }
   \node[below] at (4.95,-0.15) {triturado};
-  \draw[->,thick] (0.7,1.75) -- node[above] {area exposta aumenta} (4.95,1.75);
-  \node[align=center] at (2.9,-0.85) {mais superficie permite mais contato\\com o reagente};
+  \draw[->,thick] (0.7,1.75) -- node[above] {área exposta aumenta} (4.95,1.75);
+  \node[align=center] at (2.9,-0.85) {mais superfície permite mais contato\\com o reagente};
 \end{tikzpicture}
 \end{document}

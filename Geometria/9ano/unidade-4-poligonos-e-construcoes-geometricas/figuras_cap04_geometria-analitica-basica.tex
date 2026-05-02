@@ -1,7 +1,13 @@
-\documentclass[tikz,border=3mm]{standalone}
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{angles,quotes,calc,intersections}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 % TikZ 1
 \begin{tikzpicture}[scale=.75]
 \draw[->,thick] (-4.5,0)--(4.5,0) node[right] {$x$};
@@ -14,7 +20,6 @@
 \node at (-2.8,-2.8) {III};
 \node at (2.8,-2.8) {IV};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 2
 \begin{tikzpicture}[scale=.8]
 \draw[->,thick] (-1,0)--(7,0) node[right] {$x$};
@@ -26,7 +31,6 @@
 \fill (M) circle (2pt) node[above left] {$M$};
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 3
 \begin{tikzpicture}[scale=.8]
@@ -41,7 +45,6 @@
 \fill (A) circle (2pt) node[below left] {$A$};
 \fill (B) circle (2pt) node[above right] {$B$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 4
 \begin{tikzpicture}[scale=.8]
 \draw[->,thick] (-1,0)--(6,0) node[right] {$x$};

@@ -1,7 +1,13 @@
-\documentclass[tikz,border=3mm]{standalone}
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{angles,quotes,calc,intersections}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 % TikZ 1
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (3,0); \coordinate (C) at (3.8,1.1); \coordinate (D) at (.8,1.1); \coordinate (V) at (1.9,3.3);
@@ -11,7 +17,6 @@
 \node at (1.9,.25) {base};
 \node at (1.7,1.2) {face lateral};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 2
 \begin{tikzpicture}[scale=.92]
 \coordinate (A) at (0,0); \coordinate (B) at (2.8,0); \coordinate (C) at (3.6,1); \coordinate (D) at (.8,1);
@@ -24,7 +29,6 @@
 \node[below] at (6.4,0) {piramide};
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 3
 \begin{tikzpicture}[scale=1]
@@ -35,7 +39,6 @@
 \draw[blue!70!black,thick] (A2)--(B2)--(C2)--(D2)--cycle;
 \node[right] at (C2) {seccao};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 4
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (4,0); \coordinate (C) at (4.8,1.2); \coordinate (D) at (.8,1.2);

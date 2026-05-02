@@ -1,7 +1,13 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 
 % TikZ 1
 \begin{tikzpicture}[>=Latex,node distance=0.9cm]
@@ -12,7 +18,7 @@
   \draw[very thick,->] (fonte) -- (conv);
   \draw[very thick,->] (conv) -- (uso);
   \node[box,fill=green!8,below=1.0cm of fonte] (ren) {renovavel\\repoe em escala humana};
-  \node[box,fill=gray!15,below=1.0cm of uso] (naoren) {nao renovavel\\estoque finito};
+  \node[box,fill=gray!15,below=1.0cm of uso] (naoren) {não renovavel\\estoque finito};
   \draw[thick,->] (fonte.south) -- (ren.north);
   \draw[thick,->] (fonte.south) .. controls +(0,-1.0) and +(-1.0,0.5) .. (naoren.north west);
   \node[align=center,below=0.3cm of conv] {classificar exige criterio};
@@ -35,8 +41,8 @@
     \node[left] at (0,\y+1.6) {\name};
     \node[right] at (\value,\y+1.6) {$\value\%$};
   }
-  \node[align=center,above] at (42,23) {Exemplo: matriz eletrica brasileira renovavel em 2023};
-  \node[align=center,below] at (42,-4) {dados ajudam, mas nao encerram os trade-offs};
+  \node[align=center,above] at (42,23) {Exemplo: matriz elétrica brasileira renovavel em 2023};
+  \node[align=center,below] at (42,-4) {dados ajudam, mas não encerram os trade-offs};
 \end{tikzpicture}
 
 \end{document}

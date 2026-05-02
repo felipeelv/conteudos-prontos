@@ -1,7 +1,13 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 
 % TikZ 1
 \begin{tikzpicture}[scale=0.78,>=Latex]
@@ -13,7 +19,7 @@
     \node[font=\small] at ({\r*cos(\ang)+0.45},{0.62*\r*sin(\ang)+0.18}) {\name};
   }
   \draw[->,very thick] (0,0) -- (2.5,0) node[midway,above] {$1\ \mathrm{UA}$};
-  \node[align=center] at (0,-2.8) {quanto maior a distancia media, maior o periodo orbital};
+  \node[align=center] at (0,-2.8) {quanto maior a distância média, maior o periodo orbital};
 \end{tikzpicture}
 
 % TikZ 2
@@ -26,7 +32,7 @@
     {$T^2 = R^3$\\$1{,}88^2 \approx 1{,}52^3$};
   \draw[very thick,->] (terra) -- (lei);
   \draw[very thick,->] (marte) -- (lei);
-  \node[align=center,below=0.45cm of lei] {Kepler relaciona periodo e distancia media};
+  \node[align=center,below=0.45cm of lei] {Kepler relaciona periodo e distância média};
 \end{tikzpicture}
 
 \end{document}

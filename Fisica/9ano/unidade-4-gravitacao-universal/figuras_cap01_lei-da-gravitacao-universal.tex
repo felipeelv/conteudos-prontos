@@ -1,7 +1,13 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning,calc}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 
 % TikZ 1
 \begin{tikzpicture}[>=Latex]
@@ -19,7 +25,7 @@
 
 % TikZ 2
 \begin{tikzpicture}[x=1.5cm,y=1.2cm,>=Latex]
-  \draw[->,thick] (0,0) -- (4.3,0) node[right] {distancia};
+  \draw[->,thick] (0,0) -- (4.3,0) node[right] {distância};
   \draw[->,thick] (0,0) -- (0,3.2) node[above] {forca};
   \foreach \x/\lab in {1/$d$,2/$2d$,3/$3d$}{
     \draw[fill=blue!35] (\x-0.22,0) rectangle (\x+0.22,{2.7/(\x*\x)});

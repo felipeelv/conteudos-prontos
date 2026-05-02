@@ -1,7 +1,13 @@
-\documentclass[tikz,border=3mm]{standalone}
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{angles,quotes,calc,intersections}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 % TikZ 1
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (3,0); \coordinate (C) at (3.8,1.1); \coordinate (D) at (.8,1.1); \coordinate (V) at (1.9,3.4);
@@ -11,7 +17,6 @@
 \node[below] at (1.5,0) {base};
 \node[right] at ($(V)!0.55!(C)$) {face};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 2
 \begin{tikzpicture}[scale=.95]
 \coordinate (A) at (0,0); \coordinate (B) at (2.5,0); \coordinate (C) at (3.2,.8); \coordinate (D) at (.7,.8); \coordinate (V) at (1.6,2.7);
@@ -24,7 +29,6 @@
 \node[below] at (6.25,0) {prisma};
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 3
 \begin{tikzpicture}[scale=1]
@@ -37,7 +41,6 @@
 \node[right] at ($(V)!0.5!(O)$) {$h$};
 \node[below] at (O) {$O$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 4
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (4,0); \coordinate (C) at (4.8,1.4); \coordinate (D) at (.8,1.4); \coordinate (O) at (2.4,.7); \coordinate (M) at (2,0); \coordinate (V) at (2.4,3.5);
@@ -52,7 +55,6 @@
 \node[left] at ($(V)!0.5!(M)$) {$g$};
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 5
 \begin{tikzpicture}[scale=.95]
@@ -65,7 +67,6 @@
 \draw[blue!70!black,thick] (W)--(P); \fill (P) circle (2pt);
 \node[below] at (6.4,0) {obliqua};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 6
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (3,0); \coordinate (C) at (1.4,2.5); \coordinate (D) at (1.5,1.05);

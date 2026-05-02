@@ -1,7 +1,13 @@
-\documentclass[tikz,border=3mm]{standalone}
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{angles,quotes,calc,intersections}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 % TikZ 1
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (3.4,0);
@@ -14,7 +20,6 @@
 \node[below] at (O) {$O$};
 \node[below] at (6.6,0) {$r$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 2
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (3,0); \coordinate (C) at (1.5,2.598);
@@ -25,7 +30,6 @@
 \foreach \p/\pos in {A/below left,B/below right,C/above}{\node[\pos] at (\p) {$\p$};}
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 3
 \begin{tikzpicture}[scale=1]
@@ -37,7 +41,6 @@
 \pic[draw=blue!70!black, angle radius=4mm] {right angle=A--B--C};
 \foreach \p/\pos in {A/below left,B/below right,C/above right,D/above left}{\node[\pos] at (\p) {$\p$};}
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 4
 \begin{tikzpicture}[scale=1]
 \coordinate (O) at (0,0);
@@ -51,12 +54,11 @@
 \node[below] at (O) {$O$};
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 5
 \begin{tikzpicture}[scale=1]
-\node[draw,thick,rounded corners=1mm] (I) at (0,0) {inicio};
-\node[draw,thick,rounded corners=1mm] (C) at (3,0) {circunferencia};
+\node[draw,thick,rounded corners=1mm] (I) at (0,0) {início};
+\node[draw,thick,rounded corners=1mm] (C) at (3,0) {circunferência};
 \node[draw,thick,rounded corners=1mm] (R) at (6,0) {raio};
 \node[draw,thick,rounded corners=1mm] (P) at (9,0) {6 pontos};
 \node[draw,thick,rounded corners=1mm] (L) at (12,0) {ligar};

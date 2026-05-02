@@ -1,7 +1,13 @@
-\documentclass[tikz,border=3mm]{standalone}
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{angles,quotes,calc,intersections}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 % TikZ 1
 \begin{tikzpicture}[scale=1]
 \node[draw,thick,rounded corners=1mm] (E) at (0,0) {Entrada};
@@ -12,11 +18,10 @@
 \draw[->,thick] (P1)--(P2);
 \draw[->,thick] (P2)--(S);
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 2
 \begin{tikzpicture}[scale=1]
-\node[draw,thick,rounded corners=1mm] (I) at (0,0) {inicio};
-\node[draw,thick,rounded corners=1mm] (C) at (3,0) {circunferencia};
+\node[draw,thick,rounded corners=1mm] (I) at (0,0) {início};
+\node[draw,thick,rounded corners=1mm] (C) at (3,0) {circunferência};
 \node[draw,thick,rounded corners=1mm] (A) at (6,0) {ponto A};
 \node[draw,thick,rounded corners=1mm] (M) at (9,0) {marcar 6};
 \node[draw,thick,rounded corners=1mm] (L) at (12,0) {ligar};
@@ -28,7 +33,6 @@
 \draw[->,thick] (L)--(F);
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 3
 \begin{tikzpicture}[scale=1]

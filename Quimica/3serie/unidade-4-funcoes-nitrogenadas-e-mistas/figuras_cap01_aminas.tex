@@ -1,7 +1,13 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{positioning}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 \begin{tikzpicture}[node distance=0.8cm]
   \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=3cm,minimum height=0.95cm,align=center]
   \node[box,fill=blue!10] (a1) {primaria\\$R-NH_2$};
@@ -19,6 +25,6 @@
   \node[box,fill=green!12] (alif) {$R-NH_2$\\par livre disponivel};
   \node[box,fill=orange!15,right=1.1cm of alif] (anil) {$C_6H_5-NH_2$\\par interage com anel};
   \draw[->,thick] (alif) -- node[above,align=center] {basicidade\\muda} (anil);
-  \node[align=center,below=0.65cm of anil] {nao basta ter N: a vizinhanca\\eletronica altera a propriedade};
+  \node[align=center,below=0.65cm of anil] {não basta ter N: a vizinhanca\\eletronica altera a propriedade};
 \end{tikzpicture}
 \end{document}

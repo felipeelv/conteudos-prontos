@@ -1,19 +1,25 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{positioning}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 \begin{tikzpicture}[node distance=0.65cm]
   \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=2.9cm,minimum height=0.8cm,align=center]
   \node[box,fill=blue!10] (hal) {haleto\\$R-X$};
   \node[box,fill=red!10,right=0.65cm of hal] (nitro) {nitro\\$R-NO_2$};
   \node[box,fill=yellow!18,right=0.65cm of nitro] (tiol) {tiol\\$R-SH$};
-  \node[box,fill=green!12,below=0.8cm of nitro] (mista) {funcao mista\\mais de um grupo};
+  \node[box,fill=green!12,below=0.8cm of nitro] (mista) {função mista\\mais de um grupo};
   \node[box,fill=orange!12,below=0.8cm of mista] (amino) {aminoacido\\$-NH_2$ + $-COOH$};
   \draw[very thick] (hal) -- (mista);
   \draw[very thick] (nitro) -- (mista);
   \draw[very thick] (tiol) -- (mista);
   \draw[very thick] (mista) -- (amino);
-  \node[align=center,above=0.35cm of nitro] {ler a molecula = localizar grupos funcionais};
+  \node[align=center,above=0.35cm of nitro] {ler a molécula = localizar grupos funcionais};
 \end{tikzpicture}
 
 \begin{tikzpicture}[node distance=0.7cm]
@@ -23,6 +29,6 @@
   \node[tag,fill=green!12,above right=0.7cm and 0.15cm of mol] (carb) {grupo carboxila\\acido carboxilico};
   \draw[->,thick] (amino) -- (-1.25,0.15);
   \draw[->,thick] (carb) -- (1.35,0.15);
-  \node[align=center,below=0.65cm of mol] {uma mesma molecula pode reunir\\mais de uma funcao organica};
+  \node[align=center,below=0.65cm of mol] {uma mesma molécula pode reunir\\mais de uma função orgânica};
 \end{tikzpicture}
 \end{document}

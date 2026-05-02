@@ -1,7 +1,13 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,calc,positioning,decorations.pathmorphing}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 
 % TikZ 1
 \begin{tikzpicture}[>=Latex]

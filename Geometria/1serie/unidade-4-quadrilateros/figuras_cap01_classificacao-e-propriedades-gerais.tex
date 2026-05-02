@@ -1,7 +1,13 @@
-\documentclass[tikz,border=3mm]{standalone}
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{angles,quotes,calc,intersections}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 % TikZ 1
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (4,0.2); \coordinate (C) at (3.5,2.4); \coordinate (D) at (.4,2);
@@ -12,7 +18,6 @@
 \node[above] at ($(C)!0.5!(D)$) {$\overline{CD}$};
 \node[left] at ($(D)!0.5!(A)$) {$\overline{DA}$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 2
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (4,0.2); \coordinate (C) at (3.5,2.4); \coordinate (D) at (.4,2);
@@ -24,7 +29,6 @@
 \node at (2.1,.65) {$d_2$};
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 3
 \begin{tikzpicture}[scale=1]
@@ -35,7 +39,6 @@
 \node at (1.8,1.55) {$T_2$};
 \node[below] at (2,0) {$2\cdot180^{\circ}=360^{\circ}$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 4
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (4.2,0); \coordinate (C) at (3.4,1.8); \coordinate (D) at (.7,1.8);
@@ -46,7 +49,6 @@
 \node[below] at (7.8,0) {paralelogramo};
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 5
 \begin{tikzpicture}[scale=1]

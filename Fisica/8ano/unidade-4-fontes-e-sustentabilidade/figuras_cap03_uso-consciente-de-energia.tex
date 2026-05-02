@@ -1,11 +1,17 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning}
 \begin{document}
 
+\tikzset{every node/.append style={font=\sffamily\small}}
+
 % TikZ 1
 \begin{tikzpicture}[x=0.08cm,y=0.18cm,>=Latex]
-  \draw[->,thick] (0,0) -- (75,0) node[right] {potencia};
+  \draw[->,thick] (0,0) -- (75,0) node[right] {potência};
   \foreach \x in {0,20,40,60}{
     \draw (\x,0.35) -- (\x,-0.35);
     \node[below] at (\x,-0.35) {$\x\,\mathrm{W}$};
@@ -16,7 +22,7 @@
   \draw[fill=green!60!black] (0,4) rectangle (9,9);
   \node[left] at (0,6.5) {LED};
   \node[right] at (9,6.5) {$9\,\mathrm{W}$};
-  \node[align=center,above] at (34,20) {mesma funcao: iluminar};
+  \node[align=center,above] at (34,20) {mesma função: iluminar};
   \node[align=center,below] at (34,-4) {eficiencia: fazer o mesmo com menos energia};
 \end{tikzpicture}
 
@@ -24,9 +30,9 @@
 \begin{tikzpicture}[>=Latex,node distance=0.75cm]
   \tikzstyle{box}=[draw,rounded corners=2pt,minimum width=2.6cm,minimum height=0.85cm,align=center,very thick]
   \node[box,fill=blue!10] (lev) {levantar dados\\ambientes};
-  \node[box,fill=yellow!15,right=0.9cm of lev] (med) {medir\\potencia e tempo};
+  \node[box,fill=yellow!15,right=0.9cm of lev] (med) {medir\\potência e tempo};
   \node[box,fill=orange!12,right=0.9cm of med] (anal) {analisar\\desperdicios};
-  \node[box,fill=green!12,right=0.9cm of anal] (prop) {propor\\mudancas};
+  \node[box,fill=green!12,right=0.9cm of anal] (prop) {propor\\mudanças};
   \node[box,fill=gray!12,right=0.9cm of prop] (mon) {monitorar\\conta};
   \draw[very thick,->] (lev) -- (med);
   \draw[very thick,->] (med) -- (anal);

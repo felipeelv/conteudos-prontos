@@ -1,7 +1,13 @@
-\documentclass[tikz,border=3mm]{standalone}
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{angles,quotes,calc,intersections}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 % TikZ 1
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (4,0.2); \coordinate (C) at (3.4,2.2); \coordinate (D) at (.5,2.6);
@@ -12,7 +18,6 @@
 \node[above] at ($(C)!0.5!(D)$) {$\overline{CD}$};
 \node[left] at ($(D)!0.5!(A)$) {$\overline{DA}$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 2
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (4,0); \coordinate (C) at (5,2); \coordinate (D) at (1,2);
@@ -24,7 +29,6 @@
 \foreach \p/\pos in {A/below left,B/below right,C/above right,D/above left}{\node[\pos] at (\p) {$\p$};}
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 3
 \begin{tikzpicture}[scale=1]
@@ -35,7 +39,6 @@
 \draw[thick] (6.4,0) rectangle (8.1,1.7);
 \node[below] at (7.25,0) {quadrado};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 4
 \begin{tikzpicture}[scale=1]
 \draw[thick] (0,0) rectangle (7,4);
@@ -50,7 +53,6 @@
 \node at (3.5,1.45) {quadrados};
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 5
 \begin{tikzpicture}[scale=1]

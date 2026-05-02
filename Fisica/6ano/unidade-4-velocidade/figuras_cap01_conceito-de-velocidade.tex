@@ -1,7 +1,13 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,calc,positioning}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 
 % TikZ 1
 \begin{tikzpicture}[x=0.055cm,y=1cm,>=Latex]
@@ -21,21 +27,21 @@
 
   \draw[dashed,blue!70!black] (100,1.4) -- (100,0);
   \draw[dashed,orange!85!black] (200,2.7) -- (200,0);
-  \node[align=center] at (110,-1.05) {Comparar velocidade pede\\distancia e tempo juntos.};
+  \node[align=center] at (110,-1.05) {Comparar velocidade pede\\distância e tempo juntos.};
 \end{tikzpicture}
 
 % TikZ 2
 \begin{tikzpicture}[>=Latex,node distance=1.1cm]
   \tikzstyle{box}=[draw,rounded corners=2pt,minimum width=3.1cm,minimum height=1.2cm,align=center,very thick]
-  \node[box,fill=blue!8] (d) {distancia\\$d=100\,\mathrm{m}$};
+  \node[box,fill=blue!8] (d) {distância\\$d=100\,\mathrm{m}$};
   \node[box,fill=red!8,below=of d] (t) {tempo\\$t=10\,\mathrm{s}$};
-  \node[box,fill=green!10,right=2.4cm of $(d)!0.5!(t)$] (v) {velocidade media\\$v=10\,\mathrm{m/s}$};
+  \node[box,fill=green!10,right=2.4cm of $(d)!0.5!(t)$] (v) {velocidade média\\$v=10\,\mathrm{m/s}$};
 
   \draw[very thick] ($(d.south west)+(0,-0.1)$) -- ($(d.south east)+(0,-0.1)$);
   \node[left=0.35cm of $(d)!0.5!(t)$] {$\div$};
   \draw[very thick,->] ($(d)!0.5!(t)+(1.7,0)$) -- (v.west);
 
-  \node[align=center,below=0.7cm of t] {$v=\frac{d}{t}$\\velocidade = distancia dividida pelo tempo};
+  \node[align=center,below=0.7cm of t] {$v=\frac{d}{t}$\\velocidade = distância dividida pelo tempo};
 \end{tikzpicture}
 
 \end{document}

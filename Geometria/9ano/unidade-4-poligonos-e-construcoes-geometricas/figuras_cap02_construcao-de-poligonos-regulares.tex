@@ -1,7 +1,13 @@
-\documentclass[tikz,border=3mm]{standalone}
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{angles,quotes,calc,intersections}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 % TikZ 1
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (3,0);
@@ -13,7 +19,6 @@
 \node[below] at (O) {$O$};
 \node[below] at (5.95,0) {$r$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 2
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (3,0); \coordinate (C) at (1.5,2.598);
@@ -23,7 +28,6 @@
 \foreach \p/\pos in {A/below left,B/below right,C/above}{\node[\pos] at (\p) {$\p$};}
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 3
 \begin{tikzpicture}[scale=1]
@@ -34,7 +38,6 @@
 \draw[thick,blue!70!black] (A)--(B)--(C)--(D)--cycle;
 \foreach \p/\pos in {A/above,B/right,C/below,D/left,O/below right}{\node[\pos] at (\p) {$\p$};}
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 4
 \begin{tikzpicture}[scale=1]
 \coordinate (O) at (0,0);

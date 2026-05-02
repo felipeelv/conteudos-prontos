@@ -1,7 +1,13 @@
-\documentclass[tikz,border=3mm]{standalone}
+\documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{angles,quotes,calc,intersections}
 \begin{document}
+
+\tikzset{every node/.append style={font=\sffamily\small}}
 % TikZ 1
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (3.6,0); \coordinate (C) at (1.8,3.118);
@@ -11,7 +17,6 @@
 \node[above right] at ($(B)!0.5!(C)$) {$4\mathrm{cm}$};
 \node[above left] at ($(C)!0.5!(A)$) {$4\mathrm{cm}$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 2
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (3.8,0); \coordinate (C) at (1.9,2.6);
@@ -21,7 +26,6 @@
 \node[above right] at ($(B)!0.5!(C)$) {$6\mathrm{cm}$};
 \node[below] at ($(A)!0.5!(B)$) {$4\mathrm{cm}$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 3
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (4,0); \coordinate (C) at (1.1,2.2);
@@ -32,7 +36,6 @@
 \node[above left] at ($(C)!0.5!(A)$) {$4\mathrm{cm}$};
 \end{tikzpicture}
 
-\vspace{1cm}
 
 % TikZ 4
 \begin{tikzpicture}[scale=1]
@@ -43,7 +46,6 @@
 \pic[draw=blue!70!black, "$70^{\circ}$", angle radius=7mm, angle eccentricity=1.4] {angle=A--C--B};
 \node[below left] at (A) {$A$}; \node[below right] at (B) {$B$}; \node[above] at (C) {$C$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 5
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (3.2,0); \coordinate (C) at (0,2.4);
@@ -52,7 +54,6 @@
 \node[below left] at (A) {$A$}; \node[below right] at (B) {$B$}; \node[above] at (C) {$C$};
 \node at (0.55,0.4) {$90^{\circ}$};
 \end{tikzpicture}
-\hspace{1cm}
 % TikZ 6
 \begin{tikzpicture}[scale=1]
 \coordinate (A) at (0,0); \coordinate (B) at (4,0); \coordinate (C) at (0.8,1.5);
