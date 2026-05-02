@@ -1,0 +1,12 @@
+{
+  "disciplina": "Fisica",
+  "ano": "6ano",
+  "unidade": "Unidade 4 - Velocidade",
+  "origem": "Blueprint local",
+  "blueprint_dir": "Fisica/_blueprints/6ano/unidade-4-velocidade",
+  "capitulos": [
+    "capitulo_01_conceito-de-velocidade.md",
+    "capitulo_02_unidades-de-velocidade.md"
+  ],
+  "status": "gerado"
+}
