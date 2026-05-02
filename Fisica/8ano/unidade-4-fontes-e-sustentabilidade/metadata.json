@@ -1,0 +1,13 @@
+{
+  "disciplina": "Fisica",
+  "ano": "8ano",
+  "unidade": "Unidade 4 - Fontes e Sustentabilidade",
+  "origem": "Blueprint local",
+  "blueprint_dir": "Fisica/_blueprints/8ano/unidade-4-fontes-e-sustentabilidade",
+  "capitulos": [
+    "capitulo_01_fontes-de-energia.md",
+    "capitulo_02_usinas-de-geracao-de-energia.md",
+    "capitulo_03_uso-consciente-de-energia.md"
+  ],
+  "status": "gerado"
+}
