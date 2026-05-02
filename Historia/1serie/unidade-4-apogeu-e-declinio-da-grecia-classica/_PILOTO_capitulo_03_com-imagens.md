@@ -193,15 +193,14 @@ Procure três imagens: um teatro grego, um templo grego e um mapa de uma pólis.
 
 ## Enquanto isso...
 
-Enquanto Sócrates discutia justiça em Atenas, encerrava-se na Judeia o período profético do Antigo Testamento. Malaquias, no séc. V a.C., chamou o povo à fidelidade. Começava o período intertestamentário — quase quatro séculos sem profetas reconhecidos. A identidade judaica se preservou pela leitura da Torá nas sinagogas, sob impérios sucessivos.
+Enquanto Sócrates discutia justiça em Atenas, na Judeia o último profeta — Malaquias, séc. V a.C. — encerrava o período profético do Antigo Testamento. Começava o intertestamentário: quase quatro séculos em que a identidade judaica se preservou pela leitura da Torá nas sinagogas.
 
 O que estava em jogo:
 
 - **Atenas:** cultura como debate público de dilemas éticos;
 - **Esparta:** disciplina militar como modelo de cidadão;
 - **Egito ptolomaico:** Alexandria reunia bibliotecas e ciência;
-- **Judeia:** preservação do monoteísmo sob impérios sucessivos;
-- **Diferentes lógicas:** racionalidade filosófica, fidelidade religiosa e identidade comunitária convivendo no mesmo século.
+- **Judeia:** preservação do monoteísmo sob impérios sucessivos.
 
 ---
 
@@ -209,7 +208,7 @@ O que estava em jogo:
 
 ***"Quem anda em integridade anda seguro; mas o que perverte os seus caminhos será conhecido."*** *(Provérbios 10:9)*
 
-Sócrates manteve coerência entre o que ensinava e o que fazia mesmo quando o preço foi a própria vida. Daniel, no exílio babilônico, escolheu o mesmo: não abandonou seus princípios sob ameaça. Integridade aparece exatamente nessa fronteira — quando dizer a verdade tem custo.
+Sócrates pagou com a vida pela coerência entre discurso e prática. Daniel, no exílio, manteve seus princípios sob ameaça. A integridade aparece nessa fronteira — quando dizer a verdade tem custo.
 
 - A integridade é testada quando manter a verdade traz prejuízo concreto;
 - Coerência entre discurso e prática vale mais do que sobrevivência confortável.
@@ -223,14 +222,13 @@ Sócrates manteve coerência entre o que ensinava e o que fazia mesmo quando o p
 
 **Sócrates (470-399 a.C.)**
 
-- Filósofo ateniense, filho de um escultor e de uma parteira;
-- Não deixou obras escritas; suas ideias chegam pelos diálogos de Platão e Xenofonte;
-- Conversava em praças e mercados, examinando virtudes pelo método das perguntas;
-- Foi julgado em 399 a.C. por "corromper a juventude" e "introduzir novos deuses";
-- Recusou fugir da prisão e bebeu cicuta cercado pelos amigos.
+- Filósofo ateniense; suas ideias chegam pelos diálogos de Platão e Xenofonte;
+- Conversava em praças, examinando virtudes pelo método das perguntas;
+- Julgado em 399 a.C. por "corromper a juventude" e "introduzir novos deuses";
+- Recusou fugir e bebeu cicuta cercado pelos amigos.
 
 > 🏛️ **Legado:**  
-> Representa a Filosofia como busca paciente da verdade e a integridade como fidelidade aos princípios — mesmo quando o preço é a própria vida.
+> A Filosofia como busca paciente da verdade e a integridade como fidelidade aos princípios — sob qualquer custo.
 
 ---
 
