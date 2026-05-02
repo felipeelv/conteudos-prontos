@@ -1,0 +1,11 @@
+{
+  "disciplina": "Fisica",
+  "ano": "2serie",
+  "unidade": "Unidade 4 - Termodinamica",
+  "origem": "Fisica/_blueprints/2serie/unidade-4-termodinamica",
+  "capitulos": [
+    "capitulo_07_leis-da-termodinamica.md",
+    "capitulo_08_maquinas-termicas.md"
+  ],
+  "status": "gerado"
+}

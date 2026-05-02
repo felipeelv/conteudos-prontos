@@ -1,0 +1,11 @@
+{
+  "disciplina": "Fisica",
+  "ano": "3serie",
+  "unidade": "Unidade 4 - Geradores e Circuitos",
+  "origem": "Fisica/_blueprints/3serie/unidade-4-geradores-e-circuitos",
+  "capitulos": [
+    "capitulo_07_geradores-e-receptores.md",
+    "capitulo_08_medidas-eletricas.md"
+  ],
+  "status": "gerado"
+}

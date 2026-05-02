@@ -1,0 +1,12 @@
+{
+  "disciplina": "Fisica",
+  "ano": "9ano",
+  "unidade": "Unidade 4 - Gravitacao Universal",
+  "origem": "Fisica/_blueprints/9ano/unidade-4-gravitacao-universal",
+  "capitulos": [
+    "capitulo_01_lei-da-gravitacao-universal.md",
+    "capitulo_02_sistema-solar-leis-de-kepler-e-vida-no-universo.md",
+    "capitulo_03_ciclo-evolutivo-do-sol.md"
+  ],
+  "status": "gerado"
+}

@@ -1,0 +1,10 @@
+{
+  "disciplina": "Fisica",
+  "ano": "1serie",
+  "unidade": "Unidade 4 - Cinematica Vetorial",
+  "origem": "Fisica/_blueprints/1serie/unidade-4-cinematica-vetorial",
+  "capitulos": [
+    "capitulo_07_movimentos-compostos.md"
+  ],
+  "status": "gerado"
+}
