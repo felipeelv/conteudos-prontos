@@ -2,7 +2,7 @@
 
 > Arquivo de memória de trabalho. Sempre que abrir uma nova sessão para esta disciplina, **leia este arquivo primeiro**, depois `_autor/CLAUDE.md` e `_autor/PADRAO_EDITORIAL_v2.md`.
 
-**Última atualização:** 2026-05-02 (skill criada — 0/24 unidades produzidas)
+**Última atualização:** 2026-05-02 (10 capítulos produzidos — Unidade 4 completa nas 3 séries)
 **Skill responsável:** `autor-eleve:autor-historia` (em `plugins/autor-eleve/skills/autor-historia/SKILL.md`, plugin v0.9.0)
 **Padrão editorial vigente:** v2 (desde 2026-05-02) — referência canônica em `_autor/PADRAO_EDITORIAL_v2.md`
 
@@ -16,7 +16,7 @@ História do **Ensino Médio (1ª, 2ª e 3ª séries)** apenas. Conteúdo histó
 
 ## Status atual
 
-**0 capítulos validados pela skill.** A skill foi criada em 2026-05-02 a partir do template `autor-geografia` v2, com adaptações específicas de História:
+**10 capítulos validados pela skill** (Unidade 4 completa nas três séries do EM). A skill foi criada em 2026-05-02 a partir do template `autor-geografia` v2, com adaptações específicas de História:
 
 - Mantém 12 validações (HIST1-HIST12) similares às de Geografia (GEO1-GEO12)
 - Substitui `## Em outros lugares do mundo...` por `## Enquanto isso...` (paralelo histórico-cristão TEMPORAL)
@@ -43,6 +43,7 @@ Padrão editorial v2 (vigente desde 2026-05-02):
 | Data | Capítulos | Marco |
 |---|---|---|
 | 2026-05-02 | 0 (setup) | Skill `autor-historia` criada no plugin `autor-eleve` (bump v0.8.0 → v0.9.0). `_autor/PADRAO_EDITORIAL_v2.md` criado a partir do template de Geografia v2 com adaptações para a disciplina narrativo-cristã. `_autor/CLAUDE.md` reescrito para v2. Validador HIST1-HIST12 documentado. `_PROGRESSO.md` inicial gravado. |
+| 2026-05-02 | 10 (U4 completa) | Unidade 4 produzida nas 3 séries: 1ª série (Apogeu e Declínio da Grécia Clássica, 3 caps — Período Clássico/Péricles, Período Helenístico/Alexandre, Cultura e Legados/Sócrates); 2ª série (Período Regencial e Segundo Reinado, 3 caps — Regência 1831-1840/Feijó, Revoltas Regenciais/Bento Gonçalves, Golpe da Maioridade/D. Pedro II); 3ª série (Guerra Fria e Descolonizações, 4 caps — Conceito e Bipolarização/Kennan, Conflitos/Ho Chi Minh, Descolonização da Ásia/Gandhi, Descolonização da África/Nkrumah). Todos passaram nas validações HIST1-HIST10. VP da unidade: Integridade (Provérbios 10:9 e Lucas 16:10). |
 
 ---
 
@@ -55,7 +56,7 @@ Padrão editorial v2 (vigente desde 2026-05-02):
 | 1 | (a confirmar conforme blueprints) | ⏳ |
 | 2 | (a confirmar) | ⏳ |
 | 3 | (a confirmar) | ⏳ |
-| 4 | Apogeu e Declínio da Grécia Clássica | ⏳ |
+| 4 | Apogeu e Declínio da Grécia Clássica | ✅ (3/3) |
 | 5 | (a confirmar) | ⏳ |
 | 6 | (a confirmar) | ⏳ |
 | 7 | (a confirmar) | ⏳ |
@@ -68,7 +69,7 @@ Padrão editorial v2 (vigente desde 2026-05-02):
 | 1 | (a confirmar) | ⏳ |
 | 2 | (a confirmar) | ⏳ |
 | 3 | (a confirmar) | ⏳ |
-| 4 | Período Regencial e Segundo Reinado | ⏳ |
+| 4 | Período Regencial e Segundo Reinado | ✅ (3/3) |
 | 5 | (a confirmar) | ⏳ |
 | 6 | (a confirmar) | ⏳ |
 | 7 | (a confirmar) | ⏳ |
@@ -81,7 +82,7 @@ Padrão editorial v2 (vigente desde 2026-05-02):
 | 1 | (a confirmar) | ⏳ |
 | 2 | (a confirmar) | ⏳ |
 | 3 | (a confirmar) | ⏳ |
-| 4 | Guerra Fria e Descolonizações | ⏳ |
+| 4 | Guerra Fria e Descolonizações | ✅ (4/4) |
 | 5 | (a confirmar) | ⏳ |
 | 6 | (a confirmar) | ⏳ |
 | 7 | (a confirmar) | ⏳ |
