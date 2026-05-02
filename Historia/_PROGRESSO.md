@@ -2,9 +2,9 @@
 
 > Arquivo de memória de trabalho. Sempre que abrir uma nova sessão para esta disciplina, **leia este arquivo primeiro**, depois `_autor/CLAUDE.md` e `_autor/PADRAO_EDITORIAL_v2.md`.
 
-**Última atualização:** 2026-05-02 (10 capítulos produzidos — Unidade 4 completa nas 3 séries)
+**Última atualização:** 2026-05-02 (10 capítulos refinados para v2.1 com imagens HTML do Wikimedia Commons)
 **Skill responsável:** `autor-eleve:autor-historia` (em `plugins/autor-eleve/skills/autor-historia/SKILL.md`, plugin v0.9.0)
-**Padrão editorial vigente:** v2 (desde 2026-05-02) — referência canônica em `_autor/PADRAO_EDITORIAL_v2.md`
+**Padrão editorial vigente:** **v2.1** (desde 2026-05-02) — referência canônica em `_autor/PADRAO_EDITORIAL_v2.md`
 
 ---
 
@@ -44,6 +44,7 @@ Padrão editorial v2 (vigente desde 2026-05-02):
 |---|---|---|
 | 2026-05-02 | 0 (setup) | Skill `autor-historia` criada no plugin `autor-eleve` (bump v0.8.0 → v0.9.0). `_autor/PADRAO_EDITORIAL_v2.md` criado a partir do template de Geografia v2 com adaptações para a disciplina narrativo-cristã. `_autor/CLAUDE.md` reescrito para v2. Validador HIST1-HIST12 documentado. `_PROGRESSO.md` inicial gravado. |
 | 2026-05-02 | 10 (U4 completa) | Unidade 4 produzida nas 3 séries: 1ª série (Apogeu e Declínio da Grécia Clássica, 3 caps — Período Clássico/Péricles, Período Helenístico/Alexandre, Cultura e Legados/Sócrates); 2ª série (Período Regencial e Segundo Reinado, 3 caps — Regência 1831-1840/Feijó, Revoltas Regenciais/Bento Gonçalves, Golpe da Maioridade/D. Pedro II); 3ª série (Guerra Fria e Descolonizações, 4 caps — Conceito e Bipolarização/Kennan, Conflitos/Ho Chi Minh, Descolonização da Ásia/Gandhi, Descolonização da África/Nkrumah). Todos passaram nas validações HIST1-HIST10. VP da unidade: Integridade (Provérbios 10:9 e Lucas 16:10). |
+| 2026-05-02 | 10 (refino v2.1) | Refino editorial v2.1 com 4 melhorias: (1) densidade enxuta — alvo 1.700-2.000 palavras, mín. 50 bullets, parágrafos de 1-2 frases; (2) imagens HTML do Wikimedia Commons (Special:FilePath) com legenda em `<sub><em>`, garantindo compatibilidade com Google Docs; (3) pós-conteúdo sintético (Enquanto isso = 2-3 frases + 4 bullets; E para hoje = 3 frases + 2 bullets; Esse foi o cara = 4 bullets + Legado em 1 frase); (4) regras consolidadas em PADRAO_EDITORIAL_v2.md (rev. 2.1) e validações HIST13-HIST17 documentadas no SKILL.md. Validado primeiro no piloto Cap 3 1ª série (Sócrates), depois aplicado nos 9 demais. Imagens distribuídas: 1ª série 5/cap, 2ª série 2-4/cap, 3ª série 2-3/cap (45 imagens no total). |
 
 ---
 
