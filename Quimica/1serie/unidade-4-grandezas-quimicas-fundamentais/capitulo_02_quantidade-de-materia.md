@@ -20,7 +20,7 @@ Mol é a unidade de quantidade de matéria.
 
 Átomos e moléculas são numerosos demais para serem contados um a um.
 
-O mol funciona como uma "dúzia química", mas em escala gigantesca:
+O mol funciona como uma "dúzia química", mas em escala gigantesca. Em cálculos escolares, usamos o valor arredondado:
 
 $$1\mathrm{mol} = 6{,}02 \cdot 10^{23}\mathrm{entidades}$$
 
@@ -147,6 +147,8 @@ $$N = n \cdot N_A$$
 $$N = 2 \cdot 6{,}02 \cdot 10^{23}$$
 
 $$N = 1{,}204 \cdot 10^{24}\mathrm{moleculas}$$
+
+![TikZ 2 — Conversões entre massa, mol e número de partículas](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/1serie/unidade-4-grandezas-quimicas-fundamentais/figuras/cap02_tikz-2.png)
 
 ### 4.2 Das partículas para o mol
 

@@ -1,6 +1,6 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
 \usepackage{tikz}
-\usetikzlibrary{arrows.meta,positioning}
+\usetikzlibrary{arrows.meta,positioning,calc}
 \begin{document}
 \begin{tikzpicture}[>=Latex,node distance=0.8cm]
   \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=3.2cm,minimum height=0.85cm,align=center]
@@ -12,5 +12,15 @@
   \node[box,fill=gray!10,below=1cm of amina] (crit) {reconhecer\\$C=O$ ligado ao $N$};
   \draw[thick,->] (crit) -- (amida);
   \node[align=center,below=0.45cm of pep] {nem toda molecula com N e amida};
+\end{tikzpicture}
+
+\begin{tikzpicture}[>=Latex,node distance=0.8cm]
+  \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=2.8cm,minimum height=0.9cm,align=center]
+  \node[box,fill=blue!10] (aa1) {$H_2N-CH(R)-COOH$\\aminoacido 1};
+  \node[box,fill=blue!10,right=0.8cm of aa1] (aa2) {$H_2N-CH(R')-COOH$\\aminoacido 2};
+  \node[box,fill=green!12,below=1.0cm of $(aa1)!0.5!(aa2)$] (pep) {$-CO-NH-$\\ligacao peptidica};
+  \draw[->,thick] (aa1.south east) -- (pep.north west);
+  \draw[->,thick] (aa2.south west) -- (pep.north east);
+  \node[draw,rounded corners=2pt,fill=orange!12,right=0.8cm of pep] {libera\\$H_2O$};
 \end{tikzpicture}
 \end{document}

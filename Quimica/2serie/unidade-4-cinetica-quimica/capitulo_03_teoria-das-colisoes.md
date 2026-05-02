@@ -32,6 +32,8 @@ Além de energia, as partículas precisam se encontrar na posição correta.
 
 Uma molécula pode bater com energia suficiente, mas na orientação errada. Nesse caso, a colisão não gera produto.
 
+![TikZ 2 — Colisão eficaz depende de energia e orientação corretas](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/2serie/unidade-4-cinetica-quimica/figuras/cap03_tikz-2.png)
+
 > 💭 **Pense um pouco:**  
 > Por que uma chave só abre a porta quando entra na direção correta, mesmo que você use força?
 

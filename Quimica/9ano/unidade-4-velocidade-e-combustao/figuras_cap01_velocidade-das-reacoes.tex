@@ -17,4 +17,15 @@
   \draw[thick,->] (cat.north) -- (conc.south);
   \node[align=center] at (2.2,-3.1) {fatores mudam a frequencia e a eficacia das colisoes};
 \end{tikzpicture}
+
+\begin{tikzpicture}[x=1cm,y=1cm,>=Latex]
+  \node[draw,circle,fill=blue!10,minimum size=0.8cm] (a) at (0,0.8) {A};
+  \node[draw,circle,fill=orange!15,minimum size=0.8cm] (b) at (2.1,0.8) {B};
+  \draw[->,very thick] (a) -- (0.8,0.8);
+  \draw[->,very thick] (b) -- (1.3,0.8);
+  \node[draw,rounded corners=2pt,fill=green!12,align=center] at (4.3,0.8) {colisao eficaz\\vira produto};
+  \draw[->,thick] (2.65,0.8) -- (3.3,0.8);
+  \node[draw,rounded corners=2pt,fill=red!10,align=center] at (2.1,-0.65) {energia insuficiente\\ou orientacao ruim};
+  \node[align=center] at (2.1,-1.55) {nao basta encostar:\\precisa energia e direcao adequadas};
+\end{tikzpicture}
 \end{document}

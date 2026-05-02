@@ -72,6 +72,8 @@ Em sólidos, maior superfície de contato expõe mais partículas ao reagente.
 | Quebrado | média | intermediária |
 | Triturado | maior | mais rápida |
 
+![TikZ 2 — Superfície de contato em sólido inteiro, quebrado e triturado](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/2serie/unidade-4-cinetica-quimica/figuras/cap02_tikz-2.png)
+
 ---
 
 ## 3. Temperatura

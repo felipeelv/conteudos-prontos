@@ -68,6 +68,8 @@ $$M = \frac{3550}{100}$$
 
 $$M = 35{,}5\mathrm{u}$$
 
+![TikZ 2 — Média ponderada dos isótopos do cloro](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/1serie/unidade-4-grandezas-quimicas-fundamentais/figuras/cap01_tikz-2.png)
+
 ### 2.2 O que a média revela
 
 A tabela periódica apresenta massas úteis para cálculos químicos reais.

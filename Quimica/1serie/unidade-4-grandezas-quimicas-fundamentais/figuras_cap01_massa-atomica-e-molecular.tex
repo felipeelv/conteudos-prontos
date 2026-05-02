@@ -16,4 +16,14 @@
   \draw[thick,->] (mol) -- (ex);
   \node[align=center,above=0.35cm of u] {da escala invisivel para calculos comparaveis};
 \end{tikzpicture}
+
+\begin{tikzpicture}[>=Latex,node distance=0.9cm]
+  \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=2.7cm,minimum height=0.85cm,align=center]
+  \node[box,fill=blue!10] (cl35) {$^{35}$Cl\\75\%};
+  \node[box,fill=orange!12,right=0.8cm of cl35] (cl37) {$^{37}$Cl\\25\%};
+  \node[box,fill=green!12,right=0.8cm of cl37] (media) {media\\$35{,}5u$};
+  \draw[->,thick] (cl35) -- (media);
+  \draw[->,thick] (cl37) -- (media);
+  \node[align=center,below=0.55cm of cl37] {isotopo mais abundante pesa mais\\na media ponderada};
+\end{tikzpicture}
 \end{document}

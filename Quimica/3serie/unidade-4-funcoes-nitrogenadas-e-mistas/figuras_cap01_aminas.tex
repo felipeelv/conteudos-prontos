@@ -13,4 +13,12 @@
   \draw[very thick] (a3) -- (n);
   \node[align=center,above=0.35cm of a2] {aminas derivam da amonia};
 \end{tikzpicture}
+
+\begin{tikzpicture}[node distance=0.9cm]
+  \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=3.1cm,minimum height=1.0cm,align=center]
+  \node[box,fill=green!12] (alif) {$R-NH_2$\\par livre disponivel};
+  \node[box,fill=orange!15,right=1.1cm of alif] (anil) {$C_6H_5-NH_2$\\par interage com anel};
+  \draw[->,thick] (alif) -- node[above,align=center] {basicidade\\muda} (anil);
+  \node[align=center,below=0.65cm of anil] {nao basta ter N: a vizinhanca\\eletronica altera a propriedade};
+\end{tikzpicture}
 \end{document}

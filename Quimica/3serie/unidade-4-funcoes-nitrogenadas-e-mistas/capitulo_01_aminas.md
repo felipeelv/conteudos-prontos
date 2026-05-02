@@ -39,6 +39,8 @@ Essa basicidade depende da estrutura. Aminas alifáticas costumam ser mais bási
 > ⚠️ **Atenção:**  
 > Ter nitrogênio não basta para ser amina; é preciso observar como o N está ligado na estrutura.
 
+![TikZ 2 — Par livre do nitrogênio em amina alifática e anilina](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/figuras/cap01_tikz-2.png)
+
 ---
 
 ## 2. Classificação e Nomenclatura

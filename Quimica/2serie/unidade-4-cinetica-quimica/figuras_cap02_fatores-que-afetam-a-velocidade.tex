@@ -15,4 +15,19 @@
   \draw[very thick,->] (cat) -- (vel);
   \node[align=center,below=1.2cm of vel] {cada fator altera frequencia, energia ou caminho da colisao};
 \end{tikzpicture}
+
+\begin{tikzpicture}[x=1cm,y=1cm,>=Latex]
+  \draw[fill=blue!10,very thick] (0,0) rectangle (1.4,1.4);
+  \node[below] at (0.7,-0.15) {inteiro};
+  \foreach \x/\y in {2.3/0.15,2.95/0.15,2.3/0.8,2.95/0.8}{
+    \draw[fill=green!12,very thick] (\x,\y) rectangle +(0.45,0.45);
+  }
+  \node[below] at (2.75,-0.15) {quebrado};
+  \foreach \x/\y in {4.2/0.1,4.75/0.25,5.3/0.1,4.35/0.8,4.95/0.95,5.5/0.75}{
+    \draw[fill=orange!18,very thick] (\x,\y) rectangle +(0.25,0.25);
+  }
+  \node[below] at (4.95,-0.15) {triturado};
+  \draw[->,thick] (0.7,1.75) -- node[above] {area exposta aumenta} (4.95,1.75);
+  \node[align=center] at (2.9,-0.85) {mais superficie permite mais contato\\com o reagente};
+\end{tikzpicture}
 \end{document}

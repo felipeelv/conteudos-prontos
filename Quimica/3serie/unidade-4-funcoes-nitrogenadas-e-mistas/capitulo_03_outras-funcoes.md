@@ -80,7 +80,7 @@ O grupo nitro deve ser diferenciado de aminas e amidas. Aqui, o nitrogênio apar
 
 ### 3.2 TNT e nitroglicerina
 
-TNT e nitroglicerina são exemplos conhecidos de compostos com grupos nitro ou nitrato orgânico.
+TNT é um nitrocomposto. A nitroglicerina, embora tenha nitrogênio e oxigênio, é melhor classificada como nitrato orgânico. Essa diferença evita tratar todo grupo com N e O como se fosse a mesma função.
 
 O tratamento aqui é estrutural e responsável: esses compostos mostram como grupos ricos em oxigênio e nitrogênio podem estar ligados a grande liberação de energia, sem entrar em preparo, manuseio ou uso operacional.
 
@@ -136,6 +136,8 @@ O método é marcar cada grupo funcional antes de tentar nomear ou interpretar p
 Aminoácidos são exemplos centrais de funções mistas.
 
 Eles possuem grupo amino e grupo carboxila na mesma molécula. Essa combinação permite formar ligações peptídicas e participar da estrutura de proteínas.
+
+![TikZ 2 — Função mista em aminoácido com grupo amino e carboxila](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/figuras/cap03_tikz-2.png)
 
 ---
 

@@ -50,6 +50,8 @@ Nessa expressão:
 - $$m_1$$ e $$m_2$$ são as massas;
 - $$d$$ é a distância entre os centros dos corpos.
 
+Esse modelo funciona bem para corpos tratados como pontos materiais ou para esferas aproximadamente simétricas, usando a distância entre seus centros.
+
 > ⚡ **Física no Dia a Dia:**  
 > O GPS depende de satélites em órbita. Sem cálculo gravitacional, o posicionamento perderia precisão.
 

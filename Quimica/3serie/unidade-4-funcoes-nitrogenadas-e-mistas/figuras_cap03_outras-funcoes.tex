@@ -15,4 +15,14 @@
   \draw[very thick] (mista) -- (amino);
   \node[align=center,above=0.35cm of nitro] {ler a molecula = localizar grupos funcionais};
 \end{tikzpicture}
+
+\begin{tikzpicture}[node distance=0.7cm]
+  \tikzstyle{tag}=[draw,rounded corners=2pt,very thick,fill=gray!10,align=center]
+  \node[font=\large] (mol) {$H_2N-CH(R)-COOH$};
+  \node[tag,fill=blue!10,above left=0.7cm and 0.15cm of mol] (amino) {grupo amino\\amina};
+  \node[tag,fill=green!12,above right=0.7cm and 0.15cm of mol] (carb) {grupo carboxila\\acido carboxilico};
+  \draw[->,thick] (amino) -- (-1.25,0.15);
+  \draw[->,thick] (carb) -- (1.35,0.15);
+  \node[align=center,below=0.65cm of mol] {uma mesma molecula pode reunir\\mais de uma funcao organica};
+\end{tikzpicture}
 \end{document}

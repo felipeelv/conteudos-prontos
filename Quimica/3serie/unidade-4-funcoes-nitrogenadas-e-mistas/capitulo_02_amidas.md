@@ -116,6 +116,8 @@ aminoácido 1 + aminoácido 2
 ligação peptídica + água
 ```
 
+![TikZ 2 — Formação de ligação peptídica como uma amida biológica](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/3serie/unidade-4-funcoes-nitrogenadas-e-mistas/figuras/cap02_tikz-2.png)
+
 ### 4.2 Amida biológica
 
 A ligação peptídica será retomada em Bioquímica, mas a ideia central já é clara: proteínas dependem de amidas repetidas.

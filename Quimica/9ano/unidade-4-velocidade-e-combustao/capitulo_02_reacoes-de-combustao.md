@@ -49,7 +49,7 @@ Na combustão completa de muitos combustíveis orgânicos, os produtos principai
 
 A combustão do metano pode ser representada assim:
 
-$$\mathrm{CH_4(g) + 2O_2(g) \rightarrow CO_2(g) + 2H_2O(l)}$$
+$$\mathrm{CH_4(g) + 2O_2(g) \rightarrow CO_2(g) + 2H_2O(g)}$$
 
 O metano e o oxigênio são reagentes. O dióxido de carbono e a água são produtos.
 
@@ -76,6 +76,8 @@ Com pouco oxigênio, a reação pode formar monóxido de carbono e partículas d
 |---|---|---|
 | Oxigênio suficiente | CO₂ e H₂O | chama azul |
 | Oxigênio insuficiente | CO, fuligem e H₂O | chama amarela e fumaça |
+
+![TikZ 2 — Oxigênio disponível muda os produtos da combustão](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/9ano/unidade-4-velocidade-e-combustao/figuras/cap02_tikz-2.png)
 
 O CO é perigoso porque se liga ao sangue e dificulta o transporte de oxigênio no corpo.
 

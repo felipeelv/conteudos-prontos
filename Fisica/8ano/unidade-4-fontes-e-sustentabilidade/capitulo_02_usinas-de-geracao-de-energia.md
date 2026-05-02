@@ -24,7 +24,7 @@ Em linguagem simples:
 - fonte fornece energia;
 - turbina gira;
 - gerador produz eletricidade;
-- parte da energia se perde como calor, som ou atrito.
+- parte da energia se dissipa como calor, som ou atrito.
 
 > ⚡ **Física no Dia a Dia:**  
 > A tomada é o final visível de uma cadeia longa que começou longe da sua casa.

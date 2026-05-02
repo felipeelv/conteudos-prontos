@@ -118,7 +118,7 @@ Um motor térmico depende exatamente disso: transformar parte do calor recebido 
 
 ## NA VIDA REAL
 
-Motores de combustão e usinas termelétricas usam transformações termodinâmicas para gerar movimento ou eletricidade. Em todos os casos, existe uma contabilidade energética: energia entra, parte vira trabalho útil e parte se perde como calor rejeitado.
+Motores de combustão e usinas termelétricas usam transformações termodinâmicas para gerar movimento ou eletricidade. Em todos os casos, existe uma contabilidade energética: energia entra, parte vira trabalho útil e parte é rejeitada ao ambiente como calor.
 
 ---
 

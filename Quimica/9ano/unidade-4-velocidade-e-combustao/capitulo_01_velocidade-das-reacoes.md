@@ -118,6 +118,8 @@ Para uma reação ocorrer, não basta as partículas se encostarem. Elas precisa
 
 No 9º ano, energia de ativação é tratada como "empurrão inicial", sem cálculo.
 
+![TikZ 2 — Colisão eficaz com energia e orientação adequadas](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/9ano/unidade-4-velocidade-e-combustao/figuras/cap01_tikz-2.png)
+
 ### 4.2 Aplicações do controle de velocidade
 
 Controlar a velocidade das reações é parte da vida cotidiana.

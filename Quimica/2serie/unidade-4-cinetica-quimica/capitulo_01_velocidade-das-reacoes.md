@@ -113,6 +113,10 @@ Isso significa que, para a mesma reação, o H₂ é consumido em proporção du
 
 Se o oxigênio é consumido a 0,01 mol/(L.s), a água é formada a 0,02 mol/(L.s), porque o coeficiente da água é 2.
 
+Para falar da velocidade da reação como um único valor, normalizamos pelas proporções: dividimos a variação de cada substância pelo seu coeficiente estequiométrico.
+
+![TikZ 2 — Velocidades de consumo e formação normalizadas pelos coeficientes](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/2serie/unidade-4-cinetica-quimica/figuras/cap01_tikz-2.png)
+
 > ⚠️ **Atenção:**  
 > A velocidade da reação deve respeitar os coeficientes da equação balanceada; comparar substâncias sem essa proporção gera erro.
 

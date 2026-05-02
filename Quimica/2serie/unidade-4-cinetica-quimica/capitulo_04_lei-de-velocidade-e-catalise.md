@@ -39,6 +39,8 @@ A ordem em relação a um reagente indica como a velocidade responde à variaç�
 
 A ordem total é a soma das ordens em relação aos reagentes.
 
+![TikZ 2 — Efeito de dobrar a concentração em ordens 0, 1 e 2](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/2serie/unidade-4-cinetica-quimica/figuras/cap04_tikz-2.png)
+
 ---
 
 ## 2. Determinação Experimental
@@ -123,7 +125,7 @@ Ele:
 
 - aumenta a velocidade;
 - não é consumido no resultado final;
-- não muda `Delta H`;
+- não muda `\Delta H`;
 - não altera a posição do equilíbrio.
 
 > 💡 **Você sabia?**  
