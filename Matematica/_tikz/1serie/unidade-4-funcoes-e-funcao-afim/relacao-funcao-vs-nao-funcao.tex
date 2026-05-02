@@ -1,0 +1,62 @@
+% Comparação visual: diagrama de flechas que é função vs diagrama que NÃO é função.
+% Usado em: Matematica/1serie/unidade-4-funcoes-e-funcao-afim/capitulo_01_conceito-de-funcao.md (seção 1.2)
+\begin{tikzpicture}[
+  every node/.style={font=\small},
+  conjunto/.style={ellipse,draw=black,thick,minimum width=22mm,minimum height=42mm},
+  elemento/.style={font=\small},
+  flecha/.style={->,thick,>=stealth}
+]
+  % --- Lado esquerdo: É FUNÇÃO ---
+  \node[conjunto,draw=eleveBlue,fill=eleveBlue!8] (A1) at (-4,0) {};
+  \node[font=\bfseries\small,eleveBlue] at (-4,2.6) {$A$};
+
+  \node[conjunto,draw=eleveBlue,fill=eleveBlue!8] (B1) at (-1,0) {};
+  \node[font=\bfseries\small,eleveBlue] at (-1,2.6) {$B$};
+
+  \node[elemento] (a1) at (-4,1.4) {1};
+  \node[elemento] (a2) at (-4,0.4) {2};
+  \node[elemento] (a3) at (-4,-0.6) {3};
+  \node[elemento] (a4) at (-4,-1.6) {4};
+
+  \node[elemento] (b1) at (-1,1.4) {a};
+  \node[elemento] (b2) at (-1,0.4) {b};
+  \node[elemento] (b3) at (-1,-0.6) {c};
+  \node[elemento] (b4) at (-1,-1.6) {d};
+
+  \draw[flecha,eleveBlue] (a1) -- (b1);
+  \draw[flecha,eleveBlue] (a2) -- (b2);
+  \draw[flecha,eleveBlue] (a3) -- (b2);
+  \draw[flecha,eleveBlue] (a4) -- (b3);
+
+  \node[font=\bfseries,eleveBlue] at (-2.5,-3.0) {É função};
+  \node[font=\scriptsize,eleveBlue] at (-2.5,-3.6) {(cada $x$ tem uma única imagem)};
+
+  % --- Lado direito: NÃO É FUNÇÃO ---
+  \node[conjunto,draw=eleveAccent,fill=eleveAccent!8] (A2) at (3,0) {};
+  \node[font=\bfseries\small,eleveAccent] at (3,2.6) {$A$};
+
+  \node[conjunto,draw=eleveAccent,fill=eleveAccent!8] (B2) at (6,0) {};
+  \node[font=\bfseries\small,eleveAccent] at (6,2.6) {$B$};
+
+  \node[elemento] (c1) at (3,1.4) {1};
+  \node[elemento] (c2) at (3,0.4) {2};
+  \node[elemento] (c3) at (3,-0.6) {3};
+  \node[elemento] (c4) at (3,-1.6) {4};
+
+  \node[elemento] (d1) at (6,1.4) {a};
+  \node[elemento] (d2) at (6,0.4) {b};
+  \node[elemento] (d3) at (6,-0.6) {c};
+  \node[elemento] (d4) at (6,-1.6) {d};
+
+  \draw[flecha,eleveAccent] (c1) -- (d1);
+  \draw[flecha,eleveAccent] (c2) -- (d1);
+  \draw[flecha,eleveAccent] (c2) -- (d3);
+  \draw[flecha,eleveAccent] (c4) -- (d4);
+
+  % Destaque do problema
+  \node[font=\scriptsize,eleveAccent,align=center] at (4.5,2.3) {2 imagens\\ para a mesma\\ entrada};
+  \draw[->,eleveAccent,thick] (4.5,1.6) to[bend left=15] (4.6,0.8);
+
+  \node[font=\bfseries,eleveAccent] at (4.5,-3.0) {Não é função};
+  \node[font=\scriptsize,eleveAccent] at (4.5,-3.6) {(o elemento 2 tem duas imagens)};
+\end{tikzpicture}

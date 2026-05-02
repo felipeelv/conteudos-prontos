@@ -1,0 +1,36 @@
+% Fluxo visual: matriz A → matriz dos cofatores → adjunta (transposta dos cofatores) → inversa.
+% Caso 2x2: A = [[1,2],[3,4]], det A = -2.
+% Usado em: capitulo_02_propriedades-e-aplicacoes.md (seção 5)
+\begin{tikzpicture}[
+  every node/.style={font=\small},
+  caixa/.style={
+    rectangle,
+    rounded corners=4pt,
+    draw=eleveBlue,
+    fill=eleveBlue!8,
+    minimum width=28mm,
+    minimum height=22mm,
+    inner sep=4pt,
+    align=center,
+    font=\small
+  },
+  flecha/.style={->,thick,>=stealth,eleveAccent},
+  rotulo/.style={font=\scriptsize,eleveAccent}
+]
+  % --- A ---
+  \node[caixa] (A) at (0,0) {$A$\\[1pt] linha 1: $(1,2)$\\ linha 2: $(3,4)$\\[2pt] $\det A = -2$};
+
+  % --- cof(A) ---
+  \node[caixa] (cof) at (4.5,0) {$\mathrm{cof}(A)$\\[1pt] linha 1: $(4,-3)$\\ linha 2: $(-2,1)$};
+
+  % --- adj(A) ---
+  \node[caixa] (adj) at (9,0) {$\mathrm{adj}(A) = (\mathrm{cof}\,A)^T$\\[1pt] linha 1: $(4,-2)$\\ linha 2: $(-3,1)$};
+
+  % --- inversa ---
+  \node[caixa,fill=eleveAccent!10,draw=eleveAccent] (inv) at (13.5,0) {$A^{-1} = \dfrac{1}{\det A} \cdot \mathrm{adj}(A)$\\[1pt] linha 1: $(-2,1)$\\ linha 2: $(1{,}5;\,-0{,}5)$};
+
+  % Setas com rótulos
+  \draw[flecha] (A) -- (cof) node[rotulo,midway,above,align=center] {calcular\\ cofatores};
+  \draw[flecha] (cof) -- (adj) node[rotulo,midway,above,align=center] {transpor};
+  \draw[flecha] (adj) -- (inv) node[rotulo,midway,above,align=center] {dividir por\\ $\det A$};
+\end{tikzpicture}

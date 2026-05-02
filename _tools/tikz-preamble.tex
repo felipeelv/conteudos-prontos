@@ -1,0 +1,51 @@
+% Preâmbulo padrão para fontes TikZ deste repositório.
+% Usado por _tools/tikz-render.sh — cada arquivo .tex em <Disciplina>/_tikz/ contém apenas o conteúdo TikZ
+% (geralmente um \begin{tikzpicture}...\end{tikzpicture} ou \begin{document}\begin{tikzpicture}...).
+
+\documentclass[border=4pt,tikz]{standalone}
+
+% Núcleo TikZ/PGF
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+% Bibliotecas TikZ comuns
+\usetikzlibrary{
+  arrows.meta,
+  calc,
+  positioning,
+  shapes.geometric,
+  shapes.misc,
+  decorations.pathreplacing,
+  decorations.markings,
+  patterns,
+  intersections,
+  through,
+  angles,
+  quotes,
+  3d,
+  perspective,
+  matrix,
+  fit,
+  backgrounds
+}
+
+% Pacotes para disciplinas específicas
+\usepackage{circuitikz}      % Física: circuitos elétricos
+\usepackage{chemfig}         % Química: estruturas moleculares
+\usepackage[version=4]{mhchem} % Química: equações químicas
+\usepackage{tikz-cd}         % Matemática: diagramas comutativos / Português: árvores sintáticas simples
+\usepackage{forest}          % Português / Filosofia: árvores
+\usepackage{bussproofs}      % Filosofia: deduções lógicas
+\usepackage{chronosys}       % História: linhas do tempo
+
+% Tipografia
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{lmodern}
+\usepackage{xcolor}
+
+% Cor padrão da escola (ajuste se necessário)
+\definecolor{eleveBlue}{HTML}{1F4E79}
+\definecolor{eleveAccent}{HTML}{C00000}

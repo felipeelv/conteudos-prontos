@@ -1,0 +1,32 @@
+% Quadro de sinais alternados de cofatores em matriz 3x3.
+% Usado em: capitulo_01_calculo-de-determinantes.md (seção 4.2)
+\begin{tikzpicture}[
+  cell/.style={
+    rectangle,
+    minimum width=12mm,
+    minimum height=12mm,
+    inner sep=0pt,
+    draw=gray!60,
+    thick
+  },
+  positivo/.style={cell,fill=eleveBlue!12},
+  negativo/.style={cell,fill=eleveAccent!12}
+]
+  % Linha 1
+  \node[positivo] (n11) at (0,2)   {$+$};
+  \node[negativo] (n12) at (1.2,2) {$-$};
+  \node[positivo] (n13) at (2.4,2) {$+$};
+
+  % Linha 2
+  \node[negativo] (n21) at (0,0.8)   {$-$};
+  \node[positivo] (n22) at (1.2,0.8) {$+$};
+  \node[negativo] (n23) at (2.4,0.8) {$-$};
+
+  % Linha 3
+  \node[positivo] (n31) at (0,-0.4)   {$+$};
+  \node[negativo] (n32) at (1.2,-0.4) {$-$};
+  \node[positivo] (n33) at (2.4,-0.4) {$+$};
+
+  % Rótulo
+  \node[font=\small,below=4mm of n32] {Sinais de $(-1)^{i+j}$};
+\end{tikzpicture}

@@ -1,0 +1,33 @@
+% Reta y = 5 + 2x no plano cartesiano com pontos (0,5), (2,9), (5,15) marcados.
+% Usado em: Matematica/8ano/unidade-4-equacoes-1-grau-e-representacao-grafica/capitulo_03_equacao-linear-e-reta-no-plano-cartesiano.md (seção 3.2)
+\begin{tikzpicture}[scale=0.55]
+  % Eixos
+  \draw[->,thick] (-1.5,0) -- (8,0) node[right,font=\small] {$x$};
+  \draw[->,thick] (0,-1.5) -- (0,18) node[above,font=\small] {$y$};
+
+  % Marcações eixo x
+  \foreach \i in {1,2,3,4,5,6,7}{
+    \draw (\i,0.15) -- (\i,-0.15) node[below,font=\scriptsize] {\i};
+  }
+  % Marcações eixo y
+  \foreach \i in {3,6,9,12,15}{
+    \draw (0.15,\i) -- (-0.15,\i) node[left,font=\scriptsize] {\i};
+  }
+  \node[below left,font=\scriptsize] at (0,0) {$O$};
+
+  % Reta y = 5 + 2x desenhada de x=-1 ate x=7
+  \draw[very thick,eleveBlue,domain=-0.5:7,smooth] plot (\x, {5 + 2*\x});
+
+  % Pontos da tabela
+  \fill[eleveAccent] (0,5) circle (5pt);
+  \node[font=\small,eleveAccent] at (-1.0,5.4) {$(0,\,5)$};
+
+  \fill[eleveAccent] (2,9) circle (5pt);
+  \node[font=\small,eleveAccent] at (2.6,8.4) {$(2,\,9)$};
+
+  \fill[eleveAccent] (5,15) circle (5pt);
+  \node[font=\small,eleveAccent] at (5.6,14.4) {$(5,\,15)$};
+
+  % Rótulo da reta
+  \node[font=\small,eleveBlue] at (7.4,18) {$y = 5 + 2x$};
+\end{tikzpicture}

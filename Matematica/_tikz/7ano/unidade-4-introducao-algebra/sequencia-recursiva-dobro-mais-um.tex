@@ -1,0 +1,32 @@
+% Sequência recursiva 2, 5, 11, 23, 47 com regra a_n = 2*a_{n-1} + 1
+% Usado em: Matematica/7ano/unidade-4-introducao-algebra/capitulo_04_sequencias-e-regularidades.md (seção 2.1)
+\begin{tikzpicture}[
+  every node/.style={font=\small},
+  termo/.style={
+    rectangle,
+    rounded corners=3pt,
+    draw=eleveBlue,
+    fill=eleveBlue!10,
+    minimum width=14mm,
+    minimum height=10mm,
+    inner sep=2pt
+  },
+  setalabel/.style={font=\small\itshape,eleveAccent},
+  ->,thick
+]
+  % Termos da sequência
+  \node[termo] (a1) at (0,0) {$a_{1}=2$};
+  \node[termo] (a2) at (3,0) {$a_{2}=5$};
+  \node[termo] (a3) at (6,0) {$a_{3}=11$};
+  \node[termo] (a4) at (9,0) {$a_{4}=23$};
+  \node[termo] (a5) at (12,0) {$a_{5}=47$};
+
+  % Setas com a regra
+  \draw[->,eleveAccent,thick] (a1) -- (a2) node[setalabel,midway,above] {$2 \cdot 2 + 1$};
+  \draw[->,eleveAccent,thick] (a2) -- (a3) node[setalabel,midway,above] {$2 \cdot 5 + 1$};
+  \draw[->,eleveAccent,thick] (a3) -- (a4) node[setalabel,midway,above] {$2 \cdot 11 + 1$};
+  \draw[->,eleveAccent,thick] (a4) -- (a5) node[setalabel,midway,above] {$2 \cdot 23 + 1$};
+
+  % Legenda inferior com a regra recursiva geral
+  \node[font=\small,eleveBlue] at (6,-1.6) {Regra recursiva: $a_{n} = 2 \cdot a_{n-1} + 1$, com $a_{1} = 2$.};
+\end{tikzpicture}

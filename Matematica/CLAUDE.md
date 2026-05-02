@@ -1,9 +1,9 @@
 # CLAUDE.md — Matemática 1
 
-> ⚠️ **PAUSA — TROCA DE COMPUTADOR (2026-05-01).** Continuidade na nova máquina. **Próximo:** Cap 2 da Un 4 do 4º ano (Frações Unitárias). Verifique se a skill `autor-matematica-1` e o sub-agente `validador-matematica-1` foram migrados (`~/.claude/skills/` e `~/.claude/agents/`). Detalhes em `_PROGRESSO.md` e na memória `project_pausa_troca_computador.md`.
+> ✅ **MISSÃO Un 4 COMPLETA EM TODAS AS SÉRIES (2026-05-01).** 28 capítulos entregues, validados e cobrindo do 4º ano à 2ª série EM. Pipeline TikZ universal configurado em `_tools/`. Estado completo em `_PROGRESSO.md`.
 
 > Contexto de projeto carregado automaticamente pelo Claude Code quando aberto nesta pasta.
-> Sempre que iniciar uma nova sessão aqui, **leia também `_PROGRESSO.md`** (estado atual) e **`_autor/memoria-autor.md`** (especialmente `## Cache de validações`) antes de produzir qualquer capítulo.
+> Sempre que iniciar uma nova sessão aqui, **leia também `_PROGRESSO.md`** (estado atual) e **`_autor/memoria-autor.md`** (especialmente as **regras editoriais consolidadas no início** e o `## Cache de validações`) antes de produzir qualquer capítulo.
 
 ---
 
@@ -33,16 +33,19 @@ Pipeline de produção de **capítulos finais** de **Matemática 1** — aritmé
 ## 3. Estrutura de pastas
 
 ```
-/Users/feliperosamini/conteudos-prontos/Matematica/
+/Users/feliperosa/conteudos-prontos/Matematica/
 ├── CLAUDE.md                                ← este arquivo (contexto de projeto)
 ├── _PROGRESSO.md                            ← memória de continuidade entre sessões (LER PRIMEIRO)
 ├── _autor/                                  ← config editorial (NÃO ALTERAR estrutura)
 │   ├── prompt-autor.md                     ← fonte de verdade absoluta para forma
 │   ├── CLAUDE.md                           ← regras invioláveis específicas (LaTeX, estrutura)
-│   ├── memoria-autor.md                    ← contexto + Cache de validações (essencial)
+│   ├── memoria-autor.md                    ← regras editoriais + Cache de validações (essencial)
 │   ├── modelo-ef2.md                       ← capítulo-modelo (7º ano EF II)
 │   ├── modelo-em.md                        ← capítulo-modelo (1ª série EM)
 │   └── scripts/criar_capitulos.sh
+├── _tikz/                                   ← fontes TikZ + PNGs renderizados (matrizes, gráficos)
+│   ├── <ano>/<unidade>/<slug>.tex
+│   └── build/<ano>/<unidade>/<slug>.png
 ├── _blueprints/                             ← origem (puxado manualmente)
 │   └── <ano>/<unidade>/
 │       ├── blueprint_unidade.md
@@ -55,9 +58,33 @@ Pipeline de produção de **capítulos finais** de **Matemática 1** — aritmé
 
 ## 4. Estado atual
 
-**1 capítulo validado pela skill** (Cap 1 da Un 4 do 4º ano — Propriedades das Operações).
+**28 capítulos validados** — Un 4 fechada em todas as séries do escopo ativo (4º ano → 2ª série EM).
+
+| Série | Caps | Tema |
+|---|---|---|
+| 4º ano | 6 | Frações, Decimais e Plano Cartesiano |
+| 5º ano | 4 | Frações, Porcentagem e Sólidos Geométricos |
+| 6º ano | 3 | Divisibilidade |
+| 7º ano | 4 | Introdução à Álgebra |
+| 8º ano | 3 | Equações do 1º Grau e Representação Gráfica |
+| 9º ano | 4 | Função Afim |
+| 1ª EM | 2 | Funções e Função Afim |
+| 2ª EM | 2 | Determinantes |
+
+**13 figuras TikZ** produzidas (em `_tikz/`). Cache: 26 personagens + 14 versículos ARA validados.
 
 Histórico completo em `_PROGRESSO.md`.
+
+## 4.1 Pipeline TikZ (universal)
+
+Para gráficos, eixos, matrizes ou diagramas, **NÃO usar `\begin{pmatrix}`, `\begin{matrix}` ou `\begin{array}`** em `$$...$$` — o AutoLaTeX/CodeCogs não compila estruturas multilinha. Usar TikZ pré-renderizado:
+
+1. Criar fonte em `Matematica/_tikz/<ano>/<unidade>/<slug>.tex` (apenas o conteúdo TikZ).
+2. Rodar `./_tools/tikz-render.sh Matematica` (ou só `./_tools/tikz-render.sh`).
+3. Referenciar o PNG no capítulo: `![alt descritivo](../../_tikz/build/<ano>/<unidade>/<slug>.png)`.
+4. Hook git pre-commit bloqueia commit com `.tex` sem `.png` correspondente atualizado.
+
+Convenções e detalhes em `<repo>/_tools/CONVENCAO_TIKZ.md`.
 
 ## 5. Validador automatizado (recurso central)
 

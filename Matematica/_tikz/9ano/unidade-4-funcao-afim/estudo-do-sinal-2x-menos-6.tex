@@ -1,0 +1,40 @@
+% Estudo do sinal de f(x) = 2x - 6: zero em x=3, negativo à esquerda, positivo à direita.
+% Usado em: Matematica/9ano/unidade-4-funcao-afim/capitulo_03_zero-e-estudo-do-sinal.md (seção 3.2)
+\begin{tikzpicture}[scale=0.65]
+  % Faixas coloridas indicando sinal
+  \fill[eleveAccent!12] (-2.5,-7) rectangle (3,7);
+  \fill[eleveBlue!12] (3,-7) rectangle (6,7);
+
+  % Eixos
+  \draw[->,thick] (-2.5,0) -- (6.5,0) node[right,font=\small] {$x$};
+  \draw[->,thick] (0,-7) -- (0,5) node[above,font=\small] {$y$};
+
+  % Marcações eixo x
+  \foreach \i in {-2,-1,1,2,4,5}{
+    \draw (\i,0.15) -- (\i,-0.15) node[below,font=\scriptsize] {\i};
+  }
+  \draw (3,0.15) -- (3,-0.15) node[below=2pt,font=\small\bfseries] {3};
+
+  % Marcações eixo y
+  \foreach \i in {-6,-4,-2,2,4}{
+    \draw (0.15,\i) -- (-0.15,\i) node[left,font=\scriptsize] {\i};
+  }
+  \node[below left,font=\scriptsize] at (0,0) {$O$};
+
+  % Reta f(x) = 2x - 6
+  \draw[very thick,black,domain=-2:6,smooth] plot (\x, {2*\x - 6});
+
+  % Zero destacado
+  \fill[black] (3,0) circle (4pt);
+  \node[font=\small\bfseries,fill=white,inner sep=1pt] at (3.6,-0.6) {$(3,\,0)$};
+
+  % Rótulo da função
+  \node[font=\small,fill=white,inner sep=1pt] at (5.5,4.0) {$f(x)=2x-6$};
+
+  % Rótulos das regiões
+  \node[font=\small\bfseries,eleveAccent] at (0.5,-5.5) {$f(x)<0$};
+  \node[font=\scriptsize,eleveAccent] at (0.5,-6.3) {(abaixo do eixo $x$)};
+
+  \node[font=\small\bfseries,eleveBlue] at (4.5,-5.5) {$f(x)>0$};
+  \node[font=\scriptsize,eleveBlue] at (4.5,-6.3) {(acima do eixo $x$)};
+\end{tikzpicture}

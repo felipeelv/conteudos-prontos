@@ -1,0 +1,23 @@
+% Árvore de fatores para 60 = 2 * 2 * 3 * 5.
+% Usado em: Matematica/6ano/unidade-4-divisibilidade/capitulo_02_primos-e-compostos.md (seção 3.1)
+\begin{tikzpicture}[
+  every node/.style={font=\small},
+  composite/.style={circle,draw=eleveBlue,fill=eleveBlue!10,minimum size=8mm,inner sep=0pt},
+  primo/.style={circle,draw=eleveAccent,fill=eleveAccent!15,minimum size=8mm,inner sep=0pt,font=\small\bfseries},
+  level distance=12mm,
+  sibling distance=18mm,
+  edge from parent/.style={draw,gray,thick}
+]
+  \node[composite] {60}
+    child { node[primo] {2} }
+    child { node[composite] {30}
+      child { node[primo] {2} }
+      child { node[composite] {15}
+        child { node[primo] {3} }
+        child { node[primo] {5} }
+      }
+    };
+
+  % Legenda inferior
+  \node[font=\small] at (0,-5) {$60 = 2 \cdot 2 \cdot 3 \cdot 5 = 2^{2} \cdot 3 \cdot 5$};
+\end{tikzpicture}

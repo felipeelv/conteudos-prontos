@@ -1,0 +1,47 @@
+% Regra de Sarrus em matriz 3x3 (genérica) com colunas extras repetidas.
+% Diagonais principais (azul, +) e secundárias (vermelho, -).
+% Usado em: capitulo_01_calculo-de-determinantes.md (seção 3.1/3.2)
+\begin{tikzpicture}[
+  every node/.style={font=\small},
+  elemento/.style={font=\normalsize}
+]
+  % Colchetes externos da matriz original (3 primeiras colunas)
+  \draw[thick] (-0.3,1.3) -- (-0.55,1.3) -- (-0.55,-1.3) -- (-0.3,-1.3);
+  \draw[thick] (3.3,1.3) -- (3.55,1.3) -- (3.55,-1.3) -- (3.3,-1.3);
+
+  % Linha vertical separando matriz das colunas extras
+  \draw[gray!50,dashed] (3.7,1.3) -- (3.7,-1.3);
+
+  % Elementos da matriz original
+  \node[elemento] (a11) at (0,1) {$a_{11}$};
+  \node[elemento] (a12) at (1.5,1) {$a_{12}$};
+  \node[elemento] (a13) at (3.0,1) {$a_{13}$};
+  \node[elemento] (a21) at (0,0) {$a_{21}$};
+  \node[elemento] (a22) at (1.5,0) {$a_{22}$};
+  \node[elemento] (a23) at (3.0,0) {$a_{23}$};
+  \node[elemento] (a31) at (0,-1) {$a_{31}$};
+  \node[elemento] (a32) at (1.5,-1) {$a_{32}$};
+  \node[elemento] (a33) at (3.0,-1) {$a_{33}$};
+
+  % Cópias das duas primeiras colunas (em cinza claro)
+  \node[elemento,gray!70!black] (a11b) at (4.5,1) {$a_{11}$};
+  \node[elemento,gray!70!black] (a12b) at (6.0,1) {$a_{12}$};
+  \node[elemento,gray!70!black] (a21b) at (4.5,0) {$a_{21}$};
+  \node[elemento,gray!70!black] (a22b) at (6.0,0) {$a_{22}$};
+  \node[elemento,gray!70!black] (a31b) at (4.5,-1) {$a_{31}$};
+  \node[elemento,gray!70!black] (a32b) at (6.0,-1) {$a_{32}$};
+
+  % Diagonais principais (descem para a direita) em AZUL +
+  \draw[eleveBlue,thick] (a11) -- (a22) -- (a33);
+  \draw[eleveBlue,thick] (a12) -- (a23) -- (a31b);
+  \draw[eleveBlue,thick] (a13) -- (a21b) -- (a32b);
+
+  % Diagonais secundárias (sobem para a direita) em VERMELHO -
+  \draw[eleveAccent,thick] (a31) -- (a22) -- (a13);
+  \draw[eleveAccent,thick] (a32) -- (a23) -- (a11b);
+  \draw[eleveAccent,thick] (a33) -- (a21b) -- (a12b);
+
+  % Rótulos
+  \node[font=\small\bfseries,eleveBlue] at (3.0,1.7) {$+$ principais};
+  \node[font=\small\bfseries,eleveAccent] at (3.0,-1.7) {$-$ secundárias};
+\end{tikzpicture}

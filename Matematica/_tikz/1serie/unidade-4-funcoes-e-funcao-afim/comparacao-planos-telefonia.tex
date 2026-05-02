@@ -1,0 +1,40 @@
+% Comparação de dois planos de telefonia: C1(m) = 0,80m + 40 e C2(m) = 1,20m + 20.
+% Ponto de equilíbrio em m=50, C=80.
+% Usado em: Matematica/1serie/unidade-4-funcoes-e-funcao-afim/capitulo_02_funcao-afim.md (seção 5.2)
+\begin{tikzpicture}[
+  x=0.06cm, y=0.04cm,
+  every node/.style={font=\small}
+]
+  % Eixos
+  \draw[->,thick] (-5,0) -- (115,0) node[right,font=\small] {$m$ (min)};
+  \draw[->,thick] (0,-10) -- (0,170) node[above,font=\small] {$C$ (R\$)};
+
+  % Marcações eixo m
+  \foreach \i in {25,50,75,100}{
+    \draw (\i,3) -- (\i,-3) node[below=1pt,font=\scriptsize] {\i};
+  }
+  % Marcações eixo C
+  \foreach \i in {20,40,60,80,100,120,140,160}{
+    \draw (1.5,\i) -- (-1.5,\i) node[left,font=\scriptsize] {\i};
+  }
+  \node[below left,font=\scriptsize] at (0,0) {$O$};
+
+  % Plano A: C1(m) = 0,80m + 40 (azul)
+  \draw[very thick,eleveBlue,domain=0:105] plot (\x, {0.80*\x + 40});
+  \node[font=\small,eleveBlue,fill=white,inner sep=2pt] at (115,124) {$C_1=0{,}80m+40$};
+
+  % Plano B: C2(m) = 1,20m + 20 (vermelho)
+  \draw[very thick,eleveAccent,domain=0:105] plot (\x, {1.20*\x + 20});
+  \node[font=\small,eleveAccent,fill=white,inner sep=2pt] at (115,146) {$C_2=1{,}20m+20$};
+
+  % Linhas guia tracejadas até o ponto de equilíbrio
+  \draw[dashed,gray!70,thick] (50,0) -- (50,80) -- (0,80);
+
+  % Ponto de equilíbrio (50, 80)
+  \node[circle,fill=black,inner sep=2.5pt] at (50,80) {};
+  \node[font=\small\bfseries,fill=white,inner sep=2pt] at (66,90) {$(50,\,80)$};
+
+  % Interceptos no eixo y
+  \node[circle,fill=eleveBlue,inner sep=2pt] at (0,40) {};
+  \node[circle,fill=eleveAccent,inner sep=2pt] at (0,20) {};
+\end{tikzpicture}

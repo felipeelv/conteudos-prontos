@@ -1,0 +1,31 @@
+% Matriz 2x2 genérica com setas cruzadas indicando ad - bc.
+% Usado em: capitulo_01_calculo-de-determinantes.md (seção 2.2)
+\begin{tikzpicture}[
+  every node/.style={font=\small},
+  elemento/.style={font=\large}
+]
+  % Colchetes/parênteses externos da matriz
+  \draw[thick] (-0.3,1.0) -- (-0.6,1.0) -- (-0.6,-1.0) -- (-0.3,-1.0);
+  \draw[thick] (2.3,1.0) -- (2.6,1.0) -- (2.6,-1.0) -- (2.3,-1.0);
+
+  % Elementos
+  \node[elemento] (a) at (0.3,0.5) {$a$};
+  \node[elemento] (b) at (1.7,0.5) {$b$};
+  \node[elemento] (c) at (0.3,-0.5) {$c$};
+  \node[elemento] (d) at (1.7,-0.5) {$d$};
+
+  % Diagonal principal (a -> d) em azul
+  \draw[->,very thick,eleveBlue] (a) -- (d);
+  \node[font=\small,eleveBlue] at (1.0,-0.05) {$+$};
+
+  % Diagonal secundária (b -> c) em vermelho
+  \draw[->,very thick,eleveAccent] (b) -- (c);
+  \node[font=\small,eleveAccent] at (1.0,0.5) {$-$};
+
+  % Igualdade ao lado
+  \node[font=\Large] at (3.4,0) {$=$};
+
+  \node[font=\large,eleveBlue] at (4.4,0) {$a \cdot d$};
+  \node[font=\Large] at (5.6,0) {$-$};
+  \node[font=\large,eleveAccent] at (6.6,0) {$b \cdot c$};
+\end{tikzpicture}

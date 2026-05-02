@@ -168,3 +168,22 @@ Falhas listam violações e param o pipeline antes do commit.
 - `PRODUCAO/Prompts Criador de Conteudo/Matematica 1/modelo-ef2.md` — capítulo-modelo aprovado para EF II
 - `PRODUCAO/Prompts Criador de Conteudo/Matematica 1/modelo-em.md` — capítulo-modelo aprovado para EM
 - `PLANEJAMENTO/Referencias/series.md`, `PLANEJAMENTO/Referencias/niveis_profundidade.md`, `PLANEJAMENTO/Referencias/niveis.md`, `PLANEJAMENTO/Referencias/objetivos_aprendizagem.md`
+
+## Gráficos, eixos e diagramas (TikZ pré-renderizado)
+
+Quando o capítulo precisar de **eixo cartesiano, gráfico de função, diagrama geométrico, plano cartesiano com pontos, fluxograma ou árvore**, **NÃO inserir TikZ inline em `$$...$$`** — CodeCogs (AutoLaTeX) não compila TikZ.
+
+**Fluxo correto** (regras completas em `_tools/CONVENCAO_TIKZ.md`):
+
+1. Criar fonte TikZ em `Matematica/_tikz/<ano>/<unidade>/<slug>.tex` — apenas o conteúdo TikZ (`\begin{tikzpicture}...`), sem preâmbulo.
+2. Rodar `./_tools/tikz-render.sh Matematica` (ou só `./_tools/tikz-render.sh` para tudo). Gera o PNG em `Matematica/_tikz/build/<ano>/<unidade>/<slug>.png`.
+3. Referenciar a imagem no `.md` do capítulo: `![alt descritivo](../../_tikz/build/<ano>/<unidade>/<slug>.png)`.
+4. No Google Docs: arrastar o PNG na posição correta (não usa AutoLaTeX para a figura).
+
+**Cores institucionais** já definidas no preâmbulo: `eleveBlue` (#1F4E79) e `eleveAccent` (#C00000).
+
+**Regras editoriais**:
+- Use TikZ apenas quando o conceito exige representação visual (não para enfeite ou tabelas que cabem em markdown).
+- Mantenha a figura mínima — eixos, marcações, 1–2 cores, sem grid excessivo.
+- Sempre forneça `alt text` descritivo no `![alt](...)` para acessibilidade e busca.
+- O hook git `.git/hooks/pre-commit` bloqueia commits com `.tex` sem `.png` correspondente atualizado.

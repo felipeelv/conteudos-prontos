@@ -1,0 +1,29 @@
+% Eixo cartesiano no 1º quadrante mostrando que (3,2) e (2,3) são pontos diferentes.
+% Usado em: Matematica/4ano/unidade-4-fracoes-decimais-e-plano-cartesiano/capitulo_05_introducao-ao-plano-cartesiano.md (seção 3.2)
+\begin{tikzpicture}[scale=0.9]
+  % Malha
+  \draw[step=1,gray!30,very thin] (0,0) grid (4.5,4.5);
+
+  % Eixos
+  \draw[->,thick] (-0.3,0) -- (5,0) node[right,font=\small] {$x$};
+  \draw[->,thick] (0,-0.3) -- (0,5) node[above,font=\small] {$y$};
+
+  % Marcações nos eixos
+  \foreach \i in {1,2,3,4}{
+    \draw (\i,0.05) -- (\i,-0.05) node[below,font=\scriptsize] {\i};
+    \draw (0.05,\i) -- (-0.05,\i) node[left,font=\scriptsize] {\i};
+  }
+  \node[below left,font=\scriptsize] at (0,0) {$O$};
+
+  % Ponto (3,2)
+  \fill[eleveBlue] (3,2) circle (3pt);
+  \node[above right,font=\small,eleveBlue] at (3,2) {$(3,\,2)$};
+
+  % Ponto (2,3)
+  \fill[eleveAccent] (2,3) circle (3pt);
+  \node[above right,font=\small,eleveAccent] at (2,3) {$(2,\,3)$};
+
+  % Linhas guia tracejadas
+  \draw[dashed,eleveBlue!60] (3,0) -- (3,2) -- (0,2);
+  \draw[dashed,eleveAccent!60] (2,0) -- (2,3) -- (0,3);
+\end{tikzpicture}

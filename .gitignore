@@ -1,1 +1,14 @@
 _legado/raiz-pos-organizacao-2026-05-01/autores-material/
+
+# TikZ — fontes .tex e PNGs renderizados ficam no repo;
+# PDFs intermediários e arquivos auxiliares do TeX são descartáveis
+**/_tikz/build/**/*.pdf
+**/_tikz/build/**/*.aux
+**/_tikz/build/**/*.log
+**/_tikz/build/**/*.out
+**/_tikz/build/**/*.fls
+**/_tikz/build/**/*.fdb_latexmk
+**/_tikz/build/**/*.synctex.gz
+
+# macOS
+.DS_Store
