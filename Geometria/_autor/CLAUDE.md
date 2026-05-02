@@ -6,6 +6,10 @@
 
 ---
 
+## Regra global para TikZ didático
+
+Antes de criar ou alterar qualquer imagem TikZ, aplicar o padrão de `_tools/CONVENCAO_TIKZ.md`: pesquisar referência visual para o tipo de diagrama, usar fonte sans-serif, manter acentuação correta em português, organizar a leitura em fluxo único, evitar setas cruzadas/sobreposição e revisar o PNG renderizado antes de considerar a figura pronta.
+
 ## Identidade editorial de Matemática 2 (Geometria)
 
 Material **expositivo-visual** para Ensino Fundamental II e Ensino Médio. O capítulo apresenta conceitos geométricos com prosa direta, fórmulas em LaTeX e figuras em LaTeX/TikZ para renderização precisa — **não é material de exercícios**. As atividades vivem em outro material.

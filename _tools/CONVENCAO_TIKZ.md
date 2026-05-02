@@ -116,6 +116,52 @@ Use no `.tex`:
 - **Reuso**: se a mesma figura aparece em capítulos diferentes (ex.: eixo cartesiano simples), referencie o mesmo PNG nos dois `.md`.
 - **Acessibilidade**: sempre escreva `alt text` descritivo no `![alt](...)` do markdown.
 
+## Padrão visual didático obrigatório
+
+Antes de criar ou redesenhar qualquer TikZ didático, faça uma busca rápida por referências do tipo de diagrama que será usado. A decisão visual deve seguir o objetivo pedagógico, não a aparência:
+
+| Objetivo pedagógico | Padrão preferencial |
+|---|---|
+| Comparar fatores, propriedades ou efeitos | matriz/tabela visual em grade |
+| Mostrar processo sequencial | fluxo linear em uma direção |
+| Mostrar causa e consequência | cadeia causal esquerda → direita |
+| Mostrar ciclo | ciclo circular com poucas etapas |
+| Mostrar classificação | árvore ou mapa hierárquico |
+| Mostrar grandezas matemáticas | eixo, gráfico ou escala |
+| Mostrar estrutura química/física | esquema rotulado com setas mínimas |
+
+Regras visuais obrigatórias:
+
+- Usar **acentuação correta em português** em todos os rótulos do TikZ. A exceção continua sendo apenas texto dentro de `$$...$$`, que deve evitar acentos por compatibilidade com AutoLaTeX/CodeCogs.
+- Usar fonte **sans-serif** nos rótulos dos diagramas. Nos arquivos standalone, incluir:
+
+```latex
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+```
+
+e aplicar `font=\sffamily\small` ou `every node/.style={font=\sffamily\small}` no `tikzpicture`.
+- Manter fluxo de leitura único: esquerda → direita ou cima → baixo. Não misturar direções no mesmo diagrama.
+- Evitar setas cruzadas, diagonais longas desnecessárias e linhas passando por texto.
+- Usar rótulos curtos, com quebras de linha controladas.
+- Garantir espaço em branco entre caixas, títulos e legendas.
+- Usar cores com função didática: categoria, etapa, contraste ou resultado. Não usar cor como enfeite.
+- Revisar o PNG renderizado, não apenas o `.tex`, antes de considerar a figura pronta.
+- Se o PNG parecer "embolado", substituir o desenho por um padrão mais simples, normalmente matriz/grade ou fluxo linear.
+
+Checklist de aprovação visual:
+
+- O aluno sabe onde começar a leitura?
+- A imagem segue uma direção de leitura previsível?
+- Alguma caixa encosta ou passa sobre texto?
+- Há setas cruzadas ou ambíguas?
+- Os textos têm acentuação correta?
+- A fonte combina com o material impresso/digital?
+- A figura explica algo que seria pior só em texto?
+- O conceito central fica mais claro em até 10 segundos?
+
 ---
 
 ## Limites editoriais

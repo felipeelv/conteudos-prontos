@@ -6,6 +6,10 @@
 
 ---
 
+## Regra global para TikZ didático
+
+Antes de criar ou alterar qualquer imagem TikZ, aplicar o padrão de `_tools/CONVENCAO_TIKZ.md`: pesquisar referência visual para o tipo de diagrama, usar fonte sans-serif, manter acentuação correta em português, organizar a leitura em fluxo único, evitar setas cruzadas/sobreposição e revisar o PNG renderizado antes de considerar a figura pronta.
+
 ## Identidade editorial de Química
 
 Material **expositivo-conceitual** para EF II (6º–9º ano) e Ensino Médio (1ª, 2ª e 3ª séries). O capítulo apresenta conceitos químicos com rigor científico, ancorando-os no cotidiano e em fenômenos observáveis, e fecha com aplicações práticas, conexão bíblica e síntese tabular. **Não é material de exercícios** — exercícios resolvidos aparecem **dentro** dos subtópicos quando a complexidade exige cálculo, mas não há bloco "Sua Parte" nem listas de exercícios ao final.

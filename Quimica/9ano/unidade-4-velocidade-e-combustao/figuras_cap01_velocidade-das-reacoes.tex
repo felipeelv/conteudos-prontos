@@ -1,31 +1,56 @@
 \documentclass[tikz,border=3mm,multi=tikzpicture]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning,calc}
 \begin{document}
-\begin{tikzpicture}[>=Latex,node distance=0.9cm]
-  \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=2.7cm,minimum height=0.8cm,align=center]
-  \node[box,fill=blue!10] (reag) {reagentes};
-  \node[box,fill=green!12,right=1.4cm of reag] (prod) {produtos};
-  \draw[very thick,->] (reag) -- (prod) node[midway,above] {tempo};
-  \node[box,fill=red!10,below=1.0cm of reag] (temp) {temperatura\\maior energia};
-  \node[box,fill=orange!12,right=0.5cm of temp] (conc) {concentracao\\mais particulas};
-  \node[box,fill=yellow!18,right=0.5cm of conc] (sup) {superficie\\mais contato};
-  \node[box,fill=purple!10,below=0.8cm of conc] (cat) {catalisador\\caminho mais facil};
-  \draw[thick,->] (temp.north) -- (reag.south);
-  \draw[thick,->] (conc.north) -- ($(reag)!0.5!(prod)$);
-  \draw[thick,->] (sup.north) -- (prod.south);
-  \draw[thick,->] (cat.north) -- (conc.south);
-  \node[align=center] at (2.2,-3.1) {fatores mudam a frequencia e a eficacia das colisoes};
+\begin{tikzpicture}[>=Latex,font=\sffamily\small]
+  \tikzstyle{head}=[font=\sffamily\bfseries\small,align=center]
+  \tikzstyle{factor}=[draw,rounded corners=2pt,very thick,minimum width=2.9cm,minimum height=0.78cm,align=center]
+  \tikzstyle{effect}=[draw,rounded corners=2pt,thick,minimum width=3.4cm,minimum height=0.78cm,align=center,fill=gray!8]
+  \tikzstyle{result}=[draw,rounded corners=2pt,very thick,minimum width=3.1cm,minimum height=0.78cm,align=center,fill=green!12]
+
+  \node[head] at (0,0.85) {fator};
+  \node[head] at (3.8,0.85) {o que muda};
+  \node[head] at (7.6,0.85) {efeito na reação};
+
+  \node[factor,fill=red!10] (temp) at (0,0) {temperatura};
+  \node[effect] (tempE) at (3.8,0) {partículas com\\mais energia};
+  \node[result] (tempR) at (7.6,0) {mais colisões\\eficazes};
+
+  \node[factor,fill=orange!12] (conc) at (0,-1.15) {concentração};
+  \node[effect] (concE) at (3.8,-1.15) {mais partículas\\por volume};
+  \node[result] (concR) at (7.6,-1.15) {mais encontros\\entre partículas};
+
+  \node[factor,fill=yellow!18] (sup) at (0,-2.30) {superfície};
+  \node[effect] (supE) at (3.8,-2.30) {maior área\\exposta};
+  \node[result] (supR) at (7.6,-2.30) {mais contato\\com reagentes};
+
+  \node[factor,fill=purple!10] (cat) at (0,-3.45) {catalisador};
+  \node[effect] (catE) at (3.8,-3.45) {menor energia\\de ativação};
+  \node[result] (catR) at (7.6,-3.45) {caminho\\mais fácil};
+
+  \foreach \a/\b/\c in {temp/tempE/tempR,conc/concE/concR,sup/supE/supR,cat/catE/catR}{
+    \draw[->,thick] (\a) -- (\b);
+    \draw[->,thick] (\b) -- (\c);
+  }
+
+  \node[draw,rounded corners=2pt,fill=blue!8,very thick,align=center,minimum width=6.2cm,minimum height=0.75cm]
+    at (3.8,-4.65) {em geral, aumenta a velocidade quando cresce o número de colisões eficazes};
 \end{tikzpicture}
 
-\begin{tikzpicture}[x=1cm,y=1cm,>=Latex]
-  \node[draw,circle,fill=blue!10,minimum size=0.8cm] (a) at (0,0.8) {A};
-  \node[draw,circle,fill=orange!15,minimum size=0.8cm] (b) at (2.1,0.8) {B};
+\begin{tikzpicture}[x=1cm,y=1cm,>=Latex,every node/.style={font=\sffamily\small}]
+  \tikzstyle{particle}=[draw,circle,very thick,minimum size=0.8cm,align=center]
+  \tikzstyle{box}=[draw,rounded corners=2pt,very thick,align=center,minimum height=0.78cm]
+  \node[particle,fill=blue!10] (a) at (0,0.8) {A};
+  \node[particle,fill=orange!15] (b) at (2.1,0.8) {B};
   \draw[->,very thick] (a) -- (0.8,0.8);
   \draw[->,very thick] (b) -- (1.3,0.8);
-  \node[draw,rounded corners=2pt,fill=green!12,align=center] at (4.3,0.8) {colisao eficaz\\vira produto};
+  \node[box,fill=green!12,minimum width=2.4cm] at (4.3,0.8) {colisão eficaz\\vira produto};
   \draw[->,thick] (2.65,0.8) -- (3.3,0.8);
-  \node[draw,rounded corners=2pt,fill=red!10,align=center] at (2.1,-0.65) {energia insuficiente\\ou orientacao ruim};
-  \node[align=center] at (2.1,-1.55) {nao basta encostar:\\precisa energia e direcao adequadas};
+  \node[box,fill=red!10,minimum width=3.1cm] at (2.1,-0.65) {energia insuficiente\\ou orientação ruim};
+  \node[box,fill=blue!8,minimum width=4.3cm] at (2.1,-1.75) {não basta encostar:\\precisa de energia e direção adequadas};
 \end{tikzpicture}
 \end{document}

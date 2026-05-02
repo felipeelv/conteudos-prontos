@@ -6,6 +6,10 @@
 
 ---
 
+## Regra global para TikZ didático
+
+Antes de criar ou alterar qualquer imagem TikZ, aplicar o padrão de `_tools/CONVENCAO_TIKZ.md`: pesquisar referência visual para o tipo de diagrama, usar fonte sans-serif, manter acentuação correta em português, organizar a leitura em fluxo único, evitar setas cruzadas/sobreposição e revisar o PNG renderizado antes de considerar a figura pronta.
+
 ## Identidade editorial de Biologia
 
 Material **expositivo-investigativo** para 9º ano EF II e Ensino Médio (1ª, 2ª e 3ª séries). O capítulo apresenta conceitos biológicos com rigor científico, ancora no cotidiano do aluno (corpo humano, natureza, biotecnologia) e fecha com aplicação prática + ancoragem cristã na **mordomia da criação** — **não é material de exercícios**. As atividades vivem em outro material.

@@ -6,6 +6,10 @@
 
 ---
 
+## Regra global para TikZ didático
+
+Antes de criar ou alterar qualquer imagem TikZ, aplicar o padrão de `_tools/CONVENCAO_TIKZ.md`: pesquisar referência visual para o tipo de diagrama, usar fonte sans-serif, manter acentuação correta em português, organizar a leitura em fluxo único, evitar setas cruzadas/sobreposição e revisar o PNG renderizado antes de considerar a figura pronta.
+
 ## Identidade editorial de Português
 
 Material **expositivo** — definição → exemplos → tabela. Não é material de exercícios. Os exercícios moram em **outro material** (caderno de atividades, plataforma), nunca dentro do capítulo do aluno.

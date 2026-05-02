@@ -9,6 +9,10 @@
 
 ---
 
+## Regra global para TikZ didático
+
+Antes de criar ou alterar qualquer imagem TikZ, aplicar o padrão de `_tools/CONVENCAO_TIKZ.md`: pesquisar referência visual para o tipo de diagrama, usar fonte sans-serif, manter acentuação correta em português, organizar a leitura em fluxo único, evitar setas cruzadas/sobreposição e revisar o PNG renderizado antes de considerar a figura pronta.
+
 ## Identidade editorial de História
 
 Material **narrativo-cristão** para Ensino Médio. O capítulo conta um arco histórico, ancora a leitura cristã do mundo (sem cristianização forçada da história), explora múltiplos fios temporais e provoca o aluno a pensar criticamente sobre causa, consequência e conexão entre passado e presente — **não é material de exercícios**. As atividades vivem em outro material.
