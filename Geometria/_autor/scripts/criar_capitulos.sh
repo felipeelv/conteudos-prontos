@@ -2,14 +2,14 @@
 #
 # criar_capitulos.sh — AUTOR especializado de Matemática 2 (Geometria).
 # Gera capítulos finais a partir dos blueprints aprovados, com regras editoriais
-# específicas (LaTeX CodeCogs-safe, marcadores [Imagem N], boxes 1-frase,
+# específicas (LaTeX CodeCogs-safe, figuras TikZ, boxes 1-frase,
 # pass de precisão matemática, "Fórmulas do capítulo" só a partir do 8º ano).
 #
 # Uso:
-#   ./scripts/criar_capitulos.sh                                                       # interativo
-#   ./scripts/criar_capitulos.sh -d "Geometria" -a "1serie" -u "unidade-1"
-#   ./scripts/criar_capitulos.sh -d "Geometria" -a "9ano"   -u "unidade-3" --dry-run
-#   ./scripts/criar_capitulos.sh -d "Geometria" -a "8ano"   -u "unidade-2" --yes
+#   Geometria/_autor/scripts/criar_capitulos.sh
+#   Geometria/_autor/scripts/criar_capitulos.sh -a "1serie" -u "unidade-1"
+#   Geometria/_autor/scripts/criar_capitulos.sh -a "9ano"   -u "unidade-3" --dry-run
+#   Geometria/_autor/scripts/criar_capitulos.sh -a "8ano"   -u "unidade-2" --yes
 #
 # Disciplina coberta: Geometria.
 
@@ -21,25 +21,21 @@ AUTOR_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 
 source "$AUTOR_DIR/_shared/lib_common.sh"
 
-# Descobre a raiz do projeto subindo diretórios até encontrar PRODUCAO/Blueprint.
-# Isso evita dependência de uma pasta irmã compartilhada ou de um nome fixo para o agrupador.
-PROJECT_ROOT="$AUTOR_DIR"
-while [[ "$PROJECT_ROOT" != "/" && ! -d "$PROJECT_ROOT/PRODUCAO/Blueprint" ]]; do
-  PROJECT_ROOT="$(dirname "$PROJECT_ROOT")"
-done
-[[ -d "$PROJECT_ROOT/PRODUCAO/Blueprint" ]] || { log_error "Raiz do projeto não encontrada a partir de: $AUTOR_DIR"; exit 1; }
+# Estrutura autocontida:
+#   Geometria/
+#     _autor/
+#     _blueprints/
+#     <ano>/<unidade>/
+DISCIPLINA_ROOT="$(cd "$AUTOR_DIR/.." && pwd)"
+PROJECT_ROOT="$(cd "$DISCIPLINA_ROOT/.." && pwd)"
 
 cd "$PROJECT_ROOT"
 
 # --- Constantes específicas de Matemática 2 (Geometria) ---
 DISCIPLINAS_VALIDAS=("Geometria")
-PROMPT_DIR_NAME="Matematica 2"  # 1:1 com Prompts Criador de Conteudo/Matematica 2/
 
-BLUEPRINT_ROOT="${BLUEPRINT_ROOT:-$PROJECT_ROOT/PRODUCAO/Blueprint/blueprints}"
-[[ -d "$BLUEPRINT_ROOT" ]] || BLUEPRINT_ROOT="$PROJECT_ROOT/PRODUCAO/Blueprint"
-PROMPTS_ROOT="$PROJECT_ROOT/PRODUCAO/Prompts Criador de Conteudo"
-REFERENCIAS_ROOT="$PROJECT_ROOT/PLANEJAMENTO/Referencias"
-CONTEUDOS_ROOT="$PROJECT_ROOT/PRODUCAO/CONTEUDOS PRONTOS"
+BLUEPRINT_ROOT="${BLUEPRINT_ROOT:-$DISCIPLINA_ROOT/_blueprints}"
+CONTEUDOS_ROOT="${CONTEUDOS_ROOT:-$DISCIPLINA_ROOT}"
 
 # --- Parse args ---
 DISCIPLINA="Geometria"
@@ -88,7 +84,7 @@ if [[ $disciplina_ok -eq 0 ]]; then
   exit 1
 fi
 
-DISCIPLINA_DIR="$BLUEPRINT_ROOT/$DISCIPLINA"
+DISCIPLINA_DIR="$BLUEPRINT_ROOT"
 [[ -d "$DISCIPLINA_DIR" ]] || { log_error "Disciplina sem blueprints: $DISCIPLINA_DIR"; exit 1; }
 
 # --- Coletar ano ---
@@ -135,7 +131,7 @@ fi
 
 BLUEPRINT_DIR="${MATCHES[0]}"
 UNIT_STEM="$(basename "$BLUEPRINT_DIR")"
-OUTPUT_DIR="$CONTEUDOS_ROOT/$DISCIPLINA/$ANO/$UNIT_STEM"
+OUTPUT_DIR="$CONTEUDOS_ROOT/$ANO/$UNIT_STEM"
 UNIDADE_BLUEPRINT="$BLUEPRINT_DIR/blueprint_unidade.md"
 
 [[ -f "$UNIDADE_BLUEPRINT" ]] || { log_error "Blueprint da unidade ausente: $UNIDADE_BLUEPRINT"; exit 1; }
@@ -147,9 +143,9 @@ case "$ANO" in
   6ano|7ano) USA_FORMULAS_CAPITULO=0 ;;
 esac
 
-# --- Resolver prompt-autor (Matemática 2 = 1:1, sem branching) ---
-PROMPT_DIR_FULL="$PROMPTS_ROOT/$PROMPT_DIR_NAME"
-PROMPT_AUTOR="$PROMPT_DIR_FULL/prompt-autor.md"
+# --- Resolver prompt-autor local ---
+PROMPT_DIR_FULL="$AUTOR_DIR"
+PROMPT_AUTOR="$AUTOR_DIR/prompt-autor.md"
 [[ -f "$PROMPT_AUTOR" ]] || { log_error "prompt-autor.md ausente: $PROMPT_AUTOR"; exit 1; }
 
 # --- Coletar referências do prompt (referencia-*.md + memoria-autor.md) ---
@@ -157,10 +153,13 @@ declare -a REFERENCIAS_PROMPT=()
 while IFS= read -r f; do REFERENCIAS_PROMPT+=("$f"); done \
   < <(find "$PROMPT_DIR_FULL" -maxdepth 1 -type f \( -name 'referencia-*.md' -o -name 'memoria-autor.md' \) | sort)
 
-# --- Coletar referências globais ---
+# --- Coletar referências globais, quando existirem no repositório ---
 declare -a REFERENCIAS_GLOBAIS=()
-for ref in niveis_profundidade.md series.md niveis.md objetivos_aprendizagem.md; do
-  [[ -f "$REFERENCIAS_ROOT/$ref" ]] && REFERENCIAS_GLOBAIS+=("$REFERENCIAS_ROOT/$ref")
+for root in "$PROJECT_ROOT/PLANEJAMENTO/Referencias" "$PROJECT_ROOT/referencias" "$PROJECT_ROOT/Referencias"; do
+  [[ -d "$root" ]] || continue
+  for ref in niveis_profundidade.md series.md niveis.md objetivos_aprendizagem.md; do
+    [[ -f "$root/$ref" ]] && REFERENCIAS_GLOBAIS+=("$root/$ref")
+  done
 done
 
 # --- Coletar blueprints de capítulo ---
@@ -258,10 +257,16 @@ ARQUIVOS DE LEITURA OBRIGATORIA
 2. CLAUDE.md especifico deste AUTOR (regras invioláveis e validacoes):
    $AUTOR_DIR/CLAUDE.md
 
-3. Blueprint da unidade (lei geral aplicavel a todos os capitulos):
+3. Referencia local para figuras em TikZ:
+   $AUTOR_DIR/referencias/tikz-geometria.md
+
+4. Clone local do PGF/TikZ oficial (consultar quando precisar de sintaxe precisa):
+   $AUTOR_DIR/referencias/pgf
+
+5. Blueprint da unidade (lei geral aplicavel a todos os capitulos):
    $UNIDADE_BLUEPRINT
 
-4. Blueprints de capitulo a processar (um arquivo de saida por blueprint, na ordem listada):
+6. Blueprints de capitulo a processar (um arquivo de saida por blueprint, na ordem listada):
 $(printf '   - %s\n' "${CHAPTER_BLUEPRINTS[@]}")
 
 ${REFS_PROMPT_LIST}${REFS_GLOBAIS_LIST}
@@ -280,16 +285,25 @@ Geometria depende de formulas em LaTeX, delimitadas por \$\$ ... \$\$. Restricoe
 - Unidades sempre coladas ao numero via \\mathrm{}. Exemplo: \$\$A = 24\\mathrm{cm}^2\$\$.
 - Cada etapa do calculo em linha separada — UMA UNICA OPERACAO por linha.
 
-REGRAS INVIOLAVEIS DE FIGURAS
-==============================
-- Geometria depende de visualizacao. Inserir marcador [Imagem N] (numeracao sequencial por
-  capitulo) no ponto exato onde a ilustracao deve ser adicionada.
+REGRAS INVIOLAVEIS DE FIGURAS EM TIKZ
+======================================
+- Geometria depende de visualizacao precisa. Inserir marcador [TikZ N] (numeracao sequencial por
+  capitulo) no ponto exato onde a figura sera renderizada.
 - Descrever em prosa os elementos essenciais ANTES do marcador (lados, vertices, angulos,
   posicao relativa).
-- O texto deve funcionar mesmo sem a imagem — indicar onde ela complementa, nao substituir
-  a explicacao pela figura.
-- Descricoes detalhadas (descricao + termo de busca + link de referencia) ficam em arquivo
-  separado imagens_capX_tema.md, NAO no corpo do capitulo.
+- O texto deve funcionar mesmo sem a figura — indicar onde ela complementa, nao substituir
+  a explicacao pela renderizacao.
+- Para cada capitulo, gerar tambem um arquivo figuras_capXX_<slug>.tex no mesmo diretorio
+  do capitulo, contendo todas as figuras TikZ referenciadas por [TikZ N].
+- Cada figura TikZ deve ser um documento standalone compilavel:
+  \\documentclass[tikz,border=3mm]{standalone}, \\usepackage{tikz},
+  \\begin{document}, \\begin{tikzpicture} ... \\end{tikzpicture}, \\end{document}.
+- Usar \\coordinate para pontos, \\node para rotulos, \\draw para lados/arcos/retas e
+  \\usetikzlibrary{angles,quotes,calc,intersections} quando houver angulos, ponto medio,
+  projecoes, construcoes auxiliares ou intersecoes.
+- Usar pic {angle = A--B--C} e pic {right angle = A--B--C} para marcacoes precisas.
+- Nao usar imagens externas, SVG, capturas, links de busca ou descricoes soltas como
+  substituto da figura.
 
 REGRAS INVIOLAVEIS DE ESTRUTURA
 ================================
@@ -362,12 +376,13 @@ REGRAS DE EXECUCAO
 ==================
 1. Leia primeiro o manual editorial e o CLAUDE.md especifico. Depois o blueprint da unidade.
 2. Para cada blueprint_capitulo_NN_<slug>.md, gere exatamente um arquivo capitulo_NN_<slug>.md.
-3. Salve todos os capitulos exclusivamente em: $OUTPUT_DIR
-4. Nao altere os blueprints nem os arquivos de prompt/referencia.
-5. Conteudo final em portugues brasileiro, em Markdown valido.
-6. Apos gerar cada capitulo, valide contra o checklist do CLAUDE.md especifico (especialmente
+3. Para cada capitulo, gere tambem exatamente um arquivo figuras_capNN_<slug>.tex com as figuras TikZ.
+4. Salve todos os arquivos exclusivamente em: $OUTPUT_DIR
+5. Nao altere os blueprints nem os arquivos de prompt/referencia.
+6. Conteudo final em portugues brasileiro, em Markdown valido.
+7. Apos gerar cada capitulo, valide contra o checklist do CLAUDE.md especifico (especialmente
    as REGRAS INVIOLAVEIS DE LATEX e o PASS DE PRECISAO MATEMATICA) ANTES de salvar.
-7. Se algum criterio falhar, corrija ANTES de salvar.
+8. Se algum criterio falhar, corrija ANTES de salvar.
 "
 
 START=$(date +%s)
@@ -506,9 +521,17 @@ if [[ $EXEC_EXIT -eq 0 ]]; then
       done <<< "$LATEX_VIOL"
     fi
 
-    # 8. Marcador [Imagem N] em uso (heurística — só warn, não falha)
-    if ! grep -qE '\[Imagem [0-9]+\]' "$cap"; then
-      log_warn "$cap_name: nenhum marcador [Imagem N] encontrado — confira se o capítulo realmente dispensa figuras"
+    # 8. Marcador [TikZ N] em uso (heurística — só warn, não falha)
+    if ! grep -qE '\[TikZ [0-9]+\]' "$cap"; then
+      log_warn "$cap_name: nenhum marcador [TikZ N] encontrado — confira se o capítulo realmente dispensa figuras"
+    else
+      fig_name="$(basename "$cap" .md)"
+      fig_name="${fig_name#capitulo_}"
+      fig_file="$OUTPUT_DIR/figuras_cap${fig_name}.tex"
+      if [[ ! -f "$fig_file" ]]; then
+        log_error "$cap_name: usa marcador [TikZ N], mas não existe arquivo de figuras esperado: $(basename "$fig_file")"
+        VIOLATIONS=$((VIOLATIONS + 1))
+      fi
     fi
 
     # 9. Sem dois boxes (>) consecutivos no mesmo subtópico

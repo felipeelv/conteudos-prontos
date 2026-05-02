@@ -1,14 +1,14 @@
 # AUTOR — Matemática 2 (Geometria)
 
 > **Disciplinas cobertas (Blueprint):** `Geometria`
-> **Pasta de prompt:** `PRODUCAO/Prompts Criador de Conteudo/Matematica 2/`
-> **Modelo editorial:** `prompt-autor.md` da pasta acima — **fonte de verdade absoluta para forma**.
+> **Pasta de prompt:** `Geometria/_autor/`
+> **Modelo editorial:** `Geometria/_autor/prompt-autor.md` — **fonte de verdade absoluta para forma**.
 
 ---
 
 ## Identidade editorial de Matemática 2 (Geometria)
 
-Material **expositivo-visual** para Ensino Fundamental II e Ensino Médio. O capítulo apresenta conceitos geométricos com prosa direta, fórmulas em LaTeX e marcadores de figura para inserção manual posterior — **não é material de exercícios**. As atividades vivem em outro material.
+Material **expositivo-visual** para Ensino Fundamental II e Ensino Médio. O capítulo apresenta conceitos geométricos com prosa direta, fórmulas em LaTeX e figuras em LaTeX/TikZ para renderização precisa — **não é material de exercícios**. As atividades vivem em outro material.
 
 A leitura parte de uma cena concreta com formas/medidas, percorre 2-4 tópicos numerados com subtópicos, e fecha com 4-5 blocos pós-conteúdo (NA VIDA REAL, E A BÍBLIA NISSO?, Simplificando, Para não esquecer, e Fórmulas do capítulo a partir do 8º ano).
 
@@ -61,12 +61,17 @@ Geometria depende de fórmulas escritas em LaTeX, renderizadas via Auto-LaTeX Eq
 - ✅ Unidades sempre coladas ao número via `\mathrm{}`. Exemplo: `$$A = 24\mathrm{cm}^2$$`.
 - ✅ Cada etapa do cálculo em linha separada — **uma única operação por linha**.
 
-## Regras invioláveis — figuras
+## Regras invioláveis — figuras em TikZ
 
-- ✅ Geometria depende de visualização. Inserir marcador `[Imagem N]` (numeração sequencial por capítulo) no ponto exato onde a ilustração será adicionada.
+- ✅ Geometria depende de visualização precisa. Inserir marcador `[TikZ N]` (numeração sequencial por capítulo) no ponto exato onde a figura será renderizada.
 - ✅ Descrever em prosa os elementos essenciais da figura antes do marcador (lados, vértices, ângulos, posição relativa).
-- ✅ O texto deve funcionar mesmo sem a imagem — indicar onde ela complementa, não substituir explicação por figura.
-- ✅ Descrições detalhadas de cada imagem (descrição + termo de busca + link) ficam em arquivo separado `imagens_capX_tema.md`, **não** no corpo do capítulo.
+- ✅ O texto deve funcionar mesmo sem a figura — indicar onde ela complementa, não substituir explicação por figura.
+- ✅ O código das figuras fica em arquivo separado `figuras_capXX_<slug>.tex`, **não** no corpo do capítulo.
+- ✅ Cada figura TikZ deve ser compilável em `standalone`, com `\documentclass[tikz,border=3mm]{standalone}`, `\usepackage{tikz}` e `\begin{tikzpicture}...\end{tikzpicture}`.
+- ✅ Usar `\coordinate` para pontos, `\node` para rótulos, `\draw` para elementos e `\usetikzlibrary{angles,quotes,calc,intersections}` quando necessário.
+- ✅ Usar `pic {angle = A--B--C}` e `pic {right angle = A--B--C}` para marcação precisa de ângulos.
+- ❌ Nunca usar imagens externas, SVG, capturas, links de busca ou descrições soltas como substituto da figura.
+- ❌ Nunca inserir quebras de página explícitas no Markdown nem no arquivo TikZ (`\newpage`, `\pagebreak`, HTML/CSS de page break ou equivalentes).
 
 ## Regras invioláveis — estrutura
 
@@ -128,12 +133,14 @@ Quando o **blueprint** pedir conteúdo que não cabe na estrutura padrão de Geo
 ## Como rodar
 
 ```bash
-cd PRODUCAO/PIPELINE_CONTEUDO/autores/matematica-2
-./scripts/criar_capitulos.sh                                                       # interativo
-./scripts/criar_capitulos.sh -d "Geometria" -a "1serie" -u "unidade-1"
-./scripts/criar_capitulos.sh -d "Geometria" -a "9ano"   -u "unidade-3" --dry-run
-./scripts/criar_capitulos.sh -d "Geometria" -a "8ano"   -u "unidade-2" --yes
+cd /Users/feliperosa/conteudos-prontos
+Geometria/_autor/scripts/criar_capitulos.sh
+Geometria/_autor/scripts/criar_capitulos.sh -a "1serie" -u "unidade-1"
+Geometria/_autor/scripts/criar_capitulos.sh -a "9ano"   -u "unidade-3" --dry-run
+Geometria/_autor/scripts/criar_capitulos.sh -a "8ano"   -u "unidade-2" --yes
 ```
+
+Por padrão, o script grava os capítulos em `Geometria/<ano>/<unidade>/` e não faz commit nem push. Para publicar automaticamente após validação, execute com `AUTO_PUBLISH=1`.
 
 ## Validações pós-geração
 
@@ -155,13 +162,15 @@ O script `criar_capitulos.sh` valida cada capítulo gerado contra:
    - sem `\;` nem `\,` (renderizam como pontuação literal)
    - sem `°` literal (usar `^{\circ}`)
    - sem caracteres acentuados (á, ã, é, ó, ç, …) dentro do bloco
-8. **Marcador `[Imagem N]` em uso** — pelo menos uma figura referenciada (heurística para Geometria; alerta, não erro).
+8. **Marcador `[TikZ N]` em uso** — pelo menos uma figura referenciada (heurística para Geometria; alerta, não erro).
 9. **Sem dois boxes (`>`) consecutivos** dentro do mesmo subtópico.
 
 Falhas listam violações e param o pipeline antes do commit.
 
 ## Referências
 
-- `PRODUCAO/Prompts Criador de Conteudo/Matematica 2/prompt-autor.md` — manual editorial completo
-- `PRODUCAO/Prompts Criador de Conteudo/Matematica 2/memoria-autor.md` — memória/contexto adicional do autor
-- `PLANEJAMENTO/Referencias/series.md`, `PLANEJAMENTO/Referencias/niveis_profundidade.md`, `PLANEJAMENTO/Referencias/niveis.md`, `PLANEJAMENTO/Referencias/objetivos_aprendizagem.md`
+- `Geometria/_autor/prompt-autor.md` — manual editorial completo
+- `Geometria/_autor/memoria-autor.md` — memória/contexto adicional do autor
+- `Geometria/_blueprints/<ano>/<unidade>/` — blueprints de unidade e capítulos
+- `Geometria/_autor/referencias/tikz-geometria.md` — padrão local para figuras TikZ
+- `Geometria/_autor/referencias/pgf/` — clone local do PGF/TikZ oficial

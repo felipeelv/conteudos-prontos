@@ -85,13 +85,13 @@ log_ok()    { echo -e "${C_GREEN}✔${C_RESET}  $*"; }
 
 # --- auto_publish_output: commita e envia a pasta de saída quando ela está em um repo Git ---
 # Args: $1 = OUTPUT_DIR; $2 = disciplina; $3 = ano/série; $4 = unidade
-# Desative com AUTO_PUBLISH=0.
+# Ative explicitamente com AUTO_PUBLISH=1.
 auto_publish_output() {
   local output_dir="$1"
   local disciplina="$2"
   local ano="$3"
   local unidade="$4"
-  local enabled="${AUTO_PUBLISH:-1}"
+  local enabled="${AUTO_PUBLISH:-0}"
 
   if [[ "$enabled" == "0" || "$enabled" == "false" || "$enabled" == "FALSE" ]]; then
     log_info "Publicação automática desativada por AUTO_PUBLISH=0."
