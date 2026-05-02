@@ -1,8 +1,8 @@
-# Padrão Editorial Eleve — História EM (v2)
+# Padrão Editorial Eleve — História EM (v2.1)
 
-> **Status:** vigente desde 2026-05-02. Mesmo padrão editorial v2 aplicado a Geografia EM, com adaptação para a disciplina narrativo-cristã.
+> **Status:** vigente desde 2026-05-02 (rev. v2.1 — 2026-05-02: densidade enxuta, imagens HTML com legenda em `<sub>`, pós-conteúdo mais sintético, validado no piloto Cap 3 1ª série EM).
 > **Alcance:** História do Ensino Médio (1ª, 2ª e 3ª séries). Conteúdo histórico do EF é coberto por `autor-estudos-sociais`.
-> **Fonte:** prompt editorial criado por Felipe Rosa, validado em Geografia EM (2026-05-02).
+> **Fonte:** prompt editorial criado por Felipe Rosa, validado em Geografia EM (2026-05-02) e refinado no piloto de Sócrates (2026-05-02).
 
 ---
 
@@ -41,6 +41,21 @@ Toda unidade segue esta sequência fixa, nesta ordem:
 
 <writing_rules>
 
+<density>
+**Métricas-alvo do capítulo (v2.1):**
+- **Total de palavras:** 1.700 a 2.000 (capítulos com mais conteúdo factual: até 2.300)
+- **Mínimo de bullets totais:** 50 — distribuídos em todos os tópicos numerados, "O que estava em jogo", "Esse foi o cara" e "Para não esquecer"
+- **Definições viram bullets:** sempre que houver mais de um conceito em sequência (`**Termo:** definição em uma linha`)
+- **Listas de exemplos viram bullets:** filósofos, batalhas, leis, datas, autores, etc. — nunca em prosa enumerada com ponto-e-vírgula
+- **Synthesis blockquotes curtos:** 1 frase, no máximo 2
+
+**Anti-padrão (verboso, recusar):**
+- Parágrafos de 3-4 frases corridas em sequência
+- Listagem em prosa: "Os principais autores foram Ésquilo, Sófocles e Eurípides. Ésquilo escreveu... Sófocles escreveu..."
+- Repetir a mesma ideia em duas seções diferentes do mesmo capítulo
+- Frase-explicação que reformula o que o bullet anterior já disse
+</density>
+
 <sentences>
 - Ideal: 8 a 16 palavras
 - Aceitável: até 20 palavras
@@ -49,10 +64,10 @@ Toda unidade segue esta sequência fixa, nesta ordem:
 </sentences>
 
 <paragraphs>
-- Agrupe 2 a 3 frases relacionadas em cada parágrafo
+- Agrupe **1 a 2 frases relacionadas** em cada parágrafo (v2.1: era 2-3, agora menos)
 - Quebre o parágrafo quando o foco mudar
-- Mantenha frase isolada apenas como ponte ou fechamento
-- Limite: 4 linhas por parágrafo no material final
+- Mantenha frase isolada quando ela carregar peso narrativo (ponte, fechamento, virada)
+- Limite duro: 3 linhas por parágrafo no material final
 </paragraphs>
 
 <forbidden_phrases>
@@ -100,6 +115,30 @@ Sintaxe:
 > Texto curto, máximo 2 frases.
 ```
 </interactive_box>
+
+<images>
+**Formato canônico (v2.1) — HTML para garantir compatibilidade com Google Docs:**
+
+```html
+<p align="center">
+  <img src="URL_DIRETA_OU_SPECIAL_FILEPATH" alt="DESCRIÇÃO_CURTA" width="720">
+</p>
+
+<p align="center"><sub><em>Legenda em uma linha (autor + acervo + licença). Foto: NOME / Wikimedia Commons. Domínio público (ou CC BY-SA 3.0 etc).</em></sub></p>
+```
+
+**Regras:**
+- **Sempre HTML** (`<img>` dentro de `<p align="center">`), nunca markdown puro `![]()` — o Google Docs não puxa markdown ao colar.
+- **Legenda em uma única linha**, dentro de `<sub><em>...</em></sub>`. Inclui: descrição da obra (1 frase), autor/foto, acervo, licença.
+- **Largura sugerida:** `width="720"` para imagens panorâmicas; `width="420-480"` para retratos verticais (busto, retrato).
+- **URL preferida:** `https://commons.wikimedia.org/wiki/Special:FilePath/<NOME_DO_ARQUIVO>?width=1280` — redireciona para o `upload.wikimedia.org` correto e dispensa cálculo de hash. Sempre URL-encode espaços (`%20`).
+- **Quantidade-alvo:** **5 imagens por capítulo**, distribuídas como:
+  - 1 capa (após H1, antes da pergunta provocativa) — peça cinematográfica
+  - 1 imagem por bloco numerado (1, 2, 3, 4) — entrando logo após o H2 ou dentro do primeiro subtópico
+- **Posicionamento:** sempre antes do parágrafo de definição do bloco/subtópico, não depois (a imagem ancora a leitura, não a ilustra a posteriori).
+- **Fontes preferidas:** Wikimedia Commons (domínio público / CC), seguidas por Met Open Access, Library of Congress, Brasiliana, Domínio Público (MEC).
+- **Verificar antes de inserir:** se chutou o nome de arquivo e ele não existe na Commons, a imagem aparece quebrada. Pesquisar no Wikimedia antes para confirmar nome canônico.
+</images>
 
 </typography>
 
@@ -163,35 +202,41 @@ Sintaxe:
 <enquanto_isso>
 **Função:** mostrar a contemporaneidade entre o evento histórico estudado e a trajetória cristã (ou outras tradições religiosas, dependendo do contexto). Paralelo TEMPORAL — o que estava acontecendo na mesma época em outro eixo da história mundial.
 
-Estrutura:
-- 1-2 parágrafos de contexto histórico-cristão (paralelo da mesma época)
-- Lista nomeada `O que estava em jogo:` com bullets
+Estrutura (v2.1 — enxuta):
+- **1 parágrafo** de 2-3 frases (não 1-2 parágrafos longos) com o paralelo histórico-cristão da mesma época
+- Lista nomeada `O que estava em jogo:` com **3-4 bullets** (não 5+) — cada bullet aborda um eixo distinto, sem incluir bullet meta-síntese ("Diferentes lógicas")
 
 Regras:
 - NÃO é repetição do tema central — é outro fio narrativo da mesma época
-- Pode mencionar profetas, missionários, movimentos cristãos, ou eventos religiosos contemporâneos
-- Quando o tema é não-cristão (Atenas pagã, Roma imperial, civilizações pré-colombianas, Iluminismo), preserve a integridade histórica antes de apontar paralelos
+- Pode mencionar profetas, missionários, movimentos cristãos ou eventos religiosos contemporâneos
+- Quando o tema é não-cristão (Atenas pagã, Roma imperial, Iluminismo), preserve a integridade histórica antes de apontar paralelos
 - A VMC ilumina, não distorce o conteúdo histórico
+- **Sem redundância:** se o paralelo já foi sugerido em "E para hoje", não repetir aqui
 </enquanto_isso>
 
 <devotional>
-Estrutura fixa, nesta ordem:
+Estrutura fixa (v2.1 — enxuta):
 1. Versículo em destaque (itálico + negrito + referência)
-2. 1 parágrafo curto conectando o conceito histórico ao princípio bíblico
-3. 1 a 2 bullets de aplicação direta
+2. **1 parágrafo de 3 frases enxutas** — 1ª frase: ação-síntese do personagem histórico do capítulo (ex: "Sócrates pagou com a vida pela coerência..."); 2ª frase: paralelo bíblico em uma frase (ex: "Daniel, no exílio, manteve seus princípios sob ameaça."); 3ª frase: princípio universal (ex: "A integridade aparece nessa fronteira — quando dizer a verdade tem custo.")
+3. **2 bullets de aplicação direta** (não 1, não 3 — sempre 2)
 4. Box `> 💬 **Para Conversar:**` com pergunta
 
 Regras:
 - Conecte ao VP (Valor/Princípio) da unidade ou capítulo
 - Sem sermão, sem moralismo barato
-- Faça ponte concreta entre o conteúdo histórico e o princípio
-- Use transição narrativa contextual ("Com isso, podemos aprender que:") — NUNCA rótulo proibido `**Valores para nossa vida:**`
+- Sem reformular a 1ª frase em outras palavras na 3ª frase
+- Use transição narrativa contextual ("A integridade aparece...") — NUNCA rótulo proibido `**Valores para nossa vida:**`
 </devotional>
 
 <that_was_the_guy>
+**Estrutura (v2.1 — enxuta):**
 - Nome em negrito + datas de vida (ou período histórico)
-- Bullets biográficos curtos: origem/contexto, contribuição central, marco histórico
-- Box `> 🏛️ **Legado:**` ao final (formato box completo, com `>` e quebra de linha interna)
+- **Exatamente 4 bullets biográficos** (era 5, agora 4) — cada um carregando uma dimensão distinta:
+  1. **Quem era:** profissão + origem em uma frase (sem detalhes parentais ou local de nascimento, salvo se historicamente decisivos)
+  2. **O que fez:** contribuição central
+  3. **Marco histórico:** evento ou data-chave
+  4. **Ato simbólico ou desfecho:** o gesto que define a memória dele
+- Box `> 🏛️ **Legado:**` ao final, **em uma frase** (não duas frases coordenadas) — síntese do impacto
 - Personagem do blueprint = literal e inegociável
 </that_was_the_guy>
 
@@ -275,31 +320,61 @@ A democracia ateniense surge no século V a.C. como um sistema em que cidadãos 
 ```markdown
 ## Enquanto isso...
 
-Enquanto Atenas debatia democracia na Pnyx, em Israel a tradição profética se aprofundava. Os profetas Esdras e Neemias reorganizavam o povo após o exílio babilônico, no século V a.C. — quase a mesma época do auge ateniense. Em vez de assembleia popular, lei mosaica reinterpretada. Em vez de retórica política, leitura da Torá em praça pública.
+Enquanto Sócrates discutia justiça em Atenas, na Judeia o último profeta — Malaquias, séc. V a.C. — encerrava o período profético do Antigo Testamento. Começava o intertestamentário: quase quatro séculos em que a identidade judaica se preservou pela leitura da Torá nas sinagogas.
 
 O que estava em jogo:
 
-- **Atenas:** quem decide as leis e quem é considerado cidadão;
-- **Jerusalém:** como manter identidade religiosa e moral em um povo recém-saído do exílio;
-- **Persas:** império de Dario e Xerxes pressionando ambos os mundos;
-- **Diferentes lógicas:** debate público × autoridade religiosa, mas ambas tentando dar sentido coletivo à vida em comunidade.
+- **Atenas:** cultura como debate público de dilemas éticos;
+- **Esparta:** disciplina militar como modelo de cidadão;
+- **Egito ptolomaico:** Alexandria reunia bibliotecas e ciência;
+- **Judeia:** preservação do monoteísmo sob impérios sucessivos.
 ```
+*(v2.1: 1 parágrafo de 2 frases + 4 bullets, sem bullet meta-síntese)*
 </example>
 
 <example name="devotional">
 ```markdown
 ## E para hoje...
 
-***"Justiça, somente justiça seguirás, para que vivas e possuas em herança a terra que o Senhor teu Deus te dá."*** *(Deuteronômio 16:20)*
+***"Quem anda em integridade anda seguro; mas o que perverte os seus caminhos será conhecido."*** *(Provérbios 10:9)*
 
-A democracia ateniense buscou justiça pela voz coletiva dos cidadãos. A tradição bíblica busca justiça pelo cumprimento da lei revelada. Os dois caminhos têm em comum a recusa do arbítrio — a rejeição de um único poderoso que decide tudo. Mas só funcionam quando quem participa decide com integridade.
+Sócrates pagou com a vida pela coerência entre discurso e prática. Daniel, no exílio, manteve seus princípios sob ameaça. A integridade aparece nessa fronteira — quando dizer a verdade tem custo.
 
-- Justiça exige consciência de quem está sendo ouvido — e de quem não está;
-- Decisões coletivas só são justas quando reconhecem todos os afetados, não só os que têm voz no debate.
+- A integridade é testada quando manter a verdade traz prejuízo concreto;
+- Coerência entre discurso e prática vale mais do que sobrevivência confortável.
 
 > 💬 **Para Conversar:**
-> Em decisões do seu cotidiano, você costuma ouvir quem normalmente não é consultado?
+> Quando dizer a verdade tem custo, o que mostra se alguém é íntegro?
 ```
+*(v2.1: parágrafo de 3 frases — ação histórica + paralelo bíblico em 1 frase + princípio universal — e 2 bullets)*
+</example>
+
+<example name="esse_foi_o_cara">
+```markdown
+## Esse foi o "cara"
+
+**Sócrates (470-399 a.C.)**
+
+- Filósofo ateniense; suas ideias chegam pelos diálogos de Platão e Xenofonte;
+- Conversava em praças, examinando virtudes pelo método das perguntas;
+- Julgado em 399 a.C. por "corromper a juventude" e "introduzir novos deuses";
+- Recusou fugir e bebeu cicuta cercado pelos amigos.
+
+> 🏛️ **Legado:**  
+> A Filosofia como busca paciente da verdade e a integridade como fidelidade aos princípios — sob qualquer custo.
+```
+*(v2.1: exatamente 4 bullets, sem detalhes parentais; legado em 1 frase única)*
+</example>
+
+<example name="image_block">
+```html
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Death%20of%20Socrates%20-%20Google%20Art%20Project.jpg?width=1280" alt="A Morte de Sócrates, pintura de Jacques-Louis David (1787)" width="720">
+</p>
+
+<p align="center"><sub><em>A Morte de Sócrates — Jacques-Louis David (1787). Met Museum / Wikimedia Commons. Domínio público.</em></sub></p>
+```
+*(v2.1: HTML para garantir compatibilidade com Google Docs; legenda em uma linha dentro de `<sub><em>`)*
 </example>
 
 <example name="simplificando">

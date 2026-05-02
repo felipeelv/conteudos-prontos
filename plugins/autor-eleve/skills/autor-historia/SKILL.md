@@ -92,7 +92,14 @@ Para cada blueprint_capitulo:
 
 ### 6. Checklist de validação (rodar ANTES de salvar cada capítulo)
 
-> **Padrão editorial vigente: v2.** Referência canônica: `~/conteudos-prontos/Historia/_autor/PADRAO_EDITORIAL_v2.md`.
+> **Padrão editorial vigente: v2.1** (rev. 2026-05-02). Referência canônica: `~/conteudos-prontos/Historia/_autor/PADRAO_EDITORIAL_v2.md`.
+>
+> **Refinamentos da v2.1 — checklist adicional:**
+> - **HIST13** Total de palavras: 1.700-2.000 (no máximo 2.300 para temas com muita factualidade); mínimo 50 bullets totais (`grep -c '^- '`).
+> - **HIST14** Imagens em formato HTML `<p align="center"><img></p>` + legenda em `<sub><em>` de uma linha. Markdown `![]()` é proibido. **5 imagens por capítulo** (1 capa + 4 dentro dos blocos numerados).
+> - **HIST15** Enquanto isso: 1 parágrafo de 2-3 frases + lista "O que estava em jogo" com 3-4 bullets (sem bullet meta-síntese).
+> - **HIST16** E para hoje: parágrafo de 3 frases (ação histórica + paralelo bíblico em 1 frase + princípio universal) + 2 bullets.
+> - **HIST17** Esse foi o cara: exatamente 4 bullets biográficos (sem detalhes parentais ou local de nascimento, salvo se decisivos) + Legado em 1 frase única.
 
 | # | Regra | Como validar |
 |---|---|---|

@@ -1,11 +1,16 @@
 # AUTOR — História (Ensino Médio)
 
 > **Disciplinas cobertas (Blueprint):** `Historia` (Ensino Médio: 1ª, 2ª e 3ª séries)
-> **Modelo editorial:** `_autor/PADRAO_EDITORIAL_v2.md` (canônico, vigente desde 2026-05-02).
+> **Modelo editorial:** `_autor/PADRAO_EDITORIAL_v2.md` (canônico, vigente desde 2026-05-02; **revisão v2.1 — 2026-05-02**).
 
 > **Distinção importante:** este AUTOR cobre **somente História do Ensino Médio**. Conteúdo histórico do Ensino Fundamental (1º–9º ano, integrado com Geografia e cidadania) é responsabilidade do AUTOR de Estudos Sociais.
 
-> **⚠️ Padrão editorial v2 vigente (2026-05-02):** o padrão atual segue o mesmo template de Geografia v2, com adaptações específicas para a disciplina narrativo-cristã. Antes de produzir qualquer capítulo, leia `_autor/PADRAO_EDITORIAL_v2.md` na íntegra.
+> **⚠️ Padrão editorial v2.1 vigente (2026-05-02):** o padrão atual segue o template de Geografia v2 com adaptações para disciplina narrativo-cristã. **Refinamentos da v2.1** (validados no piloto Cap 3 — Sócrates):
+> - **Densidade enxuta:** 1.700-2.000 palavras / cap; mínimo 50 bullets; parágrafos de 1-2 frases (não 2-3); definições e exemplos sempre como bullets, nunca em prosa.
+> - **Imagens em HTML** com `<p align="center"><img></p>` + legenda em `<sub><em>` (uma linha). Markdown `![]()` é proibido — não cola no Google Docs.
+> - **Pós-conteúdo sintético:** Enquanto isso = 1 parágrafo de 2-3 frases + 4 bullets (sem meta-síntese); E para hoje = 3 frases (ação histórica + paralelo bíblico em 1 frase + princípio universal) + 2 bullets; Esse foi o cara = 4 bullets (não 5) + Legado em 1 frase única.
+>
+> Antes de produzir qualquer capítulo, leia `_autor/PADRAO_EDITORIAL_v2.md` na íntegra.
 
 ---
 
