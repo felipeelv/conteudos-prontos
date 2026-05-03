@@ -38,20 +38,6 @@ Ele exige atenção porque:
 - cada parental pode formar quatro gametas;
 - o quadro final tem 16 combinações.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dihybrid_cross.svg/1280px-Dihybrid_cross.svg.png" alt="Cruzamento di-híbrido com proporção fenotípica 9:3:3:1" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Tocharianne/WhiteTimberwolf, domínio público.
-</p>
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chromosome_DNA_Gene.svg/1280px-Chromosome_DNA_Gene.svg.png" alt="Relação entre cromossomo, DNA e gene" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Thomas Shafee, CC BY 4.0.
-</p>
-
 ## 2. Segregação Independente
 
 A Lei da Segregação Independente afirma que alelos de genes diferentes podem se distribuir independentemente nos gametas.
@@ -80,13 +66,6 @@ Os gametas são:
 - Ab;
 - aB;
 - ab.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Independent_assortment.png/1280px-Independent_assortment.png" alt="Segregação independente de cromossomos na meiose" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Christinelmiller, CC BY-SA 4.0.
-</p>
 
 ## 3. O Quadro 4×4
 
@@ -145,13 +124,6 @@ Use corretamente:
 - não aplique a genes ligados sem cuidado;
 - diferencie modelo didático de caso real complexo;
 - reconheça que ambiente também influencia fenótipos.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chromosomal_Crossover.svg/1280px-Chromosomal_Crossover.svg.png" alt="Crossing-over cromossômico durante a meiose" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Abbyprovenzano, CC BY-SA 3.0.
-</p>
 
 ---
 

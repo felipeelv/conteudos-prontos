@@ -38,13 +38,6 @@ Isso permite:
 - estabilizar padrões de desenvolvimento;
 - ajustar expressão sem mudar o gene.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DNA_methylation.svg/1280px-DNA_methylation.svg.png" alt="Metilação do DNA em citosinas" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Mariuswalter, CC BY-SA 4.0.
-</p>
-
 ## 2. Mecanismos Epigenéticos
 
 Os mecanismos mais discutidos envolvem metilação do DNA, modificações em histonas e RNAs não codificantes. Eles afetam o acesso aos genes.
@@ -73,13 +66,6 @@ O efeito geral é:
 - cromatina compacta dificulta transcrição;
 - marcas em histonas orientam proteínas reguladoras;
 - o mesmo gene pode ser acessível em uma célula e silencioso em outra.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Complete_Histone_with_DNA.png" alt="DNA enrolado em histonas formando nucleossomos" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Zephyris, CC BY-SA 3.0.
-</p>
 
 ## 3. Ambiente, Desenvolvimento e Imprinting
 
@@ -111,13 +97,6 @@ O conceito mostra que:
 - marcas podem orientar silenciamento;
 - desenvolvimento exige controle fino.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DNA_double_helix.svg/1280px-DNA_double_helix.svg.png" alt="Dupla hélice de DNA" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Biochemlife, CC BY-SA 4.0.
-</p>
-
 ## 4. Saúde, Pesquisa e Limites
 
 Epigenética tem aplicações em câncer, desenvolvimento, metabolismo e envelhecimento. Ao mesmo tempo, há risco de simplificação exagerada.
@@ -146,13 +125,6 @@ Uma postura madura inclui:
 - evitar causalidade apressada;
 - diferenciar estudo em célula, animal e humano;
 - reconhecer incertezas.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chromosome_DNA_Gene.svg/1280px-Chromosome_DNA_Gene.svg.png" alt="Relação entre cromossomo, DNA e gene" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Thomas Shafee, CC BY 4.0.
-</p>
 
 ---
 

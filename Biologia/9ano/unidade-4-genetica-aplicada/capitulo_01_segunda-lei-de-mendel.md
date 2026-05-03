@@ -36,13 +36,6 @@ Leia assim:
 - B e b pertencem ao segundo gene;
 - AaBb é um indivíduo di-híbrido, pois é heterozigoto em dois genes.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mendel_pea_traits.svg/1280px-Mendel_pea_traits.svg.png" alt="Características de ervilhas estudadas por Mendel" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Nefronus, CC BY-SA 4.0.
-</p>
-
 ## 2. Segregação Independente
 
 A Segunda Lei também é chamada de Lei da Segregação Independente. Ela afirma que pares de alelos de genes diferentes podem se distribuir independentemente nos gametas.
@@ -72,13 +65,6 @@ Neste capítulo, usamos apenas a condição simples:
 - cruzamento AaBb × AaBb;
 - proporção esperada em F2.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Meiosis_main_steps.svg/1280px-Meiosis_main_steps.svg.png" alt="Etapas principais da meiose" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Peter coxhead, CC0.
-</p>
-
 ## 3. Gametas do Di-híbrido
 
 O ponto central é formar gametas corretamente. Cada gameta precisa receber um alelo do par A/a e um alelo do par B/b.
@@ -106,13 +92,6 @@ Guarde a leitura:
 - Aa forma dois caminhos: A ou a;
 - Bb forma dois caminhos: B ou b;
 - dois caminhos vezes dois caminhos geram quatro gametas.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Independent_assortment.png/1280px-Independent_assortment.png" alt="Segregação independente de cromossomos na meiose" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Christinelmiller, CC BY-SA 4.0.
-</p>
 
 ## 4. A Proporção 9:3:3:1
 
@@ -142,13 +121,6 @@ Use o padrão com cuidado:
 - ele depende de genes independentes;
 - ele depende de dominância completa;
 - ele não vale para toda herança com duas características.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dihybrid_cross.svg/1280px-Dihybrid_cross.svg.png" alt="Cruzamento di-híbrido com proporção fenotípica 9:3:3:1" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Tocharianne/WhiteTimberwolf, domínio público.
-</p>
 
 ---
 

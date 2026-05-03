@@ -39,13 +39,6 @@ Algumas pistas comuns são:
 - ligada ao X: pode afetar mais homens;
 - autossômica: envolve cromossomos que não são sexuais.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pedigree-chart-example.svg/1280px-Pedigree-chart-example.svg.png" alt="Exemplo de heredograma familiar" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, YassineMrabet, domínio público.
-</p>
-
 ## 2. Sangue Também Tem Genética
 
 O sistema ABO mostra que um gene pode ter mais de dois alelos na população. Mesmo assim, cada pessoa recebe apenas dois alelos, um de cada genitor.
@@ -74,13 +67,6 @@ Na gestação, isso exige cuidado quando:
 - o bebê é Rh+;
 - há sensibilização do organismo materno;
 - uma gestação posterior pode ter risco de eritroblastose fetal.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/ABO_blood_group_diagram.svg/1280px-ABO_blood_group_diagram.svg.png" alt="Sistema ABO e antígenos nas hemácias" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, InvictaHOG, domínio público.
-</p>
 
 ## 3. Herança Ligada ao X
 
@@ -111,13 +97,6 @@ No heredograma, observe:
 - ausência de transmissão direta pai-filho homem;
 - necessidade de não transformar a leitura em julgamento familiar.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/X-linked_recessive_%28carrier_mother%29.svg/1280px-X-linked_recessive_%28carrier_mother%29.svg.png" alt="Herança recessiva ligada ao cromossomo X com mãe portadora" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, SUM1/Domaina/Kashmiri, CC BY-SA 4.0.
-</p>
-
 ## 4. Outras Condições Genéticas
 
 Genética humana deve ser estudada com precisão e respeito. Uma condição genética não define o valor de uma pessoa.
@@ -141,13 +120,6 @@ O padrão envolve:
 A síndrome de Down está associada à trissomia do cromossomo 21. Isso significa três cópias do cromossomo 21, geralmente por não disjunção.
 
 Marthe Gautier realizou trabalho experimental essencial para identificar essa trissomia. A história lembra que integridade científica inclui dados corretos e crédito justo.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/21_trisomy_-_Down_syndrome.png" alt="Cariótipo com trissomia do cromossomo 21" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, U.S. Department of Energy Human Genome Program, domínio público.
-</p>
 
 ---
 

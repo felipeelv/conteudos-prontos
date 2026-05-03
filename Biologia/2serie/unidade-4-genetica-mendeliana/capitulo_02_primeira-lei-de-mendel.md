@@ -38,13 +38,6 @@ Os nomes são:
 - F2: segunda geração filial;
 - híbrido: descendente de parentais com características diferentes.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mendel_pea_traits.svg/1280px-Mendel_pea_traits.svg.png" alt="Características de ervilhas estudadas por Mendel" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Nefronus, CC BY-SA 4.0.
-</p>
-
 ## 2. Lei da Segregação
 
 A Primeira Lei afirma que os dois alelos de um gene se separam na formação dos gametas. Cada gameta recebe apenas um alelo.
@@ -73,13 +66,6 @@ Essa leitura explica:
 - retorno do recessivo em F2;
 - diferença entre aparecer e estar presente;
 - proporção fenotípica 3:1 em Aa × Aa.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Diagram_of_meiosis.svg/1280px-Diagram_of_meiosis.svg.png" alt="Esquema geral da meiose" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Marek Kultys, CC BY-SA 3.0.
-</p>
 
 ## 3. Quadro de Punnett
 
@@ -110,13 +96,6 @@ Por isso:
 - a proporção fenotípica é 3:1;
 - a proporção é uma previsão estatística.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Monohybrid_Punnett_Square_%28Aa_x_Aa%29.png" alt="Quadro de Punnett monohíbrido entre dois heterozigotos" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, RobNobody, CC0.
-</p>
-
 ## 4. Genética em Situações Reais
 
 A Primeira Lei ajuda a entender características simples, mas muitos traços humanos são mais complexos. O modelo deve ser usado com limites.
@@ -145,13 +124,6 @@ A utilidade está em:
 - organizar heredogramas;
 - interpretar risco em exemplos didáticos;
 - preparar o estudo da Segunda Lei.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Autosomal_Recessive_Pedigree_Chart.svg/1280px-Autosomal_Recessive_Pedigree_Chart.svg.png" alt="Heredograma de herança autossômica recessiva" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Jerome Walker, CC BY 2.5.
-</p>
 
 ---
 

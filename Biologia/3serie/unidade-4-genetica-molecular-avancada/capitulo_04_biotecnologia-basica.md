@@ -40,13 +40,6 @@ Na produção de insulina:
 - a proteína é produzida e purificada;
 - o produto pode ser usado terapeuticamente.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Example_plasmid.svg/1280px-Example_plasmid.svg.png" alt="Mapa esquemático de plasmídeo usado em DNA recombinante" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Magnus Manske/Pixelsquid, CC BY-SA 3.0.
-</p>
-
 ## 2. PCR: Multiplicar o DNA
 
 PCR é a reação em cadeia da polimerase. Ela amplifica uma região específica do DNA por ciclos de temperatura.
@@ -76,13 +69,6 @@ PCR é útil porque:
 - ajuda em identificação forense;
 - pode ser usada em testes de paternidade;
 - exige controle contra contaminação.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/PCR_Wikipedia_figure.svg/1280px-PCR_Wikipedia_figure.svg.png" alt="Etapas da reação em cadeia da polimerase, PCR" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Aphidhater, CC BY-SA 4.0.
-</p>
 
 ## 3. Sequenciamento
 
@@ -114,13 +100,6 @@ O salto envolve:
 - necessidade de bioinformática;
 - cuidado com privacidade genética.
 
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sanger-sequencing.svg/1280px-Sanger-sequencing.svg.png" alt="Esquema de sequenciamento pelo método de Sanger" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Estevezj, CC BY-SA 3.0.
-</p>
-
 ## 4. Aplicações e Limites
 
 Biotecnologia básica conecta ciência, saúde, justiça e sociedade. Por isso, técnica e ética não podem ser separadas.
@@ -151,13 +130,6 @@ Responsabilidade envolve:
 - proteção de privacidade;
 - limites na interpretação;
 - justiça no acesso à tecnologia.
-
-<p style="clear: both; margin: 24px 0 8px; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gel_Electrophoresis_in_DNA_Fingerprinting.svg/1280px-Gel_Electrophoresis_in_DNA_Fingerprinting.svg.png" alt="Eletroforese em gel aplicada à identificação por DNA" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
-  Fonte: Wikimedia Commons, Jennifer0328, CC BY-SA 4.0.
-</p>
 
 ---
 
