@@ -39,6 +39,13 @@ A regulação permite:
 - controle de metabolismo;
 - adaptação fisiológica.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chromosome_DNA_Gene.svg/1280px-Chromosome_DNA_Gene.svg.png" alt="Relação entre cromossomo, DNA e gene" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Thomas Shafee, CC BY 4.0.
+</p>
+
 ## 2. O Modelo do Óperon lac
 
 Em bactérias, o óperon lac é um modelo clássico de regulação. Ele mostra como genes podem ser ligados ou desligados conforme a presença de lactose.
@@ -67,6 +74,13 @@ O modelo ensina:
 - genes podem ser coordenados;
 - regulação é lógica celular;
 - procariontes usam mecanismos rápidos e econômicos.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lac_Operon.svg/1280px-Lac_Operon.svg.png" alt="Modelo do óperon lac" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, T A RAJU, CC BY-SA 3.0.
+</p>
 
 ## 3. Regulação em Eucariontes
 
@@ -98,6 +112,13 @@ Isso aumenta possibilidades porque:
 - tradução pode ser controlada;
 - proteínas podem ser modificadas depois de produzidas.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/RNA_splicing_diagram_en.svg/1280px-RNA_splicing_diagram_en.svg.png" alt="Esquema de splicing do RNA" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, LadyofHats, domínio público.
+</p>
+
 ## 4. Expressão, Saúde e Responsabilidade
 
 Regulação gênica está ligada a desenvolvimento, câncer, imunidade e biotecnologia. Erros de controle podem ter grande impacto.
@@ -126,6 +147,13 @@ Responsabilidade inclui:
 - considerar tipo celular e contexto;
 - evitar promessa exagerada;
 - proteger dados biológicos.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Double-stranded_DNA_sequence.svg/1280px-Double-stranded_DNA_sequence.svg.png" alt="Sequência de DNA de fita dupla com bases nitrogenadas" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Gringer, CC0.
+</p>
 
 ---
 

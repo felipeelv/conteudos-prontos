@@ -24,6 +24,13 @@ Quatro partes são essenciais:
 - carbono central;
 - radical R, que define propriedades químicas.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/General_structure_of_aminoacids_-_AA-structure-es.png" alt="Estrutura geral de um aminoácido, com grupo amino, grupo carboxila, carbono central e radical R" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Basquetteur, CC BY-SA 3.0.
+</p>
+
 > 💡 **Você sabia?**\
 > O corpo humano usa 20 aminoácidos principais para montar enorme variedade de proteínas.
 
@@ -37,6 +44,13 @@ O resultado envolve:
 - formação de uma ligação covalente;
 - crescimento da cadeia polipeptídica;
 - ordem definida pela sequência de aminoácidos.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Peptidformationball_pt_BR.svg/960px-Peptidformationball_pt_BR.svg.png" alt="Ligação peptídica formada pela combinação de dois aminoácidos" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Khemis, CC BY-SA 4.0.
+</p>
 
 ## 2. Níveis de Estrutura
 
@@ -53,6 +67,13 @@ Os níveis são:
 - terciária: forma tridimensional de uma cadeia;
 - quaternária: união de mais de uma cadeia.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Estruturas_de_prote%C3%ADnas.png" alt="Níveis de estrutura das proteínas: primária, secundária, terciária e quaternária" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Diego Mariano, CC BY-SA 4.0.
+</p>
+
 > 🧬 **Bio em Ação:**\
 > A hemoglobina depende de estrutura quaternária para transportar oxigênio no sangue.
 
@@ -66,6 +87,13 @@ Isso explica:
 - anticorpos que reconhecem antígenos;
 - proteínas estruturais resistentes;
 - alterações causadas por desnaturação.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Equilibrio_enzima-sustrato.png" alt="Esquema de encaixe entre enzima e substrato" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Gonn/KES47, CC BY-SA 3.0.
+</p>
 
 ## 3. Proteínas no Corpo
 
@@ -82,6 +110,13 @@ Exemplos importantes são:
 - anticorpos: defesa imune;
 - insulina: sinalização hormonal.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Anticorpo.svg/960px-Anticorpo.svg.png" alt="Esquema de anticorpo reconhecendo antígenos" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Fvasconcellos/Ebruni, domínio público.
+</p>
+
 > 📊 **Em Números:**\
 > Proteínas estão entre as moléculas mais diversas do corpo em forma e função.
 
@@ -95,6 +130,13 @@ Pense em exemplos:
 - leite coalhando em meio ácido;
 - enzimas perdendo atividade em temperatura inadequada;
 - proteína estrutural alterando textura.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Proteinas-desnaturalizacion.jpg" alt="Esquema de desnaturação e renaturação de uma cadeia polipeptídica" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Alejandro Porto, CC BY-SA 3.0.
+</p>
 
 ## 4. Aplicações em Saúde e Tecnologia
 
@@ -111,6 +153,13 @@ Uma alimentação adequada considera:
 - digestão em aminoácidos;
 - reconstrução de proteínas próprias do corpo.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Protein-rich_Foods.jpg" alt="Alimentos ricos em proteínas" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Smastronardo, CC BY-SA 4.0.
+</p>
+
 > ⏸️ **Pare e Pense:**\
 > Por que comer proteína não significa incorporar aquela proteína inteira ao músculo?
 
@@ -124,6 +173,13 @@ Esse conhecimento permite:
 - estudar enzimas de vírus e bactérias;
 - entender resistência a medicamentos;
 - relacionar estrutura molecular e tratamento.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Competitive_inhibition_int.svg/1280px-Competitive_inhibition_int.svg.png" alt="Esquema de inibição competitiva em enzimas" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, PatríciaR, domínio público.
+</p>
 
 ---
 

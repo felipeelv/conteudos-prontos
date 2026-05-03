@@ -38,6 +38,13 @@ Isso permite classificar:
 - dominante: alelo que se expressa em heterozigose;
 - recessivo: alelo que se expressa em homozigose.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chromosome_DNA_Gene.svg/1280px-Chromosome_DNA_Gene.svg.png" alt="Relação entre cromossomo, DNA e gene" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Thomas Shafee, CC BY 4.0.
+</p>
+
 ## 2. Genótipo e Fenótipo
 
 Genótipo é a constituição genética. Fenótipo é a característica observável, resultante da interação entre genótipo e ambiente.
@@ -68,6 +75,13 @@ O fenótipo depende de:
 - interação entre genes;
 - condições de saúde e nutrição.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/DNA_double_helix.svg/1280px-DNA_double_helix.svg.png" alt="Dupla hélice de DNA" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Biochemlife, CC BY-SA 4.0.
+</p>
+
 ## 3. Dominância, Recessividade e Probabilidade
 
 Dominância é uma relação entre alelos. Ela não significa que um alelo é mais comum, melhor ou mais forte em todos os sentidos.
@@ -97,6 +111,13 @@ Em Aa × Aa:
 - a proporção genotípica esperada é 1:2:1;
 - a proporção fenotípica esperada é 3:1 em dominância completa.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Punnett_Square.svg/1280px-Punnett_Square.svg.png" alt="Exemplo de quadro de Punnett em ervilhas" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Pbroks13, CC BY-SA 3.0.
+</p>
+
 ## 4. Aplicando a Linguagem Genética
 
 Conceitos básicos servem para interpretar saúde, família, agricultura e biotecnologia. A precisão evita erros comuns.
@@ -125,6 +146,13 @@ Antes de avançar, garanta:
 - distinguir genótipo e fenótipo;
 - entender dominância completa;
 - interpretar probabilidade como previsão.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pedigree-chart-example.svg/1280px-Pedigree-chart-example.svg.png" alt="Exemplo de heredograma familiar" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, YassineMrabet, domínio público.
+</p>
 
 ---
 

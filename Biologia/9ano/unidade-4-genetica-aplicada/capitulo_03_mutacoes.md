@@ -38,6 +38,13 @@ Compare:
 - neutra: não altera de modo relevante o organismo;
 - prejudicial ou vantajosa: depende do efeito e do ambiente.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Point_mutations-es.svg/1280px-Point_mutations-es.svg.png" alt="Tipos de mutações pontuais no DNA" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Jmarchn, CC BY-SA 3.0.
+</p>
+
 ## 2. Causas e Agentes Mutagênicos
 
 Mutações podem surgir espontaneamente ou por agentes mutagênicos. Agente mutagênico é qualquer fator que aumenta a chance de alteração no DNA.
@@ -66,6 +73,13 @@ Cuidados importantes são:
 - evitar fumaça de cigarro;
 - seguir regras de segurança em ambientes laboratoriais;
 - entender vacinação e prevenção como cuidado com o corpo.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Double-stranded_DNA_sequence.svg/1280px-Double-stranded_DNA_sequence.svg.png" alt="Sequência de DNA de fita dupla com bases nitrogenadas" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Gringer, CC0.
+</p>
 
 ## 3. Efeitos das Mutações
 
@@ -96,6 +110,13 @@ Por isso, é errado concluir que:
 - toda mutação é visível;
 - toda mutação tem o mesmo efeito.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Chromosomes_mutations-en.svg/1280px-Chromosomes_mutations-en.svg.png" alt="Tipos de mutações cromossômicas" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, YassineMrabet, domínio público.
+</p>
+
 ## 4. Mutação, Saúde e Variabilidade
 
 Mutações importam para saúde, hereditariedade e diversidade biológica. Elas também ajudam a explicar por que populações têm variações.
@@ -124,6 +145,13 @@ O ponto equilibrado é:
 - seleção natural atua sobre variações herdáveis;
 - indivíduos não "se adaptam" por vontade;
 - o ambiente não escolhe com intenção.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mutation_and_selection_diagram.svg/1280px-Mutation_and_selection_diagram.svg.png" alt="Mutação e seleção em uma população" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Elembis, CC BY-SA 3.0.
+</p>
 
 ---
 

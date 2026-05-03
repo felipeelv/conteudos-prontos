@@ -40,6 +40,13 @@ Isso torna importante investigar:
 - superfícies minerais;
 - tempo para acumulação de moléculas.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hadean.png/1280px-Hadean.png" alt="Representação artística da Terra no éon Hadeano" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Tim Bertelink, CC BY-SA 4.0.
+</p>
+
 ## 2. Evolução Química
 
 Evolução química é a hipótese de que moléculas simples deram origem a moléculas orgânicas mais complexas antes dos primeiros seres vivos.
@@ -71,6 +78,13 @@ Por isso, os modelos discutem:
 - reações internas coordenadas;
 - reprodução com variação.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Miller-Urey_experiment-en.svg/1280px-Miller-Urey_experiment-en.svg.png" alt="Esquema do experimento de Miller-Urey" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, YassineMrabet/Carny, CC BY-SA 3.0.
+</p>
+
 ## 3. Hipóteses sobre os Primeiros Sistemas Vivos
 
 Não há uma resposta única fechada sobre todos os passos. Existem hipóteses que tentam explicar partes do processo.
@@ -101,6 +115,13 @@ Esses ambientes poderiam ajudar em:
 - organização de reações;
 - formação de compartimentos simples.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Blacksmoker_in_Atlantic_Ocean.jpg" alt="Fonte hidrotermal no fundo do oceano" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, NOAA/OAR/NURP/P. Rona, domínio público.
+</p>
+
 ## 4. Ciência, Limites e Propósito
 
 Estudar origem da vida exige honestidade intelectual. A ciência trabalha com mecanismos testáveis; a teologia fala de propósito, criação e sentido.
@@ -129,6 +150,13 @@ Essa distinção evita dois erros:
 - usar a ciência para negar perguntas de sentido;
 - confundir mecanismo com propósito;
 - caricaturar quem pensa diferente.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Metodo_cientifico.svg/1280px-Metodo_cientifico.svg.png" alt="Fluxo do método científico" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Lauro Chieza de Carvalho, CC BY-SA 3.0.
+</p>
 
 ---
 

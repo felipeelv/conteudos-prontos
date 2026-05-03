@@ -38,6 +38,13 @@ Essa diferença ensina:
 - conclusão deve respeitar limites;
 - evidência parcial pode enganar.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Illustration_of_Redi%27s_1668_experiment_to_refute_spontaneous_generation-es.svg/1280px-Illustration_of_Redi%27s_1668_experiment_to_refute_spontaneous_generation-es.svg.png" alt="Experimento de Redi contra a geração espontânea" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Amitchell125, CC BY 4.0.
+</p>
+
 ## 2. Redi e o Controle Experimental
 
 Francesco Redi testou a geração espontânea usando carne em frascos com diferentes condições. O ponto forte foi comparar situações controladas.
@@ -66,6 +73,13 @@ Isso mostra que:
 - uma resposta pode abrir outra pergunta;
 - um experimento não precisa encerrar todo o tema;
 - método importa tanto quanto resultado.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Experiment_Pasteur.png" alt="Experimento de Pasteur sobre biogênese" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Alzinous, domínio público.
+</p>
 
 ## 3. Spallanzani, Needham e Pasteur
 
@@ -97,6 +111,13 @@ O desenho experimental mostrou:
 - quebrar o gargalo permitia contaminação;
 - vida vinha de vida preexistente.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Louis_Pasteur_Experiment.svg/1280px-Louis_Pasteur_Experiment.svg.png" alt="Experimento do frasco de pescoço de cisne de Pasteur" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Kgerow16, CC BY-SA 4.0.
+</p>
+
 ## 4. Biogênese e Ciência Responsável
 
 Biogênese é a ideia de que seres vivos surgem de seres vivos preexistentes. Ela substituiu a geração espontânea no contexto dos experimentos clássicos.
@@ -125,6 +146,13 @@ Aplicações diretas incluem:
 - conservar alimentos;
 - esterilizar instrumentos;
 - evitar conclusões sem controle.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Metodo_cientifico.svg/1280px-Metodo_cientifico.svg.png" alt="Fluxo do método científico" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Lauro Chieza de Carvalho, CC BY-SA 3.0.
+</p>
 
 ---
 

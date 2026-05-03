@@ -38,6 +38,13 @@ O encaixe depende de:
 - grupos químicos;
 - posição correta entre enzima e substrato.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Lock_and_key_model.png" alt="Modelo chave-fechadura entre enzima e substrato" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Jcliang, CC BY-SA 3.0.
+</p>
+
 ## 2. Modelos de Encaixe
 
 Enzima e substrato não se unem de qualquer jeito. A interação precisa ser específica o suficiente para orientar a reação.
@@ -66,6 +73,13 @@ Esse modelo explica melhor:
 - aproximação de reagentes;
 - estabilização do estado de transição;
 - maior precisão da catálise.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Induced_fit_diagram.svg/1280px-Induced_fit_diagram.svg.png" alt="Modelo de encaixe induzido na ação enzimática" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, TimVickers/Fvasconcellos, domínio público.
+</p>
 
 ## 3. Fatores que Afetam Enzimas
 
@@ -96,6 +110,13 @@ Também pode haver inibição:
 - reversível: pode ser desfeita;
 - irreversível: compromete a enzima de modo duradouro.
 
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Michaelis-Menten_saturation_curve_of_an_enzyme_reaction.svg/1280px-Michaelis-Menten_saturation_curve_of_an_enzyme_reaction.svg.png" alt="Curva de saturação de uma reação enzimática" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, fullofstars, domínio público.
+</p>
+
 ## 4. Enzimas no Cotidiano e na Saúde
 
 Enzimas atuam na digestão, na indústria e em exames. Entender seu funcionamento ajuda a interpretar saúde e tecnologia.
@@ -124,6 +145,13 @@ Aplicações incluem:
 - limpeza de manchas orgânicas;
 - exames bioquímicos;
 - técnicas de biologia molecular.
+
+<p style="clear: both; margin: 24px 0 8px; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Competitive_inhibition_int.svg/1280px-Competitive_inhibition_int.svg.png" alt="Inibição competitiva em enzimas" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+</p>
+<p style="margin: 0 0 28px; text-align: center; font-size: 0.9em;">
+  Fonte: Wikimedia Commons, Jerry Crimson Mann/TimVickers/Fvasconcellos, domínio público.
+</p>
 
 ---
 
