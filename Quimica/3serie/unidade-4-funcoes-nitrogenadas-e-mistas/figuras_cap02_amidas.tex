@@ -11,22 +11,24 @@
 \begin{tikzpicture}[>=Latex,node distance=0.8cm]
   \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=3.2cm,minimum height=0.85cm,align=center]
   \node[box,fill=blue!10] (amina) {amina\\$R-NH_2$};
-  \node[box,fill=orange!12,right=1cm of amina] (amida) {amida\\$R-CO-NH_2$};
-  \draw[very thick,->] (amina) -- (amida) node[midway,above] {entra carbonila};
-  \node[box,fill=green!12,below=1cm of amida] (pep) {ligacao peptidica\\amida biologica};
+  \node[box,fill=orange!12,right=1.35cm of amina] (amida) {amida\\$R-CO-NH_2$};
+  \draw[very thick,->] (amina) -- (amida);
+  \node[fill=white,inner sep=1pt,font=\sffamily\scriptsize]
+    at ($(amina.east)!0.5!(amida.west)+(0,0.68)$) {entra carbonila};
+  \node[box,fill=green!12,below=1cm of amida] (pep) {ligação peptídica\\amida biológica};
   \draw[very thick,->] (amida) -- (pep);
   \node[box,fill=gray!10,below=1cm of amina] (crit) {reconhecer\\$C=O$ ligado ao $N$};
   \draw[thick,->] (crit) -- (amida);
-  \node[align=center,below=0.45cm of pep] {nem toda molécula com N e amida};
+  \node[align=center,below=0.45cm of pep] {nem toda molécula com N é amida};
 \end{tikzpicture}
 
 \begin{tikzpicture}[>=Latex,node distance=0.8cm]
   \tikzstyle{box}=[draw,rounded corners=2pt,very thick,minimum width=2.8cm,minimum height=0.9cm,align=center]
-  \node[box,fill=blue!10] (aa1) {$H_2N-CH(R)-COOH$\\aminoacido 1};
-  \node[box,fill=blue!10,right=0.8cm of aa1] (aa2) {$H_2N-CH(R')-COOH$\\aminoacido 2};
-  \node[box,fill=green!12,below=1.0cm of $(aa1)!0.5!(aa2)$] (pep) {$-CO-NH-$\\ligacao peptidica};
+  \node[box,fill=blue!10] (aa1) {$H_2N-CH(R)-COOH$\\aminoácido 1};
+  \node[box,fill=blue!10,right=0.8cm of aa1] (aa2) {$H_2N-CH(R')-COOH$\\aminoácido 2};
+  \node[box,fill=green!12,below=1.0cm of $(aa1)!0.5!(aa2)$] (pep) {$-CO-NH-$\\ligação peptídica};
   \draw[->,thick] (aa1.south east) -- (pep.north west);
   \draw[->,thick] (aa2.south west) -- (pep.north east);
-  \node[draw,rounded corners=2pt,fill=orange!12,right=0.8cm of pep] {libera\\$H_2O$};
+  \node[draw,rounded corners=2pt,fill=orange!12,align=center,minimum width=1.25cm,right=0.8cm of pep] {libera\\$H_2O$};
 \end{tikzpicture}
 \end{document}
