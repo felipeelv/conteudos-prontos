@@ -12,19 +12,19 @@
 % TikZ 1
 \begin{tikzpicture}[>=Latex,node distance=0.8cm]
   \tikzstyle{box}=[draw,rounded corners=2pt,minimum width=2.5cm,minimum height=0.85cm,align=center,very thick]
-  \node[box,fill=blue!10] (agua) {agua alta\\energia};
+  \node[box,fill=blue!10] (agua) {água alta\\energia};
   \node[box,fill=orange!12,right=1.0cm of agua] (turbina) {turbina\\movimento};
   \node[box,fill=yellow!15,right=1.0cm of turbina] (gerador) {gerador\\eletricidade};
   \draw[very thick,->] (agua) -- (turbina);
   \draw[very thick,->] (turbina) -- (gerador);
-  \node[above=0.45cm of turbina] {hidreletrica};
+  \node[above=0.45cm of turbina] {hidrelétrica};
 
-  \node[box,fill=gray!12,below=1.25cm of agua] (comb) {combustivel\\calor};
+  \node[box,fill=gray!12,below=1.25cm of agua] (comb) {combustível\\calor};
   \node[box,fill=orange!12,right=1.0cm of comb] (vapor) {vapor\\turbina};
   \node[box,fill=yellow!15,right=1.0cm of vapor] (gerador2) {gerador\\eletricidade};
   \draw[very thick,->] (comb) -- (vapor);
   \draw[very thick,->] (vapor) -- (gerador2);
-  \node[above=0.45cm of vapor] {termeletrica};
+  \node[above=0.45cm of vapor] {termelétrica};
 
   \node[box,fill=cyan!12,below=1.25cm of comb] (luz) {luz solar};
   \node[box,fill=green!12,right=1.0cm of luz] (painel) {painel\\fotovoltaico};

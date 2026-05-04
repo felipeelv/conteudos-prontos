@@ -12,7 +12,7 @@ Fontes TikZ ativas encontradas fora de `_legado/`:
 |---:|---|---:|---|
 | 1 | Quimica | 11 | Concluido |
 | 2 | Biologia | 14 | Concluido |
-| 3 | Fisica | 16 | Pendente |
+| 3 | Fisica | 16 | Concluido |
 | 4 | Geometria | 20 | Pendente |
 |  | **Total** | **61** |  |
 
@@ -200,7 +200,8 @@ git commit -m "Corrige acentuacao em TikZ de Geometria"
 
 - Quimica: revisada, corrigida, renderizada e validada neste lote.
 - Biologia: revisada, corrigida, renderizada e validada neste lote.
+- Fisica: revisada, corrigida, renderizada e validada neste lote.
 
 ## Proximo Passo
 
-Iniciar o **Lote 3 - Fisica** depois do commit e push do lote de Biologia.
+Iniciar o **Lote 4 - Geometria** depois do commit e push do lote de Fisica.

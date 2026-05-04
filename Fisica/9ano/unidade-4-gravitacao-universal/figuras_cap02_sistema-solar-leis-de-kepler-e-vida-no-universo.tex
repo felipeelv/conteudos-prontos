@@ -13,13 +13,13 @@
 \begin{tikzpicture}[scale=0.78,>=Latex]
   \fill[yellow!70!orange] (0,0) circle (0.28);
   \node[below] at (0,-0.35) {Sol};
-  \foreach \r/\name/\ang/\color in {1.2/Mercurio/30/gray,1.8/Venus/140/orange,2.5/Terra/230/blue,3.5/Marte/310/red}{
+  \foreach \r/\name/\ang/\color/\dx/\dy in {1.2/Mercúrio/65/gray/0.15/0.45,1.8/Venus/140/orange/0.45/0.18,2.5/Terra/230/blue/0.45/0.18,3.5/Marte/310/red/0.45/0.18}{
     \draw[thick,\color] (0,0) ellipse ({\r} and {0.62*\r});
     \fill[\color] ({\r*cos(\ang)},{0.62*\r*sin(\ang)}) circle (0.11);
-    \node[font=\small] at ({\r*cos(\ang)+0.45},{0.62*\r*sin(\ang)+0.18}) {\name};
+    \node[font=\small] at ({\r*cos(\ang)+\dx},{0.62*\r*sin(\ang)+\dy}) {\name};
   }
   \draw[->,very thick] (0,0) -- (2.5,0) node[midway,above] {$1\ \mathrm{UA}$};
-  \node[align=center] at (0,-2.8) {quanto maior a distância média, maior o periodo orbital};
+  \node[align=center] at (0,-2.8) {quanto maior a distância média, maior o período orbital};
 \end{tikzpicture}
 
 % TikZ 2
@@ -32,7 +32,7 @@
     {$T^2 = R^3$\\$1{,}88^2 \approx 1{,}52^3$};
   \draw[very thick,->] (terra) -- (lei);
   \draw[very thick,->] (marte) -- (lei);
-  \node[align=center,below=0.45cm of lei] {Kepler relaciona periodo e distância média};
+  \node[align=center,below=0.45cm of lei] {Kepler relaciona período e distância média};
 \end{tikzpicture}
 
 \end{document}
