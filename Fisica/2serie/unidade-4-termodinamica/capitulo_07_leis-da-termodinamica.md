@@ -114,6 +114,8 @@ Isso não significa que nada aconteceu. Pode ter havido entrada de calor, saída
 
 Um motor térmico depende exatamente disso: transformar parte do calor recebido em trabalho, rejeitando outra parte ao ambiente.
 
+![TikZ 3 — Ciclo termodinâmico e sentido físico do trabalho líquido](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Fisica/2serie/unidade-4-termodinamica/figuras/cap07_tikz-3.png)
+
 ---
 
 ## NA VIDA REAL
