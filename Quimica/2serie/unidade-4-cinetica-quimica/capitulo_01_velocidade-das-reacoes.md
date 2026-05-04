@@ -139,6 +139,8 @@ Isso acontece porque:
 
 Não precisamos usar cálculo diferencial aqui; basta entender que a velocidade pode variar durante a reação.
 
+![TikZ 3 — Velocidade instantânea e condições da reação](https://raw.githubusercontent.com/felipeelv/conteudos-prontos/main/Quimica/2serie/unidade-4-cinetica-quimica/figuras/cap01_tikz-3.png)
+
 ### 4.2 Ludwig Wilhelmy
 
 Ludwig Wilhelmy é lembrado por estudos quantitativos sobre a velocidade de inversão da sacarose.

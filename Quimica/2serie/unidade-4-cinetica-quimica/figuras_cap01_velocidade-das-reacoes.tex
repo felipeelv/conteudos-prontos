@@ -47,4 +47,30 @@
   \draw[->,thick] (do.south) -- (result.north);
   \draw[->,thick] (dw.south) -- (result.north east);
 \end{tikzpicture}
+
+\begin{tikzpicture}[x=1cm,y=1cm,>=Latex,
+  every node/.append style={font=\sffamily\scriptsize},
+  card/.style={draw,rounded corners=2pt,align=center,text width=3.1cm,minimum height=0.72cm},
+  result/.style={draw,rounded corners=2pt,fill=blue!10,align=center,text width=3.0cm,minimum height=0.9cm}]
+  \draw[rounded corners=2pt,fill=gray!5,draw=black!60] (0.25,-0.05) rectangle (5.35,4.25);
+  \draw[->,thick] (0.8,0.78) -- (4.75,0.78);
+  \node at (4.42,0.48) {tempo};
+  \draw[->,thick] (0.8,0.55) -- (0.8,3.72);
+  \node at (1.55,3.95) {concentração};
+  \draw[very thick,red!70!black] plot[smooth] coordinates {(1.1,3.5) (1.75,2.9) (2.5,2.28) (3.35,1.67) (4.45,1.08)};
+  \fill[red!70!black] (2.5,2.28) circle (2pt);
+  \draw[blue!70!black,very thick] (1.65,3.0) -- (3.25,1.62);
+  \node[blue!70!black,align=center,text width=2.45cm] at (3.55,3.38) {inclinação\\naquele instante};
+  \draw[->,blue!70!black,thick] (3.22,3.02) -- (2.74,2.47);
+  \node[align=center,text width=4.1cm] at (2.9,0.22) {velocidade instantânea: ritmo em um momento};
+
+  \node[card,fill=orange!12] (conc) at (7.15,3.55) {concentração maior\\mais colisões};
+  \node[card,fill=yellow!18] (temp) at (7.15,2.35) {temperatura maior\\colisões mais eficazes};
+  \node[card,fill=green!12] (cat) at (7.15,1.15) {catalisador\\caminho mais fácil};
+
+  \node[result] (ritmo) at (10.85,2.35) {condições mudam\\o ritmo da reação};
+  \draw[->,thick] (conc.east) -- (9.25,2.78);
+  \draw[->,thick] (temp.east) -- (ritmo.west);
+  \draw[->,thick] (cat.east) -- (9.25,1.92);
+\end{tikzpicture}
 \end{document}
