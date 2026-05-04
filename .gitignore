@@ -1,5 +1,8 @@
 _legado/raiz-pos-organizacao-2026-05-01/autores-material/
 
+# Referencia local clonada do PGF/TikZ; nao versionar o repositorio externo.
+Geometria/_autor/referencias/pgf/
+
 # TikZ — fontes .tex e PNGs renderizados ficam no repo;
 # PDFs intermediários e arquivos auxiliares do TeX são descartáveis
 **/_tikz/build/**/*.pdf
