@@ -21,7 +21,7 @@ As **Guerras Médicas** foram conflitos entre pólis gregas e o Império Persa n
 
 ### 1.1 Da revolta da Jônia ao confronto com Pérsia
 
-O conflito começou em 499 a.C., com cidades gregas da Jônia revoltadas contra o domínio persa. Atenas enviou apoio. Dario I quis punir esse apoio com uma expedição punitiva, e o que era para ser castigo localizado virou guerra de quase duas décadas. Quatro marcos organizam essa virada militar:
+O conflito começou em 499 a.C., com cidades gregas da Jônia revoltadas contra o domínio persa. Atenas enviou apoio. Dario I quis punir. Quatro marcos organizam o conflito:
 
 - **499 a.C.:** revolta jônica recebe apoio ateniense;
 - **490 a.C.:** Maratona — primeira vitória terrestre contra Dario;
@@ -33,7 +33,7 @@ O conflito começou em 499 a.C., com cidades gregas da Jônia revoltadas contra 
 
 ### 1.2 A Liga de Delos e o novo poder de Atenas
 
-Após a guerra, Atenas liderou a formação da **Liga de Delos** (478 a.C.) — aliança defensiva contra novos ataques persas. No início, a estrutura era cooperativa: cada pólis contribuía para uma frota comum sob coordenação ateniense. Em pouco mais de duas décadas, essa cooperação se transformou em outra coisa, e quatro elementos marcam a transformação:
+Após a guerra, Atenas liderou a formação da **Liga de Delos** (478 a.C.) — aliança defensiva contra novos ataques persas. Em duas décadas, a cooperação virou domínio. Quatro elementos marcam essa transformação:
 
 - **Sede:** ilha sagrada de Delos;
 - **Contribuições:** pólis aliadas pagavam em dinheiro ou navios;
@@ -52,7 +52,7 @@ Entre 461 e 429 a.C., Atenas viveu seu apogeu cultural e político sob Péricles
 
 ### 2.1 Como funcionava a democracia ateniense
 
-A **democracia direta** era o sistema em que cidadãos participavam diretamente das decisões, sem representantes intermediários. O cidadão não delegava a outro: votava, julgava e administrava em pessoa. Para que isso funcionasse no dia a dia, Atenas criou quatro instituições que distribuíam o trabalho de governar:
+A **democracia direta** era o sistema em que cidadãos participavam diretamente das decisões, sem representantes intermediários. Para funcionar no dia a dia, Atenas criou quatro instituições:
 
 - **Eclésia:** assembleia dos cidadãos, votava leis, guerra e paz;
 - **Bulé:** conselho de 500 cidadãos sorteados, preparava temas para a Eclésia;
@@ -64,7 +64,7 @@ A **democracia direta** era o sistema em que cidadãos participavam diretamente 
 
 ### 2.2 Quem participava e quem ficava fora
 
-A democracia era ampla entre cidadãos, mas a definição de cidadão era estreita. A maior parte da população de Atenas — quem trabalhava, plantava, cozinhava, transportava — não votava em nada. A divisão entre quem decidia e quem sustentava a cidade ficava clara em quatro recortes:
+A democracia era ampla entre cidadãos, mas a definição de cidadão era estreita. Quatro recortes mostram quem decidia e quem ficava de fora:
 
 - **Quem votava:** homem livre, ateniense de nascimento, maior de idade;
 - **Quem não votava:** mulheres, escravizados, estrangeiros (metecos), pobres sem direitos plenos;
@@ -75,7 +75,7 @@ A democracia era ampla entre cidadãos, mas a definição de cidadão era estrei
 
 ### 2.3 A Acrópole, os tributos e o prestígio de Atenas
 
-Péricles transformou a Acrópole em vitrine política. Reconstruiu o Parthenon, templo dedicado a Atena, e o financiamento dessas obras revela a contradição do projeto ateniense — esplendor cultural pago com domínio sobre aliados. Quatro conceitos ajudam a nomear essa engrenagem:
+Péricles transformou a Acrópole em vitrine política. Reconstruiu o Parthenon com dinheiro dos aliados — esplendor cultural pago por domínio. Quatro conceitos nomeiam essa engrenagem:
 
 - **Tributos da Liga:** financiavam frota, obras públicas e festivais;
 - **Imperialismo:** domínio político, militar ou econômico de uma potência sobre outros povos;
@@ -95,7 +95,7 @@ A expansão ateniense gerou medo em Esparta, principal rival, que liderava a **L
 
 ### 3.1 Atenas e Esparta em rota de colisão
 
-A Guerra do Peloponeso (431-404 a.C.) opôs Atenas e seus aliados marítimos a Esparta e seus aliados continentais. As duas pólis chegaram ao conflito com forças distintas, e o que decidiu o resultado não foi só o poderio militar — foram também acidentes e decisões humanas. Quatro fatores moldam o início da guerra:
+A Guerra do Peloponeso (431-404 a.C.) opôs Atenas e seus aliados marítimos a Esparta e seus aliados continentais. O resultado se decidiu por força militar, mas também por acidentes e escolhas. Quatro fatores moldaram o início da guerra:
 
 - **Atenas:** frota poderosa, muralhas longas até o porto de Pireu, estratégia naval;
 - **Esparta:** o melhor exército terrestre da Grécia, estratégia continental;
@@ -107,7 +107,7 @@ A Guerra do Peloponeso (431-404 a.C.) opôs Atenas e seus aliados marítimos a E
 
 ### 3.2 Tucídides: medo, interesse e poder
 
-**Tucídides** (c. 460-400 a.C.) escreveu a *História da Guerra do Peloponeso* — uma das primeiras obras de história crítica do Ocidente. Ele explicou o conflito por causas humanas, não divinas: medo, interesse e poder, em vez de vontade dos deuses. Quatro categorias de análise atravessam sua obra e ajudam a entender por que a guerra escalou:
+**Tucídides** (c. 460-400 a.C.) escreveu a *História da Guerra do Peloponeso* — uma das primeiras obras de história crítica do Ocidente. Ele explicou o conflito por causas humanas, não divinas. Quatro categorias atravessam sua análise:
 
 - **Medo:** pólis menores temiam o crescimento ateniense;
 - **Interesse:** cada lado buscava recursos, aliados e poder naval;
@@ -119,7 +119,7 @@ A Guerra do Peloponeso (431-404 a.C.) opôs Atenas e seus aliados marítimos a E
 
 ### 3.3 Vitória espartana e enfraquecimento geral
 
-Esparta venceu em 404 a.C., com apoio financeiro persa — fato curioso, já que era o mesmo império que as pólis tinham combatido juntas décadas antes. A vitória, porém, não restaurou a Grécia. Custou caro até para o vencedor, e quatro consequências mostram por quê:
+Esparta venceu em 404 a.C., com apoio financeiro persa — o mesmo império que as pólis tinham combatido juntas décadas antes. A vitória custou caro até para o vencedor. Quatro consequências mostram por quê:
 
 - **Atenas:** perdeu a hegemonia, viu suas muralhas longas derrubadas;
 - **Trinta Tiranos:** governo oligárquico imposto a Atenas pela Esparta;
@@ -136,7 +136,7 @@ A Guerra do Peloponeso encerrou o ciclo do apogeu ateniense, mas não trouxe est
 
 ### 4.1 Hegemonias rivais e instabilidade
 
-Com Atenas derrotada, abriu-se um vácuo de liderança que outras pólis tentaram ocupar. Cada novo "primeiro lugar" durou pouco: cansaço militar e ressentimento entre cidades vizinhas faziam o ciclo recomeçar. Quatro momentos resumem essa década e meia de instabilidade:
+Com Atenas derrotada, abriu-se um vácuo de liderança. Outras pólis tentaram ocupá-lo, mas cansaço militar e ressentimento mantinham o ciclo de instabilidade. Quatro momentos resumem essa década e meia:
 
 - **Hegemonia espartana (404-371 a.C.):** Esparta tentou impor governos aliados; gerou ressentimento;
 - **Batalha de Leuctras (371 a.C.):** Tebas derrotou os espartanos;
@@ -145,7 +145,7 @@ Com Atenas derrotada, abriu-se um vácuo de liderança que outras pólis tentara
 
 ### 4.2 A autonomia grega em crise
 
-No norte, a Macedônia se fortalecia. Filipe II reorganizava o exército, formava alianças e observava o desgaste das pólis — esperando o momento certo para agir. O momento veio em 338 a.C., e quatro marcos selaram o fim da autonomia grega:
+No norte, a Macedônia se fortalecia. Filipe II reorganizava o exército e observava o desgaste das pólis. O momento veio em 338 a.C. — quatro marcos selaram o fim da autonomia grega:
 
 - **Queroneia (338 a.C.):** macedônios derrotaram forças gregas reunidas;
 - **Fim da autonomia grega:** capacidade de cada pólis decidir seu destino encerrada;
