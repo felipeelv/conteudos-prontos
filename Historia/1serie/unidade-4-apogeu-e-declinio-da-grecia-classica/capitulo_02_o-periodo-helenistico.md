@@ -149,7 +149,7 @@ Os romanos ficaram impressionados com a cultura grega.
 
 ## 🤝 Sua Parte
 
-Compare dois mapas: as conquistas de Alexandre por volta de 323 a.C. e os reinos helenísticos por volta de 250 a.C. Identifique três regiões que pertenceram a um único império e depois ficaram divididas. O que se manteve do projeto unificador? O que se perdeu?
+O período helenístico misturou gregos, persas, egípcios e judeus em um mundo de fronteiras frouxas — sem nunca apagar de vez as identidades. Você vive algo parecido: cresce numa cultura globalizada que mistura música americana, comida japonesa, pregações nigerianas e memes brasileiros. Sua parte é não confundir abertura com perda de raiz: dá para conviver com o diferente sem virar cópia dele e sem fechar a porta para quem é de fora. A diáspora judaica daquela época preservou a fé em meio a impérios; ela ensina que identidade firme não precisa de muro alto.
 
 ---
 

@@ -138,7 +138,7 @@ A Guerra Fria teve fases distintas.
 
 ## 🤝 Sua Parte
 
-Construa uma tabela comparativa entre Coreia, Cuba e Vietnã. Para cada país, anote: causa local da disputa (descolonização, projeto de país, alinhamento), envolvimento das superpotências, formato do conflito (guerra convencional, crise diplomática, guerrilha), e consequência humana e geopolítica. O que essas três experiências ensinam sobre como conflitos locais foram capturados pela disputa global?
+Coreia, Cuba, Vietnã: três povos cujas vidas foram remodeladas por uma disputa que não era deles. As causas locais — fome, terra, autonomia, pão — viraram peças de um tabuleiro maior, e milhões pagaram com a vida. Sua parte é treinar o olhar para quando isso acontece hoje: conflitos no Oriente Médio, na África Subsaariana, na Ucrânia têm sempre uma camada local real e uma camada de interesses externos que a esconde. Antes de torcer por um "lado", pergunte quem está sangrando no chão e quem está vendendo armas — geralmente são pessoas diferentes.
 
 ---
 

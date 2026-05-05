@@ -148,7 +148,7 @@ A **memória histórica** é a forma como sociedades lembram, silenciam ou reint
 
 ## 🤝 Sua Parte
 
-Construa um quadro comparativo das quatro revoltas (Cabanagem, Balaiada, Farroupilha, Sabinada). Para cada uma, anote: local, anos, base social, demandas, lideranças, resultado e memória pública atual. Que padrão você vê na relação entre composição social da revolta e tratamento que ela recebeu da história?
+Cabanagem, Balaiada, Farroupilha, Sabinada: quatro revoltas, quatro narrativas oficiais diferentes — algumas viraram orgulho regional, outras foram apagadas. Sua parte é perceber que a memória pública não é neutra: quem decide o que é "herói" e o que é "baderna" geralmente decide também quem tem voz hoje. Quando você vê um movimento atual sendo chamado de "manifestação legítima" ou "vandalismo" pela mesma imprensa, lembre da Cabanagem. Ler quem está falando — e em nome de quem — é um exercício de cidadania que começa nas redes sociais.
 
 ---
 

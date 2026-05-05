@@ -154,7 +154,7 @@ No norte, a Macedônia se fortalecia. Filipe II reorganizava o exército, formav
 
 ## 🤝 Sua Parte
 
-Procure um mapa da Liga de Delos no auge ateniense. Identifique três cidades aliadas e indique sinais que sugerem domínio de Atenas: localização do tesouro, fluxos de tributos, frota concentrada em Pireu. O que diferencia uma aliança defensiva de um sistema imperial?
+Você vive em uma democracia que herdou da Atenas clássica a ideia de que cidadãos comuns decidem o rumo coletivo — mas também herdou os limites dela: nem todos têm voz na prática. Sua parte hoje é exercer essa cidadania com lucidez: votar com informação, falar nos espaços onde as decisões reais acontecem (sala, igreja, bairro), perceber quem está sendo deixado de fora da conversa. Atenas excluía mulheres e escravos; nossas exclusões são outras, mas existem. Reconhecê-las é o primeiro ato democrático.
 
 ---
 

@@ -106,7 +106,7 @@ A **estabilidade política** é a capacidade de reduzir conflitos e produzir con
 
 ## 🤝 Sua Parte
 
-Construa uma linha do tempo de 1831 a 1841 com os marcos: 7/4/1831 (abdicação), 1834 (Ato Adicional), 1835-1840 (revoltas regenciais), 1837 (renúncia de Feijó), 1840 (Lei de Interpretação), 23/7/1840 (Declaração da Maioridade), 18/7/1841 (coroação). Para cada evento, indique se aproximou ou afastou o Brasil de uma solução para a crise da Regência.
+Em 1840, políticos resolveram uma crise burlando a Constituição: declararam um menino de 14 anos maior de idade porque a regra atrapalhava o projeto deles. Sua parte é desconfiar do "atalho institucional" — a ideia de que tudo bem furar a regra quando o objetivo parece bom. A história mostra que o atalho de hoje vira o precedente de amanhã: se foi ok pular a Constituição em 1840, por que não em 1937, em 1964? Sustentar regras mesmo quando elas atrasam o que você quer é o que mantém um país sob lei, e não sob vontade de turma.
 
 ---
 

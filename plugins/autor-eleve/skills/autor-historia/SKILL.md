@@ -179,7 +179,7 @@ Ver `~/conteudos-prontos/Historia/_autor/PADRAO_EDITORIAL_v2.md` para versão co
 ---
 
 ## 🤝 Sua Parte
-[1 parágrafo curto — atividade prática]
+[1 parágrafo curto — reflexão sobre o papel/postura do aluno diante do tema, NÃO atividade]
 
 ---
 
@@ -283,7 +283,7 @@ Frase-síntese isolada como blockquote SEM emoji. Use entre parágrafos densos c
 ## Blocos pós-conteúdo (v2 — NESTA ORDEM)
 
 ```
-## 🤝 Sua Parte                                       (H2 — 1 parágrafo curto, atividade prática)
+## 🤝 Sua Parte                                       (H2 — 1 parágrafo curto, reflexão sobre papel/postura do aluno; NÃO atividade; pode ser omitida se não houver gancho honesto com a vida do aluno)
 > 📚 **Curiosidade:** ...                             (BLOCKQUOTE inline — fato curioso, 1-2 frases)
 ## Enquanto isso...                                   (H2 — paralelo histórico-cristão da mesma época + lista "O que estava em jogo:")
 ## E para hoje...                                     (H2 — versículo + 1 parágrafo + 1-2 bullets + Para Conversar)
@@ -309,7 +309,7 @@ Quando o blueprint pedir conteúdo que não cabe na estrutura padrão:
 - **Conteúdo factual** (personagem específico, data, fato): EMBUTIR no bloco mais natural — `## Esse foi o "cara"` (personagem principal), `> 📚 Curiosidade` (fato pontual), `## Enquanto isso...` (paralelo temporal) ou dentro dos tópicos numerados
 - **Exercícios pedidos pelo blueprint:** DESCARTADOS (caderno de atividades separado)
 - **Conexão bíblica explícita:** SEMPRE em `## E para hoje...` — `## Enquanto isso...` é paralelo temporal, não comentário escriturístico
-- **Aplicação prática/cidadania:** SEMPRE em `## 🤝 Sua Parte` — nunca dispersa pelo capítulo
+- **Reflexão cidadã/cristã do aluno** (papel e postura diante do tema, NÃO atividade): SEMPRE em `## 🤝 Sua Parte` — nunca dispersa pelo capítulo. Se o tema não tiver gancho honesto com a vida do aluno, omitir a seção.
 - **Personagem do blueprint:** literal e inegociável em `## Esse foi o "cara"`
 - **Versículo do blueprint:** literal e inegociável em `## E para hoje...`
 

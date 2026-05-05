@@ -151,7 +151,7 @@ A pressão internacional cresceu nos anos 1980.
 
 ## 🤝 Sua Parte
 
-Compare o mapa político da África em 1950 (quase toda colonizada), em 1975 (a maior parte independente) e atual. Identifique três aspectos: quais países conquistaram independência por negociação e quais por guerra; que fronteiras foram herdadas exatamente como os colonizadores as desenharam; que disputas atuais derivam dessas fronteiras coloniais.
+As fronteiras africanas foram desenhadas por europeus que nunca pisaram lá, separando povos e amontoando inimigos — e o continente ainda paga essa conta. Sua parte tem dois lados. Primeiro: o Brasil é, em proporção, o segundo país mais negro do mundo; reconhecer a África como matriz cultural, religiosa e familiar do que você é não é militância, é precisão histórica. Segundo: quando alguém fala da África como "terra de guerra e fome", lembre que a guerra e a fome têm endereço — fronteira colonial, dívida externa, extrativismo. Recusar a versão preguiçosa é um ato de respeito.
 
 ---
 

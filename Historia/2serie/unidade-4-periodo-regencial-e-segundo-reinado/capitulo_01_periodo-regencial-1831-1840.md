@@ -109,7 +109,7 @@ A descentralização ampliou o poder das elites locais — em algumas província
 
 ## 🤝 Sua Parte
 
-Procure um trecho adaptado do Ato Adicional de 1834 (artigos sobre Assembleias Provinciais e Regência Una). Identifique: quais poderes foram aproximados das províncias? Quais permaneceram no centro? Anote três competências que deixaram de depender do Rio de Janeiro.
+O Brasil regencial foi um país inventando suas regras na pressa — e foi nesse vácuo que decisões definitivas (sobre escravidão, federalismo, eleições) foram tomadas por poucos. Sua parte é entender que momentos de transição política não são pausa: são justamente quando o futuro se decide. Hoje, quando se discute reforma eleitoral, novo pacto fiscal ou mudança constitucional, parece distante — mas é ali que o país do seu filho vai ser desenhado. Estar informado sobre o que se decide enquanto a maioria não presta atenção é o oposto da apatia regencial que custou caro ao Brasil.
 
 ---
 

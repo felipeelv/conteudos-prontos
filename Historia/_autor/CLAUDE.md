@@ -138,7 +138,7 @@ Quando o **blueprint** pedir conteúdo que não cabe na estrutura padrão de His
 2. **Conteúdo factual** (personagem específico, data, fato): embute no bloco mais natural — `## Esse foi o "cara"`, `## E para hoje...` (lista de aprendizados), `> 📚 Curiosidade` ou `## Enquanto isso...`.
 3. **Exercícios pedidos pelo blueprint:** **descartados** desta saída. Ficam no caderno de atividades separado.
 4. **Conexão bíblica explícita:** vai sempre em `## E para hoje...`. `## Enquanto isso...` é paralelo histórico-cristão TEMPORAL, não comentário escriturístico.
-5. **Aplicação prática/cidadania:** vai sempre em `## 🤝 Sua Parte` — nunca dispersa pelo capítulo.
+5. **Reflexão cidadã/cristã do aluno** (papel e postura diante do tema, NÃO atividade): vai sempre em `## 🤝 Sua Parte` — nunca dispersa pelo capítulo. Se o tema não tiver gancho honesto com a vida do aluno, omitir a seção.
 6. **Personagem histórico do blueprint:** literal e inegociável em `## Esse foi o "cara"`.
 7. **Versículo do blueprint:** literal e inegociável em `## E para hoje...`.
 

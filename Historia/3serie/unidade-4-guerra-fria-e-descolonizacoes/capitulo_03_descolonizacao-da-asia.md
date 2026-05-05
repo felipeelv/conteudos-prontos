@@ -134,7 +134,7 @@ A **Indonésia** era colônia holandesa desde o século XVII. Sua independência
 
 ## 🤝 Sua Parte
 
-Procure um mapa da Partilha da Índia em 1947, com Índia e Paquistão (Ocidental e Oriental) destacados. Identifique três aspectos: regiões com maioria hindu e muçulmana antes da Partilha, trajetos de deslocamento populacional, áreas de conflito permanente como Caxemira. Compare com mapa atual: o que mudou? O que permanece?
+A Partilha da Índia em 1947 dividiu pessoas que conviviam há séculos em "hindus" e "muçulmanos" porque uma fronteira disse que sim — e mais de um milhão morreu por causa disso. Sua parte é reconhecer que identidades coletivas (religião, partido, time, classe) podem unir e podem matar, dependendo de quem as instrumentaliza. Você se identifica como cristão, brasileiro, eleve, eleitor de algum candidato; tudo bem ter pertencimentos. Não tudo bem deixar que esses rótulos lhe convençam de que quem está do outro lado é menos gente. A Caxemira ainda sangra por causa de uma linha desenhada às pressas.
 
 ---
 

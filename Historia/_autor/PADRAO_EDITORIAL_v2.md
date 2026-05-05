@@ -27,7 +27,7 @@ Toda unidade segue esta sequência fixa, nesta ordem:
 2. **Prelúdio narrativo** — sem título, abre direto após a pergunta
 3. **Para Conversar de intro** (`> 💬 **Para Conversar:**`) — pergunta reflexiva em segunda pessoa, fecha o prelúdio
 4. **Tópicos numerados** (`## 1.`, `## 2.`, `## 3.`, `## 4.`) — entram direto, sem heading "Explorando os Conceitos"
-5. **🤝 Sua Parte** (H2) — atividade prática
+5. **🤝 Sua Parte** (H2) — reflexão sobre o papel/posição do aluno diante do tema (NÃO é atividade)
 6. **📚 Curiosidade** — blockquote único (não é heading)
 7. **Enquanto isso...** (H2) — paralelo temporal histórico-cristão
 8. **E para hoje...** (H2) — devocional
@@ -189,8 +189,12 @@ Sintaxe:
 </tópicos>
 
 <sua_parte>
-- 1 parágrafo curto
-- Atividade prática conectada à realidade do aluno (cidadania, leitura crítica do presente, conexão com o tema)
+- 1 parágrafo curto (4-7 frases)
+- **NÃO é atividade.** Não pedir para "procurar mapa", "construir tabela", "comparar", "identificar". Atividades vivem em outro material.
+- É **reflexão sobre o papel/posição do aluno diante do tema**: o que ele pode fazer, como se posicionar, qual sua responsabilidade enquanto cidadão e cristão diante do que foi estudado.
+- Tom: convite à postura, não à tarefa. "Sua parte é..." (reconhecer, resistir, perceber, sustentar, recusar, exercer).
+- Pode incluir referência bíblica curta entre parênteses quando couber (sem virar devocional — isso é função do `## E para hoje...`).
+- Se o tema histórico não tiver gancho honesto com a vida do aluno hoje, **omita a seção** em vez de forçar conexão artificial.
 </sua_parte>
 
 <curiosidade>

@@ -129,7 +129,7 @@ A divisão criou linguagem própria.
 
 ## 🤝 Sua Parte
 
-Procure um mapa da Europa em 1955, com OTAN e Pacto de Varsóvia em cores diferentes. Identifique três aspectos: quais países ficaram em cada bloco, qual foi o preço geográfico da Cortina de Ferro, quais permaneceram neutros. Compare com mapa atual: que fronteiras se mantêm? Que mudanças ocorreram?
+A Guerra Fria acabou em 1991, mas a tentação de dividir o mundo em dois lados — "nós" e "eles", certos e errados — atravessa o noticiário, as redes sociais e até as conversas de família. Sua parte é resistir à simplificação que a polarização exige: ouvir antes de classificar, pesquisar antes de compartilhar, reconhecer humanidade em quem pensa diferente. Cristo orou para que seus discípulos fossem um (Jo 17.21); manter pontes onde o tempo só ergue muros é uma escolha cotidiana, e ela começa em quem você decide deixar falar.
 
 ---
 

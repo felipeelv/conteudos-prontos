@@ -153,7 +153,7 @@ A herança grega chegou ao Ocidente sempre adaptada e reinterpretada.
 
 ## 🤝 Sua Parte
 
-Procure três imagens: um teatro grego, um templo grego e um mapa de uma pólis. Identifique como esses três espaços se relacionavam — religioso, político e cultural. Que espaços, hoje, juntam essas três funções?
+Quase tudo que você usa para pensar — argumento, lógica, prova, dúvida, separação entre opinião e saber — tem origem grega. Sua parte é honrar essa herança não citando filósofos, mas usando o método: questionar antes de aceitar uma notícia, pedir evidência antes de tomar partido, reconhecer quando o outro tem razão mesmo que isso custe. Sócrates morreu por defender a pergunta; você não precisa morrer por ela, mas precisa praticá-la. Em tempos de afirmação rápida e debate raso, perguntar bem é uma forma de resistência intelectual.
 
 ---
 
