@@ -89,7 +89,7 @@ A reação tinha limites claros:
 ---
 
 ## 🤝 Sua Parte
-Compare dois mapas da Europa: um no auge napoleônico (1812) e outro após o Congresso de Viena (1815). Indique mudanças territoriais e os objetivos políticos por trás de cada redesenho.
+Napoleão espalhou ideais revolucionários pela Europa enquanto coroava a si mesmo imperador — contradição que define muita liderança até hoje. Sua parte é desconfiar do líder que se apresenta como salvador: revolução sem freio costuma virar imperador novo. Quando alguém fala em "salvar o Brasil sozinho", você já viu esse filme antes.
 
 > 📚 **Curiosidade:**  
 > Na pintura oficial da coroação, Jacques-Louis David retocou a cena várias vezes — incluindo posicionar a mãe de Napoleão entre os convidados, mesmo sabendo que ela tinha boicotado o evento.

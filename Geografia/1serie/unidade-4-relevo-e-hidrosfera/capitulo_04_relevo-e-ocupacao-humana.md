@@ -140,7 +140,7 @@ Urbanização sem planejamento sobre encostas e várzeas concentra risco em popu
 ---
 
 ## 🤝 Sua Parte
-Procure fotos de três cenas: uma planície urbanizada, uma encosta com construções e uma área agrícola em terraço. Compare vantagens, técnicas usadas e riscos envolvidos em cada uma.
+A pergunta "por que os pobres moram em encosta?" tem resposta histórica: porque o terreno plano e seguro foi vendido primeiro, mais caro, para quem podia pagar. Sua parte é reconhecer que tragédia anunciada (deslizamento, enchente, Petrópolis 2022) não é desastre natural — é desastre social. Quem é cristão precisa enxergar a vida do outro como prioridade política, não detalhe geográfico. Defender política habitacional não é militância, é coerência com a doutrina de que toda vida tem o mesmo valor.
 
 ---
 

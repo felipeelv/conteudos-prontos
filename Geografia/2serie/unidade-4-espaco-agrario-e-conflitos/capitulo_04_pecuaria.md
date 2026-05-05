@@ -124,7 +124,7 @@ Outros impactos têm peso global.
 ---
 
 ## 🤝 Sua Parte
-Monte um fluxograma da cadeia da carne bovina, da fazenda de cria até o consumidor final no exterior. Identifique três pontos onde controle ambiental e rastreabilidade poderiam ser exigidos — e quem deveria exigir cada um.
+A cadeia da carne bovina conecta sua churrascaria favorita ao desmatamento amazônico, à exportação para a China e ao trabalho análogo à escravidão em fazendas remotas — tudo no mesmo prato. Sua parte é se informar sobre origem e rastreabilidade sem virar dogmático: comer carne com discernimento é diferente de não comer. O que importa é exigir transparência da empresa e fiscalização do Estado. Voto, compra e fala pública são três jeitos de empurrar a cadeia para mais limpa.
 
 ---
 

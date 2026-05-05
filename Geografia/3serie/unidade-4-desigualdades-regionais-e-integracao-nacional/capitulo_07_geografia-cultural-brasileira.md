@@ -127,7 +127,7 @@ Mídias digitais e mercado cultural global mudaram radicalmente a circulação c
 ---
 
 ## 🤝 Sua Parte
-Escolha um patrimônio cultural ou manifestação regional do seu estado ou região. Identifique: o lugar onde ele se origina, a memória coletiva que carrega, qual economia se relaciona a ele (turismo, mercado local, mídia) e qual identidade territorial expressa. Argumente por que ele importa.
+A cultura regional brasileira (frevo, fandango, congado, bumba-meu-boi, tambor de crioula) não é folclore para turista — é registro vivo de povos que sobreviveram ao apagamento. Sua parte é honrar essa diversidade sem virar curador de museu: ouça a música, prove a comida, leia o autor regional, valorize o sotaque. Reconhecer que sua cultura é uma entre muitas (e não a "normal") é o que diferencia cidadão de centro de imperialismo interno. País plural se constrói nas pequenas escolhas estéticas do dia a dia.
 
 ---
 

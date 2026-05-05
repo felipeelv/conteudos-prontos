@@ -98,7 +98,7 @@ No mesmo ano, a **Primavera dos Povos** sacudiu capitais europeias. As ideias de
 ---
 
 ## 🤝 Sua Parte
-Analise duas fontes curtas: um depoimento sobre trabalho infantil na Inglaterra do século XIX e um trecho adaptado do Manifesto Comunista. Responda que problemas cada fonte denuncia e como cada uma propõe enfrentá-los.
+Marx, Engels e o movimento operário denunciaram a exploração nas fábricas em livro, jornal e protesto — e foram chamados de baderneiros, exatamente como manifestantes hoje. Sua parte é ler quem critica o sistema econômico mesmo que você não concorde: discordar com base em conhecimento é diferente de discordar por reflexo. Cristão não precisa ser socialista, mas precisa enxergar exploração quando ela está acontecendo.
 
 > 📚 **Curiosidade:**  
 > Ned Ludd provavelmente nunca existiu como pessoa real, mas seu nome virou assinatura coletiva de protestos contra a exploração fabril — e até hoje "ludita" é palavra usada (em geral injustamente) para quem rejeita tecnologia.

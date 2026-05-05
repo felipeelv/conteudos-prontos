@@ -129,7 +129,7 @@ A regionalização de Geiger é insubstituível para análise.
 ---
 
 ## 🤝 Sua Parte
-Pegue um mapa do IBGE com as cinco regiões oficiais e um mapa dos três complexos geoeconômicos. Para uma pergunta sobre desigualdade econômica regional, qual mapa responde melhor? Para uma pergunta sobre execução orçamentária federal, qual responde melhor? Justifique cada escolha.
+O Brasil oficial tem 5 regiões administrativas, mas o Brasil real tem 3 grandes complexos econômicos (Amazônia, Nordeste, Centro-Sul) que operam em ritmos diferentes. Sua parte é entender que generalizar "o Brasil" tira de foco a desigualdade interna: a tese sobre o país que cabe em São Paulo não cabe no Maranhão e vice-versa. Quando algum candidato falar em "país unido", pergunte qual Brasil ele está vendo. Política séria começa quando o mapa para de ser uma cor única.
 
 ---
 

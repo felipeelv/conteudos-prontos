@@ -42,7 +42,7 @@ A leitura é **storytelling didático**: parte de cena de abertura curta, percor
 ---
 
 ## 🤝 Sua Parte
-[Aplicação prática + cidadania — máximo 1 frase]
+[Reflexão sobre o papel/postura do aluno diante do tema — NÃO atividade. 1 parágrafo curto, vocabulário adequado à idade. Pode ser omitida se não houver gancho honesto com a vida do aluno.]
 ---
 #### 📚 Curiosidade dos Estudos Sociais
 [Fato que amplia o tema — máximo 2 frases]
@@ -104,7 +104,7 @@ A leitura é **storytelling didático**: parte de cena de abertura curta, percor
   - `> ⏸️ **Pare e Pense:**` — dilema ético/político/decisão histórica
   - `> 💡 **Você sabia?**` — curiosidade histórica em uma frase
   - `> 💬 **Para Conversar:**` — pergunta reflexiva em segunda pessoa (usado na introdução e em "E para hoje...")
-- ✅ `## 🤝 Sua Parte` — 1 frase aplicando o tema ao cotidiano do aluno (cidadania).
+- ✅ `## 🤝 Sua Parte` — reflexão sobre o papel/postura do aluno diante do tema (NÃO atividade). 1 parágrafo curto, vocabulário adequado à idade. Omitir quando o tema não tiver gancho honesto com a vida do aluno.
 - ✅ `#### 📚 Curiosidade dos Estudos Sociais` — H4 com emoji, 1-2 frases ampliando o tema.
 - ✅ `## Enquanto isso...` — prosa de contemporaneidade histórico-cristã + lista "O que estava em jogo:" com bullets.
 - ✅ `## E para hoje...` — versículo (itálico/negrito + ref) → comentário curto → transição narrativa contextual → bullets de aprendizados → frase de síntese → `> 💬 **Para Conversar:**`.

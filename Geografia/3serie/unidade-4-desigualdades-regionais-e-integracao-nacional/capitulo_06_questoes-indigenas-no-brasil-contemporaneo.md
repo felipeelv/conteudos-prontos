@@ -124,7 +124,7 @@ Orlando Villas-Bôas (1914-2002), junto com os irmãos Cláudio e Leonardo, foi 
 ---
 
 ## 🤝 Sua Parte
-Procure uma notícia recente sobre conflito territorial indígena no Brasil. Identifique: o povo envolvido, o território em disputa, qual direito está em jogo, qual pressão econômica atua sobre a área e qual o desfecho atual. Argumente sobre o que o caso revela.
+Os povos indígenas estavam aqui antes do Brasil ser Brasil — e ainda são tratados como obstáculo ao "progresso" em fronteiras agrícolas, hidrelétricas e mineração ilegal. Sua parte é se informar com seriedade: indígena não é figurante de novela nem peça de museu, é cidadão brasileiro com direito constitucional. Quando alguém disser "tem terra demais para pouco índio", lembre da matemática real: 14% do território é quase tudo o que sobrou do que era 100%. O texto bíblico que diz "o estrangeiro que habita contigo será para vós como o natural" (Lv 19.34) ganha peso quando o "estrangeiro" é, na verdade, quem chegou primeiro.
 
 ---
 

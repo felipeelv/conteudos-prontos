@@ -121,7 +121,7 @@ Outros impactos são menos visíveis no mapa, mas igualmente sérios.
 ---
 
 ## 🤝 Sua Parte
-Pesquise um mapa atualizado das culturas agrícolas brasileiras. Escolha uma região do país e explique por que ela se especializou nas culturas que domina — considere solo, clima, infraestrutura e história. Argumente.
+O Brasil alimenta 1 bilhão de pessoas no mundo, mas tem mais de 30 milhões de brasileiros em insegurança alimentar grave. Sua parte é resistir à narrativa do "celeiro do mundo" enquanto vizinho seu não come direito. Ser pró-agricultura não significa fechar os olhos para a fome interna; significa exigir que a abundância produzida aqui chegue primeiro à mesa daqui. Quando você vir safra recorde no jornal e fila de cesta básica na esquina, está vendo a mesma coisa: gestão de prioridade.
 
 ---
 

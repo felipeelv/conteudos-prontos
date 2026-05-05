@@ -105,7 +105,7 @@ Para tentar escapar desse jogo, a **Conferência de Bandung (1955)**, na Indoné
 ---
 
 ## 🤝 Sua Parte
-Compare um mapa da África antes da descolonização (1900) e outro depois (1980). Identifique fronteiras coloniais que se mantiveram e explique como elas podem gerar tensões mesmo décadas após a independência.
+Os países africanos e asiáticos conquistaram independência política depois de 1945 — mas as fronteiras coloniais e a dependência econômica continuaram, gerando guerras e crises até hoje. Sua parte é reconhecer que "independência" no papel não é independência de fato: o Brasil também passou por isso desde 1822. Quando você ouvir "África é guerra e fome", lembre que essa fome tem endereço, e o endereço passa por Berlim 1885.
 
 > 📚 **Curiosidade:**  
 > Em 1955, a Conferência de Bandung reuniu 29 países afro-asiáticos buscando uma "terceira posição" diante da bipolaridade — origem do **Movimento dos Não-Alinhados**, que existe até hoje.

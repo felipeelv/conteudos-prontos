@@ -130,7 +130,7 @@ Os principais problemas de lagos brasileiros são previsíveis. Quase todos têm
 ---
 
 ## 🤝 Sua Parte
-Escolha cinco corpos d'água diferentes (em mapa, no seu município ou no Brasil). Para cada um, classifique a origem (tectônica, vulcânica, barragem natural, glacial ou artificial) e o uso principal. Justifique cada escolha.
+Cada corpo d'água tem origem (geológica) e dono (social) — e essas duas histórias raramente coincidem. Sua parte é perguntar quem usa, quem polui e quem paga: a represa que abastece sua cidade desabriga quem? A lagoa do parque é resíduo industrial de quem? O Lago de Itaipu é energia barata para quem? Geografia não é decoração de paisagem, é mapa de poder dissimulado em curva azul.
 
 ---
 

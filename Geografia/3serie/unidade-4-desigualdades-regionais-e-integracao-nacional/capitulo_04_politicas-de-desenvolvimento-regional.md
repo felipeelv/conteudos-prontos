@@ -140,7 +140,7 @@ A economista pernambucana Tânia Bacelar de Araújo é referência em avaliaçã
 ---
 
 ## 🤝 Sua Parte
-Escolha uma política regional brasileira (SUDENE, SUDAM, SUDECO, ZFM ou um fundo). Identifique: qual o objetivo, qual o instrumento, qual o resultado nas últimas décadas e qual o limite principal. Argumente sobre o que ela alcançou e o que ficou de fora.
+SUDENE, SUDAM, ZFM, SUDECO — siglas que parecem letrinhas de prova, mas movem bilhões e decidem se o Nordeste, a Amazônia e o Centro-Oeste vão integrar o Brasil ou continuar dependentes do Sudeste. Sua parte é entender que política regional não é "ajuda" do Sul — é dívida histórica do que foi extraído por séculos. Quem hoje paga ICMS em São Paulo está parcialmente devolvendo o que foi tirado de Pernambuco em 1700. Ressignificar transferência de recursos como reparação muda tudo.
 
 ---
 

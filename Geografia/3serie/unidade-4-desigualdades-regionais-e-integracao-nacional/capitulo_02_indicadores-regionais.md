@@ -122,7 +122,7 @@ A combinação revela contradições que cada indicador isolado esconderia. Uma 
 ---
 
 ## 🤝 Sua Parte
-Pesquise PIB, PIB per capita, IDH e Gini de três regiões brasileiras (ou três estados). Monte um quadro comparativo. Em qual delas a média esconde mais a realidade? Qual delas mostra coerência entre indicadores? Argumente.
+PIB, IDH, Gini, PIB per capita — números bonitos, mas média esconde dor. Sua parte é desconfiar de manchete que celebra "crescimento" sem dizer para quem foi. Aprender a ler indicador regional é uma vacina contra propaganda eleitoral barata: o estado que aparece em primeiro lugar pode ser exatamente o mais desigual. Quando você for adulto e votar baseado em "economia", lembre que economia média sem distribuição é só estatística arrumada para confortar quem já está confortável.
 
 ---
 

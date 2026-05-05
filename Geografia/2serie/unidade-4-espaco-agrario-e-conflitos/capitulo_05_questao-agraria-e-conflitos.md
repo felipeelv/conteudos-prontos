@@ -121,7 +121,7 @@ A Constituição de 1988 e o Código Penal (1995) tipificam trabalho análogo à
 ---
 
 ## 🤝 Sua Parte
-Escolha uma notícia recente sobre conflito agrário. Identifique: quem são os atores envolvidos (proprietário, trabalhadores, Estado, movimentos sociais), qual é o território disputado, qual é a causa do conflito, quais direitos estão em jogo e quais fontes a notícia consultou.
+Cada conflito agrário no Brasil tem nome, cara e sangue — Eldorado dos Carajás, Dorothy Stang, Pau D'Arco. Sua parte é não tratar essas mortes como estatística distante: quando uma família é despejada, um líder indígena é assassinado ou um movimento social é criminalizado, o Brasil escolhe um lado. Cristão não pode terceirizar a defesa do oprimido para "ativista" — Provérbios 31.8 é direto: "abre a boca a favor do mudo, pelo direito de todos os desamparados". Ler quem morreu na semana, dizer o nome em voz alta, é resistência básica.
 
 ---
 

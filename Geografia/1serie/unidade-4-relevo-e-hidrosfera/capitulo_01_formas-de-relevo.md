@@ -153,7 +153,7 @@ O perfil da Serra do Mar entre Santos e São Paulo, por exemplo, mostra uma linh
 ---
 
 ## 🤝 Sua Parte
-Procure um mapa hipsométrico do seu município ou região e identifique a área de maior declividade. Provavelmente é onde o solo erode mais rápido, onde uma chuva forte concentra água ou onde construir custa mais.
+Você cresce numa cidade construída sobre formas de relevo que decidem o que é possível ali — onde dá pra construir, onde inunda, onde o solo segura. Sua parte é olhar a cidade com esses olhos: reconhecer que enxurrada, deslizamento e fila no metrô não são "azar", são consequência de quem ocupa qual encosta. Ao votar em prefeito, ao escolher um bairro pra morar, ao ver uma favela na encosta, você está lendo relevo, mesmo sem saber. Ler com lucidez é o primeiro passo pra ser parte da solução, não da repetição.
 
 ---
 

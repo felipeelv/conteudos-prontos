@@ -108,7 +108,7 @@ Os **Estados Unidos** aceleraram a industrialização após a guerra civil (1865
 ---
 
 ## 🤝 Sua Parte
-Analise uma gravura de fábrica inglesa do século XIX. Identifique 3 sinais de tecnologia, 3 sinais de disciplina do trabalho e 2 riscos sociais.
+A Revolução Industrial trouxe luz elétrica, transporte rápido e medicina moderna — e também trabalho infantil, pulmão preto e desigualdade brutal. Sua parte é não escolher um lado da história e ignorar o outro: tudo que você usa hoje (do celular ao remédio) tem origem nesse processo. Reconhecer benefício e custo ao mesmo tempo é a forma adulta de pensar sobre tecnologia — e vale também para o algoritmo do TikTok.
 
 > 📚 **Curiosidade:**  
 > A unidade de potência "watt", usada hoje em lâmpadas, eletrodomésticos e usinas, recebeu esse nome em homenagem a James Watt — um engenheiro que mal estudou em escola formal.

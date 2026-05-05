@@ -114,7 +114,7 @@ Para falar de desigualdade com integridade:
 ---
 
 ## 🤝 Sua Parte
-Faça uma pequena entrevista com pais, avós ou responsáveis. Pergunte onde nasceram e marque os lugares em um mapa do Brasil. Registre 1 costume que viajou com a família.
+Quase todo brasileiro tem alguém na família que veio de outro lugar — outro estado, outro país, outra cidade. Sua parte é tratar quem migra com o mesmo carinho que você gostaria de receber se fosse o novo da escola: saber o nome, perguntar a história, ouvir o sotaque sem rir. O Brasil é feito por gente que chegou.
 
 > 📚 **Curiosidade:**  
 > *A Triste Partida*, poema de Patativa do Assaré, conta a saída de uma família nordestina em tempos de seca. É uma das imagens culturais mais fortes da migração brasileira.

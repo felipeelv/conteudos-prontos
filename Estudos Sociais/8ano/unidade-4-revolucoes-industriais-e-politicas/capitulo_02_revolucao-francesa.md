@@ -99,7 +99,7 @@ Esses princípios virariam base de constituições democráticas espalhadas pelo
 ---
 
 ## 🤝 Sua Parte
-Compare trechos curtos da Declaração de 1789 e da Declaração de Olympe de Gouges. Identifique quem foi incluído, quem ficou de fora e qual crítica aparece.
+A Declaração de 1789 dizia "todos os homens nascem livres e iguais" — e excluía mulheres, escravizados e pobres. Sua parte é entender que direito proclamado não é direito garantido: cada geração precisa lutar para que a "igualdade" no papel chegue a quem a Constituição esqueceu. O Brasil de hoje ainda está fazendo essa conta.
 
 > 📚 **Curiosidade:**  
 > No dia da Queda da Bastilha, a fortaleza tinha apenas sete presos: quatro falsificadores, dois supostos loucos e um aristocrata excêntrico. O valor da tomada era totalmente simbólico.

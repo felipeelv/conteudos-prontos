@@ -131,7 +131,7 @@ Ao mexer no zoom, é possível notar:
 
 ## 🤝 Sua Parte
 
-No pátio ou na sala, marque o Leste pelo nascer do Sol, complete uma rosa dos ventos no caderno e, depois, crie uma legenda e uma escala simples para a planta da sua sala.
+Saber para onde ir, onde está o Norte e onde fica sua casa é jeito de não ficar perdido — e isso vale na rua, no bairro, na cidade. Sua parte é treinar essa atenção todo dia: perceber para que lado o Sol nasce, contar quanto tempo leva da sua casa até a escola, lembrar quais ruas você já conhece. Quem aprende a se orientar no espaço aprende a confiar no próprio caminho.
 
 > 📚 **Curiosidade:**  
 > Antes do GPS, marinheiros atravessavam oceanos contando estrelas, observando o Sol e usando bússolas com muito cuidado. Pequenos erros de direção, depois de muitos dias de viagem, podiam levar o navio a ilhas distantes do destino — por isso medir bem fazia toda a diferença.

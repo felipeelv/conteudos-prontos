@@ -92,7 +92,7 @@ A **globalização** (intensificação de fluxos econômicos, culturais, tecnol�
 ---
 
 ## 🤝 Sua Parte
-Construa uma linha de causalidade conectando: crise econômica, Afeganistão, Gorbachev, glasnost, perestroika, 1989, putsch, dissolução. Use setas para indicar como cada elemento ajudou a provocar o seguinte.
+A URSS caiu em 1991 não por uma guerra, mas por exaustão econômica, descontentamento interno e abertura política mal calculada. Sua parte é entender que regime que parece eterno pode acabar em poucos meses quando perde legitimidade — vale para qualquer governo, qualquer tempo. Política precisa ser cuidada como jardim, não tratada como pedra.
 
 > 📚 **Curiosidade:**  
 > Em 1988, ainda dentro da URSS, foi celebrado oficialmente o **milênio do cristianismo russo** — gesto impensável anos antes, que sinalizava como a glasnost também atingia a religião.

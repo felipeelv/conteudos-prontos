@@ -110,7 +110,7 @@ Os castelos surgiram com essa função: defender o território próximo e abriga
 ---
 
 ## 🤝 Sua Parte
-Compare dois mapas — Império Carolíngio no auge e Europa após Verdun e as invasões. Aponte onde o poder parece centralizado e onde parece fragmentado.
+Quando um grande poder cai, o que vem em seguida costuma ser fragmentação, medo e violência — foi assim depois de Carlos Magno e foi assim em vários momentos da história. Sua parte é reconhecer que estabilidade política não é dada de graça: é construída, mantida com cuidado e perdida rápido. Em qualquer época, a alternativa à ordem costuma ser caos pior — não revolução salvadora.
 
 > 📚 **Curiosidade:**  
 > A letra minúscula carolíngia ajudou a padronizar a escrita manuscrita europeia e influenciou as formas de letras usadas até hoje em livros e telas.

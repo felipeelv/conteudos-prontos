@@ -114,7 +114,7 @@ A **população rural** é formada por quem vive no campo. Em 1940, a maior part
 ---
 
 ## 🤝 Sua Parte
-Olhe um mapa do Brasil e marque 3 áreas cheias de luzes e 2 com poucas. Escreva uma hipótese para essa diferença.
+O Brasil tem mais de 200 milhões de pessoas, mas elas não estão divididas igualzinho pelo país: algumas regiões têm muita gente, escola, hospital e emprego, e outras têm pouca. Sua parte é prestar atenção que onde mora pouca gente, costuma faltar coisa importante. Mudar isso é tarefa de muita gente — e começa quando alguém percebe que está acontecendo.
 
 > 📚 **Curiosidade:**  
 > Em 1940, o Brasil tinha 41 milhões de habitantes e a maioria vivia no campo. Em 2022, passou de 200 milhões e a maioria já vivia em cidades.

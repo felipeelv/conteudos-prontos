@@ -120,7 +120,7 @@ Distribuir a terra é só o primeiro passo. Sem políticas de apoio, o assentame
 ---
 
 ## 🤝 Sua Parte
-Pesquise os dados de distribuição fundiária do seu estado (IBGE ou INCRA têm). Compare o número de pequenas propriedades com a área que elas ocupam. O Gini do seu estado é maior ou menor que o nacional? Argumente sobre o que esses números mostram.
+O Brasil é um dos países mais desiguais do mundo na distribuição de terra, e essa concentração não é "natural" — foi feita por leis, decisões políticas e violência ao longo de cinco séculos. Sua parte é não confundir produtividade com justiça: o agronegócio é eficiente, mas isso não responde se a quem é dada a terra é certo. Quando você ouvir "reforma agrária" no noticiário, lembre que se está discutindo um Brasil que nunca foi distribuído. Cristão tem motivo extra para incomodar com isso — Levítico 25 inteiro é sobre redistribuição cíclica de terra.
 
 ---
 

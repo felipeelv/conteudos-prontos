@@ -116,7 +116,7 @@ Essas inovações garantiam mais comida, menos fome e abriam espaço para o lent
 ---
 
 ## 🤝 Sua Parte
-Analise um esquema de feudo. Identifique manso senhorial, manso servil, manso comunal e marque onde aparecem as obrigações que ligam os servos ao senhor.
+O feudalismo prendia o servo à terra do senhor: ele nascia, vivia e morria no mesmo lugar, devendo trabalho, parte da colheita e fidelidade. Sua parte é reconhecer que liberdade de circular, escolher trabalho e mudar de cidade é conquista recente — e ainda incompleta. Quando você ouvir "antigamente era melhor", lembre que nem todo "antigamente" tinha lugar para gente comum sonhar.
 
 > 📚 **Curiosidade:**  
 > O *Domesday Book*, encomendado por Guilherme em 1086, registrou terras, recursos e obrigações de quase toda a Inglaterra com um nível de detalhe raro para a época medieval.

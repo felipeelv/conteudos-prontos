@@ -122,7 +122,7 @@ Antes da leitura de Francisco de Oliveira, a desigualdade regional era explicada
 ---
 
 ## 🤝 Sua Parte
-Pegue um mapa de infraestrutura brasileira (rodovias, ferrovias, portos) e um mapa de IDH municipal. Sobreponha-os mentalmente. Onde há infraestrutura densa, há indicadores sociais melhores? E onde há lacunas? O que essa correspondência sugere?
+Onde tem rodovia asfaltada, hospital com UTI e fibra óptica, tem IDH alto. Onde não tem, não tem. Sua parte é parar de naturalizar essa correspondência: ela não é destino, é resultado de séculos de escolha política sobre onde o Estado se faz presente e onde ele se omite. O Brasil que funciona para quem tem CEP de capital não é "o Brasil" — é uma fatia. Reconhecer isso é o começo de qualquer compromisso real com o país inteiro.
 
 ---
 

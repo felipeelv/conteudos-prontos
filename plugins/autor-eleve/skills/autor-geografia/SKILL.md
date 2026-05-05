@@ -177,7 +177,7 @@ Para cada blueprint_capitulo:
 ---
 
 ## 🤝 Sua Parte
-[1 parágrafo curto — atividade prática conectada à realidade do aluno]
+[1 parágrafo curto — reflexão sobre o papel/postura do aluno diante do tema, NÃO atividade]
 
 ---
 
@@ -288,7 +288,7 @@ Frase-síntese isolada como blockquote SEM emoji. Função: arrematar a conclus�
 ## Blocos pós-conteúdo (v2 — NESTA ORDEM)
 
 ```
-## 🤝 Sua Parte                                       (H2 — 1 parágrafo curto, atividade prática)
+## 🤝 Sua Parte                                       (H2 — 1 parágrafo curto, reflexão sobre papel/postura do aluno; NÃO atividade; pode ser omitida se não houver gancho honesto)
 > 📚 **Curiosidade:** ...                             (BLOCKQUOTE inline — fato curioso, 1-2 frases)
 ## Em outros lugares do mundo...                      (H2 — 2 parágrafos + lista "Diferenças relevantes:")
 ## E para hoje...                                     (H2 — versículo + 1 parágrafo + 1-2 bullets + Para Conversar)
@@ -323,7 +323,7 @@ Quando o blueprint pedir conteúdo que não cabe na estrutura padrão:
 - **Conteúdo factual** (geógrafo específico, dado IBGE/IPCC, evento geopolítico): EMBUTIR no bloco mais natural — `## Esse foi o "cara"` (geógrafo principal), `#### 📚 Curiosidade Geográfica` (fato espacial pontual), `## Em outros lugares do mundo...` (comparação espacial) ou dentro dos tópicos numerados
 - **Exercícios pedidos pelo blueprint:** DESCARTADOS (caderno de atividades separado)
 - **Conexão bíblica explícita:** SEMPRE em `## E para hoje...` — nunca em outros blocos
-- **Aplicação prática/cidadania:** SEMPRE em `## 🤝 Sua Parte` — nunca dispersa pelo capítulo
+- **Reflexão cidadã/cristã do aluno** (papel e postura diante do tema, NÃO atividade): SEMPRE em `## 🤝 Sua Parte` — nunca dispersa pelo capítulo. Se o tema não tiver gancho honesto com a vida do aluno, omitir a seção.
 - **Geógrafo do blueprint:** literal e inegociável em `## Esse foi o "cara"`
 - **Versículo do blueprint:** literal e inegociável em `## E para hoje...`
 

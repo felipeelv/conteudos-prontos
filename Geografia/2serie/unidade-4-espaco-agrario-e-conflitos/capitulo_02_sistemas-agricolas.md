@@ -136,7 +136,7 @@ Hoje, com transporte refrigerado, ferrovia, hidrovia e logística global, o mode
 ---
 
 ## 🤝 Sua Parte
-Monte um quadro comparativo dos cinco sistemas/tecnologias estudados (familiar, agronegócio, orgânica, precisão, transgênicos). Para cada um, anote: escala, custo, mercado-alvo e principal impacto ambiental ou social.
+A comida no seu prato veio de algum sistema agrícola: agronegócio de exportação, agricultura familiar, orgânico, pequeno produtor. Cada modelo tem custo ambiental, custo social e custo político diferentes. Sua parte é comer com consciência sem virar idealista: nem todo orgânico é virtuoso, nem todo agronegócio é vilão, e o trabalhador rural existe nos dois lados. Comprar feira do bairro, ler rótulo, perguntar de onde vem — gestos simples que revelam que escolha de comida é escolha de modelo de país.
 
 ---
 

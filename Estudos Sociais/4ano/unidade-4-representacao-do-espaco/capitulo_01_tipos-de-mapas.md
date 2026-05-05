@@ -140,7 +140,7 @@ Para a planta ficar clara, é bom organizar:
 
 ## 🤝 Sua Parte
 
-Desenhe a planta da sua sala vista de cima, marcando porta, janelas, quadro, mesas e pelo menos três símbolos criados por você na legenda.
+Mapa não mostra tudo: quem desenha sempre escolhe o que aparece e o que fica de fora. Sua parte é olhar mapa com curiosidade — perguntar o que tem ali, o que faltou, e quem fez. Quando você sabe que mapa é desenho de alguém, aprende a olhar com cuidado o mundo todo.
 
 > 📚 **Curiosidade:**  
 > Em 1570, na cidade de Antuérpia, o cartógrafo Abraham Ortelius publicou o *Theatrum Orbis Terrarum*, um livro com 53 mapas no mesmo formato. Esse livro é considerado o primeiro **atlas** do mundo — coleção organizada de vários mapas em um único volume.

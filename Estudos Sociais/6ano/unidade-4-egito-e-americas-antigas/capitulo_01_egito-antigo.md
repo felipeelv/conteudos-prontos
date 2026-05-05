@@ -131,7 +131,7 @@ Mumificação e pirâmides são parte da mesma resposta: investir o máximo no q
 ---
 
 ## 🤝 Sua Parte
-Analise uma imagem das pirâmides de Gizé e um mapa do Nilo. Marque três elementos que mostram a relação entre ambiente, poder e religião no Egito Antigo.
+O Egito antigo durou mais de 3.000 anos, mais que qualquer império depois — e ainda inspira filme, livro e religião. Sua parte é olhar civilização antiga sem achar que era atrasada: eles construíram pirâmide, escreveram texto e curaram doença muito antes da gente. Respeitar quem veio antes é o começo da humildade histórica.
 
 > 📚 **Curiosidade:**  
 > A múmia de Ramsés II viajou a Paris em 1976 para tratamento de fungos. Para a viagem, recebeu um passaporte egípcio oficial — o documento listava sua profissão como "rei (falecido)".

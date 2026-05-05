@@ -134,7 +134,7 @@ Bacia sedimentar é uma área onde sedimentos foram se acumulando ao longo de mi
 ---
 
 ## 🤝 Sua Parte
-Procure dois mapas do relevo brasileiro — um pela classificação de Aroldo de Azevedo e outro pela de Ross — e identifique uma região que aparece classificada de modo diferente. Por que mudou?
+Saber que existem várias classificações do relevo brasileiro (Aroldo de Azevedo, Ross, Ab'Sáber) ensina que o conhecimento científico é versão de um fenômeno, não a verdade pronta. Sua parte é levar essa lição para fora da geografia: quando você vê duas notícias diferentes sobre o mesmo fato, não é necessariamente uma certa e outra errada — pode ser duas leituras feitas a partir de critérios distintos. Comparar critérios, e não só conclusões, é a forma adulta de discordar.
 
 ---
 

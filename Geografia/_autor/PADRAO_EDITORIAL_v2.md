@@ -27,7 +27,7 @@ Toda unidade segue esta sequência fixa, nesta ordem:
 2. **Prelúdio narrativo** — sem título, abre direto após a pergunta
 3. **Para Conversar de intro** (`> 💬 **Para Conversar:**`) — pergunta reflexiva em segunda pessoa, fecha o prelúdio
 4. **Tópicos numerados** (`## 1.`, `## 2.`, `## 3.`, `## 4.`) — entram direto, sem heading "Explorando os Conceitos"
-5. **🤝 Sua Parte** (H2) — atividade prática
+5. **🤝 Sua Parte** (H2) — reflexão sobre o papel/postura do aluno diante do tema (NÃO é atividade)
 6. **📚 Curiosidade** — blockquote único (não é heading)
 7. **Em outros lugares do mundo...** (H2) — comparação internacional
 8. **E para hoje...** (H2) — devocional
@@ -152,8 +152,12 @@ Sintaxe:
 </exploring_concepts>
 
 <sua_parte>
-- 1 parágrafo curto
-- Atividade prática conectada à realidade do aluno (cidade, trânsito, território)
+- 1 parágrafo curto (4-7 frases)
+- **NÃO é atividade.** Não usar "Procure", "Construa", "Pesquise", "Compare", "Identifique", "Monte um quadro". Atividades vivem em outro material.
+- É **reflexão sobre o papel/postura do aluno diante do tema**: como o aluno se posiciona no espaço estudado, qual sua responsabilidade enquanto cidadão e cristão diante da questão socioespacial.
+- Tom: convite à postura, não à tarefa. "Sua parte é..." (reconhecer, resistir, perceber, sustentar, recusar, exigir).
+- Pode incluir referência bíblica curta entre parênteses quando couber (sem virar devocional — isso é função do `## E para hoje...`).
+- Se o tema não tiver gancho honesto com a vida do aluno hoje, **omita a seção** em vez de forçar conexão artificial.
 </sua_parte>
 
 <curiosidade>

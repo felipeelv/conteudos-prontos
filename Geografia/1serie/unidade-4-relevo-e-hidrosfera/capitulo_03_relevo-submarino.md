@@ -118,7 +118,7 @@ Algumas ilhas no meio do oceano não estão em dorsais nem em fossas. Elas se fo
 ---
 
 ## 🤝 Sua Parte
-Procure um perfil simplificado do fundo oceânico (em livro ou na internet) e identifique plataforma continental, talude, planície abissal, dorsal e fossa. Tente localizar pelo menos um exemplo brasileiro nesse perfil.
+Mais de 70% do planeta está debaixo d'água, e quase tudo que importa para a economia mundial — cabos de internet, plataformas de petróleo, rotas comerciais, biodiversidade — passa por relevo submarino que poucos conhecem. Sua parte é resistir à miopia do mapa: o que você vê na escola é só a casca. As decisões mais ricas (Pré-Sal, mineração de fundo, Antártica) acontecem em territórios que você nunca vai pisar — mas que afetam quanto custa o seu combustível, sua internet e seu peixe. Curiosidade sobre o invisível é cidadania.
 
 ---
 

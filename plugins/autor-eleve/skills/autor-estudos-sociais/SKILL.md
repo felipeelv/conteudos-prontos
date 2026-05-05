@@ -157,7 +157,7 @@ Para cada blueprint_capitulo:
 ---
 
 ## 🤝 Sua Parte
-[Aplicação prática + cidadania — máximo 1 frase]
+[Reflexão sobre o papel/postura do aluno diante do tema — NÃO atividade. 1 parágrafo curto, vocabulário adequado à idade. Pode ser omitida se não houver gancho honesto com a vida do aluno.]
 
 > 📚 **Curiosidade:**  
 > [Fato pontual que amplia o tema — máximo 1-2 frases]
@@ -220,7 +220,7 @@ Para cada blueprint_capitulo:
 ## Blocos pós-conteúdo (NESTA ORDEM — 6 headings + 2 boxes especiais)
 
 ```
-## 🤝 Sua Parte                                      (1 frase)
+## 🤝 Sua Parte                                      (1 parágrafo curto — reflexão sobre papel/postura do aluno; NÃO atividade; pode ser omitida se não houver gancho honesto)
 > 📚 **Curiosidade:**                                (box especial obrigatório — fato pontual, 1-2 frases)
 ## Enquanto isso...                                  (paralelo histórico-cristão + lista "O que estava em jogo:")
 ## E para hoje...                                    (versículo + comentário + transição contextual + 2 bullets + Para Conversar)

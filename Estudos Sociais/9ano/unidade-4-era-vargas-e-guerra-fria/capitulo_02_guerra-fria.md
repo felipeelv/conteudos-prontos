@@ -108,7 +108,7 @@ EUA e URSS evitaram guerra direta. Mas financiaram, treinaram e armaram lados op
 ---
 
 ## 🤝 Sua Parte
-Preencha um quadro comparativo com cinco conflitos (Coreia, Vietnã, Cuba, Afeganistão, Angola). Para cada um, liste: local, período, lados apoiados por EUA e URSS, resultado e por que entrou na lógica da Guerra Fria.
+EUA e URSS dividiram o mundo entre 1945 e 1991, e milhões de coreanos, vietnamitas, cubanos e angolanos pagaram com a vida por uma briga que não era deles. Sua parte é reconhecer quando conflito local vira peão de tabuleiro maior — isso ainda acontece hoje, na Ucrânia, no Oriente Médio, na África. Antes de torcer "por um lado", pergunte quem está sangrando e quem está vendendo arma.
 
 > 📚 **Curiosidade:**  
 > Tecnologias da corrida espacial chegaram ao seu cotidiano: GPS, satélites de TV, materiais térmicos, software de imagem médica e até a câmera do celular têm origem em pesquisas militares dos anos 1960-1970.

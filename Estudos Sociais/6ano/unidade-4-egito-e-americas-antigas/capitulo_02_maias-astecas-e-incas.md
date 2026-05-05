@@ -131,7 +131,7 @@ Os impérios asteca e inca caíram em **1521** e **1533**, com a chegada dos esp
 ---
 
 ## 🤝 Sua Parte
-Preencha uma tabela com 4 colunas: civilização, região, solução técnica e exemplo de patrimônio. Depois responda qual solução mais dependia do ambiente.
+Antes de Colombo chegar, a América já tinha cidades grandes, escrita, calendário e sistema de irrigação melhor que muito europeu. Sua parte é desfazer a ideia de que história "começou" com a chegada dos europeus: aqui já existia civilização rica, e essa civilização foi destruída — não desapareceu sozinha. Saber disso muda como você olha para a América Latina hoje.
 
 > 📚 **Curiosidade:**  
 > A pirâmide de Cholula, no atual México, tem uma base maior do que a de Quéops — mas hoje parece um morro coberto por vegetação e por uma igreja construída por cima.

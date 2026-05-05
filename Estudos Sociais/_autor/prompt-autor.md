@@ -99,8 +99,8 @@ Após as seções numeradas, incluir **nesta ordem exata** e de forma **simples 
 
 ```
 ## 🤝 Sua Parte
-Aplicação prática e cidadania: como usar o conhecimento no cotidiano.
-[Máximo 1 frase.]
+Reflexão sobre o papel/postura do aluno diante do tema (NÃO atividade).
+1 parágrafo curto, com vocabulário adequado à idade. Use verbos de postura ("reconhecer", "perceber", "tratar", "entender") e não verbos de tarefa ("procure", "construa", "compare"). Omitir a seção quando o tema não tiver gancho honesto com a vida do aluno.
 ---
 #### 📚 Curiosidade dos Estudos Sociais
 Fato que amplia o tema com perspectivas diversas.

@@ -124,7 +124,7 @@ Integrar pode ter dois efeitos opostos. Tudo depende de como a rede é desenhada
 ---
 
 ## 🤝 Sua Parte
-Pegue um mapa de transportes do Brasil. Identifique três centros (nós principais), três periferias logísticas (regiões mal servidas) e dois gargalos (pontos onde o fluxo trava). O que esse mapa revela sobre quem entra com vantagem nas redes nacionais?
+O Brasil é um país que mal se integra: 200 milhões de pessoas, transporte público e logística que travam, internet desigual, regiões que mal se conhecem. Sua parte é cultivar curiosidade nacional ativa: ler escritor cearense, ouvir música pernambucana, entender por que Manaus e Boa Vista existem como existem. Brasileiro de Sudeste cresce achando que conhece o país; em geral, conhece um aeroporto. Integrar começa por se interessar por quem é, em tese, seu compatriota.
 
 ---
 

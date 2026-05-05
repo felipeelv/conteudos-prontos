@@ -135,7 +135,7 @@ Ter mapa de risco não impede tragédia. O que impede é a sequência completa: 
 ---
 
 ## 🤝 Sua Parte
-Procure o mapa de risco de deslizamento ou enchente do seu município (a maioria das prefeituras tem). Identifique uma área crítica e proponha três medidas: uma estrutural (obra), uma de alerta e uma de política habitacional.
+Risco geológico é mapa cruzado com classe social: a chuva cai igual, mas a casa que cai é sempre da mesma cor e do mesmo CEP. Sua parte é não comprar a narrativa do "imprevisto" quando uma cidade conhecida some no barro. Defesa Civil, Plano Diretor, política de aluguel social — esses temas que parecem chatos decidem se o vizinho vai estar vivo ano que vem. Ler editais municipais é uma forma de oração prática pelo seu bairro.
 
 ---
 

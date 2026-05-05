@@ -131,7 +131,7 @@ A recarga é o ponto onde o aquífero se conecta com o ciclo da água. Proteger 
 ---
 
 ## 🤝 Sua Parte
-Em um mapa esquemático com solo, rocha, casa, lavoura, indústria e fossa, identifique a área de recarga, o lençol freático, o aquífero livre, o aquífero confinado e dois pontos de possível contaminação.
+O Aquífero Guarani guarda água doce suficiente para abastecer o Brasil por séculos — e está sendo contaminado por agrotóxico, fossa e indústria, em silêncio, abaixo dos seus pés. Sua parte é tratar consumo de água como cuidado de patrimônio: o que você usa hoje sai de algum lugar que vai faltar amanhã. Em casa, no banho, na lavagem do carro, na escolha por produtos com rastreabilidade — cada gesto é voto por qual aquífero o seu filho vai beber.
 
 ---
 

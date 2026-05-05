@@ -89,7 +89,7 @@ Vargas voltou eleito em 1951, agora como presidente democrático. Mas o segundo 
 ---
 
 ## 🤝 Sua Parte
-Compare dois documentos curtos: um trecho da CLT (ou cartaz do DIP) e um trecho da carta-testamento. Identifique promessas, público-alvo e contradições entre o discurso e a prática do regime.
+Getúlio Vargas deu à classe trabalhadora direitos que ela não tinha (CLT, salário mínimo, férias) e fechou o Congresso, censurou a imprensa e prendeu opositores. Sua parte é entender que governante não é "do bem" ou "do mal" inteiro — pode entregar avanço social com uma mão e autoritarismo com a outra. Avaliar política sem escolher de antemão um lado é o que diferencia cidadão maduro de torcedor.
 
 > 📚 **Curiosidade:**  
 > O programa "Hora do Brasil" foi criado em 1935 para falar diretamente com milhões de brasileiros pelo rádio — todas as estações eram obrigadas a transmitir entre 19h e 20h. Existe até hoje, com o nome "A Voz do Brasil".

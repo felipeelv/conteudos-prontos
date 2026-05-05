@@ -128,7 +128,7 @@ A **Inquisição medieval** (séc. XIII–XIV) é diferente da Inquisição mode
 ---
 
 ## 🤝 Sua Parte
-Compare uma imagem de igreja românica e uma de catedral gótica. Marque três diferenças visuais e relacione cada uma à visão religiosa da época.
+A Igreja medieval foi, ao mesmo tempo, hospital, escola, abrigo, banco e censura — para o bem e para o mal, ela moldou a Europa. Sua parte é olhar a história da Igreja com honestidade cristã: reconhecer o legado de caridade e cultura sem esconder os abusos. Fé sincera precisa enfrentar o passado da própria tradição, não inventá-lo.
 
 > 📚 **Curiosidade:**  
 > Muitas universidades europeias nasceram de corporações de mestres e estudantes ligadas à Igreja, como Bolonha, Paris e Oxford — essas três continuam funcionando até hoje.

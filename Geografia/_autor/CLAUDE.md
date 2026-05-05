@@ -153,7 +153,7 @@ Quando o **blueprint** pedir conteúdo que não cabe na estrutura padrão de Geo
 2. **Conteúdo factual** (geógrafo específico, dado IBGE/IPCC, evento geopolítico): embute no bloco mais natural — `## Esse foi o "cara"`, `## E para hoje...` (lista de aprendizados), `📚 Curiosidade Geográfica` ou `## Em outros lugares do mundo...`.
 3. **Exercícios pedidos pelo blueprint:** **descartados** desta saída. Ficam no caderno de atividades separado.
 4. **Conexão bíblica explícita:** vai sempre em `## E para hoje...` — nunca em outros blocos.
-5. **Aplicação prática/cidadania:** vai sempre em `## 🤝 Sua Parte` — nunca dispersa pelo capítulo.
+5. **Reflexão cidadã/cristã do aluno** (papel e postura diante do tema, NÃO atividade): vai sempre em `## 🤝 Sua Parte` — nunca dispersa pelo capítulo. Se o tema não tiver gancho honesto com a vida do aluno, omitir a seção.
 
 ## Como rodar
 
