@@ -21,6 +21,8 @@ Sistema agrícola é uma combinação de elementos que organizam a produção no
 
 Cinco elementos definem qualquer sistema agrícola. A combinação entre eles determina escala, eficiência e impacto.
 
+Cinco chaves abrem o tema:
+
 - **Terra:** tamanho, qualidade do solo, clima e localização;
 - **Trabalho:** familiar, assalariado, sazonal ou permanente;
 - **Técnica:** mecanização, irrigação, sementes, manejo do solo;
@@ -30,6 +32,8 @@ Cinco elementos definem qualquer sistema agrícola. A combinação entre eles de
 ### 1.2 Extensivo e intensivo
 
 Os sistemas agrícolas se classificam, em primeiro lugar, pela relação entre área cultivada e capital investido por hectare.
+
+Dois elementos compõem o quadro:
 
 - **Extensivo:** grandes áreas, baixa intensidade técnica por hectare, produtividade média baixa por unidade — comum em soja, milho e pecuária de corte;
 - **Intensivo:** áreas menores, alto uso de capital, tecnologia e insumos por hectare, produtividade alta — comum em hortaliças, fruticultura e estufas.
@@ -46,6 +50,8 @@ O campo brasileiro convive com dois modelos principais. Eles têm escalas, lógi
 ### 2.1 Agricultura familiar
 
 Agricultura familiar é definida pela Lei 11.326/2006: produção em até quatro módulos fiscais, gerida pela família, com mão de obra predominantemente familiar.
+
+Quatro aspectos definem essa lógica:
 
 - **Estabelecimentos:** 77% dos imóveis rurais brasileiros (Censo Agropecuário 2017);
 - **Área:** apenas 23% da área rural total — mostra a desigualdade fundiária do Cap. 1;
@@ -80,6 +86,8 @@ Além dos dois modelos centrais, três respostas tecnológicas tentam resolver p
 
 Agricultura orgânica é um sistema produtivo que não usa agrotóxicos sintéticos, fertilizantes industriais nem sementes transgênicas. Depende de manejo do solo, controle biológico de pragas e rotação de culturas.
 
+Quatro pontos resumem o cenário:
+
 - **Princípios:** preservação do solo, biodiversidade, sem químicos sintéticos;
 - **Certificação:** selo de organizações reconhecidas (no Brasil, MAPA);
 - **Mercado:** crescente, mas ainda restrito — produto custa mais caro;
@@ -89,6 +97,8 @@ Agricultura orgânica é um sistema produtivo que não usa agrotóxicos sintéti
 
 Agricultura de precisão usa GPS, drones, sensores e dados para aplicar insumos só onde são necessários. O objetivo é eficiência — economizar fertilizante, água e defensivo.
 
+Quatro dimensões organizam essa análise:
+
 - **GPS agrícola:** orienta máquinas com precisão centimétrica;
 - **Drones:** mapeiam pragas, doenças e necessidade de irrigação;
 - **Sensores:** monitoram solo, planta e clima em tempo real;
@@ -97,6 +107,8 @@ Agricultura de precisão usa GPS, drones, sensores e dados para aplicar insumos 
 ### 3.3 Biotecnologia e transgênicos
 
 Transgênico (OGM — Organismo Geneticamente Modificado) é uma planta cujo DNA foi alterado por engenharia genética. As variedades mais usadas no Brasil resistem a herbicidas ou a pragas.
+
+Três marcos ajudam a entender o tema:
 
 - **Vantagens:** produtividade maior, menos perdas por pragas, redução de aplicação de alguns defensivos;
 - **Polêmicas:** dependência de empresas de sementes, contaminação de plantios convencionais, debate sobre saúde e ambiente;
@@ -115,6 +127,8 @@ A geografia agrícola não é só sobre o que se planta — é também sobre ond
 
 Quanto mais longe do mercado consumidor, maior o custo de transporte e maior o desafio de manter o produto fresco.
 
+Três características descrevem o processo:
+
 - **Perecibilidade:** hortaliças e frutas exigem cadeia de frio e curta distância;
 - **Custo de transporte:** soja e milho viajam bem por longas distâncias — virou commodity exportável;
 - **Localização ótima:** cada cultura tem combinação ideal de solo, clima e proximidade do mercado.
@@ -122,6 +136,8 @@ Quanto mais longe do mercado consumidor, maior o custo de transporte e maior o d
 ### 4.2 Von Thünen e a geografia agrária
 
 Em 1826, o economista Johann Heinrich von Thünen publicou um modelo que explicava a localização agrícola por anéis concêntricos em torno de um mercado central.
+
+Quatro fatores estruturam a leitura:
 
 - **Centro:** cidade compradora;
 - **Anéis próximos:** culturas perecíveis e intensivas (hortaliças, leite);

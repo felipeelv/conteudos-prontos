@@ -21,6 +21,8 @@ Pecuária é a criação de animais para obtenção de produtos como carne, leit
 
 A pecuária se organiza por animal e por produto principal.
 
+Cinco chaves abrem o tema:
+
 - **Bovinos:** carne (corte) e leite;
 - **Suínos:** carne;
 - **Aves:** carne (frango) e ovos;
@@ -30,6 +32,8 @@ A pecuária se organiza por animal e por produto principal.
 ### 1.2 Extensiva e intensiva
 
 Como na agricultura, a pecuária se classifica pela relação entre área usada e capital investido.
+
+Três elementos compõem o quadro:
 
 - **Extensiva:** grande área de pastagem, baixo investimento por hectare, animal solto, ciclo longo (3 a 4 anos do nascimento ao abate);
 - **Intensiva:** confinamento ou semiconfinamento, alimentação controlada, ciclo curto, alto custo de capital;
@@ -48,6 +52,8 @@ O Brasil tem o maior rebanho bovino comercial do mundo. Mas a pecuária brasilei
 
 O bovino é o protagonista da pecuária brasileira em valor e em área.
 
+Quatro aspectos definem essa lógica:
+
 - **Corte:** rebanho concentrado em Mato Grosso, Mato Grosso do Sul, Pará, Goiás, Minas Gerais e Rondônia;
 - **Leite:** produção concentrada em Minas Gerais (maior produtor), Paraná, Goiás e Rio Grande do Sul;
 - **Rebanho total:** mais de 230 milhões de cabeças — mais de uma cabeça por habitante brasileiro;
@@ -59,6 +65,8 @@ O bovino é o protagonista da pecuária brasileira em valor e em área.
 ### 2.2 Suínos, aves, caprinos, ovinos e bufalinos
 
 Outros rebanhos têm peso regional importante.
+
+Quatro pontos resumem o cenário:
 
 - **Suínos:** Sul do Brasil concentra a maior parte da produção (Santa Catarina, Paraná, Rio Grande do Sul) — sistema intensivo e cooperativista;
 - **Aves:** Brasil é maior exportador mundial de carne de frango, com produção integrada nas mesmas regiões da suinocultura;
@@ -75,6 +83,8 @@ A pecuária moderna é uma cadeia produtiva integrada, que vai da fazenda ao con
 
 A criação bovina se divide em etapas, que muitas vezes ocorrem em propriedades diferentes.
 
+Quatro dimensões organizam essa análise:
+
 - **Cria:** nascimento do bezerro até o desmame, em geral em pasto extensivo;
 - **Recria:** crescimento do animal até a maturidade reprodutiva ou idade de engorda;
 - **Engorda:** ganho de peso final, em pasto, semiconfinamento ou confinamento;
@@ -86,6 +96,8 @@ A criação bovina se divide em etapas, que muitas vezes ocorrem em propriedades
 ### 3.2 Mercado externo e rastreabilidade
 
 A exportação cresceu rápido nas últimas décadas. Com ela, vieram exigências de rastreabilidade — capacidade de saber a origem exata do animal.
+
+Quatro marcos ajudam a entender o tema:
 
 - **Mercados exigentes:** União Europeia exige rastreabilidade individual desde a fazenda de origem;
 - **China:** maior compradora atual, exige certificação sanitária, mas com exigência ambiental mais flexível;
@@ -104,6 +116,8 @@ A pecuária tem impactos ambientais que não são acidentes da atividade — sã
 
 A pecuária extensiva foi o principal vetor de desmatamento na Amazônia nas últimas décadas. Pasto avança onde antes havia floresta — em geral em ciclo: floresta → corte → fogo → pasto.
 
+Quatro características descrevem o processo:
+
 - **Amazônia:** principal frente de desmatamento por pecuária;
 - **Cerrado:** ocupado primeiro por pasto, depois por soja;
 - **Pastagens degradadas:** mais de 40 milhões de hectares no Brasil estão em estado de degradação — superlotação, falta de manejo, perda de fertilidade;
@@ -112,6 +126,8 @@ A pecuária extensiva foi o principal vetor de desmatamento na Amazônia nas úl
 ### 4.2 Metano, água e controle ambiental
 
 Outros impactos têm peso global.
+
+Quatro fatores estruturam a leitura:
 
 - **Metano entérico:** ruminantes emitem metano na digestão, gás de efeito estufa com poder de aquecimento muito superior ao CO₂ no curto prazo;
 - **Pegada hídrica:** produzir 1 kg de carne bovina demanda em média mais de 15 mil litros de água, considerando toda a cadeia;

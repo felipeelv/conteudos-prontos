@@ -21,6 +21,8 @@ Regionalização é a divisão do território em áreas, segundo critérios esco
 
 Quem regionaliza decide três coisas: o critério, o número de regiões e os limites entre elas. As escolhas dependem do problema a estudar.
 
+Quatro chaves abrem o tema:
+
 - **Critério político-administrativo:** estados, países, municípios — usado pelo Estado para gestão e estatística;
 - **Critério socioeconômico:** PIB, indústria, urbanização, redes — usado para entender funcionamento econômico;
 - **Critério físico-natural:** clima, relevo, biomas — usado em estudos ambientais;
@@ -29,6 +31,8 @@ Quem regionaliza decide três coisas: o critério, o número de regiões e os li
 ### 1.2 As cinco regiões oficiais do IBGE
 
 A regionalização oficial do Brasil tem cinco grandes regiões: Norte, Nordeste, Centro-Oeste, Sudeste e Sul. Foi consolidada pelo IBGE em 1969.
+
+Quatro elementos compõem o quadro:
 
 - **Critério:** político-administrativo, agrupando estados inteiros;
 - **Função:** estatística, planejamento, distribuição orçamentária, formulação de políticas;
@@ -48,6 +52,8 @@ Em 1967, o geógrafo Pedro Pinchas Geiger propôs uma regionalização alternati
 
 Complexo geoeconômico é uma grande área articulada por características econômicas, sociais e históricas comuns. Os três propostos por Geiger são: Amazônia, Nordeste e Centro-Sul.
 
+Quatro aspectos definem essa lógica:
+
 - **Critério:** funcional — economia, povoamento, redes técnicas, comando produtivo;
 - **Número:** três blocos amplos, em vez de cinco regiões menores;
 - **Limites:** atravessam estados — partes de um mesmo estado podem estar em complexos diferentes;
@@ -56,6 +62,8 @@ Complexo geoeconômico é uma grande área articulada por características econ�
 ### 2.2 Por que os complexos atravessam limites estaduais
 
 Estados foram desenhados por critérios históricos e administrativos, não econômicos. Por isso, vários estados brasileiros funcionam como dois meios estados: economias internas distintas separadas por geografias internas.
+
+Quatro pontos resumem o cenário:
 
 - **Mato Grosso:** parte norte com baixa densidade e economia extrativista (Amazônia) × parte sul com agronegócio integrado (Centro-Sul);
 - **Maranhão:** litoral nordestino com cana e indústria × interior com fronteira agrícola amazônica;
@@ -75,6 +83,8 @@ Os complexos não são homogêneos por dentro — cada um carrega tensões e dif
 
 O complexo amazônico abrange estados do Norte e partes do Centro-Oeste e do Maranhão. Sua marca é a baixa densidade demográfica, a economia extrativista (soja, pecuária, mineração, madeira) e a presença forte de povos tradicionais.
 
+Quatro dimensões organizam essa análise:
+
 - **Características:** floresta, baixa densidade, fronteira econômica em expansão;
 - **Atividades:** extrativismo, pecuária, mineração, soja na borda sul;
 - **Conflitos:** grilagem, desmatamento, terras indígenas, garimpo ilegal;
@@ -84,6 +94,8 @@ O complexo amazônico abrange estados do Norte e partes do Centro-Oeste e do Mar
 
 O complexo nordestino abrange a maior parte da região oficial do mesmo nome. Sua marca é a herança histórica da colonização e da concentração fundiária, somada a forte diversidade interna.
 
+Quatro marcos ajudam a entender o tema:
+
 - **Sub-regiões:** Zona da Mata (cana e cidades históricas), Sertão (semiárido), Agreste (transição) e Meio-Norte;
 - **Desafios:** concentração fundiária, secas recorrentes, baixos indicadores sociais em parte do interior;
 - **Diversidade:** turismo litorâneo, fruticultura irrigada, polos têxteis, indústrias automotivas em Pernambuco e Bahia;
@@ -92,6 +104,8 @@ O complexo nordestino abrange a maior parte da região oficial do mesmo nome. Su
 ### 3.3 Centro-Sul
 
 O complexo do Centro-Sul abrange São Paulo, Minas Gerais, Rio de Janeiro, Espírito Santo, parte do Centro-Oeste, Sul e norte do Paraná. Sua marca é a concentração econômica, urbana e produtiva.
+
+Quatro características descrevem o processo:
 
 - **Concentração:** boa parte do PIB, da indústria, da finança e dos serviços do país;
 - **Redes:** centros urbanos densos, rodovias, ferrovias, portos e aeroportos integrados;
@@ -111,6 +125,8 @@ Nem o IBGE nem Geiger estão "errados". Os dois mapas respondem a perguntas dife
 
 A regionalização oficial é insubstituível para administração pública.
 
+Três fatores estruturam a leitura:
+
 - **Vantagem prática:** segue fronteiras políticas reais, facilita repasses e planejamento;
 - **Comparação:** dados estatísticos oficiais sempre vêm organizados por essa divisão;
 - **Limite analítico:** não capta dinâmicas que atravessam estados.
@@ -118,6 +134,8 @@ A regionalização oficial é insubstituível para administração pública.
 ### 4.2 Complexos: funcionamento socioeconômico
 
 A regionalização de Geiger é insubstituível para análise.
+
+Três chaves abrem o tema:
 
 - **Vantagem analítica:** mostra funcionamento econômico real, com fluxos, comandos e disparidades;
 - **Comparação:** torna visíveis as fronteiras internas dos estados;

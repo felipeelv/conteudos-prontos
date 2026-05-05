@@ -67,6 +67,8 @@ Planície é uma área plana onde a sedimentação predomina sobre a erosão. H�
 
 Planalto é uma área elevada onde a erosão predomina sobre a sedimentação. O topo pode ser plano ou recortado por rios. A maior parte do Brasil é planáltica.
 
+Dois elementos compõem o quadro:
+
 - **Cristalinos:** rochas antigas e duras, como nos escudos do Brasil Central;
 - **Sedimentares:** bacias com camadas mais recentes, como parte do Planalto Meridional.
 
@@ -77,12 +79,16 @@ Planalto é uma área elevada onde a erosão predomina sobre a sedimentação. O
 
 Depressão é uma área mais baixa que as áreas ao redor.
 
+Dois aspectos definem essa lógica:
+
 - **Absoluta:** abaixo do nível do mar, como o Mar Morto, entre Israel e Jordânia;
 - **Relativa:** acima do nível do mar, mas mais baixa que os planaltos vizinhos, como a Depressão Sertaneja, no Nordeste.
 
 ### 2.4 Montanhas e tectonismo
 
 Montanha é uma grande elevação com encostas íngremes, em geral ligada a tectonismo. As mais altas estão em áreas de colisão entre placas.
+
+Dois pontos resumem o cenário:
 
 - **Jovens:** Andes, Himalaia, Alpes — em zonas tectônicas ativas;
 - **Antigas:** Apalaches (EUA), Urais (Eurásia) — formadas há centenas de milhões de anos.
@@ -98,6 +104,8 @@ Dentro das classes gerais, alguns recortes têm nomes próprios.
 ### 3.1 Chapadas, cuestas e serras
 
 Esses três termos aparecem em mapas brasileiros e não são sinônimos.
+
+Três dimensões organizam essa análise:
 
 - **Chapada:** planalto de topo plano e bordas escarpadas, como a Chapada Diamantina (BA) e a dos Veadeiros (GO);
 - **Cuesta:** relevo assimétrico, com encosta longa de um lado e escarpa íngreme do outro, como a Serra Geral (SP);

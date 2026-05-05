@@ -21,6 +21,8 @@ A concentração fundiária brasileira não é um acidente nem uma característi
 
 A colonização portuguesa adotou o sistema de sesmarias — grandes lotes concedidos pela Coroa a quem prometesse explorar a terra. O resultado foi a base territorial das primeiras fazendas de açúcar e, mais tarde, de café.
 
+Três elementos compõem o quadro:
+
 - **Sesmarias:** lotes concedidos pelo Estado português, com obrigações de cultivo;
 - **Plantation:** modelo agrícola colonial baseado em monocultura, mão de obra escravizada e exportação;
 - **Herança:** a estrutura desigual do campo brasileiro nasce no período colonial e se consolida no Império.
@@ -28,6 +30,8 @@ A colonização portuguesa adotou o sistema de sesmarias — grandes lotes conce
 ### 1.2 A Lei de Terras de 1850
 
 A Lei 601, de 1850, foi um marco. Determinou que, dali em diante, terras devolutas só poderiam ser obtidas por compra — não mais por posse, ocupação ou doação. Aprovada pouco antes da abolição da escravatura, em 1888, fechou o acesso à terra justamente quando milhões de ex-escravizados estavam prestes a se tornar livres.
+
+Quatro aspectos definem essa lógica:
 
 - **Compra obrigatória:** quem não tinha capital para comprar perdia o direito à terra;
 - **Posse desclassificada:** a ocupação por trabalho ou herança popular deixou de valer;
@@ -47,6 +51,8 @@ Para entender o tamanho da concentração brasileira, é preciso recorrer a indi
 
 O Gini fundiário varia de 0 a 1. Quanto mais próximo de 1, maior a concentração.
 
+Três pontos resumem o cenário:
+
 - **Gini = 0:** todas as propriedades teriam o mesmo tamanho — distribuição perfeitamente igualitária;
 - **Gini = 1:** todas as terras estariam em uma única propriedade — concentração total;
 - **Brasil:** Gini fundiário de 0,867 (Censo Agropecuário do IBGE, 2017) — uma das maiores concentrações do mundo.
@@ -57,6 +63,8 @@ O Gini fundiário varia de 0 a 1. Quanto mais próximo de 1, maior a concentraç
 ### 2.2 Quem ocupa a área rural brasileira
 
 Os números brutos mostram melhor o que o Gini resume.
+
+Três dimensões organizam essa análise:
 
 - **1% dos imóveis** rurais ocupa cerca de **48% da área** total;
 - **Os 60% menores** imóveis ocupam apenas cerca de **10% da área**;
@@ -71,6 +79,8 @@ Tamanho de propriedade, sozinho, não define se ela é problema ou solução. O 
 ### 3.1 Módulo fiscal, latifúndio e minifúndio
 
 Para classificar imóveis rurais, o Brasil usa o módulo fiscal — uma medida em hectares definida por município, ajustada às condições locais.
+
+Quatro marcos ajudam a entender o tema:
 
 - **Módulo fiscal:** varia de 5 a 110 hectares, dependendo do município (em Belém, por exemplo, é 5; no oeste do Pará, 110);
 - **Minifúndio:** propriedade com menos de 1 módulo — em geral insuficiente para sustentar a família;
@@ -101,6 +111,8 @@ Reforma agrária é uma política pública de redistribuição da terra, previst
 
 O marco legal da reforma agrária brasileira tem três pilares principais.
 
+Três características descrevem o processo:
+
 - **Estatuto da Terra (1964):** primeira legislação a reconhecer a função social da propriedade rural;
 - **Constituição de 1988:** consolidou função social como condição da propriedade e definiu desapropriação para reforma agrária;
 - **INCRA (1970):** órgão federal responsável pela política fundiária e pelos assentamentos.
@@ -108,6 +120,8 @@ O marco legal da reforma agrária brasileira tem três pilares principais.
 ### 4.2 Assentamentos e desafios
 
 Distribuir a terra é só o primeiro passo. Sem políticas de apoio, o assentamento corre risco de ser apenas mudança de endereço da pobreza.
+
+Quatro fatores estruturam a leitura:
 
 - **Crédito:** sem capital inicial, o assentado não tem como produzir;
 - **Assistência técnica:** essencial para escolher culturas e técnicas adequadas ao solo e clima;

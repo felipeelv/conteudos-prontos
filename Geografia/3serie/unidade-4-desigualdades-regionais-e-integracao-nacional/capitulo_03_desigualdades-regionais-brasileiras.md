@@ -21,6 +21,8 @@ Os indicadores do capítulo anterior mostram desigualdade. Eles não explicam �
 
 PIB, PIB per capita, IDH e Gini, juntos, desenham um padrão regional consistente.
 
+Quatro elementos compõem o quadro:
+
 - **PIB:** concentrado em Sudeste e Sul (cerca de 70% do total nacional);
 - **IDH:** mais alto em Sul, Sudeste e Centro-Oeste; mais baixo em Norte e Nordeste, com variação interna grande;
 - **Mortalidade infantil:** em torno de 14/1.000 nascidos vivos no Brasil, mas chega a 25/1.000 em municípios do Norte e Nordeste interior;
@@ -29,6 +31,8 @@ PIB, PIB per capita, IDH e Gini, juntos, desenham um padrão regional consistent
 ### 1.2 Por que números não bastam
 
 Indicador mostra que há desigualdade. Não diz por que ela existe nem por que persiste.
+
+Três aspectos definem essa lógica:
 
 - **Risco do diagnóstico simplista:** atribuir desigualdade a "atraso cultural" ignora estrutura econômica e histórica;
 - **Risco oposto:** culpar só o passado faz parecer que nada pode mudar no presente;
@@ -47,6 +51,8 @@ A concentração econômica brasileira não é fenômeno recente. Ela começou n
 
 O Brasil colonial não foi planejado para crescer por igual. Foi planejado para extrair.
 
+Quatro pontos resumem o cenário:
+
 - **Pau-brasil (séc. XVI):** extração no litoral nordestino;
 - **Açúcar (séc. XVI-XVIII):** Zona da Mata nordestina, base de uma economia escravista de exportação;
 - **Mineração (séc. XVIII):** ouro em Minas Gerais — primeiro deslocamento massivo do eixo econômico para o Sudeste;
@@ -57,6 +63,8 @@ Cada ciclo deixou herança: estrutura fundiária, infraestrutura limitada, popul
 ### 2.2 Industrialização e concentração
 
 A industrialização brasileira do século XX foi seletiva — concentrou-se em São Paulo e em poucos polos do Sudeste.
+
+Quatro dimensões organizam essa análise:
 
 - **1930-1950:** primeira fase, indústria de bens de consumo no eixo Rio-São Paulo;
 - **1956-1961:** Plano de Metas (Juscelino Kubitschek) consolidou o Sudeste como centro industrial;
@@ -76,6 +84,8 @@ A concentração econômica produziu — e segue reproduzindo — concentração
 
 A economia moderna brasileira tem comando territorial concentrado.
 
+Quatro marcos ajudam a entender o tema:
+
 - **Indústria:** São Paulo, Minas Gerais, Rio de Janeiro, Paraná e Rio Grande do Sul concentram boa parte;
 - **Serviços avançados:** sedes de empresas, bancos, escritórios de advocacia e tecnologia em São Paulo;
 - **Pesquisa científica:** universidades de pesquisa (USP, Unicamp, UFRJ) concentradas no Sudeste;
@@ -84,6 +94,8 @@ A economia moderna brasileira tem comando territorial concentrado.
 ### 3.2 Redes técnicas e acesso a serviços
 
 Infraestrutura — rodovias, portos, energia, saneamento, conectividade — também segue padrão concentrado.
+
+Quatro características descrevem o processo:
 
 - **Rodovias:** densidade alta no Sudeste e Sul, esparsa no Norte;
 - **Portos:** Santos sozinho movimenta mais cargas que vários portos somados;
@@ -103,6 +115,8 @@ A leitura mais influente sobre desigualdade regional brasileira não trata o atr
 
 Pernambucano de Recife, sociólogo, professor da Universidade de São Paulo, Francisco de Oliveira (1933-2019) escreveu em 1972 um ensaio que mudaria a leitura do Brasil: *Crítica à Razão Dualista*.
 
+Quatro fatores estruturam a leitura:
+
 - **Tese central:** o "atraso" do Nordeste e o "moderno" do Sudeste não são opostos isolados — são partes de um mesmo sistema;
 - **Argumento:** indústria moderna do Sudeste se beneficiou de mão de obra barata vinda do Nordeste, de mercado consumidor das demais regiões e da política federal concentradora;
 - **Conclusão:** chamar o Nordeste de "atrasado" oculta o fato de que ele sustentou parte do "moderno";
@@ -111,6 +125,8 @@ Pernambucano de Recife, sociólogo, professor da Universidade de São Paulo, Fra
 ### 4.2 A crítica ao atraso isolado
 
 Antes da leitura de Francisco de Oliveira, a desigualdade regional era explicada como dualismo: regiões "modernas" × regiões "atrasadas". A crítica desmontou esse esquema.
+
+Três chaves abrem o tema:
 
 - **Antes da crítica:** Norte e Nordeste eram vistos como atrasados por incapacidade local;
 - **Após a crítica:** Norte e Nordeste passaram a ser entendidos como parte funcional da economia nacional — fornecendo recursos, mão de obra, mercado;

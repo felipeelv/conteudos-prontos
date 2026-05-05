@@ -21,6 +21,8 @@ Mais de 70% da superfície terrestre está coberta por oceanos. Por séculos, o 
 
 O fundo oceânico é mais desconhecido que a superfície de Marte. Apenas cerca de 25% dele foi mapeado em alta resolução até hoje. A profundidade média gira em torno de 3.700 metros, e a luz solar chega só aos primeiros 200 metros.
 
+Três aspectos definem essa lógica:
+
 - **Profundidade:** absorve a luz e dificulta a observação direta;
 - **Pressão:** aumenta cerca de 1 atmosfera a cada 10 m de descida — limita equipamentos;
 - **Distância da costa:** áreas oceânicas profundas ficam longe de qualquer porto.
@@ -28,6 +30,8 @@ O fundo oceânico é mais desconhecido que a superfície de Marte. Apenas cerca 
 ### 1.2 Como se mapeia o fundo oceânico
 
 A cartografia submarina avançou a partir do sonar, no século XX, e hoje usa também satélite e veículos autônomos. Marie Tharp foi peça-chave — desenhou os mapas que levaram à confirmação da tectônica de placas.
+
+Três pontos resumem o cenário:
 
 - **Sonar:** emite ondas sonoras que ricocheteiam no fundo e voltam, medindo profundidade;
 - **Satélite:** detecta variações de gravidade que indicam elevações e depressões submarinas;
@@ -60,6 +64,8 @@ Talude continental é o declive acentuado que liga a plataforma ao oceano profun
 
 A coluna de água acima do fundo se divide em duas grandes regiões.
 
+Duas dimensões organizam essa análise:
+
 - **Região pelágica:** corresponde à camada de água até cerca de 1.000 m — onde vivem a maioria dos peixes comerciais;
 - **Região abissal:** abaixo de 4.000 m — escuridão permanente, pressão enorme, fauna especializada.
 
@@ -75,6 +81,8 @@ Boa parte do relevo submarino resulta da tectônica de placas. Onde as placas se
 
 Dorsal oceânica é uma cadeia montanhosa submarina formada onde duas placas se afastam. Ali, magma sobe das profundezas e forma nova crosta oceânica.
 
+Três marcos ajudam a entender o tema:
+
 - **Dorsal Mesoatlântica:** corre por mais de 16.000 km do Ártico à Antártida, no centro do Atlântico;
 - **Dorsal do Pacífico Oriental:** afasta a placa de Nazca da placa do Pacífico, no oceano Pacífico;
 - **Importância:** é nessas dorsais que nasce a crosta oceânica — a parte mais jovem da superfície da Terra.
@@ -82,6 +90,8 @@ Dorsal oceânica é uma cadeia montanhosa submarina formada onde duas placas se 
 ### 3.2 Fossas oceânicas
 
 Fossa oceânica é uma depressão profunda onde uma placa mergulha sob outra — processo chamado de subducção. São as áreas mais profundas do planeta.
+
+Três características descrevem o processo:
 
 - **Fossa das Marianas (Pacífico):** atinge cerca de 11.000 m, a maior conhecida;
 - **Fossa do Peru-Chile:** acompanha a costa oeste sul-americana, ligada à formação dos Andes;
@@ -100,6 +110,8 @@ Entre dorsais e fossas, o fundo oceânico tem grandes áreas planas e elevaçõe
 
 Planície abissal é uma área profunda e relativamente plana do fundo oceânico, coberta por sedimentos finos depositados ao longo de milhões de anos.
 
+Três fatores estruturam a leitura:
+
 - **Profundidade típica:** entre 4.000 e 6.000 m;
 - **Sedimentos:** poeira, restos de organismos marinhos e material trazido por rios;
 - **Topografia:** muito uniforme — algumas planícies abissais variam menos de 1 m por quilômetro.
@@ -107,6 +119,8 @@ Planície abissal é uma área profunda e relativamente plana do fundo oceânico
 ### 4.2 Ilhas vulcânicas e hotspots
 
 Algumas ilhas no meio do oceano não estão em dorsais nem em fossas. Elas se formam sobre **hotspots** — pontos fixos de vulcanismo persistente, onde magma do manto sobe e fura a crosta.
+
+Três chaves abrem o tema:
 
 - **Havaí:** arquipélago formado por uma cadeia de hotspots no Pacífico;
 - **Fernando de Noronha (PE):** origem vulcânica ligada a um antigo ponto quente sob o Atlântico Sul;

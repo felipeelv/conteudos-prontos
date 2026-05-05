@@ -21,6 +21,8 @@ O relevo influencia onde as cidades surgem, como a economia se organiza e quanto
 
 Toda cidade tem um sítio e uma posição. São conceitos diferentes e úteis para entender por que ela está onde está.
 
+Dois elementos compõem o quadro:
+
 - **Sítio urbano:** características naturais do local — planície, encosta, rio, planalto;
 - **Posição urbana:** relação da cidade com rotas, regiões e redes externas — porto, eixo rodoviário, faixa de fronteira.
 
@@ -29,6 +31,8 @@ São Paulo, por exemplo, tem sítio urbano de planalto e posição central no Su
 ### 1.2 Condicionamento sem determinismo
 
 O determinismo geográfico — ideia de que o meio físico explica o destino dos povos — foi superado. Hoje a Geografia trabalha com a noção de **condicionamento**.
+
+Dois aspectos definem essa lógica:
 
 - **Condiciona:** o relevo encarece, facilita ou impede certas atividades;
 - **Não determina:** sociedades com mesma forma de relevo podem ter trajetórias muito diferentes.
@@ -46,6 +50,8 @@ Cada tipo de relevo abriga vantagens e riscos próprios para a vida humana. As c
 
 Planícies são fáceis de circular, mecanizar e construir. Por isso concentram boa parte da agricultura e dos eixos viários. O lado difícil é a vulnerabilidade a enchentes nas várzeas — áreas baixas próximas aos rios.
 
+Dois pontos resumem o cenário:
+
 - **Vantagem:** circulação, agricultura mecanizada, custo de obra menor;
 - **Risco:** inundação periódica, especialmente em áreas urbanas mal drenadas.
 
@@ -56,6 +62,8 @@ Planícies são fáceis de circular, mecanizar e construir. Por isso concentram 
 
 Planaltos costumam oferecer clima mais ameno, defesa natural e espaço para expansão urbana. Cidades como São Paulo, Curitiba, Brasília e Belo Horizonte estão em planaltos. Os desníveis dentro do planalto também viram recurso — para hidrelétricas, por exemplo.
 
+Três dimensões organizam essa análise:
+
 - **Clima:** altitude amena suaviza as temperaturas em latitudes tropicais;
 - **Defesa histórica:** posição alta foi vantagem militar em séculos passados;
 - **Energia:** desníveis dentro do planalto favorecem hidrelétricas.
@@ -63,6 +71,8 @@ Planaltos costumam oferecer clima mais ameno, defesa natural e espaço para expa
 ### 2.3 Montanhas: técnica, isolamento e turismo
 
 Áreas montanhosas exigem técnicas específicas para morar e produzir. Estradas custam mais, agricultura precisa de terraços, e o isolamento pode preservar tradições — ou marginalizar populações inteiras.
+
+Três marcos ajudam a entender o tema:
 
 - **Adaptação:** terraços, estradas em curva, vilas em encostas;
 - **Isolamento:** custos altos de transporte, baixa densidade populacional;
@@ -81,6 +91,8 @@ Além de abrigar cidades, o relevo é base de atividades econômicas inteiras. C
 
 Onde o terreno é plano e o solo é fértil, a agricultura mecanizada se expande com facilidade. Por isso, as chapadas do Cerrado se transformaram em fronteira agrícola desde os anos 1970.
 
+Três características descrevem o processo:
+
 - **Topo plano:** facilita máquinas agrícolas de grande porte;
 - **Solo profundo:** suporta correção química e cultivo intensivo;
 - **Acesso:** rodovias e silos transformam logística em vantagem competitiva.
@@ -89,6 +101,8 @@ Onde o terreno é plano e o solo é fértil, a agricultura mecanizada se expande
 
 Mineração depende mais da estrutura geológica do que da forma do relevo. Os escudos cristalinos brasileiros guardam minério de ferro (MG e PA), ouro (MG, PA, AP) e bauxita (PA).
 
+Três fatores estruturam a leitura:
+
 - **Escudos:** ricos em minerais metálicos antigos;
 - **Bacias sedimentares:** guardam petróleo e carvão;
 - **Impacto:** mineração transforma o relevo de modo profundo, criando crateras e barragens de rejeitos.
@@ -96,6 +110,8 @@ Mineração depende mais da estrutura geológica do que da forma do relevo. Os e
 ### 3.3 Hidrelétricas e energia do desnível
 
 Hidrelétrica converte energia potencial da água em eletricidade — quanto maior o desnível e o volume, maior a geração. O Brasil tem grandes hidrelétricas porque combina rios volumosos com desníveis em planaltos.
+
+Três chaves abrem o tema:
 
 - **Itaipu (PR/Paraguai):** queda de cerca de 120 m, gera mais de 14% da eletricidade brasileira;
 - **Belo Monte (PA):** desnível menor, mas vazão imensa do Xingu;
@@ -107,6 +123,8 @@ Hidrelétrica converte energia potencial da água em eletricidade — quanto mai
 ### 3.4 Turismo e paisagem
 
 Paisagens marcantes viram recurso econômico. Chapadas, serras, ilhas vulcânicas e dunas atraem visitantes e geram emprego — desde que a infraestrutura de acesso não destrua o que motiva a visita.
+
+Três elementos compõem o quadro:
 
 - **Chapada Diamantina (BA):** trilhas, cachoeiras e sítios geológicos;
 - **Serra do Mar (SP/RJ):** turismo de serra próximo aos grandes centros urbanos;
@@ -122,6 +140,8 @@ Construir uma cidade quase sempre exige cortar morros e aterrar várzeas. Quando
 
 Corte é a retirada de material do terreno; aterro é o seu uso para preencher uma área baixa. Os dois são parte da urbanização desde sempre.
 
+Três aspectos definem essa lógica:
+
 - **Corte:** abre passagem para estradas, túneis e platôs urbanos;
 - **Aterro:** elevra áreas de várzea ou encosta para construção;
 - **Cuidado:** mal executados, ambos provocam deslizamentos, recalques e enchentes.
@@ -129,6 +149,8 @@ Corte é a retirada de material do terreno; aterro é o seu uso para preencher u
 ### 4.2 Urbanização e impactos
 
 Urbanização sem planejamento sobre encostas e várzeas concentra risco em populações de baixa renda. Petrópolis, Maceió e Recife são exemplos brasileiros recentes de áreas urbanas com tragédias previsíveis.
+
+Três pontos resumem o cenário:
 
 - **Encosta:** desmatamento e construção sem terraço aumentam o risco de deslizamento;
 - **Várzea:** ocupação de áreas naturalmente alagadas concentra perdas em cada chuva forte;

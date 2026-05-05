@@ -21,6 +21,8 @@ Povos indígenas são sujeitos históricos, políticos e territoriais. No Brasil
 
 A diversidade indígena brasileira é enorme — não é grupo homogêneo.
 
+Quatro pontos resumem o cenário:
+
 - **Povos:** mais de 300 povos diferentes, falando cerca de 270 línguas próprias;
 - **População:** cerca de 1,6 milhão de pessoas se autodeclararam indígenas no Censo 2022 — quase o dobro do registrado em 2010;
 - **Territórios:** vivem em todas as regiões do Brasil, com maior concentração na Amazônia Legal;
@@ -29,6 +31,8 @@ A diversidade indígena brasileira é enorme — não é grupo homogêneo.
 ### 1.2 Artigos 231 e 232 da Constituição
 
 A Constituição de 1988 trata povos indígenas em dois artigos centrais.
+
+Quatro dimensões organizam essa análise:
 
 - **Artigo 231:** reconhece organização social, costumes, línguas, crenças e direitos originários sobre as terras tradicionalmente ocupadas;
 - **Artigo 232:** dá legitimidade aos próprios povos, suas comunidades e organizações para defender direitos e interesses em juízo;
@@ -48,6 +52,8 @@ Demarcação é o processo pelo qual o Estado brasileiro identifica, delimita e 
 
 O processo administrativo de demarcação tem etapas técnicas e políticas.
 
+Quatro marcos ajudam a entender o tema:
+
 - **Identificação:** estudos antropológicos, históricos e fundiários definem os limites da área;
 - **Delimitação:** publicação dos limites, com prazo para contestações;
 - **Declaração:** ato do Ministro da Justiça que reconhece a terra como tradicionalmente ocupada;
@@ -61,6 +67,8 @@ A Fundação Nacional dos Povos Indígenas (FUNAI), criada em 1967 e renomeada e
 ### 2.2 Marco Temporal e debate jurídico
 
 A tese do Marco Temporal sustenta que povos indígenas só teriam direito a terras que comprovadamente ocupavam em 5 de outubro de 1988 — data da promulgação da Constituição.
+
+Quatro características descrevem o processo:
 
 - **Argumento dos defensores da tese:** dar segurança jurídica a proprietários de terras adquiridas após 1988;
 - **Argumento crítico:** povos expulsos antes de 1988 (durante a ditadura, em conflitos, por epidemias) ficariam sem direito à terra ancestral;
@@ -77,6 +85,8 @@ Dois casos contemporâneos mostram, em escalas diferentes, como o reconhecimento
 
 A Terra Indígena Yanomami é a maior do Brasil — cerca de 9,6 milhões de hectares em Roraima e Amazonas. Foi homologada em 1992. Mas a presença do garimpo ilegal a transformou em palco de uma das maiores crises humanitárias indígenas da história recente.
 
+Quatro fatores estruturam a leitura:
+
 - **Garimpo ilegal:** estima-se que mais de 20 mil garimpeiros tenham operado na área no início dos anos 2020;
 - **Impactos:** mercúrio nos rios, contaminação alimentar, malária, desnutrição infantil, violência;
 - **Crise de 2023:** governo federal declarou emergência sanitária; operações de retirada de garimpeiros e socorro humanitário foram intensificadas;
@@ -85,6 +95,8 @@ A Terra Indígena Yanomami é a maior do Brasil — cerca de 9,6 milhões de hec
 ### 3.2 Raposa Serra do Sol
 
 A Terra Indígena Raposa Serra do Sol (RR), homologada em 2005 em demarcação contínua, foi alvo de longa disputa jurídica e política.
+
+Quatro chaves abrem o tema:
 
 - **Conflito:** produtores de arroz e parte do governo de Roraima contestavam a demarcação;
 - **STF (2009):** confirmou a constitucionalidade da demarcação contínua, com 19 condições para sua execução;
@@ -104,6 +116,8 @@ Povos indígenas no Brasil contemporâneo não são objeto de política pública
 
 A organização política indígena se fortaleceu nas últimas décadas.
 
+Quatro elementos compõem o quadro:
+
 - **APIB (Articulação dos Povos Indígenas do Brasil):** organização nacional fundada em 2005, articula movimentos regionais;
 - **COIAB (Coordenação das Organizações Indígenas da Amazônia Brasileira):** ativa na defesa territorial amazônica;
 - **Mobilização:** Acampamento Terra Livre, em Brasília, reúne anualmente milhares de lideranças;
@@ -112,6 +126,8 @@ A organização política indígena se fortaleceu nas últimas décadas.
 ### 4.2 Orlando Villas-Bôas e o Xingu
 
 Orlando Villas-Bôas (1914-2002), junto com os irmãos Cláudio e Leonardo, foi pioneiro entre os não-indígenas no engajamento com povos indígenas brasileiros.
+
+Quatro aspectos definem essa lógica:
 
 - **Expedições:** participou da Expedição Roncador-Xingu (anos 1940), que penetrou áreas então pouco conhecidas;
 - **Parque Indígena do Xingu:** os irmãos Villas-Bôas foram fundamentais para sua criação em 1961 — primeiro grande território protegido para povos indígenas no Brasil;

@@ -21,6 +21,8 @@ Esses três termos aparecem o tempo todo em mapas e nomes próprios. No Brasil, 
 
 A diferença entre os três tem mais a ver com forma, tamanho e ligação com o mar do que com regra fixa.
 
+Três fatores estruturam a leitura:
+
 - **Lago:** corpo d'água interior, em geral mais profundo e estável, em uma depressão fechada;
 - **Lagoa:** corpo d'água menor ou mais raso — o uso popular varia muito (a "Lagoa dos Patos" é tecnicamente uma laguna);
 - **Laguna:** corpo d'água costeiro com comunicação restrita com o mar, em geral por canais.
@@ -28,6 +30,8 @@ A diferença entre os três tem mais a ver com forma, tamanho e ligação com o 
 ### 1.2 Bacia lacustre
 
 Bacia lacustre é a depressão ou área que abriga o corpo d'água. Lagos podem ser pequenos ou ocupar bacias enormes.
+
+Três chaves abrem o tema:
 
 - **Forma da bacia:** controla profundidade, área e tempo de renovação da água;
 - **Conexões:** rios que entram e saem definem se a água renova rápido ou fica retida;
@@ -46,6 +50,8 @@ A formação de um lago depende sempre de duas coisas: uma depressão para acumu
 
 Movimentos da crosta criam algumas das maiores e mais profundas bacias lacustres do planeta.
 
+Dois elementos compõem o quadro:
+
 - **Tectônicos:** se formam em zonas de afastamento entre placas, como o Baikal (Rússia) e os lagos do Vale do Rift Africano (Tanganica, Vitória);
 - **Vulcânicos:** ocupam crateras de vulcões antigos, como o Crater Lake, no Oregon (EUA), ou o Lago Toba, na Indonésia.
 
@@ -56,12 +62,16 @@ Movimentos da crosta criam algumas das maiores e mais profundas bacias lacustres
 
 Outros lagos surgem quando o curso natural da água é bloqueado, ou quando geleiras esculpem depressões e depois recuam.
 
+Dois aspectos definem essa lógica:
+
 - **Barragem natural:** deslizamento, fluxo de lava ou sedimento bloqueia um vale e represa o rio;
 - **Lago glacial:** geleira esculpe a depressão; ao recuar, deixa a bacia que se enche de água — comuns na Escandinávia, Canadá e Patagônia.
 
 ### 2.3 Lagos artificiais
 
 Lago artificial é o resultado da construção de barragem para reter água. As represas brasileiras são o exemplo mais conhecido.
+
+Três pontos resumem o cenário:
 
 - **Função:** geração de energia, abastecimento, irrigação e controle de cheias;
 - **Exemplos brasileiros:** Itaipu, Sobradinho, Tucuruí, Furnas;
@@ -77,6 +87,8 @@ O Brasil tem corpos d'água lacustres importantes, alguns naturais e outros arti
 
 A Lagoa dos Patos, no Rio Grande do Sul, é a maior laguna do Brasil — cerca de 10.000 km², com mais de 250 km de extensão. Tem ligação com o mar pela barra de Rio Grande.
 
+Três dimensões organizam essa análise:
+
 - **Origem:** sedimentação costeira fechou parte da costa, formando a laguna;
 - **Importância:** pesca artesanal, transporte hidroviário, turismo;
 - **Outros exemplos:** Lagoa Mirim (RS, divisa com Uruguai), Lagoa Mangueira (RS).
@@ -84,6 +96,8 @@ A Lagoa dos Patos, no Rio Grande do Sul, é a maior laguna do Brasil — cerca d
 ### 3.2 Lagoa Rodrigo de Freitas
 
 Na Zona Sul do Rio de Janeiro, a Lagoa Rodrigo de Freitas é cercada por bairros densos. Foi cenário olímpico em 2016, mas convive há décadas com problemas urbanos clássicos.
+
+Três marcos ajudam a entender o tema:
 
 - **Origem:** laguna costeira que perdeu parte da ligação com o mar;
 - **Problemas:** esgoto, eutrofização, mortandade de peixes em eventos de calor extremo;
@@ -95,6 +109,8 @@ Na Zona Sul do Rio de Janeiro, a Lagoa Rodrigo de Freitas é cercada por bairros
 ### 3.3 Represas e reservatórios
 
 Boa parte dos "lagos" brasileiros é, na verdade, artificial — represas para hidrelétrica ou abastecimento.
+
+Três características descrevem o processo:
 
 - **Itaipu (PR):** reservatório de cerca de 1.350 km², construído em 1982;
 - **Sobradinho (BA):** alaga áreas do São Francisco, fundamental para regulação do rio;
@@ -112,6 +128,8 @@ Lagos e lagoas concentram funções ecológicas, econômicas e sociais. São tam
 
 Os usos cotidianos do lago dependem da qualidade da água e da estabilidade do ecossistema.
 
+Três fatores estruturam a leitura:
+
 - **Abastecimento:** muitas cidades brasileiras dependem de represas para água tratada;
 - **Pesca:** artesanal e comercial, sustenta comunidades inteiras (caso da Lagoa dos Patos);
 - **Turismo:** lagos cênicos atraem visitantes (Bonito/MS, Lagoa do Peri/SC, Pampulha/MG).
@@ -119,6 +137,8 @@ Os usos cotidianos do lago dependem da qualidade da água e da estabilidade do e
 ### 4.2 Assoreamento, eutrofização e ecossistemas
 
 Os principais problemas de lagos brasileiros são previsíveis. Quase todos têm a mesma raiz: ocupação sem planejamento da bacia ao redor.
+
+Três chaves abrem o tema:
 
 - **Assoreamento:** acúmulo de sedimentos no fundo do lago — diminui profundidade e prejudica navegação;
 - **Eutrofização:** entrada excessiva de nutrientes (esgoto, fertilizantes) provoca crescimento de algas, queda de oxigênio e mortandade de peixes;

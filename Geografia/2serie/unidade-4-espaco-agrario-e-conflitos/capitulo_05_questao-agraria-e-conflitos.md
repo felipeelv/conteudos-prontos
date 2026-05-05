@@ -21,6 +21,8 @@ Questão agrária é o conjunto de problemas e disputas ligados à propriedade d
 
 Os conflitos agrários articulam três elementos.
 
+Três chaves abrem o tema:
+
 - **Terra:** quem é dono, quem ocupa, quem pode usar — direito de propriedade × direito de uso;
 - **Trabalho:** quem trabalha a terra, em que condições, com qual remuneração;
 - **Poder:** quem decide o que é legal, o que é justo, e quem é ouvido nos conflitos.
@@ -28,6 +30,8 @@ Os conflitos agrários articulam três elementos.
 ### 1.2 Função social e conflito
 
 A Constituição de 1988 estabelece que a propriedade rural deve cumprir função social — produtividade, ambiente, trabalho digno. Quando esse pacto é descumprido, surge o conflito.
+
+Quatro elementos compõem o quadro:
 
 - **Improdutividade:** terras paradas em país com milhões de famílias sem-terra geram tensão jurídica e política;
 - **Trabalho:** desrespeito às leis trabalhistas é parte do conflito agrário, não exceção;
@@ -47,6 +51,8 @@ O Movimento dos Trabalhadores Rurais Sem Terra é a principal organização de l
 
 O MST surgiu em 1984, em Cascavel (PR), em articulação com a Comissão Pastoral da Terra (CPT) e movimentos sindicais rurais.
 
+Quatro aspectos definem essa lógica:
+
 - **Origem:** 1984, no contexto do fim da ditadura militar e demanda por democratização do campo;
 - **Estratégia central:** ocupação de terras improdutivas como forma de pressionar a desapropriação;
 - **Organização:** movimento social com presença em quase todos os estados brasileiros;
@@ -55,6 +61,8 @@ O MST surgiu em 1984, em Cascavel (PR), em articulação com a Comissão Pastora
 ### 2.2 Assentamentos, produção e críticas
 
 Após a desapropriação e a criação do assentamento, o MST atua em várias frentes simultâneas.
+
+Quatro pontos resumem o cenário:
 
 - **Produção:** muitos assentamentos do MST são referência em agricultura familiar e orgânica;
 - **Educação:** o movimento criou escolas rurais, incluindo a Escola Nacional Florestan Fernandes;
@@ -74,6 +82,8 @@ Conflitos agrários têm registro consolidado no Brasil. A Comissão Pastoral da
 
 A Comissão Pastoral da Terra é uma entidade ligada à Igreja Católica, criada em 1975, com presença nas regiões mais conflituosas do país.
 
+Quatro dimensões organizam essa análise:
+
 - **Função:** documentar conflitos, acompanhar trabalhadores rurais, denunciar violações;
 - **Dados anuais:** o relatório *Conflitos no Campo Brasil*, da CPT, é referência nacional;
 - **Casos emblemáticos:** Eldorado dos Carajás (1996), Dorothy Stang (2005), Marcos Veron (2003);
@@ -82,6 +92,8 @@ A Comissão Pastoral da Terra é uma entidade ligada à Igreja Católica, criada
 ### 3.2 Grilagem e fronteira agrícola
 
 Grilagem é a falsificação de documentos para apropriação ilegal de terras públicas. O nome vem da prática antiga de envelhecer documentos falsos colocando-os em gavetas com grilos — os insetos amareleciam o papel.
+
+Quatro marcos ajudam a entender o tema:
 
 - **Mecanismo:** documento falso registrado em cartório complacente, posteriormente revendido como se legítimo;
 - **Foco:** Amazônia e Cerrado — fronteiras agrícolas onde o registro fundiário é frágil;
@@ -101,6 +113,8 @@ Dois temas atravessam a questão agrária e tensionam a relação entre produtiv
 
 O Brasil é um dos maiores consumidores mundiais de agrotóxicos. O debate público se polariza entre defensores da produtividade e críticos dos impactos sanitários e ambientais.
 
+Quatro características descrevem o processo:
+
 - **Regulação tripartite:** ANVISA (saúde), IBAMA (ambiente) e MAPA (eficiência agronômica) avaliam cada produto;
 - **Atlas Fiocruz:** pesquisa nacional documenta exposição e efeitos sobre populações rurais e consumidores;
 - **Alternativas:** controle biológico, manejo integrado, agricultura orgânica e agroecologia;
@@ -112,6 +126,8 @@ O Brasil é um dos maiores consumidores mundiais de agrotóxicos. O debate públ
 ### 4.2 Trabalho análogo à escravidão
 
 A Constituição de 1988 e o Código Penal (1995) tipificam trabalho análogo à escravidão como crime. Não é metáfora — é categoria legal precisa.
+
+Quatro fatores estruturam a leitura:
 
 - **Critérios legais:** trabalho forçado, jornada exaustiva, servidão por dívida ou condições degradantes — basta um deles para a configuração;
 - **Setores:** pecuária, carvoaria, café, soja, cana, construção rural;

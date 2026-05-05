@@ -21,6 +21,8 @@ O relevo brasileiro é antigo e relativamente baixo. Não há vulcões ativos, n
 
 O Brasil está no centro da Placa Sul-Americana, longe das bordas onde as placas colidem. O resultado é estabilidade — pouco vulcanismo, pouco terremoto, ausência de dobramentos recentes.
 
+Dois marcos ajudam a entender o tema:
+
 - **Borda ativa:** oeste do continente, na fronteira entre a placa de Nazca e a Sul-Americana — onde se ergueram os Andes;
 - **Interior estável:** o restante da placa, onde fica o Brasil — relevo antigo, desgastado pela erosão.
 
@@ -50,6 +52,8 @@ Classificar o relevo é escolher critérios. Ao longo do século XX, três class
 
 Em 1949, o geógrafo Aroldo de Azevedo propôs uma classificação simples baseada na altitude. Dividiu o relevo brasileiro em planaltos (acima de 200 m) e planícies (abaixo de 200 m).
 
+Três características descrevem o processo:
+
 - **Critério:** altimetria;
 - **Vantagem:** simplicidade, fácil leitura;
 - **Limite:** ignora processos de formação e estrutura geológica.
@@ -57,6 +61,8 @@ Em 1949, o geógrafo Aroldo de Azevedo propôs uma classificação simples basea
 ### 2.2 Aziz Ab'Sáber e a leitura morfoclimática
 
 Em 1962, Aziz Ab'Sáber acrescentou um terceiro elemento: o processo. Olhou para o relevo levando em conta clima, erosão e sedimentação. Inseriu as **depressões** como categoria — áreas rebaixadas pela erosão prolongada.
+
+Três fatores estruturam a leitura:
 
 - **Critério:** altimetria + processo morfoclimático;
 - **Categorias:** planaltos, planícies e depressões;
@@ -68,6 +74,8 @@ Em 1962, Aziz Ab'Sáber acrescentou um terceiro elemento: o processo. Olhou para
 ### 2.3 Jurandyr Ross e as 28 unidades
 
 Em 1989, Jurandyr Ross usou os dados do RADAMBRASIL para propor a classificação mais detalhada já feita. Cruzou estrutura geológica, formas e processos para chegar a 28 unidades de relevo, agrupadas em três grandes blocos.
+
+Três chaves abrem o tema:
 
 - **Critério:** estrutura geológica + processo + dados de radar;
 - **Resultado:** 28 unidades específicas (planaltos, planícies, depressões);
@@ -97,6 +105,8 @@ Boa parte do Brasil é planáltica. Esses planaltos abrigam formas marcantes:
 ### 3.2 Planícies e depressões
 
 Planícies são áreas de sedimentação predominante; depressões são áreas rebaixadas em relação ao entorno.
+
+Cinco elementos compõem o quadro:
 
 - **Planície Amazônica:** depósitos fluviais ao longo do rio Amazonas e afluentes;
 - **Planície do Pantanal:** sedimentação ativa em uma das maiores áreas alagáveis do mundo;

@@ -21,6 +21,8 @@ Cultura, para a Geografia, não é só arte ou tradição. É o modo como um gru
 
 A geografia cultural não estuda cultura como objeto isolado. Estuda a relação entre cultura e espaço.
 
+Quatro pontos resumem o cenário:
+
 - **Práticas:** o que se faz cotidianamente em cada região (alimentação, festas, religiosidade, trabalho);
 - **Símbolos:** representações que dão sentido ao lugar (monumentos, paisagens, mitos locais);
 - **Identidades:** quem se reconhece como pertencente a um território;
@@ -29,6 +31,8 @@ A geografia cultural não estuda cultura como objeto isolado. Estuda a relação
 ### 1.2 Lugar, paisagem e pertencimento
 
 Três conceitos centrais articulam a leitura cultural do território.
+
+Três dimensões organizam essa análise:
 
 - **Lugar:** porção do espaço carregada de sentido pelas pessoas que nela vivem — uma praça, um bairro, uma casa, uma feira;
 - **Paisagem cultural:** marcas visíveis da ação humana sobre o espaço, com significado coletivo (centros históricos, terreiros, roças tradicionais);
@@ -47,6 +51,8 @@ Patrimônio cultural é o que uma sociedade reconhece como digno de preservaçã
 
 A distinção entre os dois tipos de patrimônio mudou a forma como o Brasil se enxerga culturalmente.
 
+Quatro marcos ajudam a entender o tema:
+
 - **Patrimônio material:** bens físicos — centros históricos, edifícios, esculturas, sítios arqueológicos, paisagens construídas;
 - **Patrimônio imaterial:** práticas, saberes, festas, modos de fazer transmitidos socialmente — samba de roda, frevo, ofício das paneleiras de Goiabeiras;
 - **Reconhecimento:** o IPHAN tomba bens materiais e registra bens imateriais; a UNESCO faz o mesmo em escala internacional;
@@ -58,6 +64,8 @@ A distinção entre os dois tipos de patrimônio mudou a forma como o Brasil se 
 ### 2.2 Patrimônios UNESCO no Brasil
 
 O Brasil tem 23 sítios reconhecidos como Patrimônio Mundial pela UNESCO, entre culturais e naturais. Os culturais mostram a diversidade brasileira.
+
+Seis características descrevem o processo:
 
 - **Ouro Preto (MG):** centro histórico do ciclo do ouro, reconhecido em 1980 — primeiro patrimônio cultural brasileiro na lista da UNESCO;
 - **Olinda (PE):** centro histórico colonial, reconhecido em 1982;
@@ -81,6 +89,8 @@ A diversidade cultural brasileira não é decoração nem soma de "regiões pito
 
 Cada elemento cultural tem distribuição territorial própria.
 
+Quatro fatores estruturam a leitura:
+
 - **Sotaques:** o português brasileiro tem variações marcantes — gaúcho, mineiro, paulista, baiano, cearense, paraense — cada um com história e influências locais;
 - **Culinárias:** acarajé na Bahia, tacacá no Pará, baião de dois no Nordeste interior, churrasco gaúcho, pão de queijo mineiro;
 - **Festas:** São João nordestino, Bumba meu Boi maranhense, Boi de Parintins, Círio de Nazaré, Carnaval em diferentes formatos por região;
@@ -89,6 +99,8 @@ Cada elemento cultural tem distribuição territorial própria.
 ### 3.2 Música, modos de vida e paisagens culturais
 
 Outras dimensões culturais também se territorializam.
+
+Três chaves abrem o tema:
 
 - **Música:** samba (RJ), forró (NE), MPB, sertanejo (interior centro-sul), tecnobrega (PA), maracatu (PE), repentismo (NE);
 - **Modos de vida:** ribeirinhos amazônicos, quilombolas, sertanejos, gaúchos, caiçaras, pantaneiros — cada um com saberes específicos sobre seu ambiente;
@@ -107,6 +119,8 @@ Identidade territorial não é fixa. Ela se constrói, se reformula e se contest
 
 Identidade territorial é o sentimento de pertencimento associado a um lugar ou região.
 
+Quatro elementos compõem o quadro:
+
 - **Construção histórica:** identidades não nascem prontas; são produzidas em décadas e séculos;
 - **Múltiplas camadas:** uma pessoa pode ser nordestina, baiana, baiano da Chapada e também brasileira ao mesmo tempo;
 - **Disputa:** quem define a identidade de um lugar — moradores, mídia, mercado, Estado? Costuma ser todos juntos, em tensão;
@@ -115,6 +129,8 @@ Identidade territorial é o sentimento de pertencimento associado a um lugar ou 
 ### 4.2 Redes digitais, mercado e homogeneização
 
 Mídias digitais e mercado cultural global mudaram radicalmente a circulação cultural — com efeitos contraditórios.
+
+Quatro aspectos definem essa lógica:
 
 - **Ampliação:** um forró pernambucano hoje é ouvido em Tóquio; um brega paraense viraliza no TikTok mundial;
 - **Padronização:** algoritmos privilegiam o que já é popular; plataformas globais promovem formatos uniformes;
