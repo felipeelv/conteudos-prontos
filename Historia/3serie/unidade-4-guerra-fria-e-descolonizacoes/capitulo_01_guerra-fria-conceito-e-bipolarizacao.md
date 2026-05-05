@@ -21,6 +21,8 @@ A **Guerra Fria** foi a disputa global entre EUA e URSS sem guerra direta entre 
 
 ### 1.1 Pós-guerra, medo nuclear e propaganda
 
+O fim da Segunda Guerra deixou herança devastadora e mudou o que significava entrar em conflito. Quatro elementos definem o cenário:
+
 - **Saldo da Segunda Guerra:** cerca de 70 milhões de mortos; Europa destruída;
 - **Hiroshima e Nagasaki (1945):** armas nucleares mudaram o significado de "guerra total";
 - **Confronto direto entre superpotências:** significaria fim da civilização;
@@ -28,7 +30,7 @@ A **Guerra Fria** foi a disputa global entre EUA e URSS sem guerra direta entre 
 
 ### 1.2 Conflito sem confronto direto
 
-A **bipolaridade** é a organização do mundo em torno de dois polos principais de poder.
+A **bipolaridade** é a organização do mundo em torno de dois polos principais de poder. Quatro características definem esse novo formato de conflito:
 
 - **Superpotências:** EUA e URSS, com capacidade militar, econômica e ideológica global;
 - **Pressão sobre o mundo:** alinhar-se a um bloco, neutralidade ou intervenção;
@@ -48,7 +50,7 @@ Após 1945, o mundo se organizou em dois blocos políticos, econômicos e milita
 
 ### 2.1 Bloco capitalista: EUA, OTAN e economia de mercado
 
-A **economia de mercado** é o sistema em que produção, preços e distribuição são definidos pela iniciativa privada e pela concorrência.
+A **economia de mercado** é o sistema em que produção, preços e distribuição são definidos pela iniciativa privada e pela concorrência. Cinco peças articulam o bloco ocidental:
 
 - **OTAN (1949):** aliança militar liderada pelos EUA, com 12 países iniciais;
 - **Plano Marshall (1948-1952):** 13 bilhões de dólares para reconstruir a Europa Ocidental;
@@ -58,7 +60,7 @@ A **economia de mercado** é o sistema em que produção, preços e distribuiç�
 
 ### 2.2 Bloco socialista: URSS, Pacto de Varsóvia e economia planificada
 
-A **economia planificada** é o sistema em que o Estado define metas de produção, preços e distribuição.
+A **economia planificada** é o sistema em que o Estado define metas de produção, preços e distribuição. Cinco peças articulam o bloco oriental:
 
 - **Pacto de Varsóvia (1955):** aliança militar liderada pela URSS, em resposta à OTAN;
 - **COMECON (1949):** Conselho de Cooperação Econômica do bloco oriental;
@@ -79,6 +81,8 @@ A **contenção** foi a estratégia americana para impedir a expansão do comuni
 
 ### 3.1 O Longo Telegrama de Kennan
 
+Kennan estava em Moscou quando recebeu o pedido de Washington para explicar a postura soviética. Sua resposta moldou décadas. Cinco marcos resumem o impacto:
+
 - **Fevereiro de 1946:** Kennan envia de Moscou para Washington um telegrama de cerca de 8 mil palavras;
 - **Argumento central:** a URSS via o Ocidente como inimigo permanente, mas era cautelosa diante de força firme;
 - **Solução proposta:** pressão constante e paciente, não guerra;
@@ -87,7 +91,7 @@ A **contenção** foi a estratégia americana para impedir a expansão do comuni
 
 ### 3.2 Doutrina Truman e Plano Marshall
 
-A **Doutrina Truman** foi anunciada em março de 1947 e estabeleceu que os EUA deveriam apoiar "povos livres que resistem a tentativas de subjugação".
+A **Doutrina Truman** foi anunciada em março de 1947 e estabeleceu que os EUA deveriam apoiar "povos livres que resistem a tentativas de subjugação". Cinco passos transformaram esse princípio em política concreta:
 
 - **12/3/1947:** Doutrina Truman como princípio oficial;
 - **5/6/1947:** anúncio do Plano Marshall por George Marshall;
@@ -108,6 +112,8 @@ A **Cortina de Ferro** era a expressão usada para representar a separação ide
 
 ### 4.1 De metáfora a realidade física
 
+A imagem retórica de Churchill ganhou correspondência material em poucos anos. Cinco episódios marcam essa materialização:
+
 - **5/3/1946:** Churchill em Fulton populariza a expressão;
 - **1949:** Alemanha dividida em dois Estados — RFA (Oeste) e RDA (Leste);
 - **1948-1949:** Bloqueio de Berlim e Ponte Aérea;
@@ -116,7 +122,7 @@ A **Cortina de Ferro** era a expressão usada para representar a separação ide
 
 ### 4.2 Linguagem ideológica e conflitos preparados
 
-A divisão criou linguagem própria.
+A divisão criou linguagem própria. Quatro categorias entraram no vocabulário do período:
 
 - **"Mundo livre":** sinônimo de bloco ocidental;
 - **"Mundo socialista":** sinônimo de bloco oriental;

@@ -21,6 +21,8 @@ A **Regência** foi o governo exercido temporariamente porque o monarca ainda n�
 
 ### 1.1 Da abdicação à Regência Trina
 
+A saída de D. Pedro I deixou o trono vago. Como o herdeiro tinha cinco anos, a Assembleia montou regências coletivas. Quatro elementos caracterizam essa primeira fase:
+
 - **Regência Trina Provisória (1831):** três regentes nomeados em caráter de emergência;
 - **Regência Trina Permanente (1831-1835):** três regentes eleitos pela Assembleia Geral;
 - **Modelo coletivo:** decisões negociadas entre os três; nenhum nome carregava sozinho a autoridade do trono;
@@ -28,7 +30,7 @@ A **Regência** foi o governo exercido temporariamente porque o monarca ainda n�
 
 ### 1.2 Feijó, Araújo Lima e o Regresso Conservador
 
-O **Ato Adicional de 1834** alterou a Constituição de 1824 e criou a **Regência Una** — governo de um único regente eleito pelo voto.
+O **Ato Adicional de 1834** alterou a Constituição de 1824 e criou a **Regência Una** — governo de um único regente eleito pelo voto. Quatro marcos resumem o período una:
 
 - **1835:** Padre Diogo Feijó eleito Regente Una; tentou centralizar decisões;
 - **1837:** Feijó renunciou diante de oposições e revoltas;
@@ -48,6 +50,8 @@ A instabilidade regencial expressava disputa profunda sobre o desenho do Estado 
 
 ### 2.1 Autonomia provincial ou risco de fragmentação?
 
+Liberais e conservadores divergiam sobre o desenho do Estado e olhavam para modelos opostos no continente. Quatro contrastes mostram essa divisão:
+
 - **Liberais (progressistas):** Assembleias Provinciais fortes, Guarda Nacional, autonomia local;
 - **Conservadores (regressistas):** poder central, tropas imperiais, controle do Rio sobre as províncias;
 - **Inspiração liberal:** experiência norte-americana após 1776;
@@ -58,7 +62,7 @@ A instabilidade regencial expressava disputa profunda sobre o desenho do Estado 
 
 ### 2.2 Progressistas e regressistas como projetos de poder
 
-Liberais e conservadores não eram partidos modernos. Eram correntes parlamentares com fronteiras móveis.
+Liberais e conservadores não eram partidos modernos. Eram correntes parlamentares com fronteiras móveis. Quatro conceitos esclarecem essa dinâmica:
 
 - **Descentralização:** transferência de parte do poder do centro para províncias;
 - **Centralização:** concentração das decisões políticas no governo central;
@@ -67,7 +71,7 @@ Liberais e conservadores não eram partidos modernos. Eram correntes parlamentar
 
 ### 2.3 Instabilidade como problema estrutural
 
-A **governabilidade** é a capacidade de um governo tomar decisões, manter autoridade e administrar conflitos. Durante a Regência, ela ficou comprometida.
+A **governabilidade** é a capacidade de um governo tomar decisões, manter autoridade e administrar conflitos. Durante a Regência, ela ficou comprometida. Quatro fragilidades estruturais explicam o desgaste:
 
 - **Sem imperador adulto:** faltava centro simbólico;
 - **Sem exército centralizado forte:** o Rio dependia de tropas provinciais;
@@ -86,6 +90,8 @@ O **Ato Adicional de 1834** foi a reforma constitucional que ampliou a autonomia
 
 ### 3.1 O que mudou em 1834
 
+A reforma redesenhou a relação entre centro e províncias e mexeu na figura do regente. Quatro mudanças concretas se destacam:
+
 - **Assembleias Provinciais:** legislativos com poder amplo sobre temas locais (educação, saúde, polícia, obras);
 - **Autonomia provincial:** capacidade de cada província legislar sobre suas necessidades;
 - **Regência Una eleita:** governo de regente único, escolhido pelo voto;
@@ -96,7 +102,7 @@ O **Ato Adicional de 1834** foi a reforma constitucional que ampliou a autonomia
 
 ### 3.2 Quando descentralizar não basta
 
-A descentralização ampliou o poder das elites locais — em algumas províncias, isso fortaleceu projetos sólidos; em outras, intensificou disputas.
+A descentralização ampliou o poder das elites locais — em algumas províncias, isso fortaleceu projetos sólidos; em outras, intensificou disputas. Quatro consequências expõem esse jogo de leituras:
 
 - **1835:** Cabanagem (Grão-Pará) e Farroupilha (Rio Grande do Sul) eclodem;
 - **Leitura conservadora:** prova de que descentralizar abriu porta para a desordem;

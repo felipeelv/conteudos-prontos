@@ -21,7 +21,7 @@ A **Filosofia** — palavra grega para "amor à sabedoria" — é a busca racion
 
 ### 1.1 Do mito ao logos, sem apagar os mitos
 
-Os primeiros filósofos buscaram ordem por trás das aparências. Não rejeitaram os deuses — perguntaram pelos princípios racionais do mundo.
+Os primeiros filósofos buscaram ordem por trás das aparências. Não rejeitaram os deuses — perguntaram pelos princípios racionais do mundo. Cinco elementos marcam essa virada:
 
 - **Mythos:** explicação por narrativas sagradas, mitos e tradições;
 - **Logos:** explicação orientada por razão, argumento e investigação;
@@ -70,7 +70,7 @@ O teatro grego não era entretenimento privado. Era ritual público, ligado à r
 
 ### 2.1 Teatro como experiência pública
 
-Os festivais aconteciam em homenagem a Dionísio, deus do vinho e do êxtase. Eram eventos coletivos da pólis inteira.
+Os festivais aconteciam em homenagem a Dionísio, deus do vinho e do êxtase. Eram eventos coletivos da pólis inteira. Quatro traços mostram esse caráter público:
 
 - **Festivais de Dionísio:** reuniam toda a pólis em anfiteatros ao ar livre;
 - **Ingressos pagos pelo Estado:** garantiam acesso a cidadãos pobres;
@@ -79,7 +79,7 @@ Os festivais aconteciam em homenagem a Dionísio, deus do vinho e do êxtase. Er
 
 ### 2.2 Tragédia, comédia e crítica social
 
-A **tragédia** apresenta conflitos humanos profundos: destino, justiça, sofrimento. A **comédia** usa humor e crítica para discutir sociedade e política.
+A **tragédia** apresenta conflitos humanos profundos: destino, justiça, sofrimento. A **comédia** usa humor e crítica para discutir sociedade e política. Quatro autores ilustram esses gêneros:
 
 - **Ésquilo:** tragédia, *Oresteia*;
 - **Sófocles:** tragédia, *Antígona* — jovem que enfrenta o rei para enterrar o irmão;
@@ -101,7 +101,7 @@ A vida cultural grega não se limitou à Filosofia e ao teatro. Ciência, arte e
 
 ### 3.1 Investigar o passado, o corpo e a natureza
 
-A investigação racional virou prática reconhecível na Grécia clássica.
+A investigação racional virou prática reconhecível na Grécia clássica. Quatro figuras-chave abriram caminho:
 
 - **Heródoto (484-425 a.C.):** "pai da História"; escreveu sobre as Guerras Médicas;
 - **Tucídides:** escreveu sobre a Guerra do Peloponeso, com método ainda mais crítico;
@@ -110,7 +110,7 @@ A investigação racional virou prática reconhecível na Grécia clássica.
 
 ### 3.2 Beleza, proporção e competição
 
-Arte e esporte gregos buscaram proporção, equilíbrio e idealização do corpo humano.
+Arte e esporte gregos buscaram proporção, equilíbrio e idealização do corpo humano. Cinco expressões reúnem esse ideal estético:
 
 - **Ordens arquitetônicas:** dórica, jônica e coríntia — regras de proporção em colunas e templos;
 - **Escultura:** corpo humano com naturalidade idealizada (Fídias, Mirón, Praxíteles);
@@ -131,7 +131,7 @@ A cultura grega clássica foi reinterpretada por Roma, pela Idade Média cristã
 
 ### 4.1 O que permaneceu
 
-Quatro grandes legados atravessaram os séculos.
+Quatro grandes legados atravessaram os séculos:
 
 - **Democracia:** retomada em forma representativa nas revoluções americana (1776) e francesa (1789);
 - **Filosofia:** base de cursos, debates e formação intelectual até hoje;
@@ -140,7 +140,7 @@ Quatro grandes legados atravessaram os séculos.
 
 ### 4.2 Legados não são cópias perfeitas
 
-A herança grega chegou ao Ocidente sempre adaptada e reinterpretada.
+A herança grega chegou ao Ocidente sempre adaptada e reinterpretada. Quatro reinterpretações marcam essa trajetória:
 
 - **Roma:** Cícero traduziu os termos filosóficos para o latim;
 - **Idade Média:** universidades leram Aristóteles via comentadores árabes e persas;

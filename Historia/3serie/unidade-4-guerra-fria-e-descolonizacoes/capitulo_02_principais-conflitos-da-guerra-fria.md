@@ -21,6 +21,8 @@ As primeiras grandes crises mostraram que a divisão entre os blocos não era s�
 
 ### 1.1 Bloqueio de Berlim e a Europa dividida
 
+Berlim virou centro da disputa logo após a guerra, e a tensão escalou rápido. Cinco marcos compõem essa cronologia:
+
 - **1945:** Alemanha dividida em quatro zonas (americana, britânica, francesa, soviética);
 - **Junho 1948:** três zonas ocidentais lançam o marco alemão;
 - **1948-1949:** URSS bloqueia acesso terrestre a Berlim Ocidental;
@@ -29,7 +31,7 @@ As primeiras grandes crises mostraram que a divisão entre os blocos não era s�
 
 ### 1.2 Guerra da Coreia: divisão no paralelo 38
 
-Em 1945, a Coreia foi libertada do domínio japonês — mas dividida pelos vencedores no **paralelo 38**.
+Em 1945, a Coreia foi libertada do domínio japonês — mas dividida pelos vencedores no **paralelo 38**. Seis marcos resumem o conflito:
 
 - **1948:** Coreia dividida em duas Repúblicas (Norte comunista, Sul conservador);
 - **25/6/1950:** invasão norte-coreana ao Sul;
@@ -51,6 +53,8 @@ A **Revolução Cubana** de 1959 mudou o equilíbrio da Guerra Fria no continent
 
 ### 2.1 Da Revolução à aproximação com a URSS
 
+A queda de Batista abriu uma trajetória rápida de reformas e ruptura com Washington. Cinco etapas explicam a aproximação com Moscou:
+
 - **1/1/1959:** Fidel Castro derruba Fulgêncio Batista, ditador aliado dos EUA;
 - **Reformas:** agrárias e nacionalizações; empresas americanas expropriadas;
 - **1961:** EUA cortam relações; exilados cubanos invadem Cuba na **Baía dos Porcos** com apoio da CIA;
@@ -58,6 +62,8 @@ A **Revolução Cubana** de 1959 mudou o equilíbrio da Guerra Fria no continent
 - **Khrushchev:** vê oportunidade — instalar mísseis a 150 km da Flórida, em resposta aos mísseis americanos na Turquia.
 
 ### 2.2 A Crise dos Mísseis (outubro de 1962)
+
+Em treze dias, o mundo chegou mais perto da guerra nuclear do que em qualquer outro momento. Cinco passos resumem a crise:
 
 - **14/10/1962:** aviões espiões U-2 fotografam bases de mísseis em Cuba;
 - **22/10/1962:** Kennedy anuncia **bloqueio naval** — cerco marítimo;
@@ -78,6 +84,8 @@ A **Guerra do Vietnã** combinou descolonização contra a França, nacionalismo
 
 ### 3.1 Da independência contra a França à divisão do país
 
+A independência proclamada em 1945 não foi reconhecida por Paris. A guerra durou nove anos e terminou com o país partido. Seis marcos resumem essa fase:
+
 - **2/9/1945:** Ho Chi Minh proclama a República Democrática do Vietnã;
 - **1946-1954:** Primeira Guerra da Indochina contra a França;
 - **Vietminh:** guerrilha + mobilização popular + exército regular, com apoio chinês após 1949;
@@ -87,6 +95,8 @@ A **Guerra do Vietnã** combinou descolonização contra a França, nacionalismo
 
 ### 3.2 A intervenção americana e a guerra de guerrilha
 
+EUA assumiram o lugar da França, com tecnologia muito superior — mas guerra muito mais longa. Seis elementos descrevem o confronto:
+
 - **Anos 1950:** EUA enviam conselheiros militares;
 - **1965:** governo Johnson envia tropas em larga escala;
 - **Vietcong:** guerrilha comunista no Sul; táticas em selvas e túneis;
@@ -95,6 +105,8 @@ A **Guerra do Vietnã** combinou descolonização contra a França, nacionalismo
 - **Efeitos persistentes:** câncer, malformações congênitas em gerações de vietnamitas.
 
 ### 3.3 A derrota americana e a reunificação
+
+A virada na opinião pública americana e o avanço norte-vietnamita selaram o fim da intervenção. Seis marcos contam o desfecho:
 
 - **Ofensiva do Tet (1968):** mostra que EUA não estavam vencendo apesar da superioridade técnica;
 - **Manifestações:** estudantes e movimento por direitos civis se unem contra a guerra;
@@ -116,6 +128,8 @@ A Guerra Fria não foi só conflito militar. Foi também competição tecnológi
 
 ### 4.1 Corrida espacial e corrida armamentista
 
+Tecnologia virou arena central da disputa, com efeitos militares e simbólicos. Seis marcos resumem essa corrida:
+
 - **4/10/1957:** URSS lança o **Sputnik**, primeiro satélite artificial;
 - **1958:** EUA criam a NASA;
 - **1961:** Yuri Gagarin é o primeiro humano no espaço;
@@ -125,7 +139,7 @@ A Guerra Fria não foi só conflito militar. Foi também competição tecnológi
 
 ### 4.2 Coexistência, détente e recrudescimento
 
-A Guerra Fria teve fases distintas.
+A Guerra Fria teve fases distintas. Quatro momentos resumem a alternância entre tensão e relaxamento:
 
 - **Coexistência pacífica:** formulada por Khrushchev, fim dos anos 1950 — competição em todas as áreas, sem confronto militar direto;
 - **Détente (anos 1970):** relaxamento relativo; **SALT I (1972)** limita mísseis estratégicos; Nixon visita Moscou e Pequim;

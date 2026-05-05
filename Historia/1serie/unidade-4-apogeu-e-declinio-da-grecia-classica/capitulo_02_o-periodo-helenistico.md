@@ -21,7 +21,7 @@ A **Macedônia** era um reino ao norte do mundo grego, antes visto como perifér
 
 ### 1.1 A Grécia enfraquecida e a falange macedônica
 
-As pólis gregas saíram da Guerra do Peloponeso esgotadas. Filipe II observou e agiu.
+As pólis gregas saíram da Guerra do Peloponeso esgotadas. Filipe II observou e agiu. Quatro elementos definem o salto militar macedônico:
 
 - **Falange macedônica:** formação compacta com longas lanças (sarissas);
 - **Diferencial:** disciplina, alcance e velocidade superiores à falange grega;
@@ -32,7 +32,7 @@ As pólis gregas saíram da Guerra do Peloponeso esgotadas. Filipe II observou e
 
 ### 1.2 Filipe II e a vitória de Queroneia
 
-Filipe II combinou força e diplomacia para impor hegemonia.
+Filipe II combinou força e diplomacia para impor hegemonia. Quatro marcos selam essa imposição:
 
 - **Conquistas iniciais:** minas de ouro e portos estratégicos;
 - **Queroneia (338 a.C.):** vitória decisiva sobre coalizão liderada por Atenas e Tebas;
@@ -52,7 +52,7 @@ Filipe II foi assassinado em 336 a.C. Alexandre, com 20 anos, herdou o trono e o
 
 ### 2.1 Um jovem rei no comando de um projeto antigo
 
-Alexandre foi educado por **Aristóteles**. Conhecia retórica, ciência, política e literatura — e crescera em um exército.
+Alexandre foi educado por **Aristóteles**. Conhecia retórica, ciência, política e literatura — e crescera em um exército. Quatro marcos abrem sua trajetória como rei:
 
 - **336 a.C.:** assume o trono aos 20 anos;
 - **335 a.C.:** reprime revoltas em Tebas e nas pólis gregas;
@@ -64,7 +64,7 @@ Alexandre foi educado por **Aristóteles**. Conhecia retórica, ciência, polít
 
 ### 2.2 Da Pérsia ao Egito e até a Índia
 
-A campanha foi rápida e devastadora. Alexandre derrotou Dario III em três batalhas decisivas.
+A campanha foi rápida e devastadora. Alexandre derrotou Dario III em três batalhas decisivas. Cinco episódios marcam o avanço:
 
 - **Grânico (334 a.C.):** primeira vitória em território persa;
 - **Issos (333 a.C.):** derrota direta do exército de Dario III;
@@ -76,7 +76,7 @@ Alexandre voltou para a Babilônia, onde morreu em 323 a.C., aos 32 anos.
 
 ### 2.3 Libertador, conquistador ou os dois?
 
-Alexandre se apresentava como libertador dos povos sob domínio persa, mas conquistava cidades pela força.
+Alexandre se apresentava como libertador dos povos sob domínio persa, mas conquistava cidades pela força. Quatro elementos mostram essa ambiguidade:
 
 - **Cerca de 70 cidades:** fundadas com seu nome ou ligadas ao seu projeto;
 - **Casamentos políticos:** com Roxana (princesa bactriana) e exigência de casamentos similares aos generais;
@@ -96,7 +96,7 @@ Após a morte de Alexandre, o império se fragmentou. Mas a circulação cultura
 
 ### 3.1 Império dividido e reinos helenísticos
 
-Sem sucessor preparado, os generais de Alexandre — chamados *diádocos* — disputaram o império por décadas.
+Sem sucessor preparado, os generais de Alexandre — chamados *diádocos* — disputaram o império por décadas. Três grandes reinos emergiram da fragmentação:
 
 - **Reino Ptolomaico:** Egito, capital em Alexandria; fundado por Ptolomeu;
 - **Reino Selêucida:** Síria, Mesopotâmia e parte da Pérsia; fundado por Seleuco;
@@ -106,7 +106,7 @@ Sem sucessor preparado, os generais de Alexandre — chamados *diádocos* — di
 
 ### 3.2 Koiné, cosmopolitismo e novos saberes
 
-A **koiné** era a forma comum da língua grega difundida no mundo helenístico — funcionava como língua franca em cidades, comércio e ciência.
+A **koiné** era a forma comum da língua grega difundida no mundo helenístico — funcionava como língua franca em cidades, comércio e ciência. Cinco marcas definem esse mundo cosmopolita:
 
 - **Cosmopolitismo:** circulação entre diferentes povos, cidades e culturas;
 - **Alexandria (Egito):** polo cultural com Biblioteca e Museu (instituição de pesquisa);
@@ -127,7 +127,7 @@ O mundo helenístico não desapareceu de uma vez. Foi sendo absorvido por Roma.
 
 ### 4.1 Quando Roma entra na história grega
 
-Roma cresceu na península itálica e expandiu-se pelo Mediterrâneo no séc. II a.C.
+Roma cresceu na península itálica e expandiu-se pelo Mediterrâneo no séc. II a.C. Quatro marcos resumem a absorção dos reinos helenísticos:
 
 - **Reino Antigônida:** caiu em 168 a.C., após batalha de Pidna;
 - **146 a.C.:** Roma destruiu Corinto e transformou a Grécia em província;
@@ -136,7 +136,7 @@ Roma cresceu na península itálica e expandiu-se pelo Mediterrâneo no séc. II
 
 ### 4.2 Uma derrota política, uma vitória cultural?
 
-Os romanos ficaram impressionados com a cultura grega.
+Os romanos ficaram impressionados com a cultura grega. Quatro evidências marcam essa influência reversa:
 
 - **Filosofia:** estudaram Platão, Aristóteles, estoicos e epicuristas;
 - **Templos:** copiaram colunas, estátuas e proporções gregas;

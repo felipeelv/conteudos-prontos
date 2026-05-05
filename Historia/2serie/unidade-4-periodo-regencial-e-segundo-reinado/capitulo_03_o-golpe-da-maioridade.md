@@ -21,6 +21,8 @@ Em 1840, a Regência tinha entrado em desgaste claro: nove anos, quatro fases, q
 
 ### 1.1 A Regência estava esgotada?
 
+Em 1840, qualquer arranjo regencial parecia incapaz de sustentar consenso. Quatro fatos resumem o esgotamento:
+
 - **Regresso Conservador (1837-1840):** Araújo Lima reverte parte das reformas;
 - **Lei de Interpretação (1840):** esvazia o Ato Adicional de 1834;
 - **Sem consenso:** mesmo o Regresso não consolidava unanimidade;
@@ -28,7 +30,7 @@ Em 1840, a Regência tinha entrado em desgaste claro: nove anos, quatro fases, q
 
 ### 1.2 O medo de perder a unidade territorial
 
-A **unidade territorial** era obsessão constante das elites.
+A **unidade territorial** era obsessão constante das elites. Quatro elementos sustentavam esse temor:
 
 - **Pesadelo:** fragmentação da América Hispânica em guerras civis;
 - **Cabanagem, Balaiada, Farroupilha, Sabinada:** parecem confirmar o risco;
@@ -45,6 +47,8 @@ O **Golpe da Maioridade** foi a articulação política que antecipou a maiorida
 
 ### 2.1 O Clube da Maioridade e a estratégia liberal
 
+Os liberais saíram do Regresso Conservador buscando rota de retorno ao poder. O caminho escolhido teve quatro passos:
+
 - **Maio de 1840:** Clube da Maioridade se organiza formalmente;
 - **Membros:** Antônio Carlos de Andrada, Holanda Cavalcanti, Aureliano Coutinho, Teófilo Otoni;
 - **Junho de 1840:** lança campanha pública pela antecipação;
@@ -55,7 +59,7 @@ O **Golpe da Maioridade** foi a articulação política que antecipou a maiorida
 
 ### 2.2 Golpe parlamentar: forma institucional, efeito político
 
-A Constituição de 1824 estabelecia maioridade aos 18 anos. Mudar a regra exigiria reforma com duas legislaturas votando o mesmo texto.
+A Constituição de 1824 estabelecia maioridade aos 18 anos. Mudar a regra exigiria reforma com duas legislaturas votando o mesmo texto. Quatro elementos descrevem o atalho usado:
 
 - **23 de julho de 1840:** liberais simplesmente declaram, em sessão da Assembleia Geral, que D. Pedro II é maior;
 - **Manobra:** votação imediata, oposição atropelada;
@@ -67,7 +71,7 @@ A Constituição de 1824 estabelecia maioridade aos 18 anos. Mudar a regra exigi
 
 ### 2.3 Por que um adolescente parecia uma solução?
 
-Por que entregar o Império a um menino de 14 anos parecia melhor do que manter um regente adulto?
+Por que entregar o Império a um menino de 14 anos parecia melhor do que manter um regente adulto? Quatro razões compõem a resposta da época:
 
 - **Legitimidade monárquica:** o trono carregava aura simbólica que regentes não tinham;
 - **Manobrabilidade:** Pedro II inexperiente, cada grupo achava que poderia influenciá-lo;
@@ -84,7 +88,7 @@ A Declaração da Maioridade encerrou a Regência. D. Pedro II assumiu em julho 
 
 ### 3.1 O imperador menino
 
-D. Pedro II tinha 14 anos. Filho de D. Pedro I e Maria Leopoldina, ficara no Brasil aos 5.
+D. Pedro II tinha 14 anos. Filho de D. Pedro I e Maria Leopoldina, ficara no Brasil aos 5. Quatro marcos abrem seu reinado:
 
 - **Educação:** tutoria de José Bonifácio, herói da Independência, e professores diversos;
 - **1842:** revolta liberal estoura em São Paulo e Minas Gerais;
@@ -93,7 +97,7 @@ D. Pedro II tinha 14 anos. Filho de D. Pedro I e Maria Leopoldina, ficara no Bra
 
 ### 3.2 Estabilizar não é resolver tudo
 
-A **estabilidade política** é a capacidade de reduzir conflitos e produzir continuidade. O Golpe trouxe estabilidade simbólica imediata — mas não resolveu nenhuma causa estrutural.
+A **estabilidade política** é a capacidade de reduzir conflitos e produzir continuidade. O Golpe trouxe estabilidade simbólica imediata — mas não resolveu nenhuma causa estrutural. Quatro feridas seguiram abertas:
 
 - **Escravidão:** continuou base econômica do Império até 1888;
 - **Desigualdades regionais:** seguiram gerando ressentimentos por décadas;
