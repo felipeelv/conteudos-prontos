@@ -21,7 +21,7 @@ Política de desenvolvimento regional é a ação do Estado para reduzir desigua
 
 A política regional brasileira nasce de um diagnóstico inicial: deixar a economia funcionar sem intervenção concentra capital, indústria e infraestrutura nos lugares que já as tinham.
 
-Quatro elementos compõem o quadro:
+Veja os elementos principais:
 
 - **Lógica de mercado:** investimento tende a ir onde já há infraestrutura, renda e mão de obra qualificada;
 - **Resultado sem intervenção:** áreas pobres ficam mais pobres em relação às ricas;
@@ -32,7 +32,7 @@ Quatro elementos compõem o quadro:
 
 A política regional brasileira combina quatro instrumentos principais.
 
-Quatro aspectos definem essa lógica:
+Algumas marcas resumem o tema:
 
 - **Autarquias regionais:** órgãos públicos com atribuição de planejamento (SUDENE, SUDAM, SUDECO);
 - **Fundos constitucionais:** crédito subsidiado para investimentos privados (FNE, FNO, FCO);
@@ -49,7 +49,7 @@ A primeira geração de política regional brasileira foi institucional — cria
 
 A Superintendência do Desenvolvimento do Nordeste foi criada em 1959, sob a liderança intelectual de Celso Furtado.
 
-Quatro pontos resumem o cenário:
+Olhe para os pontos a seguir:
 
 - **Origem:** ditada por seca de 1958 e diagnóstico de desigualdade estrutural Nordeste-Sudeste;
 - **Atuação inicial:** infraestrutura, eletrificação, atração de indústria, incentivos fiscais;
@@ -63,7 +63,7 @@ Quatro pontos resumem o cenário:
 
 A Superintendência do Desenvolvimento da Amazônia surgiu em 1966, em substituição à antiga SPVEA.
 
-Quatro dimensões organizam essa análise:
+Foram esses os marcos:
 
 - **Atuação:** concedeu incentivos fiscais para projetos agropecuários, madeireiros e minerais na Amazônia Legal;
 - **Críticas históricas:** financiou desmatamento sem contrapartida socioambiental, com escândalos recorrentes de irregularidade;
@@ -74,7 +74,7 @@ Quatro dimensões organizam essa análise:
 
 A Superintendência do Desenvolvimento do Centro-Oeste foi criada em 1967.
 
-Quatro marcos ajudam a entender o tema:
+Considere o que segue:
 
 - **Foco original:** integração territorial do Centro-Oeste e desenvolvimento da fronteira agrícola em Goiás, Mato Grosso e Mato Grosso do Sul;
 - **Trajetória:** extinta em 1990 no governo Collor, junto com várias outras autarquias federais;
@@ -91,7 +91,7 @@ Além das autarquias, o Brasil construiu três outros eixos de política regiona
 
 Os Fundos Constitucionais de Financiamento foram criados pela Constituição de 1988. Têm origem em parte da arrecadação federal de IR e IPI.
 
-Quatro características descrevem o processo:
+Veja os principais pontos:
 
 - **FNE (Fundo Constitucional do Nordeste):** operado pelo Banco do Nordeste, financia investimentos no Nordeste e norte de Minas/Espírito Santo;
 - **FNO (Fundo Constitucional do Norte):** operado pelo Banco da Amazônia, financia projetos na Amazônia Legal;
@@ -105,7 +105,7 @@ Quatro características descrevem o processo:
 
 Incentivo fiscal é a redução de tributos concedida pelo Estado para atrair investimento. O caso brasileiro mais conhecido é a Zona Franca de Manaus (ZFM).
 
-Quatro fatores estruturam a leitura:
+Destacam-se os seguintes:
 
 - **ZFM:** criada em 1967, garante isenções para indústrias instaladas em Manaus e área de influência;
 - **Resultado:** polo industrial de eletrônicos, motocicletas, bens de consumo na Amazônia;
@@ -116,7 +116,7 @@ Quatro fatores estruturam a leitura:
 
 Programas sociais não são política regional no sentido estrito, mas têm impacto territorial profundo — especialmente no Nordeste.
 
-Quatro chaves abrem o tema:
+Os elementos centrais são estes:
 
 - **Bolsa Família / Auxílio Brasil:** transferência de renda condicionada, atinge milhões de famílias em todo o país, com concentração no Nordeste;
 - **Efeito territorial:** redução de extrema pobreza, dinamização do comércio local em municípios pequenos;
@@ -136,7 +136,7 @@ Avaliar política pública não é torcer por ela nem desejar seu fracasso. É m
 
 Os limites das políticas regionais brasileiras se concentram em quatro pontos.
 
-Quatro elementos compõem o quadro:
+Considere os aspectos a seguir:
 
 - **Descontinuidade:** SUDENE, SUDAM e SUDECO foram extintas e recriadas — política sem estabilidade tem efeito reduzido;
 - **Governança:** capacidade de coordenar atores, recursos e fiscalização é frágil em órgãos com instabilidade política;
@@ -147,7 +147,7 @@ Quatro elementos compõem o quadro:
 
 A economista pernambucana Tânia Bacelar de Araújo é referência em avaliação de política regional brasileira. Sua tese central: o Brasil tem instrumentos, mas falta integração estratégica entre eles.
 
-Quatro aspectos definem essa lógica:
+Entre elas, destacam-se:
 
 - **Argumento central:** SUDENE, fundos, incentivos e programas sociais funcionam separados, com pouca coordenação;
 - **Diagnóstico:** desigualdade regional resiste porque o sistema não combina os instrumentos numa estratégia única;

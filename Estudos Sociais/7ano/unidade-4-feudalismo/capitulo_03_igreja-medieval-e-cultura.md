@@ -113,7 +113,7 @@ O mesmo poder religioso que organizava saber e cultura também perseguia ideias.
 
 Heresia era qualquer doutrina considerada contrária ao ensino oficial da Igreja. A partir de 1231, o Papa Gregório IX criou a **Inquisição medieval**: tribunal religioso encarregado de identificar, julgar e punir hereges.
 
-Dois grupos foram especialmente perseguidos:
+Olhe para os pontos a seguir:
 
 - **cátaros**, no sul da França, que pregavam um cristianismo dualista e rejeitavam a hierarquia eclesial;
 - **valdenses**, que defendiam pobreza voluntária e leitura direta da Bíblia.

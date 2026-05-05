@@ -21,7 +21,7 @@ As **Guerras Médicas** foram conflitos entre pólis gregas e o Império Persa n
 
 ### 1.1 Da revolta da Jônia ao confronto com Pérsia
 
-O conflito começou em 499 a.C., com cidades gregas da Jônia revoltadas contra o domínio persa. Atenas enviou apoio. Dario I quis punir. Quatro marcos organizam o conflito:
+O conflito começou em 499 a.C., com cidades gregas da Jônia revoltadas contra o domínio persa. Atenas enviou apoio. Dario I quis punir. Veja os principais pontos:
 
 - **499 a.C.:** revolta jônica recebe apoio ateniense;
 - **490 a.C.:** Maratona — primeira vitória terrestre contra Dario;
@@ -33,7 +33,7 @@ O conflito começou em 499 a.C., com cidades gregas da Jônia revoltadas contra 
 
 ### 1.2 A Liga de Delos e o novo poder de Atenas
 
-Após a guerra, Atenas liderou a formação da **Liga de Delos** (478 a.C.) — aliança defensiva contra novos ataques persas. Em duas décadas, a cooperação virou domínio. Quatro elementos marcam essa transformação:
+Após a guerra, Atenas liderou a formação da **Liga de Delos** (478 a.C.) — aliança defensiva contra novos ataques persas. Em duas décadas, a cooperação virou domínio. Destacam-se os seguintes:
 
 - **Sede:** ilha sagrada de Delos;
 - **Contribuições:** pólis aliadas pagavam em dinheiro ou navios;
@@ -64,7 +64,7 @@ A **democracia direta** era o sistema em que cidadãos participavam diretamente 
 
 ### 2.2 Quem participava e quem ficava fora
 
-A democracia era ampla entre cidadãos, mas a definição de cidadão era estreita. Quatro recortes mostram quem decidia e quem ficava de fora:
+A democracia era ampla entre cidadãos, mas a definição de cidadão era estreita. Os elementos centrais são estes:
 
 - **Quem votava:** homem livre, ateniense de nascimento, maior de idade;
 - **Quem não votava:** mulheres, escravizados, estrangeiros (metecos), pobres sem direitos plenos;
@@ -75,7 +75,7 @@ A democracia era ampla entre cidadãos, mas a definição de cidadão era estrei
 
 ### 2.3 A Acrópole, os tributos e o prestígio de Atenas
 
-Péricles transformou a Acrópole em vitrine política. Reconstruiu o Parthenon com dinheiro dos aliados — esplendor cultural pago por domínio. Quatro conceitos nomeiam essa engrenagem:
+Péricles transformou a Acrópole em vitrine política. Reconstruiu o Parthenon com dinheiro dos aliados — esplendor cultural pago por domínio. Considere os aspectos a seguir:
 
 - **Tributos da Liga:** financiavam frota, obras públicas e festivais;
 - **Imperialismo:** domínio político, militar ou econômico de uma potência sobre outros povos;
@@ -95,7 +95,7 @@ A expansão ateniense gerou medo em Esparta, principal rival, que liderava a **L
 
 ### 3.1 Atenas e Esparta em rota de colisão
 
-A Guerra do Peloponeso (431-404 a.C.) opôs Atenas e seus aliados marítimos a Esparta e seus aliados continentais. O resultado se decidiu por força militar, mas também por acidentes e escolhas. Quatro fatores moldaram o início da guerra:
+A Guerra do Peloponeso (431-404 a.C.) opôs Atenas e seus aliados marítimos a Esparta e seus aliados continentais. O resultado se decidiu por força militar, mas também por acidentes e escolhas. Entre elas, destacam-se:
 
 - **Atenas:** frota poderosa, muralhas longas até o porto de Pireu, estratégia naval;
 - **Esparta:** o melhor exército terrestre da Grécia, estratégia continental;
@@ -107,7 +107,7 @@ A Guerra do Peloponeso (431-404 a.C.) opôs Atenas e seus aliados marítimos a E
 
 ### 3.2 Tucídides: medo, interesse e poder
 
-**Tucídides** (c. 460-400 a.C.) escreveu a *História da Guerra do Peloponeso* — uma das primeiras obras de história crítica do Ocidente. Ele explicou o conflito por causas humanas, não divinas. Quatro categorias atravessam sua análise:
+**Tucídides** (c. 460-400 a.C.) escreveu a *História da Guerra do Peloponeso* — uma das primeiras obras de história crítica do Ocidente. Ele explicou o conflito por causas humanas, não divinas. Vale observar o que segue:
 
 - **Medo:** pólis menores temiam o crescimento ateniense;
 - **Interesse:** cada lado buscava recursos, aliados e poder naval;
@@ -119,7 +119,7 @@ A Guerra do Peloponeso (431-404 a.C.) opôs Atenas e seus aliados marítimos a E
 
 ### 3.3 Vitória espartana e enfraquecimento geral
 
-Esparta venceu em 404 a.C., com apoio financeiro persa — o mesmo império que as pólis tinham combatido juntas décadas antes. A vitória custou caro até para o vencedor. Quatro consequências mostram por quê:
+Esparta venceu em 404 a.C., com apoio financeiro persa — o mesmo império que as pólis tinham combatido juntas décadas antes. A vitória custou caro até para o vencedor. Os fatores em jogo são estes:
 
 - **Atenas:** perdeu a hegemonia, viu suas muralhas longas derrubadas;
 - **Trinta Tiranos:** governo oligárquico imposto a Atenas pela Esparta;
@@ -136,7 +136,7 @@ A Guerra do Peloponeso encerrou o ciclo do apogeu ateniense, mas não trouxe est
 
 ### 4.1 Hegemonias rivais e instabilidade
 
-Com Atenas derrotada, abriu-se um vácuo de liderança. Outras pólis tentaram ocupá-lo, mas cansaço militar e ressentimento mantinham o ciclo de instabilidade. Quatro momentos resumem essa década e meia:
+Com Atenas derrotada, abriu-se um vácuo de liderança. Outras pólis tentaram ocupá-lo, mas cansaço militar e ressentimento mantinham o ciclo de instabilidade. Foram esses os passos:
 
 - **Hegemonia espartana (404-371 a.C.):** Esparta tentou impor governos aliados; gerou ressentimento;
 - **Batalha de Leuctras (371 a.C.):** Tebas derrotou os espartanos;

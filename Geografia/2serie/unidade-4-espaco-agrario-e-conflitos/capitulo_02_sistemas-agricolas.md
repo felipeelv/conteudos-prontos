@@ -21,7 +21,7 @@ Sistema agrícola é uma combinação de elementos que organizam a produção no
 
 Cinco elementos definem qualquer sistema agrícola. A combinação entre eles determina escala, eficiência e impacto.
 
-Cinco chaves abrem o tema:
+Os elementos centrais são estes:
 
 - **Terra:** tamanho, qualidade do solo, clima e localização;
 - **Trabalho:** familiar, assalariado, sazonal ou permanente;
@@ -33,7 +33,7 @@ Cinco chaves abrem o tema:
 
 Os sistemas agrícolas se classificam, em primeiro lugar, pela relação entre área cultivada e capital investido por hectare.
 
-Dois elementos compõem o quadro:
+Considere os aspectos a seguir:
 
 - **Extensivo:** grandes áreas, baixa intensidade técnica por hectare, produtividade média baixa por unidade — comum em soja, milho e pecuária de corte;
 - **Intensivo:** áreas menores, alto uso de capital, tecnologia e insumos por hectare, produtividade alta — comum em hortaliças, fruticultura e estufas.
@@ -51,7 +51,7 @@ O campo brasileiro convive com dois modelos principais. Eles têm escalas, lógi
 
 Agricultura familiar é definida pela Lei 11.326/2006: produção em até quatro módulos fiscais, gerida pela família, com mão de obra predominantemente familiar.
 
-Quatro aspectos definem essa lógica:
+Entre elas, destacam-se:
 
 - **Estabelecimentos:** 77% dos imóveis rurais brasileiros (Censo Agropecuário 2017);
 - **Área:** apenas 23% da área rural total — mostra a desigualdade fundiária do Cap. 1;
@@ -86,7 +86,7 @@ Além dos dois modelos centrais, três respostas tecnológicas tentam resolver p
 
 Agricultura orgânica é um sistema produtivo que não usa agrotóxicos sintéticos, fertilizantes industriais nem sementes transgênicas. Depende de manejo do solo, controle biológico de pragas e rotação de culturas.
 
-Quatro pontos resumem o cenário:
+Vale observar o que segue:
 
 - **Princípios:** preservação do solo, biodiversidade, sem químicos sintéticos;
 - **Certificação:** selo de organizações reconhecidas (no Brasil, MAPA);
@@ -97,7 +97,7 @@ Quatro pontos resumem o cenário:
 
 Agricultura de precisão usa GPS, drones, sensores e dados para aplicar insumos só onde são necessários. O objetivo é eficiência — economizar fertilizante, água e defensivo.
 
-Quatro dimensões organizam essa análise:
+Os fatores em jogo são estes:
 
 - **GPS agrícola:** orienta máquinas com precisão centimétrica;
 - **Drones:** mapeiam pragas, doenças e necessidade de irrigação;
@@ -108,7 +108,7 @@ Quatro dimensões organizam essa análise:
 
 Transgênico (OGM — Organismo Geneticamente Modificado) é uma planta cujo DNA foi alterado por engenharia genética. As variedades mais usadas no Brasil resistem a herbicidas ou a pragas.
 
-Três marcos ajudam a entender o tema:
+Foram esses os passos:
 
 - **Vantagens:** produtividade maior, menos perdas por pragas, redução de aplicação de alguns defensivos;
 - **Polêmicas:** dependência de empresas de sementes, contaminação de plantios convencionais, debate sobre saúde e ambiente;
@@ -127,7 +127,7 @@ A geografia agrícola não é só sobre o que se planta — é também sobre ond
 
 Quanto mais longe do mercado consumidor, maior o custo de transporte e maior o desafio de manter o produto fresco.
 
-Três características descrevem o processo:
+Alguns aspectos ajudam a entender:
 
 - **Perecibilidade:** hortaliças e frutas exigem cadeia de frio e curta distância;
 - **Custo de transporte:** soja e milho viajam bem por longas distâncias — virou commodity exportável;
@@ -137,7 +137,7 @@ Três características descrevem o processo:
 
 Em 1826, o economista Johann Heinrich von Thünen publicou um modelo que explicava a localização agrícola por anéis concêntricos em torno de um mercado central.
 
-Quatro fatores estruturam a leitura:
+Os pontos centrais aparecem abaixo:
 
 - **Centro:** cidade compradora;
 - **Anéis próximos:** culturas perecíveis e intensivas (hortaliças, leite);

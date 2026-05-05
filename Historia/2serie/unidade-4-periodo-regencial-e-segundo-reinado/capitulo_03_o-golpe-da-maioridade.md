@@ -21,7 +21,7 @@ Em 1840, a Regência tinha entrado em desgaste claro: nove anos, quatro fases, q
 
 ### 1.1 A Regência estava esgotada?
 
-Em 1840, qualquer arranjo regencial parecia incapaz de sustentar consenso. Quatro fatos resumem o esgotamento:
+Em 1840, qualquer arranjo regencial parecia incapaz de sustentar consenso. Alguns aspectos ajudam a entender:
 
 - **Regresso Conservador (1837-1840):** Araújo Lima reverte parte das reformas;
 - **Lei de Interpretação (1840):** esvazia o Ato Adicional de 1834;
@@ -30,7 +30,7 @@ Em 1840, qualquer arranjo regencial parecia incapaz de sustentar consenso. Quatr
 
 ### 1.2 O medo de perder a unidade territorial
 
-A **unidade territorial** era obsessão constante das elites. Quatro elementos sustentavam esse temor:
+A **unidade territorial** era obsessão constante das elites. Os pontos centrais aparecem abaixo:
 
 - **Pesadelo:** fragmentação da América Hispânica em guerras civis;
 - **Cabanagem, Balaiada, Farroupilha, Sabinada:** parecem confirmar o risco;
@@ -59,7 +59,7 @@ Os liberais saíram do Regresso Conservador buscando rota de retorno ao poder. O
 
 ### 2.2 Golpe parlamentar: forma institucional, efeito político
 
-A Constituição de 1824 estabelecia maioridade aos 18 anos. Mudar a regra exigiria reforma com duas legislaturas votando o mesmo texto. Quatro elementos descrevem o atalho usado:
+A Constituição de 1824 estabelecia maioridade aos 18 anos. Mudar a regra exigiria reforma com duas legislaturas votando o mesmo texto. São essas as evidências:
 
 - **23 de julho de 1840:** liberais simplesmente declaram, em sessão da Assembleia Geral, que D. Pedro II é maior;
 - **Manobra:** votação imediata, oposição atropelada;
@@ -88,7 +88,7 @@ A Declaração da Maioridade encerrou a Regência. D. Pedro II assumiu em julho 
 
 ### 3.1 O imperador menino
 
-D. Pedro II tinha 14 anos. Filho de D. Pedro I e Maria Leopoldina, ficara no Brasil aos 5. Quatro marcos abrem seu reinado:
+D. Pedro II tinha 14 anos. Filho de D. Pedro I e Maria Leopoldina, ficara no Brasil aos 5. Veja os elementos principais:
 
 - **Educação:** tutoria de José Bonifácio, herói da Independência, e professores diversos;
 - **1842:** revolta liberal estoura em São Paulo e Minas Gerais;
@@ -97,7 +97,7 @@ D. Pedro II tinha 14 anos. Filho de D. Pedro I e Maria Leopoldina, ficara no Bra
 
 ### 3.2 Estabilizar não é resolver tudo
 
-A **estabilidade política** é a capacidade de reduzir conflitos e produzir continuidade. O Golpe trouxe estabilidade simbólica imediata — mas não resolveu nenhuma causa estrutural. Quatro feridas seguiram abertas:
+A **estabilidade política** é a capacidade de reduzir conflitos e produzir continuidade. O Golpe trouxe estabilidade simbólica imediata — mas não resolveu nenhuma causa estrutural. Algumas marcas resumem o tema:
 
 - **Escravidão:** continuou base econômica do Império até 1888;
 - **Desigualdades regionais:** seguiram gerando ressentimentos por décadas;

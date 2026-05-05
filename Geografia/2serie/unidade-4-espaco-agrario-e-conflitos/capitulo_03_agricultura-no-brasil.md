@@ -21,7 +21,7 @@ A agricultura brasileira ocupa duas frentes simultâneas. Uma alimenta o mercado
 
 Commodity agrícola é um produto primário negociado em grande escala, com preço definido por bolsas internacionais. Alimento básico é o que abastece a alimentação cotidiana da população.
 
-Três chaves abrem o tema:
+São essas as evidências:
 
 - **Commodities exportadas:** soja, milho, café, açúcar, algodão, suco de laranja;
 - **Alimentos básicos do prato:** feijão, arroz, mandioca, hortaliças, frutas, leite;
@@ -31,7 +31,7 @@ Três chaves abrem o tema:
 
 Cada cultura ocupa uma combinação de solo, clima, técnica e mercado.
 
-Cinco elementos compõem o quadro:
+Veja os elementos principais:
 
 - **Soja:** maior cultura brasileira em área e valor — base da exportação para a China e a Europa;
 - **Milho:** segunda maior — usado em ração animal e processados;
@@ -52,7 +52,7 @@ A geografia agrícola brasileira não é uniforme. Cada região tem combinação
 
 O eixo de maior produção brasileira concentra-se nessas três regiões.
 
-Três aspectos definem essa lógica:
+Algumas marcas resumem o tema:
 
 - **Centro-Oeste:** principal produtor de grãos (soja, milho, algodão) — Mato Grosso à frente, com expansão para Mato Grosso do Sul e Goiás;
 - **Sul:** grãos (soja, milho, trigo), fumo, suinocultura integrada e arroz irrigado no Rio Grande do Sul;
@@ -65,7 +65,7 @@ Três aspectos definem essa lógica:
 
 Fora do eixo principal, a agricultura tem perfil diferente — em geral menor escala e mais diversidade.
 
-Quatro pontos resumem o cenário:
+Olhe para os pontos a seguir:
 
 - **Nordeste litorâneo:** cana e cacau no sul da Bahia;
 - **Nordeste do interior:** fruticultura irrigada no Vale do São Francisco (uva, manga, melão);
@@ -82,7 +82,7 @@ A agricultura brasileira mudou radicalmente entre 1960 e 1990. Pesquisa pública
 
 A Revolução Verde foi um pacote tecnológico difundido a partir do meio do século XX, baseado em sementes melhoradas, fertilizantes, mecanização e defensivos químicos.
 
-Quatro dimensões organizam essa análise:
+Foram esses os marcos:
 
 - **Embrapa (1973):** desenvolveu variedades adaptadas ao Brasil, em especial ao Cerrado;
 - **Correção de solo:** uso de calcário em larga escala neutralizou a acidez e abriu o Cerrado;
@@ -93,7 +93,7 @@ Quatro dimensões organizam essa análise:
 
 Modernização não é só semente — é máquina, irrigação, fertilizante, defensivo e gestão de dados.
 
-Quatro marcos ajudam a entender o tema:
+Considere o que segue:
 
 - **Mecanização:** colheitadeiras de 12 metros de corte substituem dezenas de trabalhadores;
 - **Fertilizantes:** Brasil é o quarto maior consumidor mundial; importa boa parte do que usa;
@@ -113,7 +113,7 @@ A expansão produtiva tem efeitos sobre solo, biodiversidade e clima. Esses efei
 
 O avanço da agricultura sobre biomas cobertos por vegetação nativa é o principal vetor de desmatamento no Brasil.
 
-Quatro características descrevem o processo:
+Veja os principais pontos:
 
 - **Cerrado:** mais de 50% da área original foi convertida em lavouras, pastagens e cidades;
 - **Amazônia:** parte do desmatamento recente vem da expansão da soja e da pecuária;
@@ -124,7 +124,7 @@ Quatro características descrevem o processo:
 
 Outros impactos são menos visíveis no mapa, mas igualmente sérios.
 
-Quatro fatores estruturam a leitura:
+Destacam-se os seguintes:
 
 - **Agrotóxicos:** Brasil é um dos maiores consumidores mundiais — contaminam solo, água e cadeia alimentar;
 - **Água:** irrigação intensiva pressiona aquíferos e reduz vazão de rios em regiões secas;

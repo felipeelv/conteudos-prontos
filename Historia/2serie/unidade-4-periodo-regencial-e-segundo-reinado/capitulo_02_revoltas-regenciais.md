@@ -21,7 +21,7 @@ Sul do país, mesma década. Bento Gonçalves, estancieiro rico, comanda a Farro
 
 ### 1.1 Cabanagem: quando a base social chegou ao governo
 
-A Cabanagem ocorreu no Grão-Pará entre 1835 e 1840. Cinco aspectos resumem a revolta:
+A Cabanagem ocorreu no Grão-Pará entre 1835 e 1840. Foram esses os marcos:
 
 - **Província pobre:** uma das mais abandonadas pelo governo imperial;
 - **Base social:** indígenas, negros, mestiços, ribeirinhos, sem direitos políticos;
@@ -34,7 +34,7 @@ A Cabanagem ocorreu no Grão-Pará entre 1835 e 1840. Cinco aspectos resumem a r
 
 ### 1.2 Balaiada: sertão, pobreza e lideranças populares
 
-A Balaiada ocorreu no Maranhão entre 1838 e 1841. Cinco elementos compõem essa história:
+A Balaiada ocorreu no Maranhão entre 1838 e 1841. Considere o que segue:
 
 - **Base social:** sertanejos pobres, negros escravizados em fuga, vaqueiros, artesãos;
 - **Manuel "balaio":** artesão de cestos de palha, líder do movimento;
@@ -44,7 +44,7 @@ A Balaiada ocorreu no Maranhão entre 1838 e 1841. Cinco elementos compõem essa
 
 ### 1.3 Por que a repressão foi tão brutal?
 
-A **repressão seletiva** é a violência estatal aplicada de modo desigual conforme classe, cor, região e risco político percebido. Quatro razões explicam a brutalidade:
+A **repressão seletiva** é a violência estatal aplicada de modo desigual conforme classe, cor, região e risco político percebido. Veja os principais pontos:
 
 - **Medo do Haiti:** revolta de escravizados em 1804 era pavor permanente das elites brasileiras;
 - **Reprimir o Norte:** servia como aviso para senzalas do Sudeste;
@@ -61,7 +61,7 @@ A **Revolução Farroupilha** ocorreu no Rio Grande do Sul entre 1835 e 1845. Fo
 
 ### 2.1 Charque, autonomia e elites provinciais
 
-A economia gaúcha girava em torno do charque, mas era penalizada pela política tributária do Império. Cinco fatores levaram à ruptura:
+A economia gaúcha girava em torno do charque, mas era penalizada pela política tributária do Império. Destacam-se os seguintes:
 
 - **Charqueada:** unidade de produção de charque (carne salgada), base econômica do RS;
 - **Mercado interno:** charque alimentava escravizados em todo o Brasil;
@@ -71,7 +71,7 @@ A economia gaúcha girava em torno do charque, mas era penalizada pela política
 
 ### 2.2 Uma república dentro do Império
 
-Em 1836, os farrapos proclamaram a **República Rio-Grandense**. Quatro elementos definem o projeto:
+Em 1836, os farrapos proclamaram a **República Rio-Grandense**. Os elementos centrais são estes:
 
 - **Bento Gonçalves:** militar e estancieiro, primeiro presidente;
 - **Estrutura republicana:** constituição, bandeira, hino e exército próprios;
@@ -83,7 +83,7 @@ Em 1836, os farrapos proclamaram a **República Rio-Grandense**. Quatro elemento
 
 ### 2.3 Da guerra longa à paz negociada
 
-A Farroupilha durou dez anos. As tropas imperiais não venceram rapidamente. Quatro elementos explicam a paz negociada:
+A Farroupilha durou dez anos. As tropas imperiais não venceram rapidamente. Considere os aspectos a seguir:
 
 - **Estrutura de apoio:** rede de estâncias, apoio popular regional, aliados em Uruguai e Argentina;
 - **Tratado de Ponche Verde (1845):** encerrou o conflito;
@@ -102,7 +102,7 @@ A **Sabinada** ocorreu em Salvador, Bahia, entre 7 de novembro de 1837 e 16 de m
 
 ### 3.1 Uma revolta urbana na Bahia
 
-A Sabinada nasceu em meios letrados de Salvador, com perfil bem distinto das revoltas populares. Cinco traços a caracterizam:
+A Sabinada nasceu em meios letrados de Salvador, com perfil bem distinto das revoltas populares. Entre elas, destacam-se:
 
 - **Líder:** Francisco Sabino Álvares da Rocha Vieira, médico e jornalista;
 - **Base:** profissionais liberais (médicos, advogados, militares, estudantes);
@@ -112,7 +112,7 @@ A Sabinada nasceu em meios letrados de Salvador, com perfil bem distinto das rev
 
 ### 3.2 Separar até o imperador crescer
 
-Os sabinos tinham proposta peculiar — a separação seria **temporária**. Quatro elementos explicam essa lógica:
+Os sabinos tinham proposta peculiar — a separação seria **temporária**. Vale observar o que segue:
 
 - **Governo provincial separatista:** valeria apenas durante a Regência;
 - **Retorno previsto:** quando D. Pedro II atingisse a maioridade, Salvador retornaria à unidade imperial;
@@ -132,7 +132,7 @@ As revoltas regenciais foram tratadas pelas elites imperiais como sintoma do mes
 
 ### 4.1 O que as revoltas revelam sobre o Brasil imperial
 
-Cada revolta era espelho de uma fratura específica do Império. Quatro retratos resumem essas fraturas:
+Cada revolta era espelho de uma fratura específica do Império. Os fatores em jogo são estes:
 
 - **Cabanagem:** miséria, exclusão étnica e racial, abandono regional;
 - **Balaiada:** desigualdade no sertão, escravidão, conflito entre fazendeiros;
@@ -141,7 +141,7 @@ Cada revolta era espelho de uma fratura específica do Império. Quatro retratos
 
 ### 4.2 Repressão, medo e memória
 
-A **memória histórica** é a forma como sociedades lembram, silenciam ou reinterpretam acontecimentos. Quatro contrastes mostram como essa memória foi seletiva:
+A **memória histórica** é a forma como sociedades lembram, silenciam ou reinterpretam acontecimentos. Foram esses os passos:
 
 - **Farroupilha celebrada:** virou patrimônio cultural com data oficial (20 de setembro);
 - **Cabanagem e Balaiada esquecidas:** silenciadas por gerações; recuperadas por historiografia recente;

@@ -21,7 +21,7 @@ Boa parte da água doce do planeta não está em rios e lagos — está sob o so
 
 A água da chuva tem três destinos principais quando atinge o solo: evapora, escorre pela superfície ou se infiltra. A parte que se infiltra começa um caminho lento dentro da Terra.
 
-Três características descrevem o processo:
+Foram esses os passos:
 
 - **Infiltração:** entrada da água no solo, pela porosidade superficial;
 - **Percolação:** movimento da água pelos poros e fraturas em profundidade;
@@ -31,7 +31,7 @@ Três características descrevem o processo:
 
 Em profundidade, a água preenche os espaços disponíveis. O solo se divide em duas zonas, separadas por uma linha que sobe e desce conforme a chuva.
 
-Três fatores estruturam a leitura:
+Alguns aspectos ajudam a entender:
 
 - **Zona não saturada:** os poros têm água e ar misturados — água ainda em trânsito;
 - **Zona saturada:** todos os poros estão preenchidos por água;
@@ -48,7 +48,7 @@ Aquífero é uma formação geológica capaz de armazenar e transmitir água em 
 
 ### 2.1 Armazenar e transmitir água
 
-Duas propriedades da rocha definem o aquífero:
+Os pontos centrais aparecem abaixo:
 
 - **Porosidade:** quanto de espaço vazio a rocha tem — onde a água se acomoda;
 - **Permeabilidade:** quão facilmente a água atravessa a rocha — depende da conexão entre os poros.
@@ -59,7 +59,7 @@ Areia tem porosidade e permeabilidade altas. Argila tem porosidade alta, mas per
 
 A relação entre o aquífero e as camadas acima dele define o seu tipo.
 
-Duas chaves abrem o tema:
+São essas as evidências:
 
 - **Aquífero livre:** o topo é o próprio lençol freático — recebe recarga direta da chuva e é mais vulnerável a contaminação;
 - **Aquífero confinado:** está entre duas camadas impermeáveis — a água fica sob pressão, e poços perfurados podem dar origem a fontes artesianas.
@@ -71,7 +71,7 @@ Duas chaves abrem o tema:
 
 Outra classificação leva em conta o tipo de rocha que armazena a água.
 
-Três elementos compõem o quadro:
+Veja os elementos principais:
 
 - **Aquífero poroso:** rochas sedimentares com espaços entre grãos (areias e arenitos);
 - **Aquífero fraturado:** rochas cristalinas (granitos, basaltos), onde a água ocupa fraturas;
@@ -87,7 +87,7 @@ O Brasil tem alguns dos maiores reservatórios de água subterrânea do planeta.
 
 O Aquífero Guarani é uma das maiores reservas de água doce do mundo. Cobre cerca de 1,2 milhão de km² no Brasil (oito estados), na Argentina, no Paraguai e no Uruguai. A água nele guardada é, em parte, fóssil — infiltrou há dezenas de milhares de anos.
 
-Quatro aspectos definem essa lógica:
+Algumas marcas resumem o tema:
 
 - **Cobertura:** 1,2 milhão de km², em quatro países;
 - **Tipo:** aquífero confinado, sob arenitos da Bacia do Paraná;
@@ -101,7 +101,7 @@ Quatro aspectos definem essa lógica:
 
 Sob a Amazônia, o Aquífero Alter do Chão é menos conhecido, mas pode ser ainda maior do que o Guarani em volume. Estende-se por cerca de 437 mil km², principalmente no Pará, Amazonas e Amapá.
 
-Três pontos resumem o cenário:
+Olhe para os pontos a seguir:
 
 - **Profundidade típica:** entre 100 e 600 m;
 - **Tipo:** aquífero poroso em arenitos;
@@ -117,7 +117,7 @@ Aquíferos abastecem pessoas, agricultura e indústria. Quando bem geridos, gara
 
 Poço artesiano é um poço que capta água de aquífero confinado, em geral sob pressão suficiente para a água subir sem bombeamento. Onde o aquífero é livre, a água precisa ser bombeada.
 
-Três dimensões organizam essa análise:
+Foram esses os marcos:
 
 - **Vantagens:** acesso direto, sem necessidade de tratamento extenso;
 - **Indústria:** muitas fábricas brasileiras dependem de poços próprios;
@@ -127,7 +127,7 @@ Três dimensões organizam essa análise:
 
 Os dois maiores problemas dos aquíferos são opostos no tempo, mas igualmente graves: bombeamento acima da reposição e poluição da recarga.
 
-Três marcos ajudam a entender o tema:
+Considere o que segue:
 
 - **Superexploração:** quando a retirada supera a recarga, o lençol baixa e o poço pode secar;
 - **Contaminação:** lixões, fossas, esgoto e agrotóxicos percolam até o aquífero;
@@ -140,7 +140,7 @@ Três marcos ajudam a entender o tema:
 
 A recarga é o ponto onde o aquífero se conecta com o ciclo da água. Proteger as áreas de recarga é proteger o aquífero inteiro.
 
-Três características descrevem o processo:
+Veja os principais pontos:
 
 - **Mata ciliar:** reduz erosão e filtra a água que infiltra;
 - **Solo permeável:** estacionamentos e calçadas drenantes ajudam a recarregar aquíferos urbanos;

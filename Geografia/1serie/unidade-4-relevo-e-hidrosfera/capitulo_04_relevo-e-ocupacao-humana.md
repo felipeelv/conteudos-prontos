@@ -21,7 +21,7 @@ O relevo influencia onde as cidades surgem, como a economia se organiza e quanto
 
 Toda cidade tem um sítio e uma posição. São conceitos diferentes e úteis para entender por que ela está onde está.
 
-Dois elementos compõem o quadro:
+Os elementos centrais são estes:
 
 - **Sítio urbano:** características naturais do local — planície, encosta, rio, planalto;
 - **Posição urbana:** relação da cidade com rotas, regiões e redes externas — porto, eixo rodoviário, faixa de fronteira.
@@ -32,7 +32,7 @@ São Paulo, por exemplo, tem sítio urbano de planalto e posição central no Su
 
 O determinismo geográfico — ideia de que o meio físico explica o destino dos povos — foi superado. Hoje a Geografia trabalha com a noção de **condicionamento**.
 
-Dois aspectos definem essa lógica:
+Considere os aspectos a seguir:
 
 - **Condiciona:** o relevo encarece, facilita ou impede certas atividades;
 - **Não determina:** sociedades com mesma forma de relevo podem ter trajetórias muito diferentes.
@@ -50,7 +50,7 @@ Cada tipo de relevo abriga vantagens e riscos próprios para a vida humana. As c
 
 Planícies são fáceis de circular, mecanizar e construir. Por isso concentram boa parte da agricultura e dos eixos viários. O lado difícil é a vulnerabilidade a enchentes nas várzeas — áreas baixas próximas aos rios.
 
-Dois pontos resumem o cenário:
+Entre elas, destacam-se:
 
 - **Vantagem:** circulação, agricultura mecanizada, custo de obra menor;
 - **Risco:** inundação periódica, especialmente em áreas urbanas mal drenadas.
@@ -62,7 +62,7 @@ Dois pontos resumem o cenário:
 
 Planaltos costumam oferecer clima mais ameno, defesa natural e espaço para expansão urbana. Cidades como São Paulo, Curitiba, Brasília e Belo Horizonte estão em planaltos. Os desníveis dentro do planalto também viram recurso — para hidrelétricas, por exemplo.
 
-Três dimensões organizam essa análise:
+Vale observar o que segue:
 
 - **Clima:** altitude amena suaviza as temperaturas em latitudes tropicais;
 - **Defesa histórica:** posição alta foi vantagem militar em séculos passados;
@@ -72,7 +72,7 @@ Três dimensões organizam essa análise:
 
 Áreas montanhosas exigem técnicas específicas para morar e produzir. Estradas custam mais, agricultura precisa de terraços, e o isolamento pode preservar tradições — ou marginalizar populações inteiras.
 
-Três marcos ajudam a entender o tema:
+Os fatores em jogo são estes:
 
 - **Adaptação:** terraços, estradas em curva, vilas em encostas;
 - **Isolamento:** custos altos de transporte, baixa densidade populacional;
@@ -91,7 +91,7 @@ Além de abrigar cidades, o relevo é base de atividades econômicas inteiras. C
 
 Onde o terreno é plano e o solo é fértil, a agricultura mecanizada se expande com facilidade. Por isso, as chapadas do Cerrado se transformaram em fronteira agrícola desde os anos 1970.
 
-Três características descrevem o processo:
+Foram esses os passos:
 
 - **Topo plano:** facilita máquinas agrícolas de grande porte;
 - **Solo profundo:** suporta correção química e cultivo intensivo;
@@ -101,7 +101,7 @@ Três características descrevem o processo:
 
 Mineração depende mais da estrutura geológica do que da forma do relevo. Os escudos cristalinos brasileiros guardam minério de ferro (MG e PA), ouro (MG, PA, AP) e bauxita (PA).
 
-Três fatores estruturam a leitura:
+Alguns aspectos ajudam a entender:
 
 - **Escudos:** ricos em minerais metálicos antigos;
 - **Bacias sedimentares:** guardam petróleo e carvão;
@@ -111,7 +111,7 @@ Três fatores estruturam a leitura:
 
 Hidrelétrica converte energia potencial da água em eletricidade — quanto maior o desnível e o volume, maior a geração. O Brasil tem grandes hidrelétricas porque combina rios volumosos com desníveis em planaltos.
 
-Três chaves abrem o tema:
+Os pontos centrais aparecem abaixo:
 
 - **Itaipu (PR/Paraguai):** queda de cerca de 120 m, gera mais de 14% da eletricidade brasileira;
 - **Belo Monte (PA):** desnível menor, mas vazão imensa do Xingu;
@@ -124,7 +124,7 @@ Três chaves abrem o tema:
 
 Paisagens marcantes viram recurso econômico. Chapadas, serras, ilhas vulcânicas e dunas atraem visitantes e geram emprego — desde que a infraestrutura de acesso não destrua o que motiva a visita.
 
-Três elementos compõem o quadro:
+São essas as evidências:
 
 - **Chapada Diamantina (BA):** trilhas, cachoeiras e sítios geológicos;
 - **Serra do Mar (SP/RJ):** turismo de serra próximo aos grandes centros urbanos;
@@ -140,7 +140,7 @@ Construir uma cidade quase sempre exige cortar morros e aterrar várzeas. Quando
 
 Corte é a retirada de material do terreno; aterro é o seu uso para preencher uma área baixa. Os dois são parte da urbanização desde sempre.
 
-Três aspectos definem essa lógica:
+Veja os elementos principais:
 
 - **Corte:** abre passagem para estradas, túneis e platôs urbanos;
 - **Aterro:** elevra áreas de várzea ou encosta para construção;
@@ -150,7 +150,7 @@ Três aspectos definem essa lógica:
 
 Urbanização sem planejamento sobre encostas e várzeas concentra risco em populações de baixa renda. Petrópolis, Maceió e Recife são exemplos brasileiros recentes de áreas urbanas com tragédias previsíveis.
 
-Três pontos resumem o cenário:
+Algumas marcas resumem o tema:
 
 - **Encosta:** desmatamento e construção sem terraço aumentam o risco de deslizamento;
 - **Várzea:** ocupação de áreas naturalmente alagadas concentra perdas em cada chuva forte;

@@ -21,7 +21,7 @@ Indicador é uma medida usada para interpretar a realidade. Nenhum indicador, so
 
 Um indicador resume uma realidade complexa em um número. A simplificação é o que torna a comparação possível — e também o que pode enganar quem lê.
 
-Três elementos compõem o quadro:
+Veja os elementos principais:
 
 - **Vantagem:** permite comparar territórios, períodos e populações;
 - **Risco:** o número pode parecer objetivo e esconder uma escolha de leitura;
@@ -31,7 +31,7 @@ Três elementos compõem o quadro:
 
 Olhar para um indicador isolado costuma produzir diagnósticos parciais.
 
-Quatro aspectos definem essa lógica:
+Algumas marcas resumem o tema:
 
 - **PIB sozinho:** mostra produção, não distribuição;
 - **Renda média sozinha:** esconde desigualdade interna;
@@ -48,7 +48,7 @@ PIB e PIB per capita são os indicadores econômicos mais usados. Medem coisas d
 
 PIB (Produto Interno Bruto) é a soma dos bens e serviços finais produzidos em um território, em determinado período. Mostra o tamanho da economia.
 
-Cinco pontos resumem o cenário:
+Olhe para os pontos a seguir:
 
 - **Sudeste:** cerca de 53% do PIB nacional, com São Paulo respondendo sozinho por mais de 30%;
 - **Sul:** aproximadamente 17%;
@@ -63,7 +63,7 @@ Cinco pontos resumem o cenário:
 
 PIB per capita é o PIB dividido pelo número de habitantes. Apresenta a "produção média por pessoa", mas não diz nada sobre como essa produção se distribui.
 
-Três dimensões organizam essa análise:
+Foram esses os marcos:
 
 - **Vantagem:** permite comparar economias de tamanho diferente;
 - **Limite:** uma região com poucos super-ricos e muitos pobres pode ter PIB per capita igual ao de uma região com renda mais distribuída;
@@ -82,7 +82,7 @@ O Índice de Desenvolvimento Humano (IDH) é uma resposta direta às limitaçõe
 
 O IDH varia de 0 a 1 — quanto mais próximo de 1, maior o desenvolvimento humano. Combina três componentes em peso igual.
 
-Três marcos ajudam a entender o tema:
+Considere o que segue:
 
 - **Renda:** medida pelo Renda Nacional Bruta per capita ajustado;
 - **Educação:** anos esperados de escolaridade e anos médios de estudo da população adulta;
@@ -97,7 +97,7 @@ A combinação reconhece que desenvolvimento não é só riqueza monetária — 
 
 Mahbub ul Haq, economista paquistanês, foi quem propôs e organizou o IDH no PNUD em 1990, junto com o economista indiano Amartya Sen.
 
-Três características descrevem o processo:
+Veja os principais pontos:
 
 - **Origem da ideia:** crítica ao uso exclusivo do PIB como medida de desenvolvimento;
 - **Conceito-chave:** desenvolvimento humano é "a expansão das capacidades das pessoas em viver vidas que valorizem";
@@ -115,7 +115,7 @@ PIB e IDH ainda não captam tudo. A renda média esconde distribuição. Por iss
 
 O Coeficiente de Gini mede a desigualdade na distribuição de renda. Varia de 0 (igualdade absoluta) a 1 (concentração total em uma pessoa).
 
-Quatro fatores estruturam a leitura:
+Destacam-se os seguintes:
 
 - **Gini = 0:** todos teriam exatamente a mesma renda — ideal teórico;
 - **Gini = 1:** uma pessoa teria toda a renda — concentração total;
@@ -126,7 +126,7 @@ Quatro fatores estruturam a leitura:
 
 Nenhum indicador, sozinho, capta o quadro inteiro. A leitura honesta combina ao menos três.
 
-Quatro chaves abrem o tema:
+Os elementos centrais são estes:
 
 - **PIB:** mostra tamanho da economia;
 - **PIB per capita:** mostra média de produção;

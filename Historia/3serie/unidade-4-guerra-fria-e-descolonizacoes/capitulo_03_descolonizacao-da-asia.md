@@ -21,7 +21,7 @@ A **descolonização** foi o processo de ruptura do domínio colonial e conquist
 
 ### 1.1 A Europa enfraquecida e os movimentos asiáticos
 
-A guerra abriu brecha estrutural para a descolonização — economia europeia em ruínas e movimentos asiáticos prontos. Quatro elementos compõem o quadro:
+A guerra abriu brecha estrutural para a descolonização — economia europeia em ruínas e movimentos asiáticos prontos. Foram esses os marcos:
 
 - **Segunda Guerra:** Inglaterra, França e Holanda saíram com economias destruídas;
 - **Argumentos virados:** os colonizados usaram contra os europeus os ideais antifascistas (liberdade, autodeterminação);
@@ -30,7 +30,7 @@ A guerra abriu brecha estrutural para a descolonização — economia europeia e
 
 ### 1.2 ONU, autodeterminação e Guerra Fria
 
-A **autodeterminação** é o princípio de que povos devem poder decidir seu próprio destino político. Cinco marcos institucionais dão forma a esse princípio:
+A **autodeterminação** é o princípio de que povos devem poder decidir seu próprio destino político. Considere o que segue:
 
 - **ONU (1945):** Carta incorpora autodeterminação;
 - **DUDH (1948):** Declaração Universal dos Direitos Humanos reforça o princípio;
@@ -51,7 +51,7 @@ A **Índia** era a "joia da coroa" do Império Britânico. Sua independência, e
 
 ### 2.1 Gandhi, ahimsa e satyagraha
 
-**Mahatma Gandhi** (1869-1948) formulou a estratégia que mobilizaria milhões. Cinco elementos definem o método:
+**Mahatma Gandhi** (1869-1948) formulou a estratégia que mobilizaria milhões. Veja os principais pontos:
 
 - **Ahimsa:** princípio de não-violência, presente nas tradições hindu, jainista e budista;
 - **Satyagraha:** resistência firme pela verdade — desobediência civil não violenta com aceitação consciente das consequências;
@@ -61,7 +61,7 @@ A **Índia** era a "joia da coroa" do Império Britânico. Sua independência, e
 
 ### 2.2 Nehru, Jinnah e os dois projetos de Índia
 
-A independência foi conquistada com duas visões opostas de futuro convivendo no mesmo movimento. Cinco posições resumem o impasse:
+A independência foi conquistada com duas visões opostas de futuro convivendo no mesmo movimento. Destacam-se os seguintes:
 
 - **Jawaharlal Nehru (1889-1964):** principal companheiro de Gandhi; defendia Índia laica, socialista, modernizada;
 - **Muhammad Ali Jinnah (1876-1948):** líder da Liga Muçulmana; argumentava que muçulmanos seriam minoria perpétua em Índia hindu;
@@ -71,7 +71,7 @@ A independência foi conquistada com duas visões opostas de futuro convivendo n
 
 ### 2.3 Partilha, violência comunal e Caxemira
 
-Em 15 de agosto de 1947, Índia e Paquistão se tornaram independentes. Cinco fatos compõem essa Partilha trágica:
+Em 15 de agosto de 1947, Índia e Paquistão se tornaram independentes. Os elementos centrais são estes:
 
 - **Cyril Radcliffe:** britânico que nunca havia estado na região traçou as fronteiras em 6 semanas;
 - **Violência comunal:** confrontos entre hindus, muçulmanos e sikhs;
@@ -92,7 +92,7 @@ A **Indochina** francesa reunia Vietnã, Laos e Camboja. A descolonização da I
 
 ### 3.1 Ho Chi Minh e a luta contra a França
 
-A independência proclamada por Ho Chi Minh chocou-se com o projeto francês de retomar suas colônias. Cinco marcos resumem o início do confronto:
+A independência proclamada por Ho Chi Minh chocou-se com o projeto francês de retomar suas colônias. Considere os aspectos a seguir:
 
 - **2/9/1945:** Ho Chi Minh proclama a República Democrática do Vietnã em Hanói;
 - **Argumento:** cita a Declaração de Independência americana e a Declaração dos Direitos do Homem francesa;
@@ -102,7 +102,7 @@ A independência proclamada por Ho Chi Minh chocou-se com o projeto francês de 
 
 ### 3.2 Dien Bien Phu e os Acordos de Genebra
 
-A derrota francesa em Dien Bien Phu fechou um ciclo do colonialismo europeu na Ásia. Cinco marcos selam esse desenlace:
+A derrota francesa em Dien Bien Phu fechou um ciclo do colonialismo europeu na Ásia. Entre elas, destacam-se:
 
 - **Dien Bien Phu (1954):** batalha decisiva; Vo Nguyen Giap cerca base francesa por 56 dias;
 - **Rendição francesa:** humilhação militar e política;
@@ -123,7 +123,7 @@ A **Indonésia** era colônia holandesa desde o século XVII. Sua independência
 
 ### 4.1 Sukarno e a proclamação de 1945
 
-A liderança nacionalista indonésia aproveitou o vácuo deixado pela rendição japonesa. Quatro elementos descrevem o lance:
+A liderança nacionalista indonésia aproveitou o vácuo deixado pela rendição japonesa. Vale observar o que segue:
 
 - **Sukarno (1901-1970):** líder nacionalista desde os anos 1920; preso anos pelos holandeses;
 - **17/8/1945:** Sukarno e Mohammad Hatta proclamam a independência da Indonésia;
@@ -132,7 +132,7 @@ A liderança nacionalista indonésia aproveitou o vácuo deixado pela rendição
 
 ### 4.2 Guerra contra os holandeses e reconhecimento
 
-A Holanda tentou reconquistar a colônia, mas a pressão internacional virou o jogo. Cinco marcos resumem o desfecho:
+A Holanda tentou reconquistar a colônia, mas a pressão internacional virou o jogo. Os fatores em jogo são estes:
 
 - **1945-1949:** Revolução Nacional Indonésia, com mais de 100 mil mortos;
 - **"Ações policiais" holandesas:** chocam a opinião pública internacional;

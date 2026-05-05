@@ -67,7 +67,7 @@ Planície é uma área plana onde a sedimentação predomina sobre a erosão. H�
 
 Planalto é uma área elevada onde a erosão predomina sobre a sedimentação. O topo pode ser plano ou recortado por rios. A maior parte do Brasil é planáltica.
 
-Dois elementos compõem o quadro:
+Destacam-se os seguintes:
 
 - **Cristalinos:** rochas antigas e duras, como nos escudos do Brasil Central;
 - **Sedimentares:** bacias com camadas mais recentes, como parte do Planalto Meridional.
@@ -79,7 +79,7 @@ Dois elementos compõem o quadro:
 
 Depressão é uma área mais baixa que as áreas ao redor.
 
-Dois aspectos definem essa lógica:
+Os elementos centrais são estes:
 
 - **Absoluta:** abaixo do nível do mar, como o Mar Morto, entre Israel e Jordânia;
 - **Relativa:** acima do nível do mar, mas mais baixa que os planaltos vizinhos, como a Depressão Sertaneja, no Nordeste.
@@ -88,7 +88,7 @@ Dois aspectos definem essa lógica:
 
 Montanha é uma grande elevação com encostas íngremes, em geral ligada a tectonismo. As mais altas estão em áreas de colisão entre placas.
 
-Dois pontos resumem o cenário:
+Considere os aspectos a seguir:
 
 - **Jovens:** Andes, Himalaia, Alpes — em zonas tectônicas ativas;
 - **Antigas:** Apalaches (EUA), Urais (Eurásia) — formadas há centenas de milhões de anos.
@@ -105,7 +105,7 @@ Dentro das classes gerais, alguns recortes têm nomes próprios.
 
 Esses três termos aparecem em mapas brasileiros e não são sinônimos.
 
-Três dimensões organizam essa análise:
+Entre elas, destacam-se:
 
 - **Chapada:** planalto de topo plano e bordas escarpadas, como a Chapada Diamantina (BA) e a dos Veadeiros (GO);
 - **Cuesta:** relevo assimétrico, com encosta longa de um lado e escarpa íngreme do outro, como a Serra Geral (SP);
@@ -137,7 +137,7 @@ A altimetria é o ramo da cartografia que mede e representa a verticalidade do t
 
 Curva de nível é a linha que une, no mapa, os pontos de mesma altitude. A distância vertical entre uma curva e a próxima — a equidistância — é fixa em cada mapa (10, 20, 50 ou 100 m).
 
-Três regras simples ajudam a ler o relevo:
+Vale observar o que segue:
 
 - **Equidistância:** indica de quanto em quantos metros o mapa "corta" o terreno;
 - **Curvas próximas:** declividade alta, encosta íngreme;

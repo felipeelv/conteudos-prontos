@@ -21,7 +21,7 @@ Tragédias ambientais costumam ser chamadas de "naturais". A Geografia mostra qu
 
 Uma chuva forte, um terremoto ou uma maré alta são fenômenos naturais. Tornam-se desastre apenas quando atingem pessoas, casas ou sistemas que não estavam preparados.
 
-Três dimensões organizam essa análise:
+Olhe para os pontos a seguir:
 
 - **Perigo:** o fenômeno em si — uma chuva extrema, um terremoto, uma onda;
 - **Risco:** a possibilidade de perda quando o perigo encontra alguém vulnerável;
@@ -31,7 +31,7 @@ Três dimensões organizam essa análise:
 
 Risco é o resultado de três fatores que se combinam — perigo, exposição e vulnerabilidade. Os dois últimos dependem de decisões humanas.
 
-Dois marcos ajudam a entender o tema:
+Foram esses os marcos:
 
 - **Exposição:** estar onde o perigo pode chegar (encosta instável, várzea, zona sísmica);
 - **Vulnerabilidade:** fragilidade frente ao perigo — material da casa, presença de drenagem, acesso a alerta, renda da família.
@@ -49,7 +49,7 @@ Deslizamento é um movimento de massa em encosta — solo, rocha ou ambos. É um
 
 Três fatores naturais combinados aumentam o risco: chuva intensa, terreno inclinado e tipo de rocha ou solo. Não é uma soma simples, e sim uma interação que pode se acumular ao longo de dias.
 
-Três características descrevem o processo:
+Considere o que segue:
 
 - **Chuva intensa:** satura o solo até ele perder coesão;
 - **Declividade alta:** quanto mais íngreme a encosta, maior a força da gravidade puxando o material para baixo;
@@ -59,7 +59,7 @@ Três características descrevem o processo:
 
 Quando a ocupação humana se soma aos fatores naturais, o risco multiplica. Cortes mal feitos, edificações sobre encosta sem suporte e desmatamento pontual aceleram o que a chuva começa.
 
-Quatro fatores estruturam a leitura:
+Veja os principais pontos:
 
 - **Cortes mal dimensionados:** removem o "pé" da encosta e desestabilizam a massa acima;
 - **Construção sobre encosta:** adiciona peso onde já há instabilidade;
@@ -73,7 +73,7 @@ Quatro fatores estruturam a leitura:
 
 Algumas regiões repetem tragédias por motivo conhecido: encosta íngreme + ocupação irregular + chuva intensa + drenagem precária.
 
-Três chaves abrem o tema:
+Destacam-se os seguintes:
 
 - **Serra do Mar (SP, RJ):** ocupação histórica em encostas íngremes;
 - **Região Serrana fluminense (Petrópolis, Teresópolis, Nova Friburgo):** chuvas concentradas e relevo abrupto;
@@ -89,7 +89,7 @@ Outras categorias de risco geológico afetam o Brasil em menor ou maior escala. 
 
 Enchente é o aumento natural do volume de um rio. Inundação é quando esse volume invade áreas que normalmente não estão cobertas por água. Os dois ocorrem em várzeas — áreas naturalmente sujeitas ao transbordamento dos rios.
 
-Três elementos compõem o quadro:
+Os elementos centrais são estes:
 
 - **Ocupação de várzea:** transforma áreas naturalmente alagáveis em zona habitada;
 - **Impermeabilização urbana:** asfalto e concreto impedem a infiltração e aceleram o escoamento para o rio;
@@ -102,7 +102,7 @@ Três elementos compõem o quadro:
 
 Erosão urbana resulta de água escoando em terreno desprotegido. Quando se aprofunda, forma voçorocas — sulcos profundos que avançam morro abaixo. O sedimento arrastado vai parar nos rios, no que se chama assoreamento.
 
-Três aspectos definem essa lógica:
+Considere os aspectos a seguir:
 
 - **Voçoroca:** erosão profunda em forma de sulco, comum em solos arenosos do Cerrado;
 - **Assoreamento:** acúmulo de sedimentos no fundo de rios, lagos e canais;
@@ -112,7 +112,7 @@ Três aspectos definem essa lógica:
 
 O Brasil tem terremotos, em geral de baixa magnitude, porque está no interior de uma placa estável. Mas em zonas ativas, como Japão e Chile, terremotos são frequentes — e o que separa tragédia de evento controlado é, antes de tudo, a vulnerabilidade das construções.
 
-Três pontos resumem o cenário:
+Entre elas, destacam-se:
 
 - **Brasil:** sismos pequenos e raros (João Câmara/RN, 1986, foi exceção em magnitude para o país);
 - **Japão e Chile:** códigos rigorosos de construção reduzem mortes em sismos fortes;
@@ -130,7 +130,7 @@ Reduzir tragédias exige ciência aplicada e decisão pública. O Brasil tem ins
 
 A gestão de risco se apoia em três pilares técnicos. Cada um cobre uma fase do problema.
 
-Três dimensões organizam essa análise:
+Vale observar o que segue:
 
 - **Mapeamento de risco:** CPRM, IPT-SP e municípios identificam áreas vulneráveis;
 - **Sistema de alerta:** o CEMADEN monitora chuvas e emite avisos antecipados;
@@ -142,7 +142,7 @@ A Lei Federal 12.608/2012 instituiu a Política Nacional de Proteção e Defesa 
 
 Ter mapa de risco não impede tragédia. O que impede é a sequência completa: mapeamento → política habitacional → realocação de famílias em áreas críticas → fiscalização permanente. Em geral, a sequência se rompe na política habitacional.
 
-Quatro marcos ajudam a entender o tema:
+Os fatores em jogo são estes:
 
 - **Diagnóstico técnico:** o Brasil tem;
 - **Recurso para realocação:** quase sempre falta;

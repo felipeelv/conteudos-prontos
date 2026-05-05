@@ -21,7 +21,7 @@ Integrar é articular o território por redes técnicas, fluxos econômicos e po
 
 Toda integração territorial se organiza em três elementos.
 
-Três pontos resumem o cenário:
+Vale observar o que segue:
 
 - **Redes:** conjunto de linhas que conectam pontos — rodovias, ferrovias, linhas de transmissão, cabos, dutos;
 - **Nós:** pontos de concentração na rede — cidades, portos, aeroportos, hubs logísticos;
@@ -33,7 +33,7 @@ A rede sem fluxo é infraestrutura ociosa. O fluxo sem rede é desejo de circula
 
 Em 1935, o capitão Mário Travassos publicou *Projeção Continental do Brasil*. Foi pioneiro em pensar o território brasileiro pelo ângulo geopolítico e da integração interna.
 
-Quatro dimensões organizam essa análise:
+Os fatores em jogo são estes:
 
 - **Tese central:** o Brasil precisa ligar interior e litoral, do contrário continuará dependente do eixo costeiro;
 - **Diagnóstico:** atravessar o continente exige rodovias, ferrovias, hidrovias e rotas que cortem o sertão e a Amazônia;
@@ -50,7 +50,7 @@ Transporte é o coração da integração brasileira — e seu maior gargalo. A 
 
 Modal é o tipo de transporte. O Brasil usa cinco principais.
 
-Cinco marcos ajudam a entender o tema:
+Foram esses os passos:
 
 - **Rodoviário:** mais de 60% do transporte de cargas no país;
 - **Ferroviário:** cerca de 15-20%, concentrado em minério de ferro e grãos para exportação;
@@ -65,7 +65,7 @@ Cinco marcos ajudam a entender o tema:
 
 A concentração rodoviária produz gargalos que atingem todas as regiões — mas com peso desigual.
 
-Quatro características descrevem o processo:
+Alguns aspectos ajudam a entender:
 
 - **Custo Brasil:** logística cara reduz competitividade do produto exportado e encarece o consumido internamente;
 - **Manutenção:** rodovias federais com má conservação aumentam tempo de transporte e quebra de carga;
@@ -85,7 +85,7 @@ Além de transportes, o Brasil construiu duas redes técnicas de grande alcance 
 
 O Sistema Interligado Nacional (SIN), operado pelo ONS (Operador Nacional do Sistema Elétrico), conecta a geração e a transmissão de energia elétrica em quase todo o Brasil.
 
-Quatro fatores estruturam a leitura:
+Os pontos centrais aparecem abaixo:
 
 - **Cobertura:** mais de 98% da carga elétrica do país está integrada ao SIN;
 - **Função:** permite transferir energia entre regiões — quando uma área tem seca e suas hidrelétricas geram menos, outra área compensa;
@@ -99,7 +99,7 @@ Quatro fatores estruturam a leitura:
 
 Conectividade digital é infraestrutura territorial moderna — e segue o mesmo padrão de desigualdade do resto do país.
 
-Quatro chaves abrem o tema:
+São essas as evidências:
 
 - **Banda larga:** cobertura ampla nas capitais e grandes municípios; precária em municípios pequenos do interior;
 - **5G:** instalado primeiro em capitais e grandes cidades; chegará às demais com atraso;
@@ -116,7 +116,7 @@ Redes técnicas existem para os fluxos circularem. A leitura territorial inteira
 
 Quatro tipos de fluxo organizam a economia brasileira.
 
-Quatro elementos compõem o quadro:
+Veja os elementos principais:
 
 - **Mercadorias:** soja vai do Centro-Oeste ao porto, eletrônicos saem da Zona Franca para todo o país;
 - **Pessoas:** migração interna seguiu por décadas a direção Nordeste → Sudeste; hoje há fluxos mais variados, incluindo retorno;
@@ -127,7 +127,7 @@ Quatro elementos compõem o quadro:
 
 Integrar pode ter dois efeitos opostos. Tudo depende de como a rede é desenhada e operada.
 
-Quatro aspectos definem essa lógica:
+Algumas marcas resumem o tema:
 
 - **Redução de isolamento:** estradas, energia e internet conectam comunidades antes desconectadas;
 - **Reforço de dependência:** quando o fluxo é unidirecional — recursos saem, comando entra de fora — a integração aprofunda subordinação;

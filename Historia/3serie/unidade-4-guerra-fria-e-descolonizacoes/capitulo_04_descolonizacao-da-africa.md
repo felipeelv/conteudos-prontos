@@ -21,7 +21,7 @@ A descolonização africana ocorreu em ondas, entre 1950 e 1990 — combinação
 
 ### 1.1 Partilha, ocupação e Segunda Guerra
 
-A África entrou no séc. XX quase toda colonizada e saiu da Segunda Guerra com expectativas que a Europa não soube absorver. Cinco fatos compõem essa virada:
+A África entrou no séc. XX quase toda colonizada e saiu da Segunda Guerra com expectativas que a Europa não soube absorver. Foram esses os passos:
 
 - **Partilha da África (1880-1914):** em 1900, 90% do continente sob controle europeu;
 - **Estrutura colonial:** extrair matérias-primas, mão de obra forçada, vender manufaturados;
@@ -31,7 +31,7 @@ A África entrou no séc. XX quase toda colonizada e saiu da Segunda Guerra com 
 
 ### 1.2 Pan-africanismo, Bandung e Lei 11.645/2008
 
-O **pan-africanismo** foi o movimento de solidariedade política, cultural e anticolonial entre povos africanos e da diáspora. Cinco marcos históricos articulam essa rede:
+O **pan-africanismo** foi o movimento de solidariedade política, cultural e anticolonial entre povos africanos e da diáspora. Alguns aspectos ajudam a entender:
 
 - **W.E.B. Du Bois (EUA):** liderança fundadora do pan-africanismo no início do séc. XX;
 - **Marcus Garvey (Jamaica):** mobilização da diáspora;
@@ -52,7 +52,7 @@ A descolonização africana ocorreu em ondas distintas. **1960** entrou para a h
 
 ### 2.1 Norte da África: Egito, Argélia e ondas iniciais
 
-O norte do continente abriu o ciclo das independências, com Egito e Argélia como casos centrais. Seis marcos resumem essa fase:
+O norte do continente abriu o ciclo das independências, com Egito e Argélia como casos centrais. Os pontos centrais aparecem abaixo:
 
 - **Egito:** independência formal em 1922, libertação efetiva após Revolução de 1952 (Nasser);
 - **1956:** Nasser nacionaliza o Canal de Suez; Inglaterra, França e Israel invadem; EUA e URSS pressionam pela retirada;
@@ -63,7 +63,7 @@ O norte do continente abriu o ciclo das independências, com Egito e Argélia co
 
 ### 2.2 Gana, Nkrumah e a África Subsaariana
 
-A independência de Gana abriu efeito em cadeia na África Subsaariana. Cinco marcos resumem essa onda:
+A independência de Gana abriu efeito em cadeia na África Subsaariana. São essas as evidências:
 
 - **6/3/1957:** Gana é a primeira colônia subsaariana a se libertar, sob **Kwame Nkrumah**;
 - **Frase de Nkrumah:** "A independência de Gana não terá significado pleno enquanto não estiver ligada à libertação total do continente africano";
@@ -84,7 +84,7 @@ Algumas independências não foram negociadas. Foram guerras de libertação pro
 
 ### 3.1 Angola, Moçambique e Guiné-Bissau
 
-Portugal, sob a ditadura de Salazar, recusou-se a abandonar suas colônias. Cinco frentes de luta organizaram a resistência africana:
+Portugal, sob a ditadura de Salazar, recusou-se a abandonar suas colônias. Veja os elementos principais:
 
 - **MPLA (Angola):** liderado por Agostinho Neto, ativo desde 1956;
 - **FRELIMO (Moçambique):** liderada por Eduardo Mondlane e depois Samora Machel, fundada em 1962;
@@ -94,7 +94,7 @@ Portugal, sob a ditadura de Salazar, recusou-se a abandonar suas colônias. Cinc
 
 ### 3.2 Revolução dos Cravos e independências de 1975
 
-A queda da ditadura em Lisboa abriu a porta — mas as guerras civis pós-independência mostraram que a paz dependia de outras tantas decisões. Cinco marcos contam essa transição:
+A queda da ditadura em Lisboa abriu a porta — mas as guerras civis pós-independência mostraram que a paz dependia de outras tantas decisões. Algumas marcas resumem o tema:
 
 - **25/4/1974:** **Revolução dos Cravos** derruba a ditadura em Lisboa;
 - **Cravos vermelhos:** colocados nos canos dos fuzis dos militares;
@@ -104,7 +104,7 @@ A queda da ditadura em Lisboa abriu a porta — mas as guerras civis pós-indepe
 
 ### 3.3 Congo, Lumumba e a Guerra Fria
 
-A independência do Congo virou rapidamente alvo da Guerra Fria, com desfecho trágico para Lumumba. Seis marcos compõem essa história:
+A independência do Congo virou rapidamente alvo da Guerra Fria, com desfecho trágico para Lumumba. Olhe para os pontos a seguir:
 
 - **30/6/1960:** Congo Belga conquista independência, com **Patrice Lumumba** como primeiro-ministro;
 - **Catanga:** província rica em cobre proclama separação, apoiada por mercenários belgas e empresas mineradoras;
@@ -126,7 +126,7 @@ O **apartheid** foi o sistema legal de segregação racial em vigor na África d
 
 ### 4.1 Origem legal e segregação total
 
-O Partido Nacional, no poder desde 1948, sistematizou a segregação em mais de 80 leis. Seis pilares definem a engenharia legal do apartheid:
+O Partido Nacional, no poder desde 1948, sistematizou a segregação em mais de 80 leis. Foram esses os marcos:
 
 - **Lei de Áreas de Grupo (1950):** separação residencial obrigatória;
 - **Lei de Imoralidade:** proibia casamentos e relações entre pessoas de "raças" diferentes;
@@ -137,7 +137,7 @@ O Partido Nacional, no poder desde 1948, sistematizou a segregação em mais de 
 
 ### 4.2 ANC, Sharpeville e Mandela
 
-O **ANC (Congresso Nacional Africano)**, fundado em 1912, foi o principal movimento de oposição. Seis marcos resumem a trajetória da resistência:
+O **ANC (Congresso Nacional Africano)**, fundado em 1912, foi o principal movimento de oposição. Considere o que segue:
 
 - **Estratégia inicial:** não violência inspirada em Gandhi;
 - **21/3/1960:** **massacre de Sharpeville** — polícia abriu fogo em manifestação pacífica; 69 mortos;
@@ -146,7 +146,7 @@ O **ANC (Congresso Nacional Africano)**, fundado em 1912, foi o principal movime
 - **1964:** Julgamento de Rivônia condena Mandela à prisão perpétua;
 - **27 anos:** tempo total que Mandela passou preso.
 
-A pressão internacional cresceu nos anos 1980. Seis fatores convergiram para o fim do regime:
+A pressão internacional cresceu nos anos 1980. Veja os principais pontos:
 
 - **Sanções econômicas:** isolamento crescente da África do Sul;
 - **Boicotes esportivos:** Sul-africanos excluídos de Jogos Olímpicos por décadas;
