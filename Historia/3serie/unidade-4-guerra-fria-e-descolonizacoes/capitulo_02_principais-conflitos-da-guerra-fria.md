@@ -1,11 +1,5 @@
 # Capítulo 2 — Principais Conflitos da Guerra Fria
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cuban_missiles.jpg?width=1280" alt="Foto aérea americana de mísseis soviéticos em Cuba, 1962" width="720">
-</p>
-
-<p align="center"><sub><em>Foto aérea americana de uma base de mísseis soviéticos em San Cristóbal, Cuba, durante a Crise dos Mísseis (outubro de 1962). U.S. Department of Defense / John F. Kennedy Library / Wikimedia Commons. Domínio público.</em></sub></p>
-
 ## A Guerra Fria foi "fria" apenas para as superpotências; para países do 3º Mundo, foi muito quente. Como a história mundial é contada — e por quem?
 
 Washington, 22 de outubro de 1962. Kennedy aparece na televisão. Aviões americanos detectaram mísseis soviéticos em Cuba, a 150 km da Flórida.
@@ -78,12 +72,6 @@ A **Revolução Cubana** de 1959 mudou o equilíbrio da Guerra Fria no continent
 
 ## 3. Vietnã: descolonização, nacionalismo e Guerra Fria
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ho_Chi_Minh_-_1946_Portrait.jpg?width=600" alt="Retrato de Ho Chi Minh, c. 1946" width="380">
-</p>
-
-<p align="center"><sub><em>Ho Chi Minh (1890-1969), líder vietnamita que proclamou a independência do Vietnã em 1945. Foto de c. 1946. Wikimedia Commons. Domínio público.</em></sub></p>
-
 A **Guerra do Vietnã** combinou descolonização contra a França, nacionalismo vietnamita, conflito civil e intervenção americana. Durou décadas. Custou milhões de vidas.
 
 > O Vietnã não foi simples palco da disputa entre EUA e URSS. Foi guerra com causas locais profundas — colonialismo, divisão Norte-Sul, nacionalismo — capturada pela lógica da Guerra Fria.
@@ -121,12 +109,6 @@ A **Guerra do Vietnã** combinou descolonização contra a França, nacionalismo
 ---
 
 ## 4. Corridas simbólicas e fases da tensão
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Aldrin_Apollo_11_original.jpg?width=1024" alt="Buzz Aldrin sobre a Lua, missão Apollo 11, julho de 1969" width="640">
-</p>
-
-<p align="center"><sub><em>Buzz Aldrin sobre a Lua durante a missão Apollo 11 (20 de julho de 1969). Foto de Neil Armstrong. NASA / Wikimedia Commons. Domínio público.</em></sub></p>
 
 A Guerra Fria não foi só conflito militar. Foi também competição tecnológica, científica, cultural e simbólica. E foi cíclica — momentos de alta tensão e momentos de relaxamento.
 

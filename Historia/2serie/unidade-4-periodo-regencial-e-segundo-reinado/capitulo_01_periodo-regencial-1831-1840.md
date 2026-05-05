@@ -1,11 +1,5 @@
 # Capítulo 1 — Período Regencial (1831-1840)
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Abdicacao_Pedro_I_do_Brasil.jpg?width=1280" alt="Abdicação de D. Pedro I, pintura de Aurélio de Figueiredo (1911)" width="720">
-</p>
-
-<p align="center"><sub><em>A Abdicação do Imperador D. Pedro I — Aurélio de Figueiredo (1911). Cena imaginada da abdicação de 7 de abril de 1831, com o herdeiro de 5 anos representado ao lado do pai. Wikimedia Commons. Domínio público.</em></sub></p>
-
 ## Entre a fragmentação da América Hispânica e a centralização autoritária, a Regência buscou um caminho próprio. Funcionou — ou falhou?
 
 Rio de Janeiro, 7 de abril de 1831. D. Pedro I assina o documento de abdicação. Entrega o trono ao filho de cinco anos. Sai do Brasil em direção a Lisboa.
@@ -20,12 +14,6 @@ Liberais querem mais autonomia para as províncias. Conservadores querem manter 
 ---
 
 ## 1. As fases da Regência
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/RetratodompedroIIcrianca.JPG?width=800" alt="D. Pedro II criança, retrato em óleo do Museu Imperial" width="380">
-</p>
-
-<p align="center"><sub><em>D. Pedro II ainda criança, época da Regência. Foi declarado Imperador do Brasil aos 5 anos, em 1831, mas não pôde governar até atingir a maioridade. Museu Imperial, Petrópolis. Wikimedia Commons. Domínio público.</em></sub></p>
 
 A **Regência** foi o governo exercido temporariamente porque o monarca ainda não podia governar. Houve quatro experiências regenciais entre 1831 e 1840.
 
@@ -53,12 +41,6 @@ O **Ato Adicional de 1834** alterou a Constituição de 1824 e criou a **Regênc
 ---
 
 ## 2. Liberais, conservadores e o dilema do Estado imperial
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Diogo-feijó.jpg?width=600" alt="Retrato de Padre Diogo Antônio Feijó" width="380">
-</p>
-
-<p align="center"><sub><em>Padre Diogo Antônio Feijó (1784-1843), por Miguelzinho Dutra. Sacerdote paulista e Regente Una do Brasil entre 1835 e 1837. Wikimedia Commons. Domínio público.</em></sub></p>
 
 A instabilidade regencial expressava disputa profunda sobre o desenho do Estado imperial.
 

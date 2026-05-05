@@ -1,11 +1,5 @@
 # Capítulo 2 — O Período Helenístico
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_2013-05-16_16-25-06_BW.jpg?width=1280" alt="Mosaico de Issos, Alexandre vs Dario III" width="720">
-</p>
-
-<p align="center"><sub><em>Mosaico de Issos (c. 100 a.C.), encontrado na Casa do Fauno em Pompeia. Mostra o confronto entre Alexandre, o Grande, e Dario III na Batalha de Issos (333 a.C.). Museu Arqueológico Nacional de Nápoles. Wikimedia Commons. Domínio público.</em></sub></p>
-
 ## Alexandre levou cultura grega ao Oriente ou impôs sua visão de mundo a povos que tinham as suas próprias?
 
 Górdio, 333 a.C. O templo guarda um nó famoso. Quem desatasse o cabo, dizia a tradição, governaria a Ásia. Reis e sacerdotes tentaram por gerações. Falharam.
@@ -20,12 +14,6 @@ A cena resume um modo de governar — cortar pela força o que não se resolve p
 ---
 
 ## 1. A conquista macedônica
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Philip-ii-of-macedon.jpg?width=600" alt="Busto de Filipe II da Macedônia, Museus Vaticanos" width="380">
-</p>
-
-<p align="center"><sub><em>Busto de Filipe II da Macedônia, pai de Alexandre. Cópia romana do séc. I d.C. de um original grego. Museu Chiaramonti, Vaticano. Foto: Fotogeniss / Wikimedia Commons. CC BY-SA 3.0.</em></sub></p>
 
 A **Macedônia** era um reino ao norte do mundo grego, antes visto como periférico por muitas pólis. Após a Guerra do Peloponeso, ela se firmou como nova potência militar.
 
@@ -57,12 +45,6 @@ Filipe II combinou força e diplomacia para impor hegemonia.
 ---
 
 ## 2. O império de Alexandre, o Grande
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/MacedonEmpire.jpg?width=1280" alt="Mapa do Império de Alexandre, o Grande, em sua extensão máxima (323 a.C.)" width="720">
-</p>
-
-<p align="center"><sub><em>Império de Alexandre, o Grande, em sua extensão máxima (323 a.C.). Estendia-se da Grécia ao vale do Indo, passando por Egito, Pérsia e Mesopotâmia. Wikimedia Commons. Domínio público.</em></sub></p>
 
 Filipe II foi assassinado em 336 a.C. Alexandre, com 20 anos, herdou o trono e o projeto: invadir o Império Persa.
 
@@ -108,12 +90,6 @@ Alexandre se apresentava como libertador dos povos sob domínio persa, mas conqu
 
 ## 3. A cultura helenística
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Venus_de_Milo_Louvre_Ma399_n4.jpg?width=800" alt="Vênus de Milo, escultura helenística do Museu do Louvre" width="380">
-</p>
-
-<p align="center"><sub><em>Vênus de Milo (Afrodite de Melos), c. 130-100 a.C. Mármore de Paros, encontrada em Melos em 1820. Museu do Louvre (inv. Ma 399). Foto: Jastrow / Wikimedia Commons. Domínio público.</em></sub></p>
-
 Após a morte de Alexandre, o império se fragmentou. Mas a circulação cultural iniciada pela conquista se aprofundou.
 
 > O Helenismo não é cultura grega "pura". É mistura, circulação e disputa cultural entre tradições gregas e orientais.
@@ -144,12 +120,6 @@ A **koiné** era a forma comum da língua grega difundida no mundo helenístico 
 ---
 
 ## 4. A conquista romana
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Statue-Augustus.jpg?width=600" alt="Augusto de Prima Porta, estátua do primeiro imperador romano" width="380">
-</p>
-
-<p align="center"><sub><em>Augusto de Prima Porta (séc. I d.C.). A estátua do primeiro imperador romano segue padrões helenísticos de proporção e idealização — Roma absorveu a estética grega ao mesmo tempo em que conquistava politicamente o mundo helenístico. Museus Vaticanos. Wikimedia Commons. Domínio público.</em></sub></p>
 
 O mundo helenístico não desapareceu de uma vez. Foi sendo absorvido por Roma.
 

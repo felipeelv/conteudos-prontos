@@ -1,11 +1,5 @@
 # Capítulo 4 — Descolonização da África
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Free_Nelson_Mandela_Protest%2C_Germany_(crop).jpg?width=1280" alt="Protesto pela libertação de Nelson Mandela, Alemanha" width="720">
-</p>
-
-<p align="center"><sub><em>Manifestação internacional pela libertação de Nelson Mandela. A pressão global sobre o regime do apartheid foi decisiva para o fim da segregação na África do Sul em 1994. Wikimedia Commons. Domínio público.</em></sub></p>
-
 ## A África conquistou independência política — mas ainda luta por autonomia econômica, cultural e epistemológica. O que significa, hoje, descolonização completa?
 
 Cidade do Cabo, 11 de fevereiro de 1990. Nelson Mandela sai a pé da prisão de Victor Verster. 71 anos. Preso desde 1962. Vinte e sete anos atrás dos muros.
@@ -49,12 +43,6 @@ O **pan-africanismo** foi o movimento de solidariedade política, cultural e ant
 ---
 
 ## 2. Ondas de independência
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kwame_Nkrumah-TIME-1953.jpg?width=600" alt="Kwame Nkrumah na capa da revista TIME, 1953" width="380">
-</p>
-
-<p align="center"><sub><em>Kwame Nkrumah na capa da revista TIME (1953). Liderou a independência de Gana em 1957 — primeira colônia subsaariana a se libertar. Wikimedia Commons. Domínio público.</em></sub></p>
 
 A descolonização africana ocorreu em ondas distintas. **1960** entrou para a história como **"Ano Africano"**, quando 17 países conquistaram independência.
 

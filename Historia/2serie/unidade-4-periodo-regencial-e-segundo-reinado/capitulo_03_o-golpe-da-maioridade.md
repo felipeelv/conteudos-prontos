@@ -1,11 +1,5 @@
 # Capítulo 3 — O Golpe da Maioridade
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Coronation_of_dom_pedro_II.jpg?width=1280" alt="Coroação de D. Pedro II em 1841" width="720">
-</p>
-
-<p align="center"><sub><em>Coroação de D. Pedro II (1841), atribuída a Manuel de Araújo Porto-Alegre. A cerimônia oficial ocorreu em 18 de julho de 1841, quase um ano após a Declaração da Maioridade. Museu Imperial, Petrópolis. Wikimedia Commons. Domínio público.</em></sub></p>
-
 ## O Brasil escolheu um menino de 14 anos como imperador em vez de lidar com suas divisões. O que isso mostra sobre como sociedades resolvem crises de liderança?
 
 Rio de Janeiro, 23 de julho de 1840. A Câmara dos Deputados está cheia. Liberais entram com pressa. Trazem proposta urgente: declarar maior de idade D. Pedro II.
@@ -83,12 +77,6 @@ Por que entregar o Império a um menino de 14 anos parecia melhor do que manter 
 ---
 
 ## 3. O início do Segundo Reinado
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/D._Pedro_II_atribu%C3%ADdo_a_Fran%C3%A7ois_Ren%C3%A9_Moreaux.jpg?width=800" alt="D. Pedro II jovem, atribuído a François-René Moreaux" width="380">
-</p>
-
-<p align="center"><sub><em>D. Pedro II em retrato atribuído a François-René Moreaux, pouco após o início do Segundo Reinado. Museu Imperial, Petrópolis. Wikimedia Commons. Domínio público.</em></sub></p>
 
 A Declaração da Maioridade encerrou a Regência. D. Pedro II assumiu em julho de 1840. A coroação formal ocorreu em 18 de julho de 1841.
 

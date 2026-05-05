@@ -1,11 +1,5 @@
 # Capítulo 2 — Revoltas Regenciais
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cabanagem_Bel%C3%A9m_1835.jpg?width=1280" alt="Tomada de Belém durante a Cabanagem, 1835" width="720">
-</p>
-
-<p align="center"><sub><em>Cabanagem em Belém, 1835. Gravura histórica representando a tomada da cidade durante a revolta. Wikimedia Commons. Domínio público.</em></sub></p>
-
 ## As revoltas regenciais foram movidas pelo mesmo descontentamento — mas a história lembra umas e apaga outras. Quem decide o que merece ser lembrado?
 
 Belém, agosto de 1836. Eduardo Angelim, 22 anos, filho de pais pobres, assume o governo do Grão-Pará. Lidera a Cabanagem — revolta de cabanos, indígenas, negros e mestiços.
@@ -61,12 +55,6 @@ A **repressão seletiva** é a violência estatal aplicada de modo desigual conf
 
 ## 2. Farroupilha: revolta de elites
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bento_Gon%C3%A7alves_da_Silva.jpg?width=600" alt="Retrato de Bento Gonçalves da Silva, líder farroupilha" width="380">
-</p>
-
-<p align="center"><sub><em>Bento Gonçalves da Silva (1788-1847), líder da Revolução Farroupilha e presidente da República Rio-Grandense. Wikimedia Commons. Domínio público.</em></sub></p>
-
 A **Revolução Farroupilha** ocorreu no Rio Grande do Sul entre 1835 e 1845. Foi uma **revolta de elite** — conduzida por proprietários e dirigentes que defendiam interesses regionais e políticos.
 
 > A Farroupilha foi conduzida por estancieiros, defendia interesses regionais específicos e teve trajetória muito diferente das revoltas populares.
@@ -80,12 +68,6 @@ A **Revolução Farroupilha** ocorreu no Rio Grande do Sul entre 1835 e 1845. Fo
 - **Estopim:** estancieiros perdiam mercado para concorrentes estrangeiros protegidos pelo próprio Império.
 
 ### 2.2 Uma república dentro do Império
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Anita_Garibaldi_-_1839.jpg?width=600" alt="Retrato de Anita Garibaldi" width="380">
-</p>
-
-<p align="center"><sub><em>Anita Garibaldi (1821-1849), por Gaetano Gallino (1845). Brasileira que se uniu à Farroupilha aos 18 anos e depois lutou ao lado de Giuseppe Garibaldi pela unificação italiana. Wikimedia Commons. Domínio público.</em></sub></p>
 
 Em 1836, os farrapos proclamaram a **República Rio-Grandense**.
 
@@ -139,12 +121,6 @@ Os sabinos tinham proposta peculiar — a separação seria **temporária**.
 ---
 
 ## 4. Significado e repressão das revoltas
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Periodo_Regencial_rebeli%C3%B5es.svg?width=1024" alt="Mapa das revoltas regenciais brasileiras (1835-1845)" width="640">
-</p>
-
-<p align="center"><sub><em>Mapa das principais revoltas regenciais (1835-1845): Cabanagem (Grão-Pará), Balaiada (Maranhão), Sabinada (Bahia), Malês (Bahia) e Farroupilha (Rio Grande do Sul). Wikimedia Commons. Domínio público.</em></sub></p>
 
 As revoltas regenciais foram tratadas pelas elites imperiais como sintoma do mesmo problema. Mas as causas, composições sociais e memórias foram muito diferentes.
 

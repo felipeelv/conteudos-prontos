@@ -1,11 +1,5 @@
 # Capítulo 3 — Descolonização da Ásia
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Gandhi_during_the_Salt_March.jpg?width=1280" alt="Gandhi durante a Marcha do Sal, 1930" width="720">
-</p>
-
-<p align="center"><sub><em>Mahatma Gandhi durante a Marcha do Sal (março-abril de 1930). Caminhou 380 km até Dandi para colher um punhado de sal — desafiando a Lei do Sal britânica e iniciando uma onda de desobediência civil. Wikimedia Commons. Domínio público.</em></sub></p>
-
 ## Gandhi mostrou que não-violência pode derrotar impérios. Em que contextos ela funciona — e em quais ela se torna suicida?
 
 Costa de Dandi, 6 de abril de 1930. Gandhi caminha com 78 seguidores. Atravessaram 380 km a pé. Multidões os receberam em cada cidade. Jornalistas de todo o mundo cobrem.
@@ -63,12 +57,6 @@ A **Índia** era a "joia da coroa" do Império Britânico. Sua independência, e
 - **Repressão britânica:** prisões, espancamentos, mortes — apenas mostravam ao mundo a injustiça do sistema;
 - **Marcha do Sal (1930):** ato simples e simbólico que forçou o Império a reagir com violência ou recuar.
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Jawaharlal_Nehru%2C_1947.jpg?width=600" alt="Jawaharlal Nehru, primeiro-ministro da Índia, 1947" width="380">
-</p>
-
-<p align="center"><sub><em>Jawaharlal Nehru (1889-1964), primeiro-ministro da Índia após a independência. Foto de 1947. AFP / Wikimedia Commons. Domínio público.</em></sub></p>
-
 ### 2.2 Nehru, Jinnah e os dois projetos de Índia
 
 - **Jawaharlal Nehru (1889-1964):** principal companheiro de Gandhi; defendia Índia laica, socialista, modernizada;
@@ -124,12 +112,6 @@ A **Indochina** francesa reunia Vietnã, Laos e Camboja. A descolonização da I
 A **Indonésia** era colônia holandesa desde o século XVII. Sua independência combinou proclamação rápida e guerra prolongada contra tentativa holandesa de reconquista.
 
 > A Indonésia mostrou que mesmo um colonizador muito enfraquecido pode tentar recolonização armada quando seus interesses econômicos estão em jogo.
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Indonesia_declaration_of_independence_17_August_1945.jpg?width=1024" alt="Sukarno declarando a independência da Indonésia, 17 de agosto de 1945" width="640">
-</p>
-
-<p align="center"><sub><em>Sukarno declarando a independência da Indonésia em 17 de agosto de 1945, em Jakarta, ao lado de Mohammad Hatta. Foto: Frans Mendur / Wikimedia Commons. Domínio público.</em></sub></p>
 
 ### 4.1 Sukarno e a proclamação de 1945
 

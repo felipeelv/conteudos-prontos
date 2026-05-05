@@ -1,11 +1,5 @@
 # Capítulo 3 — Cultura e Legados da Grécia
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Death%20of%20Socrates%20-%20Google%20Art%20Project.jpg?width=1280" alt="A Morte de Sócrates, pintura de Jacques-Louis David (1787)" width="720">
-</p>
-
-<p align="center"><sub><em>A Morte de Sócrates — Jacques-Louis David (1787). Met Museum / Wikimedia Commons. Domínio público.</em></sub></p>
-
 ## O que os gregos fizeram que transformou para sempre o jeito como o Ocidente pensa, vota e cria arte?
 
 Atenas, 399 a.C. Sócrates, 70 anos, está sentado no chão da prisão. Os amigos trouxeram um plano de fuga. Subornaram guardas. A rota está pronta.
@@ -20,12 +14,6 @@ Foi condenado por "corromper a juventude" e "introduzir novos deuses". A pena é
 ---
 
 ## 1. A Filosofia: Sócrates, Platão e Aristóteles
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Raphael%20School%20of%20Athens.jpg?width=1280" alt="Escola de Atenas, afresco de Rafael" width="720">
-</p>
-
-<p align="center"><sub><em>Escola de Atenas — Rafael (1509-1511). Platão aponta para cima (mundo das ideias); Aristóteles, para o chão (observação concreta). Vaticano / Wikimedia Commons. Domínio público.</em></sub></p>
 
 A **Filosofia** — palavra grega para "amor à sabedoria" — é a busca racional por verdade, justiça, natureza e vida humana. Surgiu na Grécia entre os séculos VII e IV a.C.
 
@@ -44,12 +32,6 @@ Os primeiros filósofos buscaram ordem por trás das aparências. Não rejeitara
 > Mythos e logos coexistiram. O teatro continuou contando mitos. A Filosofia continuou perguntando o porquê.
 
 ### 1.2 Sócrates e a força das perguntas
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Socrates%20Louvre.jpg?width=800" alt="Busto de Sócrates, Museu do Louvre" width="420">
-</p>
-
-<p align="center"><sub><em>Sócrates. Mármore romano do séc. I d.C. Museu do Louvre, inv. Ma 59. Foto: Eric Gaba / Wikimedia Commons. Domínio público.</em></sub></p>
 
 Sócrates (470-399 a.C.) viveu o auge cultural de Atenas e a Guerra do Peloponeso. Não escreveu livros. Conversava em praças, mercados e ginásios.
 
@@ -87,12 +69,6 @@ O teatro grego não era entretenimento privado. Era ritual público, ligado à r
 > Foi um dos primeiros espaços em que uma sociedade discutiu seus dilemas em escala pública.
 
 ### 2.1 Teatro como experiência pública
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/20090727_epidavros04.jpg" alt="Teatro de Epidauro" width="720">
-</p>
-
-<p align="center"><sub><em>Teatro de Epidauro, fim do séc. IV a.C. Comporta 14 mil espectadores; uma moeda no centro do palco é ouvida nas últimas fileiras. Foto: Jean Housen / Wikimedia Commons. CC BY-SA 3.0.</em></sub></p>
 
 Os festivais aconteciam em homenagem a Dionísio, deus do vinho e do êxtase. Eram eventos coletivos da pólis inteira.
 
@@ -148,12 +124,6 @@ Arte e esporte gregos buscaram proporção, equilíbrio e idealização do corpo
 ---
 
 ## 4. Principais legados para o Ocidente
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Acropolis%20Parthenon%20Athens%20Greece.jpg?width=1280" alt="Acrópole de Atenas com o Parthenon" width="720">
-</p>
-
-<p align="center"><sub><em>Acrópole de Atenas, com o Parthenon ao centro. Construído entre 447 e 432 a.C. sob Péricles, é o exemplo mais célebre da ordem dórica. Foto: Jebulon / Wikimedia Commons. CC0.</em></sub></p>
 
 A cultura grega clássica foi reinterpretada por Roma, pela Idade Média cristã, pelo Renascimento e pela modernidade.
 

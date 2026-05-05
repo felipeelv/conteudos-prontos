@@ -1,11 +1,5 @@
 # Capítulo 1 — Guerra Fria: Conceito e Bipolarização
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Wall_1961-11-20.jpg?width=1280" alt="Construção do Muro de Berlim, novembro de 1961" width="720">
-</p>
-
-<p align="center"><sub><em>Trabalhadores da Alemanha Oriental erguendo o Muro de Berlim em 20 de novembro de 1961. O muro virou símbolo concreto da Cortina de Ferro que dividia a Europa. National Archives / Wikimedia Commons. Domínio público.</em></sub></p>
-
 ## A Guerra Fria terminou em 1991, mas divisões ideológicas continuam. Que "cortinas de ferro" você reconhece no mundo atual — e elas são realmente inevitáveis?
 
 Fulton, Missouri, 5 de março de 1946. Winston Churchill caminha até o púlpito do Westminster College. O nazismo foi derrotado há menos de um ano.
@@ -48,12 +42,6 @@ A **bipolaridade** é a organização do mundo em torno de dois polos principais
 
 ## 2. A bipolarização do mundo
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cold_War_WorldMap_1962.png?width=1280" alt="Mapa-múndi da Guerra Fria em 1962" width="720">
-</p>
-
-<p align="center"><sub><em>Mapa do mundo em 1962, no auge da Guerra Fria. Em azul, países da OTAN e alinhados ao Ocidente; em vermelho, Pacto de Varsóvia e aliados; em laranja, países comunistas não alinhados à URSS. Wikimedia Commons. CC BY-SA 3.0.</em></sub></p>
-
 Após 1945, o mundo se organizou em dois blocos políticos, econômicos e militares. A bipolarização não foi escolha livre — foi pressão sobre quem precisava se alinhar.
 
 > Cada bloco se proclamava defensor de valores universais. Cada um cometeu, em nome desses valores, intervenções que contradiziam o próprio discurso.
@@ -84,12 +72,6 @@ A **economia planificada** é o sistema em que o Estado define metas de produç�
 ---
 
 ## 3. Contenção e reconstrução
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/George_F._Kennan_1947.jpg?width=600" alt="George F. Kennan, diplomata americano e formulador da doutrina da contenção" width="380">
-</p>
-
-<p align="center"><sub><em>George F. Kennan (1904-2005), diplomata americano. Foto de Harris & Ewing (1947), ano da publicação do artigo "X" que formalizou a doutrina da contenção. Library of Congress / Wikimedia Commons. Domínio público.</em></sub></p>
 
 A **contenção** foi a estratégia americana para impedir a expansão do comunismo. A formulação intelectual veio do diplomata **George Kennan**.
 

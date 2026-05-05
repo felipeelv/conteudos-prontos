@@ -1,11 +1,5 @@
 # Capítulo 1 — O Período Clássico
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Discurso_funebre_pericles.PNG?width=1280" alt="Discurso fúnebre de Péricles, pintura de Philipp Foltz" width="720">
-</p>
-
-<p align="center"><sub><em>Discurso Fúnebre de Péricles — Philipp Foltz (1852). Péricles fala no Cerâmico para a multidão ateniense, no fim do primeiro ano da Guerra do Peloponeso. Wikimedia Commons. Domínio público.</em></sub></p>
-
 ## Por que a mesma Atenas que inventou a democracia virou um império que oprimia as outras pólis?
 
 Maratona, 490 a.C. O sol nasce sobre a planície. Soldados atenienses se posicionam diante de um exército persa muito maior. Os atenienses avançam, cercam os flancos, esmagam o centro.
@@ -20,12 +14,6 @@ Décadas depois, a mesma Atenas cobra tributos de pólis aliadas. Reprime quem t
 ---
 
 ## 1. As Guerras Médicas e a virada de Atenas
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Map_Greco-Persian_Wars-en.svg?width=1280" alt="Mapa das Guerras Médicas, séculos VI-V a.C." width="720">
-</p>
-
-<p align="center"><sub><em>Mapa das Guerras Médicas (c. 500-479 a.C.). Em laranja, território controlado pela Liga Helênica; em amarelo, o Império Persa Aquemênida. Bibi Saint-Pol / Wikimedia Commons. CC BY-SA 3.0.</em></sub></p>
 
 As **Guerras Médicas** foram conflitos entre pólis gregas e o Império Persa nos séculos VI-V a.C. O nome vem de "medos", povo associado aos persas.
 
@@ -57,12 +45,6 @@ Após a guerra, Atenas liderou a formação da **Liga de Delos** (478 a.C.) — 
 ---
 
 ## 2. O Século de Péricles em Atenas
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Pericles_Pio-Clementino_Inv269.jpg?width=800" alt="Busto de Péricles, mármore, Museu Pio-Clementino, Vaticano" width="420">
-</p>
-
-<p align="center"><sub><em>Busto de Péricles. Cópia romana em mármore (séc. II d.C.) de um original grego de c. 430 a.C., de Crésilas. Museu Pio-Clementino, Vaticano (inv. 269). Foto: Jastrow / Wikimedia Commons. Domínio público.</em></sub></p>
 
 Entre 461 e 429 a.C., Atenas viveu seu apogeu cultural e político sob Péricles. A pólis combinou participação cidadã ampla, obras grandiosas e poder imperial.
 
@@ -107,12 +89,6 @@ Péricles transformou a Acrópole em vitrine política. Reconstruiu o Parthenon,
 
 ## 3. A Guerra do Peloponeso
 
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Thucydides-bust-cutout_ROM.jpg?width=600" alt="Busto de Tucídides, Royal Ontario Museum" width="380">
-</p>
-
-<p align="center"><sub><em>Busto de Tucídides, historiador ateniense que escreveu a "História da Guerra do Peloponeso". Cópia helenística de um original grego do séc. IV a.C. Royal Ontario Museum, Toronto. Foto: Captmondo / Wikimedia Commons. Domínio público.</em></sub></p>
-
 A expansão ateniense gerou medo em Esparta, principal rival, que liderava a **Liga do Peloponeso**. O choque entre os dois projetos hegemônicos produziu o conflito grego mais devastador da Antiguidade.
 
 > Quando duas pólis disputam liderança absoluta, a guerra pode destruir o conjunto que ambas pretendiam liderar.
@@ -153,12 +129,6 @@ Esparta venceu em 404 a.C., com apoio financeiro persa.
 ---
 
 ## 4. A crise da pólis grega
-
-<p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Map_Peloponnesian_War_431_BC-en.svg?width=1280" alt="Mapa das alianças no início da Guerra do Peloponeso, 431 a.C." width="720">
-</p>
-
-<p align="center"><sub><em>Mapa das alianças no início da Guerra do Peloponeso (431 a.C.). Em laranja, Liga de Delos liderada por Atenas; em vermelho, Liga do Peloponeso liderada por Esparta. Bibi Saint-Pol / Wikimedia Commons. CC BY-SA 3.0.</em></sub></p>
 
 A Guerra do Peloponeso encerrou o ciclo do apogeu ateniense, mas não trouxe estabilidade. A Grécia entrou em décadas de hegemonias rivais e desgaste militar.
 
