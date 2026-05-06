@@ -11,54 +11,56 @@ Um fio de cabelo, uma fibra muscular e um anticorpo parecem materiais muito dife
 
 ## 1. Aminoácidos e Ligações Peptídicas
 
-Proteínas são polímeros formados por aminoácidos. Cada aminoácido funciona como uma peça que pode se ligar a outras em uma cadeia.
+Proteínas são polímeros formados por aminoácidos. Cada aminoácido funciona como uma peça que pode se ligar a outras em uma cadeia, e a ordem dessas peças é o que diferencia uma proteína de outra.
 
 ### 1.1 O que há em um aminoácido?
 
-Todo aminoácido tem um carbono central ligado a grupo amino, grupo carboxila, hidrogênio e radical R. O radical R diferencia um aminoácido do outro.
+Todo aminoácido tem um carbono central ligado a quatro grupos: amino, carboxila, hidrogênio e radical R. O radical R é a peça que muda de aminoácido para aminoácido — é ele que define se a parte será ácida, básica, polar ou apolar, hidrofílica ou hidrofóbica. Essa variação química explica por que apenas 20 aminoácidos principais bastam para construir milhões de proteínas diferentes.
 
 Quatro partes são essenciais:
 
 - grupo amino, que contém nitrogênio;
 - grupo carboxila, com característica ácida;
-- carbono central;
+- carbono central, ponto de conexão;
 - radical R, que define propriedades químicas.
 
 > 💡 **Você sabia?**\
-> O corpo humano usa 20 aminoácidos principais para montar enorme variedade de proteínas.
+> O corpo humano usa 20 aminoácidos principais para montar uma enorme variedade de proteínas — algumas estimativas falam em mais de 80 mil tipos diferentes só em humanos.
 
 ### 1.2 Como nasce uma ligação peptídica?
 
-A ligação peptídica une dois aminoácidos. Ela se forma entre o grupo carboxila de um aminoácido e o grupo amino de outro.
+A ligação peptídica une dois aminoácidos. Ela se forma entre o grupo carboxila de um aminoácido e o grupo amino de outro, com saída de uma molécula de água. É uma reação química chamada condensação. A cadeia que cresce nesse processo é o polipeptídeo, e quando ela atinge tamanho e forma adequados, recebe o nome de proteína.
 
-O resultado envolve:
+A ordem dos aminoácidos não é aleatória. Ela é definida por um molde no DNA e cada troca pode mudar a função final — algo que veremos com mais clareza nas Unidades 6 e 7.
+
+O resultado da ligação envolve:
 
 - saída de uma molécula de água;
-- formação de uma ligação covalente;
+- formação de uma ligação covalente forte;
 - crescimento da cadeia polipeptídica;
-- ordem definida pela sequência de aminoácidos.
+- ordem definida pela sequência do DNA.
 
 ## 2. Níveis de Estrutura
 
-Uma proteína não funciona apenas por ter aminoácidos. Ela precisa assumir uma forma tridimensional adequada.
+Uma proteína não funciona apenas por ter aminoácidos. Ela precisa assumir uma forma tridimensional adequada — a forma é parte da função.
 
 ### 2.1 Da sequência à dobra
 
-A estrutura primária é a sequência de aminoácidos. A partir dela, surgem dobras locais e organização espacial.
+A estrutura primária é simplesmente a sequência de aminoácidos na ordem em que aparecem. A partir dela, surgem dobras locais e organização espacial. Essa transição da sequência para a forma 3D foi um dos grandes avanços da bioquímica do século XX.
 
 Os níveis são:
 
 - primária: ordem dos aminoácidos;
 - secundária: dobras locais, como hélice alfa e folha beta;
-- terciária: forma tridimensional de uma cadeia;
-- quaternária: união de mais de uma cadeia.
+- terciária: forma tridimensional de uma cadeia inteira;
+- quaternária: união de mais de uma cadeia formando um conjunto funcional.
 
-> 🧬 **Bio em Ação:**\
-> A hemoglobina depende de estrutura quaternária para transportar oxigênio no sangue.
+> 🧪 **Quem descobriu? Linus Pauling (1901-1994)**\
+> Químico americano que, em 1951, propôs a estrutura da **alfa-hélice** e da **folha beta** — os dois padrões mais comuns de dobra local em proteínas. Pauling chegou a essas formas não por experimento, mas por modelagem com regras químicas: mediu ângulos de ligação, distâncias entre átomos e calculou que dobras teriam estabilidade. Ganhou dois prêmios Nobel: o de Química em 1954, pelo trabalho com proteínas, e o da Paz em 1962, por sua atuação contra testes nucleares. É um dos raros casos de cientista premiado em duas categorias diferentes.
 
 ### 2.2 Por que a forma importa?
 
-A função depende da forma porque moléculas biológicas interagem por encaixe, carga e posição. Uma proteína mal dobrada pode perder função.
+A função depende da forma porque moléculas biológicas interagem por encaixe, carga e posição. Uma proteína mal dobrada pode perder função inteira, mesmo com a sequência correta. É como uma chave: se a forma está errada, a fechadura não abre, mesmo que o material da chave seja o certo.
 
 Isso explica:
 
@@ -69,32 +71,36 @@ Isso explica:
 
 ## 3. Proteínas no Corpo
 
-Proteínas executam muitas tarefas ao mesmo tempo. Elas sustentam, transportam, defendem, sinalizam e aceleram reações.
+Proteínas executam muitas tarefas ao mesmo tempo. Elas sustentam, transportam, defendem, sinalizam, aceleram reações e movimentam o corpo. Talvez nenhuma outra classe de moléculas tenha tanta diversidade de função.
 
-### 3.1 Funções principais
+### 3.1 Sete grupos de função
 
-A função depende da estrutura e do local onde a proteína atua. Uma proteína não é "boa" por si mesma; ela é adequada a uma tarefa.
+A função depende da estrutura e do local onde a proteína atua. Uma proteína não é "boa" por si mesma; ela é adequada a uma tarefa. Vale conhecer sete grupos principais:
 
-Exemplos importantes são:
-
-- colágeno: sustentação de tecidos;
-- hemoglobina: transporte de gases;
-- anticorpos: defesa imune;
-- insulina: sinalização hormonal.
+- **estrutural:** colágeno (pele, ossos, tendões), queratina (cabelo, unha);
+- **transporte:** hemoglobina (oxigênio no sangue), albumina (substâncias diversas no plasma);
+- **defesa:** anticorpos, que reconhecem invasores;
+- **catálise:** enzimas, que aceleram reações químicas (Capítulo 2);
+- **sinalização:** insulina e outros hormônios proteicos;
+- **movimento:** actina e miosina, que contraem músculos;
+- **regulação genética:** fatores de transcrição, que ligam e desligam genes.
 
 > 📊 **Em Números:**\
-> Proteínas estão entre as moléculas mais diversas do corpo em forma e função.
+> Cerca de 20% do peso seco do corpo humano é proteína — fração maior que a de qualquer outra biomolécula, exceto a água quando se considera o corpo úmido.
 
 ### 3.2 Desnaturação
 
-Desnaturação é a perda da forma tridimensional de uma proteína. Calor, pH extremo ou substâncias químicas podem causar esse processo.
+Desnaturação é a perda da forma tridimensional de uma proteína. Calor, pH extremo, metais pesados ou substâncias químicas podem causar esse processo. A sequência de aminoácidos permanece, mas a dobra se desfaz — e, com ela, a função.
 
 Pense em exemplos:
 
 - clara de ovo endurecendo ao aquecer;
 - leite coalhando em meio ácido;
-- enzimas perdendo atividade em temperatura inadequada;
+- enzimas perdendo atividade fora da temperatura corporal;
 - proteína estrutural alterando textura.
+
+> ⏸️ **Pare e Pense:**\
+> Por que uma febre muito alta pode ser perigosa para o corpo, mesmo sem haver infecção grave?
 
 ## 4. Aplicações em Saúde e Tecnologia
 
@@ -102,62 +108,64 @@ Entender proteínas ajuda a compreender alimentação, doenças, medicamentos e 
 
 ### 4.1 Nutrição e qualidade proteica
 
-Proteínas da dieta fornecem aminoácidos. Alguns aminoácidos são essenciais, pois precisam ser obtidos pela alimentação.
+Proteínas da dieta fornecem aminoácidos. Alguns aminoácidos são chamados **essenciais** porque o corpo não consegue fabricá-los — precisam ser obtidos pela alimentação. Outros são **não essenciais** porque o organismo sintetiza a partir de outros compostos.
 
 Uma alimentação adequada considera:
 
-- variedade de fontes proteicas;
-- necessidades do organismo;
-- digestão em aminoácidos;
-- reconstrução de proteínas próprias do corpo.
+- variedade de fontes proteicas (animal e vegetal);
+- presença de todos os aminoácidos essenciais;
+- digestão em aminoácidos individuais antes da absorção;
+- reconstrução de proteínas próprias do corpo a partir desses aminoácidos.
 
-> ⏸️ **Pare e Pense:**\
-> Por que comer proteína não significa incorporar aquela proteína inteira ao músculo?
+> 🧬 **Bio em Ação:**\
+> Comer proteína não significa "ganhar" aquela proteína inteira. O sistema digestório quebra cada proteína em aminoácidos; o corpo então reorganiza esses aminoácidos em proteínas próprias, segundo a informação do seu próprio DNA.
 
 ### 4.2 Proteínas como alvo de medicamentos
 
-Muitos medicamentos atuam ligando-se a proteínas. Se a forma da proteína muda, a resposta também pode mudar.
+Muitos medicamentos atuam ligando-se a proteínas específicas. Se a forma da proteína-alvo mudar, a resposta também muda — e isso explica em parte a resistência a medicamentos. Bactérias e vírus que mutam podem alterar a forma de suas proteínas e escapar da ação do remédio.
 
 Esse conhecimento permite:
 
 - desenhar fármacos mais específicos;
 - estudar enzimas de vírus e bactérias;
-- entender resistência a medicamentos;
-- relacionar estrutura molecular e tratamento.
+- entender resistência a antibióticos e antivirais;
+- relacionar estrutura molecular e tratamento médico.
 
 ---
 
 ## 🤝 Sua Parte
 
-Escolha uma proteína conhecida, como colágeno, hemoglobina, queratina ou insulina. Identifique sua função e explique por que a forma dela importa.
+Escolha uma proteína conhecida — colágeno, hemoglobina, queratina, insulina, actina ou um anticorpo. Identifique sua função, descreva a forma geral e explique por que essa forma é necessária para o que ela faz.
 
 ---
 
-## O que a Bíblia diz sobre complexidade e cuidado
+## O que a Bíblia diz sobre integridade entre forma e função
 
-As proteínas mostram organização em várias escalas: peças pequenas formam estruturas com funções precisas. A criação pode ser estudada com rigor e recebida com responsabilidade.
+Uma proteína mal dobrada perde função, mesmo com a sequência "certa" de aminoácidos. A integridade biológica é coerência entre estrutura e função: o que a proteína é precisa combinar com o que ela faz.
 
-> *"Graças te dou, visto que por modo assombrosamente maravilhoso me formaste."* — **Salmo 139:14**
+O profeta **Daniel** viveu essa lógica em outra escala. No exílio babilônico, foi pressionado a abandonar hábitos que sustentavam sua coerência interior. Recusou — não por rigidez, mas porque entendia que **o que ele praticava precisava combinar com o que ele cria** (Daniel 1; Daniel 6:10).
 
-Reconhecer complexidade biológica não substitui a ciência; aprofunda nosso senso de mordomia. O corpo deve ser tratado como vida confiada ao cuidado, não como máquina descartável.
+> *"Quem anda em integridade anda seguro."* — **Provérbios 10:9**
+
+Assim como uma proteína desnaturada perde a função, uma vida sem coerência entre o que se diz e o que se faz perde força. A bioquímica oferece uma metáfora exata para um princípio de caráter.
 
 **Olhe como você pode fazer:**
 
-- cuide da alimentação como parte do cuidado com o corpo;
-- evite simplificações sobre saúde que ignoram a complexidade biológica.
+- procure alinhar suas decisões pequenas com o que você diz acreditar;
+- entenda que pressões fortes podem "desnaturar" hábitos bons — cuide da temperatura do ambiente em que você vive.
 
 ---
 
 ## Simplificando
 
-Proteínas são cadeias de aminoácidos unidas por ligações peptídicas. A sequência define possibilidades de dobra, e a forma final influencia diretamente a função.
+Proteínas são cadeias de aminoácidos unidas por ligações peptídicas. A sequência define possibilidades de dobra, e a forma final define a função. Os quatro níveis de estrutura — primária, secundária, terciária e quaternária — explicam como a sequência vira uma máquina molecular.
 
-Elas atuam em sustentação, transporte, defesa, sinalização e catálise. Quando perdem a forma correta, podem perder função.
+Elas atuam em sustentação, transporte, defesa, sinalização, catálise, movimento e regulação genética. Quando perdem a forma correta (desnaturação), perdem função. A descoberta dos padrões de dobra, no século XX, por nomes como Linus Pauling, abriu a bioquímica moderna.
 
 ---
 
 ## Para não esquecer
 
-- **Aminoácido:** peça básica usada para formar proteínas;
-- **Estrutura proteica:** organização da proteína da sequência à forma final;
-- **Desnaturação:** perda da forma tridimensional que pode comprometer a função.
+- **Aminoácido:** peça básica usada para formar proteínas, com radical R que define propriedades químicas;
+- **Estrutura proteica:** organização da proteína em quatro níveis, da sequência à forma final;
+- **Desnaturação:** perda da forma tridimensional que pode comprometer a função, sem mudança da sequência.
