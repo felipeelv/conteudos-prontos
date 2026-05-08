@@ -190,9 +190,7 @@ Hora, minuto e segundo usam uma relação de 60 em 60: 1 h tem 60 min e 1 min te
 
 ## Para não esquecer
 
-- 1 min = 60 s;
-- 1 h = 60 min;
-- 1 dia = 24 h;
-- 1 semana = 7 dias;
-- 2 h 30 min = 2,5 h;
-- Em medidas de tempo, nem tudo segue a escala decimal.
+- 1 min = 60 s e 1 h = 60 min;
+- 1 dia = 24 h e 1 semana = 7 dias;
+- 2 h 30 min = 2,5 h (não 2,30 h);
+- Tempo não segue a escala decimal.

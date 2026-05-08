@@ -175,8 +175,6 @@ Compare as perguntas que cada segmento responde:
 - **Mediana:** o segmento chega ao ponto médio do lado oposto?
 - **Bissetriz:** o segmento divide o ângulo interno em duas partes congruentes?
 
-Quando uma dessas perguntas muda, o elemento geométrico também muda.
-
 ### 4.2 Erros comuns de marcação
 
 O erro mais comum é olhar apenas para a posição do segmento e ignorar sua função. Um segmento que "parece estar no meio" não é necessariamente mediana, e um segmento inclinado não deixa de ser altura se for perpendicular ao lado oposto ou ao prolongamento.
