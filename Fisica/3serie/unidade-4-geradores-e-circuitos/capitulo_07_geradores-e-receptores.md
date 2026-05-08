@@ -41,7 +41,7 @@ Essa fórmula mostra que o circuito externo e a resistência interna participam 
 
 Uma pilha tem:
 
-$$\varepsilon = 1{,}5\ \mathrm{V}$$
+$$\varepsilon = 1{,}5;\mathrm{V}$$
 
 $$r = 0{,}15\ \Omega$$
 
@@ -51,11 +51,11 @@ $$R = 10\ \Omega$$
 
 Então:
 
-$$I = \frac{1{,}5}{10 + 0{,}15} \approx 0{,}148\ \mathrm{A}$$
+$$I = \frac{1{,}5}{10 + 0{,}15} \approx 0{,}148;\mathrm{A}$$
 
 A tensão nos terminais é:
 
-$$U = 1{,}5 - 0{,}15 \cdot 0{,}148 \approx 1{,}48\ \mathrm{V}$$
+$$U = 1{,}5 - 0{,}15 \cdot 0{,}148 \approx 1{,}48;\mathrm{V}$$
 
 O rendimento elétrico é:
 
@@ -89,7 +89,7 @@ $$I_{curto} = \frac{\varepsilon}{r}$$
 
 Para a pilha do exemplo:
 
-$$I_{curto} = \frac{1{,}5}{0{,}15} = 10\ \mathrm{A}$$
+$$I_{curto} = \frac{1{,}5}{0{,}15} = 10;\mathrm{A}$$
 
 Esse valor é alto para uma pilha pequena e pode causar aquecimento perigoso.
 
@@ -156,11 +156,3 @@ Geradores reais têm resistência interna. Por isso, a tensão útil diminui qua
 - **Gerador real:** $$U = \varepsilon - rI$$.
 - **Curto-circuito:** corrente alta, limitada pela resistência interna.
 - **Kirchhoff:** conserva carga nos nós e energia nas malhas.
-
----
-
-## Fórmulas do capítulo
-
-- **Gerador real:** $$U = \varepsilon - rI$$.
-- **Receptor real:** $$U = \varepsilon' + r'I$$.
-- **Corrente de curto:** $$I_{curto} = \frac{\varepsilon}{r}$$.

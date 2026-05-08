@@ -177,9 +177,3 @@ Escolher energia com responsabilidade exige comparar fonte, conversão, impacto,
 - **Fonte primária:** recurso natural de onde a energia é retirada;
 - **Matriz elétrica:** conjunto das fontes usadas para gerar eletricidade;
 - **Trade-off:** escolha que tem vantagens e limites ao mesmo tempo.
-
----
-
-## Fórmulas do capítulo
-
-- **Porcentagem em forma decimal:** $$84{,}8\% = 0{,}848$$.

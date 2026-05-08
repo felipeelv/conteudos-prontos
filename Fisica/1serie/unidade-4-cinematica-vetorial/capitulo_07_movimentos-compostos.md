@@ -77,29 +77,29 @@ $$A = \frac{v_0^2 \cdot \sin(2\theta)}{g}$$
 
 Um objeto é lançado com:
 
-$$v_0 = 20\ \mathrm{m/s}$$
+$$v_0 = 20;\mathrm{m/s}$$
 
 $$\theta = 30^{\circ}$$
 
-$$g = 10\ \mathrm{m/s^2}$$
+$$g = 10;\mathrm{m/s^2}$$
 
 Componentes:
 
-$$V_{0x} = 20 \cdot \cos(30^{\circ}) \approx 17{,}3\ \mathrm{m/s}$$
+$$V_{0x} = 20 \cdot \cos(30^{\circ}) \approx 17{,}3;\mathrm{m/s}$$
 
-$$V_{0y} = 20 \cdot \sin(30^{\circ}) = 10\ \mathrm{m/s}$$
+$$V_{0y} = 20 \cdot \sin(30^{\circ}) = 10;\mathrm{m/s}$$
 
 Tempo de voo:
 
-$$T_{voo} = \frac{2 \cdot 10}{10} = 2\ \mathrm{s}$$
+$$T_{voo} = \frac{2 \cdot 10}{10} = 2;\mathrm{s}$$
 
 Altura máxima:
 
-$$H_{max} = \frac{10^2}{2 \cdot 10} = 5\ \mathrm{m}$$
+$$H_{max} = \frac{10^2}{2 \cdot 10} = 5;\mathrm{m}$$
 
 Alcance:
 
-$$A = \frac{20^2 \cdot \sin(60^{\circ})}{10} \approx 34{,}6\ \mathrm{m}$$
+$$A = \frac{20^2 \cdot \sin(60^{\circ})}{10} \approx 34{,}6;\mathrm{m}$$
 
 ---
 
@@ -148,11 +148,3 @@ Movimentos compostos podem ser estudados por componentes. No lançamento horizon
 - **Componentes ajudam a calcular:** eixo $$x$$ e eixo $$y$$ são analisados separadamente.
 - **A gravidade atua na vertical:** no modelo ideal, ela não muda a velocidade horizontal.
 - **Modelo tem limite:** resistência do ar e técnica podem mudar o resultado real.
-
----
-
-## Fórmulas do capítulo
-
-- **Tempo de queda:** $$t_{queda} = \sqrt{\frac{2h}{g}}$$.
-- **Componentes da velocidade:** $$V_{0x} = v_0 \cdot \cos(\theta)$$ e $$V_{0y} = v_0 \cdot \sin(\theta)$$.
-- **Alcance oblíquo:** $$A = \frac{v_0^2 \cdot \sin(2\theta)}{g}$$.

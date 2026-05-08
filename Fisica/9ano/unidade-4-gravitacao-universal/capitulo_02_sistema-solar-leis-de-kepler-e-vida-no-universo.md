@@ -28,9 +28,9 @@ Duas delas são:
 
 Podemos registrar assim:
 
-$$1\ \mathrm{UA} \approx 1{,}5 \cdot 10^{11}\ \mathrm{m}$$
+$$1;\mathrm{UA} \approx 1{,}5 \cdot 10^{11};\mathrm{m}$$
 
-$$D_{ano-luz} \approx 9{,}5 \cdot 10^{15}\ \mathrm{m}$$
+$$D_{ano-luz} \approx 9{,}5 \cdot 10^{15};\mathrm{m}$$
 
 ---
 
@@ -65,7 +65,7 @@ Nessa expressão:
 
 Para Marte, a distância média é cerca de:
 
-$$R = 1{,}52\ \mathrm{UA}$$
+$$R = 1{,}52;\mathrm{UA}$$
 
 Pela terceira lei:
 
@@ -73,7 +73,7 @@ $$T^2 = 1{,}52^3 \approx 3{,}51$$
 
 Logo:
 
-$$T \approx 1{,}88\ \mathrm{anos}$$
+$$T \approx 1{,}88;\mathrm{anos}$$
 
 Marte demora quase dois anos terrestres para completar uma volta ao redor do Sol.
 
@@ -136,11 +136,3 @@ O Sistema Solar é organizado pela gravidade. As leis de Kepler descrevem como p
 - **Kepler descreveu regularidades:** órbitas, áreas e períodos.
 - **Terceira lei:** em unidades adequadas, $$T^2 = R^3$$.
 - **Vida no Universo:** possibilidade não é a mesma coisa que confirmação.
-
----
-
-## Fórmulas do capítulo
-
-- **Terceira lei de Kepler:** $$T^2 = R^3$$.
-- **Unidade astronômica:** $$1\ \mathrm{UA} \approx 1{,}5 \cdot 10^{11}\ \mathrm{m}$$.
-- **Ano-luz:** $$D_{ano-luz} \approx 9{,}5 \cdot 10^{15}\ \mathrm{m}$$.

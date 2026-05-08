@@ -70,37 +70,17 @@ $$\Delta U = Q - W$$
 
 Se o sistema recebe calor e realiza trabalho, parte da energia pode aumentar a energia interna e parte pode sair como trabalho.
 
-📝 **Exemplo 1:**
+📝 **Exemplo:**
 
-Um gás recebe:
+Um gás recebe $$Q = 800\;\mathrm{J}$$ e realiza $$W = 500\;\mathrm{J}$$.
 
-$$Q = 800\ \mathrm{J}$$
+$$\Delta U = Q - W$$
 
-e realiza:
+$$\Delta U = 800 - 500$$
 
-$$W = 500\ \mathrm{J}$$
+$$\Delta U = 300\;\mathrm{J}$$
 
-Então:
-
-$$\Delta U = 800 - 500 = 300\ \mathrm{J}$$
-
-A energia interna aumenta.
-
-📝 **Exemplo 2:**
-
-Um gás é comprimido, com:
-
-$$W = -200\ \mathrm{J}$$
-
-e perde calor:
-
-$$Q = -100\ \mathrm{J}$$
-
-Então:
-
-$$\Delta U = -100 - (-200) = 100\ \mathrm{J}$$
-
-Mesmo perdendo calor, a compressão aumentou a energia interna.
+A energia interna aumenta. Repare nos sinais: em uma compressão ($$W < 0$$) com perda de calor ($$Q < 0$$), os efeitos se combinam — perder calor reduz a energia interna, mas comprimir aumenta.
 
 ---
 
@@ -149,11 +129,3 @@ A primeira lei da Termodinâmica relaciona calor, trabalho e energia interna. El
 - **Calor e trabalho são transferências de energia.**
 - **Primeira lei:** $$\Delta U = Q - W$$.
 - **Em ciclo completo:** $$\Delta U_{ciclo} = 0$$.
-
----
-
-## Fórmulas do capítulo
-
-- **Trabalho a pressão constante:** $$W = P \cdot \Delta V$$.
-- **Energia interna de gás ideal monoatômico:** $$U = \frac{3}{2}nRT$$.
-- **Primeira lei:** $$\Delta U = Q - W$$.

@@ -32,15 +32,15 @@ Esse equilíbrio mantém o Sol estável na fase chamada sequência principal.
 
 O Sol tem cerca de:
 
-$$T_{Sol,atual} \approx 4{,}6 \cdot 10^9\ \mathrm{anos}$$
+$$T_{Sol,atual} \approx 4{,}6 \cdot 10^9;\mathrm{anos}$$
 
 Sua vida total na sequência principal é estimada em:
 
-$$T_{Sol,total} \approx 10 \cdot 10^9\ \mathrm{anos}$$
+$$T_{Sol,total} \approx 10 \cdot 10^9;\mathrm{anos}$$
 
 Isso deixa aproximadamente:
 
-$$T_{Sol,restante} \approx 5 \cdot 10^9\ \mathrm{anos}$$
+$$T_{Sol,restante} \approx 5 \cdot 10^9;\mathrm{anos}$$
 
 Esses valores não são usados para assustar. Eles ajudam a entender escalas de tempo astronômicas.
 
@@ -112,11 +112,3 @@ O Sol é uma estrela em equilíbrio. Ele está na sequência principal, tem cerc
 - **O Sol produz energia por fusão nuclear.**
 - **A massa define o destino de uma estrela.**
 - **O Sol não deve virar buraco negro; seu destino esperado é anã branca.**
-
----
-
-## Fórmulas do capítulo
-
-- **Idade atual do Sol:** $$T_{Sol,atual} \approx 4{,}6 \cdot 10^9\ \mathrm{anos}$$.
-- **Vida total aproximada:** $$T_{Sol,total} \approx 10 \cdot 10^9\ \mathrm{anos}$$.
-- **Limite de Chandrasekhar:** $$M_{Chandrasekhar} \approx 1{,}4 \cdot M_{Sol}$$.

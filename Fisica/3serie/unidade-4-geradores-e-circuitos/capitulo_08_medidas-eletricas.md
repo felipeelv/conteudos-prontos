@@ -55,7 +55,7 @@ $$I_{curto} = \frac{\varepsilon}{r}$$
 
 Para uma pilha com:
 
-$$\varepsilon = 1{,}5\ \mathrm{V}$$
+$$\varepsilon = 1{,}5;\mathrm{V}$$
 
 e:
 
@@ -63,7 +63,7 @@ $$r = 0{,}15\ \Omega$$
 
 temos:
 
-$$I_{curto} = \frac{1{,}5}{0{,}15} = 10\ \mathrm{A}$$
+$$I_{curto} = \frac{1{,}5}{0{,}15} = 10;\mathrm{A}$$
 
 Isso explica por que curto-circuito pode aquecer fios e danificar componentes.
 
@@ -83,7 +83,7 @@ $$I_{choque} = \frac{V}{R_{corpo}}$$
 
 Se:
 
-$$V = 127\ \mathrm{V}$$
+$$V = 127;\mathrm{V}$$
 
 e:
 
@@ -91,7 +91,7 @@ $$R_{corpo} = 1000\ \Omega$$
 
 então:
 
-$$I_{choque} = \frac{127}{1000} = 0{,}127\ \mathrm{A} = 127\ \mathrm{mA}$$
+$$I_{choque} = \frac{127}{1000} = 0{,}127;\mathrm{A} = 127;\mathrm{mA}$$
 
 Esse valor é maior que 30 mA, corrente de referência para dispositivos DR residenciais. Por isso, instalações molhadas exigem atenção especial.
 
@@ -128,11 +128,3 @@ Amperímetro mede corrente e deve ser ligado em série. Voltímetro mede tensão
 - **Amperímetro:** série e resistência ideal quase zero.
 - **Voltímetro:** paralelo e resistência ideal muito alta.
 - **Segurança:** corrente alta pode aquecer, danificar e ferir.
-
----
-
-## Fórmulas do capítulo
-
-- **Amperímetro ideal:** $$R_A \rightarrow 0$$.
-- **Voltímetro ideal:** $$R_V \rightarrow \infty$$.
-- **Corrente de choque:** $$I_{choque} = \frac{V}{R_{corpo}}$$.

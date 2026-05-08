@@ -39,15 +39,15 @@ $$\eta = 1 - \frac{Q_f}{Q_q}$$
 
 Uma máquina recebe:
 
-$$Q_q = 2000\ \mathrm{J}$$
+$$Q_q = 2000;\mathrm{J}$$
 
 e rejeita:
 
-$$Q_f = 1400\ \mathrm{J}$$
+$$Q_f = 1400;\mathrm{J}$$
 
 O trabalho é:
 
-$$W = 2000 - 1400 = 600\ \mathrm{J}$$
+$$W = 2000 - 1400 = 600;\mathrm{J}$$
 
 O rendimento é:
 
@@ -69,11 +69,11 @@ As temperaturas devem estar em kelvin.
 
 Com:
 
-$$T_q = 600\ \mathrm{K}$$
+$$T_q = 600;\mathrm{K}$$
 
 e:
 
-$$T_f = 300\ \mathrm{K}$$
+$$T_f = 300;\mathrm{K}$$
 
 temos:
 
@@ -95,7 +95,7 @@ $$S = k \cdot \ln(W)$$
 
 com:
 
-$$k = 1{,}38 \cdot 10^{-23}\ \mathrm{J/K}$$
+$$k = 1{,}38 \cdot 10^{-23};\mathrm{J/K}$$
 
 Refrigeradores e aparelhos de ar-condicionado não violam a segunda lei. Eles usam trabalho para retirar calor de uma região fria e jogar para uma região mais quente.
 
@@ -136,11 +136,3 @@ Máquinas térmicas transformam parte do calor recebido em trabalho. Nenhuma má
 - **Rendimento:** fração do calor recebido que vira trabalho.
 - **Carnot:** define o limite ideal entre duas temperaturas.
 - **Segunda lei:** processos reais têm direção e perdas.
-
----
-
-## Fórmulas do capítulo
-
-- **Rendimento:** $$\eta = \frac{W}{Q_q}$$ e $$\eta = 1 - \frac{Q_f}{Q_q}$$.
-- **Carnot:** $$\eta_{Carnot} = 1 - \frac{T_f}{T_q}$$.
-- **Entropia:** $$S = k \cdot \ln(W)$$ e $$\Delta S \geq 0$$.
