@@ -134,14 +134,13 @@ Monte um quadro 4×4 para AaBb × AaBb. Depois marque com cores os grupos 9, 3, 
 
 Contar gametas, preencher quadros e registrar resultados exige paciência. A ciência avança quando alguém faz o trabalho pequeno com fidelidade.
 
-> *"Quem é fiel no pouco também é fiel no muito."* — **Lucas 16:10**
+> "Quem é fiel no pouco também é fiel no muito."
+> — Lucas 16:10
 
 Castle ajudou a testar leis de Mendel em mamíferos com método e persistência. A integridade aparece quando você não força o resultado, mas confere antes de afirmar.
 
-**Olhe como você pode fazer:**
-
-- revise o quadro antes de concluir a proporção;
-- reconheça quando um modelo tem limite e não serve para todos os casos.
+**Na prática:** revise o quadro antes de concluir a proporção e reconheça quando um modelo tem limite.
+**💬 Para Conversar:** Onde, no seu estudo, você tende a "forçar a conclusão" em vez de conferir os passos?
 
 ---
 

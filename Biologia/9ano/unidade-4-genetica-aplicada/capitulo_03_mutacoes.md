@@ -2,7 +2,7 @@
 
 ## Se uma mutação muda o DNA, por que nem toda mutação causa doença?
 
-Quando ouvimos a palavra mutação, é comum imaginar algo sempre perigoso. Mas mutação significa mudança no DNA, e seus efeitos variam muito. Algumas são silenciosas, outras alteram proteínas, e algumas podem contribuir para doenças. Para entender o tema, é preciso separar medo, mecanismo e consequência.
+Mutação significa mudança no DNA, e seus efeitos variam muito — algumas são silenciosas, outras alteram proteínas, algumas podem contribuir para doenças. Para entender o tema, é preciso separar medo, mecanismo e consequência.
 
 > 💭 **Pense um pouco:**\
 > Toda mudança em uma instrução muda obrigatoriamente o resultado final?
@@ -17,7 +17,7 @@ Mutação é uma alteração na sequência do DNA. Ela pode surgir por erro de c
 
 O DNA é escrito com bases nitrogenadas. Se uma base é trocada, perdida ou inserida, a informação pode mudar.
 
-Três situações simples ajudam:
+As principais situações são:
 
 - substituição: uma base entra no lugar de outra;
 - inserção: uma base extra aparece;
@@ -48,7 +48,6 @@ Antes de uma célula se dividir, o DNA precisa ser copiado. Mesmo com mecanismos
 
 Isso acontece porque:
 
-- moléculas biológicas não são copiadas por "mágica";
 - enzimas podem errar;
 - sistemas de reparo reduzem, mas não zeram, os erros;
 - algumas mudanças só aparecem depois de várias divisões.
@@ -137,14 +136,13 @@ Escolha uma notícia sobre teste genético ou mutação e identifique se o texto
 
 O DNA mostra que a vida tem organização delicada. Cuidar do corpo e falar de outras pessoas com respeito é parte da mordomia da criação.
 
-> *"O prudente vê o perigo e busca refúgio."* — **Provérbios 22:3**
+> "O prudente vê o perigo e busca refúgio."
+> — Provérbios 22:3
 
-Conhecer mutações não deve gerar medo, mas responsabilidade. Saber que alterações podem ocorrer nos chama a prevenção, prudência e respeito pela dignidade de cada pessoa.
+Conhecer mutações não deve gerar medo, mas responsabilidade — alterações podem ocorrer e nos chamam à prevenção, prudência e respeito pela dignidade de cada pessoa.
 
-**Olhe como você pode fazer:**
-
-- evite espalhar informações genéticas sem entender o contexto;
-- cuide do corpo com hábitos que reduzem riscos evitáveis.
+**Na prática:** cuide do corpo com hábitos que reduzem riscos evitáveis e evite espalhar informações genéticas sem entender o contexto.
+**💬 Para Conversar:** Por que medo e responsabilidade são respostas diferentes à mesma informação genética?
 
 ---
 

@@ -36,8 +36,7 @@ Algumas pistas comuns são:
 
 - dominante: costuma aparecer em todas as gerações;
 - recessiva: pode pular gerações;
-- ligada ao X: pode afetar mais homens;
-- autossômica: envolve cromossomos que não são sexuais.
+- ligada ao X: pode afetar mais homens.
 
 ## 2. Sangue Também Tem Genética
 
@@ -63,8 +62,7 @@ O fator Rh indica a presença ou ausência de uma proteína nas hemácias. Em n�
 
 Na gestação, isso exige cuidado quando:
 
-- a mãe é Rh-;
-- o bebê é Rh+;
+- a mãe é Rh- e o bebê é Rh+;
 - há sensibilização do organismo materno;
 - uma gestação posterior pode ter risco de eritroblastose fetal.
 
@@ -94,8 +92,7 @@ No heredograma, observe:
 
 - homens afetados em diferentes gerações;
 - mães não afetadas com filhos afetados;
-- ausência de transmissão direta pai-filho homem;
-- necessidade de não transformar a leitura em julgamento familiar.
+- ausência de transmissão direta pai-filho homem.
 
 ## 4. Outras Condições Genéticas
 
@@ -109,8 +106,7 @@ O padrão envolve:
 
 - pais não afetados que podem ser heterozigotos;
 - característica que pode pular gerações;
-- mesma chance para homens e mulheres;
-- necessidade de linguagem respeitosa.
+- mesma chance para homens e mulheres.
 
 > 🧬 **Bio em Ação:**\
 > Uma pessoa não é "um caso genético"; ela é uma vida humana com história, corpo, relações e dignidade.
@@ -133,14 +129,13 @@ Desenhe um heredograma simples com três gerações e uma característica fictí
 
 Estudar genética humana exige cuidado porque estamos falando de pessoas. A verdade científica e a dignidade humana devem caminhar juntas.
 
-> *"Quem anda em integridade anda seguro."* — **Provérbios 10:9**
+> "Quem anda em integridade anda seguro."
+> — Provérbios 10:9
 
-Dar crédito correto, usar palavras respeitosas e não transformar condições genéticas em rótulos são formas de praticar integridade. A criação de Deus não autoriza desprezo; chama ao cuidado.
+Dar crédito correto, usar palavras respeitosas e não transformar condições genéticas em rótulos são formas de praticar integridade. A criação de Deus chama ao cuidado, não ao desprezo.
 
-**Olhe como você pode fazer:**
-
-- use expressões como "pessoa com síndrome de Down", não rótulos reducionistas;
-- reconheça o trabalho de quem produziu conhecimento, como Marthe Gautier.
+**Na prática:** use expressões como "pessoa com síndrome de Down", não rótulos reducionistas, e reconheça quem produziu conhecimento (como Marthe Gautier).
+**💬 Para Conversar:** Quando uma palavra reduz alguém a uma condição, o que ela esconde sobre essa pessoa?
 
 ---
 
