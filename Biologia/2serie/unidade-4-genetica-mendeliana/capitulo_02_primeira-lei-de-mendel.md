@@ -93,8 +93,7 @@ Por isso:
 
 - 3 combinações mostram fenótipo dominante;
 - 1 combinação mostra fenótipo recessivo;
-- a proporção fenotípica é 3:1;
-- a proporção é uma previsão estatística.
+- a proporção fenotípica 3:1 é previsão estatística, não certeza individual.
 
 ## 4. Genética em Situações Reais
 
@@ -137,14 +136,13 @@ Monte o cruzamento Aa × Aa e escreva separadamente a proporção genotípica e 
 
 Mendel contou muitos descendentes antes de propor uma regra. A busca pela verdade exige paciência, registro e humildade.
 
-> *"O simples dá crédito a toda palavra, mas o prudente atenta para os seus passos."* — **Provérbios 14:15**
+> "O simples dá crédito a toda palavra, mas o prudente atenta para os seus passos."
+> — Provérbios 14:15
 
 Na ciência e na vida, integridade aparece quando verificamos antes de afirmar. A criação pode ser investigada com método e reverência.
 
-**Olhe como você pode fazer:**
-
-- confira os gametas antes de preencher o quadro;
-- diferencie previsão estatística de certeza individual.
+**Na prática:** confira os gametas antes de preencher o quadro e diferencie previsão estatística de certeza individual.
+**💬 Para Conversar:** Onde, no seu estudo, "achismo" tem ocupado o lugar do passo verificado?
 
 ---
 

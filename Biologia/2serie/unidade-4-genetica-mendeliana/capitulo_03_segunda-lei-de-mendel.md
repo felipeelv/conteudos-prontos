@@ -21,8 +21,7 @@ Leia o genótipo assim:
 
 - A ou a entra no gameta;
 - B ou b entra no gameta;
-- cada gameta recebe um alelo de cada par;
-- a combinação final depende da segregação dos dois pares.
+- cada gameta recebe um alelo de cada par.
 
 > 💡 **Você sabia?**\
 > Mendel estudou pares de características em ervilhas, como cor e forma da semente.
@@ -137,14 +136,13 @@ Liste os gametas de AaBb e explique por que AB, Ab, aB e ab têm um alelo de cad
 
 A genética mostra diversidade organizada, não confusão sem padrão. Combinações diferentes podem surgir dentro de regras biológicas claras.
 
-> *"Tu formaste o íntimo do meu ser e me teceste no ventre de minha mãe."* — **Salmo 139:13**
+> "Tu formaste o íntimo do meu ser e me teceste no ventre de minha mãe."
+> — Salmo 139:13
 
-Estudar combinações genéticas deve aumentar o respeito pela vida. A mordomia da criação inclui reconhecer diversidade sem transformar diferença em hierarquia de valor.
+Estudar combinações genéticas deve aumentar o respeito pela vida — diversidade não é hierarquia de valor, e modelos genéticos exigem precisão e humildade.
 
-**Olhe como você pode fazer:**
-
-- trate diferenças familiares como parte da diversidade da vida;
-- use modelos genéticos com precisão e humildade.
+**Na prática:** trate diferenças familiares como parte da diversidade da vida e use modelos genéticos sem transformar variação em comparação.
+**💬 Para Conversar:** Quando "ser diferente" no seu meio vira motivo de comparação, o que costuma estar por trás disso?
 
 ---
 

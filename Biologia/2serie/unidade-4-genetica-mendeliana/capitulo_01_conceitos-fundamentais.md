@@ -2,7 +2,7 @@
 
 ## Como uma característica passa de geração em geração sem copiar os pais exatamente?
 
-Irmãos podem se parecer muito e, ao mesmo tempo, ter diferenças marcantes. A genética explica isso pela transmissão de genes, alelos e cromossomos, mas também pela combinação entre herança e ambiente. Antes de resolver cruzamentos, é preciso dominar a linguagem básica. Sem essa base, genótipo, fenótipo e dominância viram palavras soltas.
+Irmãos podem se parecer muito e ainda ter diferenças marcantes. A genética explica isso pela transmissão de genes, alelos e cromossomos — mas, antes dos cruzamentos, é preciso dominar a linguagem básica.
 
 > 💭 **Pense um pouco:**\
 > Por que dois irmãos podem receber genes dos mesmos pais e ainda assim não serem iguais?
@@ -17,7 +17,7 @@ Genética começa com a ideia de informação hereditária. Essa informação es
 
 Gene é um segmento de DNA associado a uma característica ou produto funcional. Ele ocupa uma posição chamada lócus.
 
-Três termos estruturam a leitura:
+Os termos básicos são:
 
 - DNA: molécula que armazena informação genética;
 - cromossomo: estrutura que organiza o DNA;
@@ -50,8 +50,7 @@ Leia os exemplos:
 
 - AA: homozigoto dominante;
 - Aa: heterozigoto;
-- aa: homozigoto recessivo;
-- Aa e AA podem ter o mesmo fenótipo em dominância completa.
+- aa: homozigoto recessivo.
 
 > ⏸️ **Pare e Pense:**\
 > Se AA e Aa podem parecer iguais, por que a genética precisa distinguir os dois?
@@ -62,10 +61,8 @@ Fenótipo é aquilo que se observa, mede ou detecta. Ele pode envolver aparênci
 
 O fenótipo depende de:
 
-- genótipo;
-- ambiente;
-- desenvolvimento;
-- interação entre genes;
+- genótipo e interação entre genes;
+- ambiente e desenvolvimento;
 - condições de saúde e nutrição.
 
 ## 3. Dominância, Recessividade e Probabilidade
@@ -78,10 +75,9 @@ Um alelo dominante pode ser raro na população. Um alelo recessivo pode ser com
 
 Evite confusões:
 
-- dominante não significa melhor;
-- recessivo não significa fraco;
-- dominante não significa mais frequente;
-- recessivo não significa menos importante.
+- dominante não significa melhor nem mais frequente;
+- recessivo não significa fraco nem menos importante;
+- dominância é apenas uma relação entre alelos.
 
 > 🧬 **Bio em Ação:**\
 > Algumas características dominantes são raras; algumas recessivas são comuns em certas populações.
@@ -123,8 +119,7 @@ Antes de avançar, garanta:
 
 - saber ler letras genéticas;
 - distinguir genótipo e fenótipo;
-- entender dominância completa;
-- interpretar probabilidade como previsão.
+- interpretar probabilidade como previsão, não certeza.
 
 ---
 
@@ -138,14 +133,13 @@ Pegue três genótipos simples, como AA, Aa e aa, e escreva o que cada um indica
 
 A genética ajuda a entender características herdadas, mas não define o valor completo de uma pessoa. A dignidade humana vem antes de qualquer classificação biológica.
 
-> *"Criou Deus o homem à sua imagem."* — **Gênesis 1:27**
+> "Criou Deus o homem à sua imagem."
+> — Gênesis 1:27
 
 Estudar hereditariedade com responsabilidade é parte da mordomia da criação. Conhecimento deve gerar cuidado, não comparação cruel.
 
-**Olhe como você pode fazer:**
-
-- use a genética para compreender, não para rotular;
-- trate diferenças biológicas com respeito e precisão.
+**Na prática:** use a genética para compreender, não para rotular, e trate diferenças biológicas com respeito e precisão.
+**💬 Para Conversar:** Onde você já viu uma diferença biológica virar critério de valor entre pessoas — e o que isso esconde?
 
 ---
 
