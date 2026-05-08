@@ -17,12 +17,11 @@ Epigenética envolve marcas e mecanismos que modificam a expressão de genes sem
 
 A sequência de bases continua a mesma, mas o acesso à informação pode mudar. Isso afeta a transcrição.
 
-Três ideias organizam o conceito:
+Ideias-chave:
 
 - epigenética não troca A, T, C ou G;
 - marcas químicas podem favorecer ou reduzir expressão;
-- algumas marcas podem persistir durante divisões celulares;
-- contexto celular importa.
+- algumas marcas podem persistir durante divisões celulares.
 
 > 💡 **Você sabia?**\
 > Conrad Waddington ajudou a consolidar a ideia de epigenética ao pensar desenvolvimento como trajetória celular.
@@ -138,14 +137,13 @@ Escolha uma afirmação popular sobre epigenética e reescreva em linguagem cien
 
 A epigenética lembra que a vida tem camadas de regulação. Nem tudo é simples, e reconhecer limites é parte da sabedoria.
 
-> *"O coração do prudente adquire conhecimento, e o ouvido dos sábios procura o saber."* — **Provérbios 18:15**
+> "O coração do prudente adquire conhecimento, e o ouvido dos sábios procura o saber."
+> — Provérbios 18:15
 
 Integridade intelectual exige não vender certeza onde há hipótese. Cuidar da criação inclui estudar com rigor e comunicar sem exagero.
 
-**Olhe como você pode fazer:**
-
-- desconfie de promessas fáceis sobre genes e comportamento;
-- valorize evidência antes de compartilhar explicações biológicas.
+**Na prática:** desconfie de promessas fáceis sobre genes e comportamento, e valorize evidência antes de compartilhar explicações biológicas.
+**💬 Para Conversar:** Quando uma frase científica vira "verdade absoluta" no Instagram, o que costuma estar sendo escondido?
 
 ---
 

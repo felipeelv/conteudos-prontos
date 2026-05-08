@@ -2,7 +2,7 @@
 
 ## Como uma alteração pequena no DNA pode ser neutra, causar doença ou alimentar a variabilidade de uma população?
 
-Uma mutação pode trocar uma base, remover um trecho ou alterar um cromossomo inteiro. O efeito não depende apenas do tamanho da mudança, mas do local, do tipo celular e do contexto. Algumas mutações são corrigidas; outras persistem. Algumas têm impacto funcional; outras passam quase despercebidas. Entender mutação exige separar mecanismo, consequência e interpretação evolutiva.
+Uma mutação pode trocar uma base, remover um trecho ou alterar um cromossomo inteiro. O efeito depende não só do tamanho da mudança, mas do local, do tipo celular e do contexto — algumas são corrigidas, outras persistem; algumas têm impacto funcional, outras passam quase despercebidas. Entender mutação exige separar mecanismo, consequência e interpretação evolutiva.
 
 > 💭 **Pense um pouco:**\
 > Por que a mesma palavra, mutação, pode aparecer em câncer, hereditariedade e evolução?
@@ -139,14 +139,13 @@ Pegue uma mutação hipotética e classifique: pontual ou cromossômica, somáti
 
 Mutações mostram que a realidade biológica nem sempre confirma explicações simples. Integridade científica aceita dados mesmo quando eles corrigem expectativas.
 
-> *"Compra a verdade e não a vendas."* — **Provérbios 23:23**
+> "Compra a verdade e não a vendas."
+> — Provérbios 23:23
 
 Kimura valorizou dados moleculares que exigiam nova interpretação. A mordomia intelectual inclui amar a verdade mais do que a explicação confortável.
 
-**Olhe como você pode fazer:**
-
-- não transforme uma variante genética em sentença sobre uma pessoa;
-- aceite revisar uma explicação quando os dados forem mais fortes.
+**Na prática:** não transforme uma variante genética em sentença sobre alguém, e aceite revisar uma explicação quando os dados forem mais fortes.
+**💬 Para Conversar:** Quando "ele tem o gene X" começa a virar profecia, o que estamos esquecendo sobre a vida de uma pessoa?
 
 ---
 

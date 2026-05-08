@@ -143,14 +143,13 @@ Ordene as etapas da PCR: anelamento, extensão e desnaturação. Depois explique
 
 Em PCR, um detalhe pequeno pode comprometer todo o resultado. Integridade aparece antes da conclusão, em cada etapa invisível do método.
 
-> *"Quem é fiel no pouco também é fiel no muito."* — **Lucas 16:10**
+> "Quem é fiel no pouco também é fiel no muito."
+> — Lucas 16:10
 
 A biotecnologia só serve ao bem quando é conduzida com verdade, cuidado e responsabilidade. A mordomia da criação inclui usar técnica sem manipular dados nem pessoas.
 
-**Olhe como você pode fazer:**
-
-- valorize método, não apenas resultado final;
-- trate dados genéticos como informações sensíveis sobre vidas reais.
+**Na prática:** valorize método, não apenas resultado final, e trate dados genéticos como informações sensíveis sobre vidas reais.
+**💬 Para Conversar:** Onde, no seu dia a dia digital, você decide guardar (ou compartilhar) informações sensíveis sobre outras pessoas?
 
 ---
 

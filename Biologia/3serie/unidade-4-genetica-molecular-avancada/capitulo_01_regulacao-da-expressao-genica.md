@@ -2,7 +2,7 @@
 
 ## Se todas as células do corpo têm o mesmo DNA, por que uma célula do fígado não se comporta como um neurônio?
 
-Uma célula muscular e um neurônio carregam praticamente o mesmo genoma, mas vivem rotinas muito diferentes. A diferença não está apenas no que possuem, e sim no que expressam. Genes podem ser ativados, reduzidos, silenciados ou combinados em diferentes níveis. A regulação da expressão gênica explica como a mesma biblioteca molecular pode gerar células especializadas.
+Uma célula muscular e um neurônio carregam praticamente o mesmo genoma, mas vivem rotinas diferentes — a diferença não está no que possuem, e sim no que expressam. A regulação da expressão gênica explica como a mesma biblioteca molecular pode gerar células especializadas.
 
 > 💭 **Pense um pouco:**\
 > O que aconteceria se uma célula expressasse todos os genes ao mesmo tempo?
@@ -17,7 +17,7 @@ Expressão gênica é o processo pelo qual a informação de um gene é usada pa
 
 O genoma funciona como uma biblioteca, mas a célula não lê todos os livros ao mesmo tempo. Ela seleciona quais genes serão usados conforme tipo celular, fase do desenvolvimento e sinais recebidos.
 
-Três distinções são centrais:
+Distinções centrais:
 
 - gene presente não significa gene ativo;
 - transcrição é produção de RNA a partir do DNA;
@@ -139,14 +139,13 @@ Desenhe um fluxo simples: DNA → RNA → proteína. Depois marque em quais pont
 
 A célula não expressa tudo ao mesmo tempo; ela responde com critério ao contexto. Integridade também envolve coerência em ambientes diferentes.
 
-> *"Quem anda em integridade anda seguro."* — **Provérbios 10:9**
+> "Quem anda em integridade anda seguro."
+> — Provérbios 10:9
 
-Daniel viveu em outro ambiente cultural sem perder sua identidade. A regulação celular não é metáfora perfeita, mas lembra que resposta ao contexto não precisa significar perda de propósito.
+Daniel viveu em outro ambiente cultural sem perder sua identidade. A regulação celular não é metáfora perfeita, mas lembra que resposta ao contexto não significa perda de propósito.
 
-**Olhe como você pode fazer:**
-
-- escolha com critério o que você expressa em cada ambiente;
-- avalie informações moleculares sem tirar conclusões apressadas.
+**Na prática:** escolha com critério o que você expressa em cada ambiente, e avalie informações moleculares sem tirar conclusões apressadas.
+**💬 Para Conversar:** Onde adaptar-se ao contexto vira desonestidade — e onde vira maturidade?
 
 ---
 
