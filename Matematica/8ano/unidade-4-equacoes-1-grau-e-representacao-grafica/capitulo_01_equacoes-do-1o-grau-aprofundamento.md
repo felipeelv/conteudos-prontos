@@ -105,7 +105,7 @@ $$3 \cdot x - 3 \cdot 4 = 12$$
 
 $$3x - 12 = 12$$
 
-- **Passo 2:** Somar 12 dos dois lados.
+- **Passo 2:** Somar 12 aos dois lados.
 
 $$3x = 24$$
 

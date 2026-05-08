@@ -41,7 +41,7 @@ A função $$f(x) = 5x$$ é linear ($$b = 0$$) — passa pela origem.
 
 A função $$f(x) = 5x + 3$$ é afim, mas não linear ($$b = 3 \neq 0$$) — não passa pela origem.
 
-Toda função linear é afim, mas a recíproca não vale. Linhares pela origem; afins gerais cruzam o eixo $$y$$ em $$(0, b)$$.
+Toda função linear é afim, mas a recíproca não vale. Lineares passam pela origem; afins gerais cruzam o eixo $$y$$ em $$(0, b)$$.
 
 > 🔢 **Padrão:**  
 > Linear é o caso particular da afim com $$b = 0$$ (passa pela origem).
