@@ -139,18 +139,15 @@ Escolha uma proteína conhecida — colágeno, hemoglobina, queratina, insulina,
 
 ## O que a Bíblia diz sobre integridade entre forma e função
 
-Uma proteína mal dobrada perde função, mesmo com a sequência "certa" de aminoácidos. A integridade biológica é coerência entre estrutura e função: o que a proteína é precisa combinar com o que ela faz.
+Uma proteína mal dobrada perde função, mesmo com a sequência "certa". A integridade da vida também é coerência — o que se pratica precisa combinar com o que se crê.
 
-O profeta **Daniel** viveu essa lógica em outra escala. No exílio babilônico, foi pressionado a abandonar hábitos que sustentavam sua coerência interior. Recusou — não por rigidez, mas porque entendia que **o que ele praticava precisava combinar com o que ele cria** (Daniel 1; Daniel 6:10).
+> "Quem anda em integridade anda seguro, mas quem segue veredas tortuosas será descoberto."
+> — Provérbios 10:9
 
-> *"Quem anda em integridade anda seguro."* — **Provérbios 10:9**
+Daniel, no exílio babilônico, recusou abandonar hábitos que sustentavam sua coerência interior — não por rigidez, mas por fidelidade entre prática e fé (Daniel 1).
 
-Assim como uma proteína desnaturada perde função, uma vida sem coerência entre o que se diz e o que se faz perde força.
-
-**Olhe como você pode fazer:**
-
-- procure alinhar suas decisões pequenas com o que você diz acreditar;
-- entenda que pressões fortes podem "desnaturar" hábitos bons — cuide da temperatura do ambiente em que você vive.
+**Na prática:** alinhe suas decisões pequenas com aquilo que você diz acreditar — pressões fortes desnaturam hábitos bons.
+**💬 Para Conversar:** Em que ponto da sua semana você sente mais pressão para agir diferente do que valoriza?
 
 ---
 
@@ -164,6 +161,6 @@ Elas atuam em sustentação, transporte, defesa, sinalização, catálise, movim
 
 ## Para não esquecer
 
-- **Aminoácido:** peça básica usada para formar proteínas, com radical R que define propriedades químicas;
-- **Estrutura proteica:** organização da proteína em quatro níveis, da sequência à forma final;
-- **Desnaturação:** perda da forma tridimensional que pode comprometer a função, sem mudança da sequência.
+- **Aminoácido:** peça básica da proteína; o radical R define propriedades químicas;
+- **Estrutura:** quatro níveis (primária → quaternária); função depende da forma;
+- **Desnaturação:** perda da forma sem mudança de sequência — perda de função.
