@@ -134,15 +134,13 @@ Compare Redi e Pasteur. Para cada um, escreva: qual variável ele controlou no e
 
 Pasteur não venceu o debate por gritar mais alto. Venceu porque seu **experimento foi mais honesto** — controlou as variáveis, expôs os resultados, deixou a evidência falar por si. Integridade científica é exatamente isso: aceitar correção quando a evidência fica mais clara, mesmo que custe rever ideias antigas.
 
-> *"E conhecereis a verdade, e a verdade vos libertará."* — **João 8:32**
+> "E conhecereis a verdade, e a verdade vos libertará."
+> — João 8:32
 
-**Daniel**, na corte da Babilônia, foi convocado a interpretar sonhos diante de reis. Em Daniel 2:30, ele recusa o crédito por si mesmo: *"este mistério não me foi revelado por sabedoria que haja em mim mais do que em qualquer outro vivente"*. É honestidade epistemológica — não inflar o que se sabe, não esconder o que não se sabe. A mesma postura que move um experimento bem desenhado.
+Daniel, na corte da Babilônia, recusou crédito por si mesmo ao interpretar sonhos: *"este mistério não me foi revelado por sabedoria que haja em mim mais do que em qualquer outro vivente"* (Daniel 2:30). É honestidade epistemológica — não inflar o que se sabe, não esconder o que não se sabe.
 
-**Olhe como você pode fazer:**
-
-- revise conclusões quando novos dados aparecerem, sem encarar como derrota;
-- valorize método antes de defender opinião;
-- distinga "o que está provado" de "o que ainda é debate".
+**Na prática:** revise conclusões quando novos dados aparecerem, valorize método antes de opinião, e distinga "o que está provado" de "o que ainda é debate".
+**💬 Para Conversar:** Quando você muda de ideia diante de uma evidência nova, isso é fraqueza ou maturidade?
 
 ---
 
