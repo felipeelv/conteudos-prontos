@@ -15,7 +15,7 @@ Proteínas são polímeros formados por aminoácidos. Cada aminoácido funciona 
 
 ### 1.1 O que há em um aminoácido?
 
-Todo aminoácido tem um carbono central ligado a quatro grupos: amino, carboxila, hidrogênio e radical R. O radical R é a peça que muda de aminoácido para aminoácido — é ele que define se a parte será ácida, básica, polar ou apolar, hidrofílica ou hidrofóbica. Essa variação química explica por que apenas 20 aminoácidos principais bastam para construir milhões de proteínas diferentes.
+Todo aminoácido tem um carbono central ligado a quatro grupos: amino, carboxila, hidrogênio e radical R. O radical R é a peça que muda de aminoácido para aminoácido — é ele que define se a parte será ácida, básica, polar ou apolar, hidrofílica ou hidrofóbica.
 
 Quatro partes são essenciais:
 
@@ -31,14 +31,13 @@ Quatro partes são essenciais:
 
 A ligação peptídica une dois aminoácidos. Ela se forma entre o grupo carboxila de um aminoácido e o grupo amino de outro, com saída de uma molécula de água. É uma reação química chamada condensação. A cadeia que cresce nesse processo é o polipeptídeo, e quando ela atinge tamanho e forma adequados, recebe o nome de proteína.
 
-A ordem dos aminoácidos não é aleatória. Ela é definida por um molde no DNA e cada troca pode mudar a função final — algo que veremos com mais clareza nas Unidades 6 e 7.
+A ordem dos aminoácidos não é aleatória — é definida por um molde no DNA, e cada troca pode mudar a função final (Unidades 6 e 7).
 
 O resultado da ligação envolve:
 
 - saída de uma molécula de água;
 - formação de uma ligação covalente forte;
-- crescimento da cadeia polipeptídica;
-- ordem definida pela sequência do DNA.
+- crescimento da cadeia polipeptídica.
 
 ## 2. Níveis de Estrutura
 
@@ -46,7 +45,7 @@ Uma proteína não funciona apenas por ter aminoácidos. Ela precisa assumir uma
 
 ### 2.1 Da sequência à dobra
 
-A estrutura primária é simplesmente a sequência de aminoácidos na ordem em que aparecem. A partir dela, surgem dobras locais e organização espacial. Essa transição da sequência para a forma 3D foi um dos grandes avanços da bioquímica do século XX.
+A estrutura primária é a sequência de aminoácidos na ordem em que aparecem. A partir dela, surgem dobras locais e organização espacial — uma das grandes conquistas da bioquímica do século XX.
 
 Os níveis são:
 
@@ -55,8 +54,8 @@ Os níveis são:
 - terciária: forma tridimensional de uma cadeia inteira;
 - quaternária: união de mais de uma cadeia formando um conjunto funcional.
 
-> 🧪 **Quem descobriu? Linus Pauling (1901-1994)**\
-> Químico americano que, em 1951, propôs a estrutura da **alfa-hélice** e da **folha beta** — os dois padrões mais comuns de dobra local em proteínas. Pauling chegou a essas formas não por experimento, mas por modelagem com regras químicas: mediu ângulos de ligação, distâncias entre átomos e calculou que dobras teriam estabilidade. Ganhou dois prêmios Nobel: o de Química em 1954, pelo trabalho com proteínas, e o da Paz em 1962, por sua atuação contra testes nucleares. É um dos raros casos de cientista premiado em duas categorias diferentes.
+> 💡 **Você sabia?**\
+> O químico americano **Linus Pauling** (1901-1994) propôs em 1951 a **alfa-hélice** e a **folha beta** — os dois padrões mais comuns de dobra local — por modelagem química, sem precisar de experimento direto.
 
 ### 2.2 Por que a forma importa?
 
@@ -75,7 +74,7 @@ Proteínas executam muitas tarefas ao mesmo tempo. Elas sustentam, transportam, 
 
 ### 3.1 Sete grupos de função
 
-A função depende da estrutura e do local onde a proteína atua. Uma proteína não é "boa" por si mesma; ela é adequada a uma tarefa. Vale conhecer sete grupos principais:
+A função depende da estrutura e do local onde a proteína atua — ela é adequada a uma tarefa, não "boa" por si mesma. Sete grupos principais:
 
 - **estrutural:** colágeno (pele, ossos, tendões), queratina (cabelo, unha);
 - **transporte:** hemoglobina (oxigênio no sangue), albumina (substâncias diversas no plasma);
@@ -86,7 +85,7 @@ A função depende da estrutura e do local onde a proteína atua. Uma proteína 
 - **regulação genética:** fatores de transcrição, que ligam e desligam genes.
 
 > 📊 **Em Números:**\
-> Cerca de 20% do peso seco do corpo humano é proteína — fração maior que a de qualquer outra biomolécula, exceto a água quando se considera o corpo úmido.
+> Cerca de 20% do peso seco do corpo humano é proteína — fração maior que a de qualquer outra biomolécula.
 
 ### 3.2 Desnaturação
 
@@ -114,8 +113,7 @@ Uma alimentação adequada considera:
 
 - variedade de fontes proteicas (animal e vegetal);
 - presença de todos os aminoácidos essenciais;
-- digestão em aminoácidos individuais antes da absorção;
-- reconstrução de proteínas próprias do corpo a partir desses aminoácidos.
+- equilíbrio com as outras necessidades do organismo.
 
 > 🧬 **Bio em Ação:**\
 > Comer proteína não significa "ganhar" aquela proteína inteira. O sistema digestório quebra cada proteína em aminoácidos; o corpo então reorganiza esses aminoácidos em proteínas próprias, segundo a informação do seu próprio DNA.
@@ -147,7 +145,7 @@ O profeta **Daniel** viveu essa lógica em outra escala. No exílio babilônico,
 
 > *"Quem anda em integridade anda seguro."* — **Provérbios 10:9**
 
-Assim como uma proteína desnaturada perde a função, uma vida sem coerência entre o que se diz e o que se faz perde força. A bioquímica oferece uma metáfora exata para um princípio de caráter.
+Assim como uma proteína desnaturada perde função, uma vida sem coerência entre o que se diz e o que se faz perde força.
 
 **Olhe como você pode fazer:**
 
@@ -160,7 +158,7 @@ Assim como uma proteína desnaturada perde a função, uma vida sem coerência e
 
 Proteínas são cadeias de aminoácidos unidas por ligações peptídicas. A sequência define possibilidades de dobra, e a forma final define a função. Os quatro níveis de estrutura — primária, secundária, terciária e quaternária — explicam como a sequência vira uma máquina molecular.
 
-Elas atuam em sustentação, transporte, defesa, sinalização, catálise, movimento e regulação genética. Quando perdem a forma correta (desnaturação), perdem função. A descoberta dos padrões de dobra, no século XX, por nomes como Linus Pauling, abriu a bioquímica moderna.
+Elas atuam em sustentação, transporte, defesa, sinalização, catálise, movimento e regulação genética. Quando perdem a forma correta (desnaturação), perdem função.
 
 ---
 
