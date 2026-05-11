@@ -2,7 +2,7 @@
 
 ## Como transformar dados em uma comunicação clara?
 
-A pesquisa do bimestre terminou. A turma do 7º ano coletou 30 respostas sobre meio de transporte, organizou a tabela e desenhou o gráfico. Falta a parte mais difícil: apresentar tudo em uma página, de modo que o leitor entenda o resultado sem se perder em números.
+A pesquisa do bimestre terminou. A turma coletou 30 respostas sobre meio de transporte, organizou a tabela e desenhou o gráfico. Falta apresentar tudo em uma página, de modo que o leitor entenda sem se perder em números.
 
 > 💭 **Pense um pouco:**  
 > Quando uma explicação tem informação demais, ela fica mais clara ou mais confusa?
@@ -13,7 +13,9 @@ A pesquisa do bimestre terminou. A turma do 7º ano coletou 30 respostas sobre m
 
 ### 1.1 Texto, tabela e gráfico
 
-O **texto** dá contexto: explica a pergunta, descreve o método, comenta o resultado, fecha com conclusão. A **tabela** detalha valor por valor — responde quando o leitor precisa do número exato. O **gráfico** mostra padrão — responde quando o leitor precisa entender qual é maior, qual evoluiu.
+- **Texto** — dá contexto: pergunta, método, comentário, conclusão;
+- **Tabela** — detalha valor por valor (quando o leitor precisa do número exato);
+- **Gráfico** — mostra padrão (qual é maior, qual evoluiu).
 
 | Formato | Faz bem | Faz mal |
 |---|---|---|
@@ -23,10 +25,10 @@ O **texto** dá contexto: explica a pergunta, descreve o método, comenta o resu
 
 ### 1.2 Não repetir a mesma informação
 
-Quando o mesmo dado aparece em texto, tabela e gráfico repetidos, a página fica saturada. A escolha do formato vem da pergunta que o leitor precisa responder.
+A escolha do formato vem da pergunta que o leitor precisa responder. Quando o mesmo dado aparece em texto, tabela e gráfico repetidos, a página fica saturada.
 
 > 💡 **Você sabia?**  
-> Alberto Cairo, jornalista visual espanhol, chama de **arte funcional** o gráfico feito para o leitor entender — bonito é consequência, não objetivo.
+> Alberto Cairo chama de **arte funcional** o gráfico feito para o leitor entender — bonito é consequência, não objetivo.
 
 ---
 
@@ -34,23 +36,22 @@ Quando o mesmo dado aparece em texto, tabela e gráfico repetidos, a página fic
 
 ### 2.1 Problema e método
 
-O **problema de pesquisa** é a pergunta que orientou a coleta.
+- **Problema de pesquisa**: a pergunta que orientou a coleta;
+- **Método**: quantas pessoas responderam, quando, onde, como.
 
-> "Qual o meio de transporte mais usado pelos alunos do 7º ano para chegar à escola?"
+> Problema: "Qual o meio de transporte mais usado pelos alunos do 7º ano para chegar à escola?"  
+> Método: "30 alunos do 7º ano, em maio de 2026, formulário com cinco opções (a pé, bicicleta, ônibus, carro, outro)."
 
-O **método** descreve como os dados foram obtidos: quantas pessoas responderam, quando, onde, como a pergunta foi feita.
-
-> "Responderam 30 alunos do 7º ano, em maio de 2026, em formulário com cinco opções (a pé, bicicleta, ônibus, carro, outro)."
-
-Sem problema, o leitor não sabe o que está sendo medido. Sem método, não sabe se pode confiar.
+Sem problema, o leitor não sabe o que se mede; sem método, não sabe se pode confiar.
 
 ### 2.2 Dados, análise e conclusão
 
-Os **dados** entram como tabela enxuta; o **gráfico** mostra a comparação visual. A **análise** é o parágrafo que lê o gráfico — aponta a categoria mais escolhida, a menos, a diferença entre elas.
+- **Dados** — tabela enxuta;
+- **Gráfico** — comparação visual;
+- **Análise** — parágrafo que lê o gráfico (categoria mais escolhida, menos escolhida, diferença);
+- **Conclusão** — responde à pergunta inicial, sempre dentro do período, população e medida.
 
 > "O ônibus foi o meio mais escolhido, com 12 alunos de 30."
-
-A **conclusão** responde à pergunta inicial em uma ou duas frases — sempre dentro do período, da população e da medida (descreve a turma, não a escola toda).
 
 ---
 
@@ -58,7 +59,9 @@ A **conclusão** responde à pergunta inicial em uma ou duas frases — sempre d
 
 ### 3.1 Organizar dados em linhas e colunas
 
-Em planilha, cada **linha** representa um caso e cada **coluna** representa uma variável. A primeira linha é o **cabeçalho** — sem ele, o gráfico gerado sai sem rótulo.
+- **Linha** — um caso;
+- **Coluna** — uma variável;
+- **Cabeçalho** (primeira linha) — sem ele, o gráfico sai sem rótulo.
 
 | Categoria | Frequência |
 |---|---:|
@@ -70,7 +73,13 @@ Em planilha, cada **linha** representa um caso e cada **coluna** representa uma 
 
 ### 3.2 Gerar gráfico e revisar escolhas
 
-Selecionar a tabela e clicar em "inserir gráfico" leva segundos, mas o resultado raramente está bom de cara: a planilha aplica padrão de fábrica — título genérico, escala às vezes cortada, cores aleatórias. A revisão manual segue o checklist do Capítulo 1.
+Selecionar a tabela e clicar em "inserir gráfico" leva segundos, mas o resultado raramente está bom — a planilha aplica padrão de fábrica:
+
+- título genérico;
+- escala às vezes cortada;
+- cores aleatórias.
+
+A revisão manual segue o checklist do Capítulo 1.
 
 > 📈 **No Dia a Dia:**  
 > Jornalismo de dados, painéis públicos e relatórios escolares usam o mesmo ciclo — coletar, organizar em planilha, gerar gráfico e revisar à mão.
@@ -81,7 +90,9 @@ Selecionar a tabela e clicar em "inserir gráfico" leva segundos, mas o resultad
 
 ### 4.1 Clareza, fonte e coerência
 
-**Clareza** é a página caber em uma leitura sem precisar de tradução: termos técnicos pedem explicação curta; números soltos pedem unidade. **Fonte** é onde o leitor confere a origem do dado. **Coerência** é texto, tabela e gráfico contarem a mesma história — se o texto diz "ônibus" e o gráfico mostra outro pico, há erro em algum lugar.
+- **Clareza** — termos técnicos com explicação curta; números com unidade;
+- **Fonte** — o leitor confere a origem do dado;
+- **Coerência** — texto, tabela e gráfico contam a mesma história.
 
 ### 4.2 Uma página que responde à pergunta
 
@@ -100,7 +111,7 @@ Comunicação de dados não pede relatório longo. Uma página com pergunta, mé
 
 ## NA VIDA REAL
 
-Jornais como Folha de S.Paulo, O Globo, Estadão, e portais do IBGE e do Banco Central, publicam diariamente relatórios curtos com tabela, gráfico e parágrafo de análise — esse é o formato profissional que o aluno está aprendendo em escala de turma. A diferença está no volume de dado, não no método.
+Folha, O Globo, Estadão, IBGE e Banco Central publicam diariamente relatórios curtos com tabela, gráfico e parágrafo de análise — esse é o formato profissional que o aluno está aprendendo em escala de turma.
 
 ---
 
@@ -110,7 +121,7 @@ Jornais como Folha de S.Paulo, O Globo, Estadão, e portais do IBGE e do Banco C
 
 Comunicar dados é escolher a palavra certa para o leitor certo, no momento certo. O número está pronto, mas a apresentação ainda pode aproximar ou afastar quem lê.
 
-- **Clareza é parte da integridade da comunicação.** Dado correto mal comunicado leva o leitor à conclusão errada, mesmo sem intenção (Colossenses 4:6).
+- **Clareza é parte da integridade da comunicação.** Dado correto mal comunicado leva à conclusão errada, mesmo sem intenção (Colossenses 4:6).
 
 > 💬 **Para Conversar:**  
 > Quando você comunica algo importante, costuma pensar no melhor formato para o outro entender, ou só escolhe o mais rápido?
@@ -119,7 +130,7 @@ Comunicar dados é escolher a palavra certa para o leitor certo, no momento cert
 
 ## Simplificando
 
-Comunicar dados é traduzir tabela e gráfico em uma página clara, com problema, método, dados, análise e conclusão — usar cada formato no lugar certo separa relatório claro de página confusa.
+Comunicar dados é traduzir tabela e gráfico em uma página clara — usar cada formato no lugar certo separa relatório claro de página confusa.
 
 ---
 
