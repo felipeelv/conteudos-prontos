@@ -108,17 +108,14 @@ O capítulo NÃO DEVE:
 - Abertura narrativa: um aluno transforma frases curtas em um parágrafo argumentativo com causa, condição e finalidade. Encerrar com chamada 💭.
 - Para Conversar de intro: "Dizer `fui porque precisava` é o mesmo que dizer `fui para que ajudasse`?"
 - Desenvolvimento em 3 blocos numerados:
-  - Bloco 1 — O Que É Subordinação
-    - `### 1.1 Oração principal e oração subordinada`
-    - `### 1.2 Dependência sintática e sentido`
-  - Bloco 2 — Os Sentidos das Conjunções Subordinativas
-    - `### 2.1 Integrantes, causais e comparativas`
-    - `### 2.2 Concessivas, condicionais e conformativas`
-    - `### 2.3 Consecutivas, finais, proporcionais e temporais`
-  - Bloco 3 — Escolher a Relação Certa
-    - `### 3.1 Causa, explicação e finalidade`
-    - `### 3.2 Concessão e oposição`
-    - `### 3.3 Subordinação na escrita argumentativa`
+  - Bloco 1 — O Que São Conjunções Subordinativas
+    - `### 1.1 Oração principal e oração subordinada` (pré-requisito conceitual breve antes de focar nas conjunções)
+  - Bloco 2 — Os Sentidos das Conjunções Subordinativas (cobrir os 10 tipos)
+    - `### 2.1 As subordinativas mais frequentes` (causais, condicionais, concessivas, finais, temporais — coração do capítulo)
+    - `### 2.2 Outras subordinativas` (integrantes, comparativas, conformativas, consecutivas, proporcionais)
+  - Bloco 3 — Escolher a Conjunção Certa
+    - `### 3.1 Causa × explicação × finalidade`
+    - `### 3.2 Concessão × oposição`
 - Sua Parte: identificar principais e subordinadas; classificar conjunções; substituir conectivos; transformar texto picotado em texto coeso.
 - Curiosidade da Língua: Sousa da Silveira e as *Lições de Português*.
 - Enquanto isso...: parábolas com estruturas condicionais e temporais.

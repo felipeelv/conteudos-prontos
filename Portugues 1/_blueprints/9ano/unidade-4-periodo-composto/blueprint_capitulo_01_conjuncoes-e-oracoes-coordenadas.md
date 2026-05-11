@@ -111,9 +111,8 @@ O capítulo NÃO DEVE:
     - `### 2.1 Quando não há conjunção`
     - `### 2.2 Quando a conjunção aparece`
   - Bloco 3 — Os Cinco Sentidos da Coordenação
-    - `### 3.1 Aditivas e adversativas`
-    - `### 3.2 Alternativas, conclusivas e explicativas`
-    - `### 3.3 Locuções e escolhas de estilo`
+    - `### 3.1 Aditivas, adversativas e alternativas` (com locuções coordenativas — *mas também*, *no entanto*, *ora...ora* — embutidas)
+    - `### 3.2 Conclusivas e explicativas` (com locuções — *por isso* — e nuance de *pois* depois/antes do verbo)
 - Sua Parte: localizar verbos; separar orações; classificar coordenadas; substituir conjunções; reescrever texto picotado.
 - Curiosidade da Língua: Mário Barreto e a tradição filológica brasileira.
 - Enquanto isso...: paralelismo em Provérbios como coordenação de ideias.

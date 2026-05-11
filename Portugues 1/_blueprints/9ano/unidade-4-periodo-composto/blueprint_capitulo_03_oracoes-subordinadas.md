@@ -20,24 +20,29 @@ Levar o aluno a (a) reconhecer o panorama das três classes de orações subordi
 Duas vírgulas podem transformar o sentido de uma frase. Uma oração pode limitar um grupo ou apenas acrescentar uma informação sobre ele. O capítulo investiga como orações adjetivas caracterizam nomes e como a escolha entre restritiva e explicativa altera a leitura do texto.
 
 ## 5. Sequência conceitual obrigatória
-1. Retomar que uma oração subordinada depende de outra.
-2. Definir oração adjetiva como oração que caracteriza um antecedente, funcionando como adjetivo expandido.
-3. Explicar antecedente como termo a que o pronome relativo se refere.
-4. Apresentar pronomes relativos: `que`, `o qual/a qual`, `quem`, `cujo/cuja`, `onde`.
-5. Desenvolver oração adjetiva restritiva: delimita o sentido do antecedente e não vem isolada por vírgulas.
-6. Desenvolver oração adjetiva explicativa: acrescenta informação sobre o antecedente e vem isolada por vírgulas.
-7. Comparar pares mínimos em que a pontuação muda o sentido.
-8. Mostrar usos formais de `cujo` e `o qual`; alertar para uso normativo de `onde` apenas com lugar físico.
-9. Aplicar em trecho literário, verbete enciclopédico, texto técnico e texto jurídico simples.
-10. Inserir João de Barros como primeiro gramático do português e referência histórica para a reflexão metalinguística.
+1. Retomar que uma oração subordinada depende de outra (pré-requisito do Cap 2).
+2. Apresentar o **panorama das três classes** de orações subordinadas: substantivas (papel de substantivo), adjetivas (papel de adjetivo), adverbiais (papel de advérbio).
+3. Identificar cada classe por três pistas: conectivo introdutor, palavra a que se liga e papel no período.
+4. Avisar que o aprofundamento por função sintática das substantivas e adverbiais fica reservado ao EM; este capítulo aprofunda as adjetivas.
+5. Definir oração adjetiva como oração que caracteriza um antecedente, funcionando como adjetivo expandido.
+6. Explicar antecedente como termo a que o pronome relativo se refere.
+7. Apresentar pronomes relativos: `que`, `o qual/a qual`, `quem`, `cujo/cuja`, `onde`.
+8. Desenvolver oração adjetiva restritiva: delimita o sentido do antecedente e não vem isolada por vírgulas.
+9. Desenvolver oração adjetiva explicativa: acrescenta informação sobre o antecedente e vem isolada por vírgulas.
+10. Comparar pares mínimos em que a pontuação muda o sentido.
+11. Mostrar usos formais de `cujo` e `o qual`; alertar para uso normativo de `onde` apenas com lugar físico.
+12. Aplicar em trecho literário, verbete enciclopédico, texto técnico e texto jurídico simples.
+13. Inserir João de Barros como primeiro gramático do português e referência histórica para a reflexão metalinguística.
 
 ## 6. Pesos internos
 | Subtópico | Peso | Nível | Orientação |
 |---|---:|---|---|
-| Orações adjetivas restritivas | 25% | N3 | Sem vírgula; delimitam o antecedente. |
-| Orações adjetivas explicativas | 25% | N3 | Com vírgulas; acrescentam informação. |
-| Efeitos de sentido restritiva × explicativa | 30% | N4 | Coração do capítulo. Comparar pares com e sem vírgula. |
-| Pronomes relativos | 20% | N3 | Identificar conectivos e usos adequados de `que`, `qual`, `quem`, `cujo`, `onde`. |
+| Panorama das três classes (substantivas / adjetivas / adverbiais) | 25% | N3 | Pares mínimos por substituição de palavra simples; tabela com conectivo, papel e pergunta-teste. Sem análise sintática por função. |
+| Antecedente e pronomes relativos | 15% | N3 | Identificar conectivos e usos adequados de `que`, `qual`, `quem`, `cujo`, `onde`. |
+| Orações adjetivas restritivas | 15% | N3 | Sem vírgula; delimitam o antecedente. |
+| Orações adjetivas explicativas | 15% | N3 | Com vírgulas; acrescentam informação. |
+| Efeitos de sentido restritiva × explicativa | 20% | N4 | Coração do capítulo. Comparar pares com e sem vírgula. |
+| Usos normativos de *cujo* e *onde* | 10% | N3 | *cujo* sem artigo; *onde* só com lugar físico, para abstrato preferir *em que*. |
 
 ## 7. Conceitos obrigatórios
 - Oração subordinada adjetiva
@@ -102,16 +107,16 @@ O capítulo NÃO DEVE:
 - Abertura narrativa: boletim, notícia ou aviso escolar com par de frases quase iguais, uma restritiva e outra explicativa. Encerrar com chamada 💭.
 - Para Conversar de intro: "Na frase `os alunos que estudaram passaram`, todos os alunos passaram ou apenas alguns?"
 - Desenvolvimento em 3 blocos numerados:
-  - Bloco 1 — Quando Uma Oração Caracteriza Um Nome
-    - `### 1.1 Oração adjetiva e antecedente`
-    - `### 1.2 Pronomes relativos`
-  - Bloco 2 — Restritivas e Explicativas
-    - `### 2.1 Restritiva: delimitar o sentido`
-    - `### 2.2 Explicativa: acrescentar informação`
+  - Bloco 1 — As Três Classes de Orações Subordinadas
+    - `### 1.1 Substantivas, adjetivas e adverbiais`
+    - `### 1.2 Como reconhecer cada classe`
+  - Bloco 2 — Orações Subordinadas Adjetivas
+    - `### 2.1 Antecedente e pronome relativo`
+    - `### 2.2 Restritiva: delimitar o sentido`
+    - `### 2.3 Explicativa: acrescentar informação`
   - Bloco 3 — Pontuação e Efeito de Sentido
     - `### 3.1 O que muda com a vírgula`
     - `### 3.2 Cujo, onde e escolhas formais`
-    - `### 3.3 Orações adjetivas em textos reais`
 - Sua Parte: localizar antecedente; identificar pronome relativo; classificar restritiva/explicativa; pontuar frases; explicar mudança de sentido.
 - Curiosidade da Língua: João de Barros e a primeira gramática do português.
 - Enquanto isso...: línguas vernáculas, gramática e acesso ao texto bíblico no mundo moderno.
