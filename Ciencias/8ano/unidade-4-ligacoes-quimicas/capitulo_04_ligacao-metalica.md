@@ -94,9 +94,9 @@ Em compostos iônicos, ao contrário, deslizar uma camada faz cargas iguais fica
 
 ---
 
-## 4. Comparando as Ligações
+## 4. Metais do Dia a Dia
 
-Encerrar a unidade pede um olhar de cima sobre os três tipos de ligação química estudados. Comparar lado a lado ajuda a fixar as diferenças e a reconhecer as substâncias do dia a dia.
+Ferro, cobre, alumínio e ouro estão entre os metais mais presentes na vida prática. Olhar de perto para cada um ajuda a reconhecer a ligação metálica nas substâncias que você usa todos os dias.
 
 ### 4.1 Como Fe, Cu, Al e Au se encaixam?
 
@@ -110,16 +110,6 @@ Esses quatro metais estão entre os mais usados pelo ser humano. Cada um tem pro
 Apesar das diferenças, em todos eles a explicação química básica é a mesma: cátions metálicos arrumados em rede, com um mar de elétrons mantendo o conjunto unido.
 
 > 💡 **Você sabia?** Cerca de 80% dos elementos da Tabela Periódica são metais — o que significa que a ligação metálica é, de longe, a forma mais comum de união química entre átomos no universo material.
-
-### 4.2 Como ficam iônica, covalente e metálica lado a lado?
-
-Para fechar a unidade, vale colocar as três ligações em linha. Cada uma tem um padrão claro de comportamento dos elétrons. Em síntese:
-
-- Ligação iônica: um átomo cede elétrons e o outro ganha; surgem cátions e ânions que formam redes cristalinas (ex.: NaCl, sal de cozinha);
-- Ligação covalente: dois átomos compartilham pares de elétrons; formam-se moléculas com fórmula fixa (ex.: H₂O, água);
-- Ligação metálica: muitos átomos contribuem com elétrons de valência para um mar coletivo; formam-se redes metálicas (ex.: Cu, fio de cobre);
-
-Essas três rotas explicam a maior parte das substâncias do mundo material que você toca todos os dias — do sal no jantar à água que bebe e ao fio que conduz a luz da sua sala.
 
 ---
 
@@ -147,7 +137,7 @@ Daniel viveu em uma corte estrangeira, longe do seu povo, mas suas pequenas esco
 
 A ligação metálica é uma união entre átomos de metais em que os elétrons de valência ficam relativamente livres, circulando entre os núcleos como um "mar". Esse modelo, proposto por Paul Drude em 1900, explica em uma só ideia várias propriedades dos metais: condução de eletricidade e de calor, brilho metálico, maleabilidade e ductilidade. Cobre, alumínio, ferro e ouro são exemplos clássicos.
 
-Comparando os três tipos de ligação química — iônica, covalente e metálica — fica claro que aquilo que aparenta ser detalhe invisível (como os elétrons se organizam) determina propriedades visíveis e importantes do mundo material. O sal, a água e o fio de cobre que você usa todos os dias são respostas diferentes para uma mesma pergunta: como os átomos podem alcançar estabilidade?
+Na ligação metálica, aquilo que aparenta ser detalhe invisível — como os elétrons se organizam — determina propriedades visíveis e importantes do mundo material. O fio de cobre que você usa todos os dias é uma resposta para uma pergunta antiga: como os átomos podem alcançar estabilidade?
 
 ---
 
@@ -156,4 +146,4 @@ Comparando os três tipos de ligação química — iônica, covalente e metáli
 - Ligação metálica: união entre átomos metálicos mantida por elétrons livres compartilhados coletivamente;
 - Mar de elétrons: modelo proposto por Paul Drude em 1900 para representar elétrons que circulam entre cátions metálicos;
 - Propriedades metálicas: condução elétrica e térmica, brilho, maleabilidade e ductilidade — todas explicadas pelo movimento dos elétrons livres;
-- Tipos de ligação: iônica (transferência → rede de íons), covalente (compartilhamento → moléculas) e metálica (elétrons livres → rede metálica);
+- Propriedades dos metais: condução elétrica, condução térmica, brilho, maleabilidade e ductilidade — todas explicadas pelo modelo do mar de elétrons;

@@ -45,7 +45,7 @@ Olhe para o rótulo de um pote de iogurte da sua geladeira. Provavelmente vai ap
 
 ## 2. Microrganismos Na Compostagem
 
-Aquele trabalho de decomposição do capítulo anterior também pode ser usado de propósito. É isso que acontece na compostagem.
+O trabalho de decomposição feito por fungos e bactérias também pode ser usado de propósito. É isso que acontece na compostagem.
 
 ### 2.1 Restos que viram adubo
 

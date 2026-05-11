@@ -82,7 +82,7 @@ Outros resíduos não saem pela respiração. Para esses, o corpo tem os **rins*
 
 ## 4. Sistemas Trabalhando Juntos
 
-Os três sistemas que estudamos até agora não trabalham separados — eles funcionam juntos o tempo inteiro.
+Os três sistemas — digestório, respiratório e circulatório — não trabalham separados: eles funcionam juntos o tempo inteiro.
 
 ### 4.1 Digestório, respiratório e circulatório
 

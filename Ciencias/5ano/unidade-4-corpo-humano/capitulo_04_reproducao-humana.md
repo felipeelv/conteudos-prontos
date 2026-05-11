@@ -33,7 +33,7 @@ O **sistema reprodutor** é o conjunto de órgãos relacionados à geração de 
 - **Sistema reprodutor masculino:** inclui os **testículos** (que produzem os espermatozoides) e o **pênis**.
 - **Sistema reprodutor feminino:** inclui os **ovários** (que produzem os óvulos), o **útero** (onde o bebê se desenvolve durante a gestação) e a **vagina**.
 
-Esses sistemas começam a ficar mais ativos durante a puberdade, fase que vamos estudar mais adiante.
+Esses sistemas começam a ficar mais ativos durante a puberdade.
 
 > ⏸️ **Pare e Pense:**  
 > Por que usar nomes científicos para os órgãos do corpo ajuda a tratar o assunto com mais respeito?

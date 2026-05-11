@@ -122,7 +122,7 @@ O ponto de fusão dessas substâncias, em geral, também é mais baixo. Há exce
 
 ## 🤝 Sua Parte
 
-Reúna alguns objetos pequenos — bolinhas de papel, tampinhas, peças de Lego ou bolinhas de massinha — e represente as quatro moléculas trabalhadas neste capítulo. Use uma cor para o oxigênio, outra para o hidrogênio, outra para o carbono e outra para o nitrogênio. Monte: H₂O (uma peça O entre duas peças H, ligadas por traços simples); O₂ (duas peças O ligadas por uma ligação dupla — represente com dois traços paralelos); CO₂ (uma peça C no centro, com duas peças O nas pontas, cada uma por ligação dupla); N₂ (duas peças N ligadas por uma ligação tripla — três traços paralelos). Em cada modelo, marque, com canetinha ou pedaços de papel, os pares de elétrons compartilhados. Em seguida, explique para alguém em casa por que essas moléculas têm "cara" tão diferente das redes de sal do capítulo anterior.
+Reúna alguns objetos pequenos — bolinhas de papel, tampinhas, peças de Lego ou bolinhas de massinha — e represente as quatro moléculas trabalhadas neste capítulo. Use uma cor para o oxigênio, outra para o hidrogênio, outra para o carbono e outra para o nitrogênio. Monte: H₂O (uma peça O entre duas peças H, ligadas por traços simples); O₂ (duas peças O ligadas por uma ligação dupla — represente com dois traços paralelos); CO₂ (uma peça C no centro, com duas peças O nas pontas, cada uma por ligação dupla); N₂ (duas peças N ligadas por uma ligação tripla — três traços paralelos). Em cada modelo, marque, com canetinha ou pedaços de papel, os pares de elétrons compartilhados. Em seguida, explique para alguém em casa por que essas moléculas têm "cara" tão diferente das redes cristalinas de sólidos como o sal de cozinha.
 
 ---
 

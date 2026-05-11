@@ -94,7 +94,7 @@ O sódio, com 1 elétron de valência, tende a perdê-lo. O cloro, com 7, tende 
 
 ## 4. Três Caminhos Para se Ligar
 
-Os átomos não chegam à estabilidade por uma rota única. Cada caminho que eles tomam produz substâncias diferentes, com propriedades diferentes. São três caminhos principais — e esta unidade segue cada um deles em sequência.
+Os átomos não chegam à estabilidade por uma rota única. Cada caminho que eles tomam produz substâncias diferentes, com propriedades diferentes. São três caminhos principais.
 
 ### 4.1 Como um átomo pode transferir, compartilhar ou liberar elétrons?
 
@@ -107,16 +107,6 @@ Os átomos não se comportam todos da mesma maneira quando entram em uma ligaç�
 Cada caminho gera substâncias com aparência, dureza, ponto de fusão e comportamento elétrico próprios.
 
 > 📏 **Medidas Interessantes:** O cloreto de sódio só funde por volta de 801 °C — quase a temperatura interna de um forno industrial.
-
-### 4.2 Como o mapa da unidade se organiza?
-
-A partir desses três caminhos, esta unidade percorre os tipos de ligação e as substâncias que cada um produz. O fio condutor é simples:
-
-- O próximo capítulo apresenta a ligação iônica, exemplificada justamente pelo sal de cozinha;
-- O capítulo seguinte trata da ligação covalente, com exemplos como água, oxigênio e gás carbônico;
-- Por fim, o último capítulo mostra a ligação metálica, que explica por que fios de cobre conduzem eletricidade e panelas de alumínio aquecem rápido;
-
-Em cada capítulo, a pergunta-chave volta: o que está acontecendo com os elétrons de valência?
 
 ---
 
@@ -144,7 +134,7 @@ Lewis mostrou que estruturas estáveis, no nível dos átomos, surgem quando há
 
 Os elétrons da camada mais externa do átomo, chamados elétrons de valência, são os principais responsáveis pelas ligações químicas. Muitos átomos tendem a se organizar para alcançar uma configuração parecida com a dos gases nobres, em geral com 8 elétrons na camada externa — é o que se chama regra do octeto, modelo apresentado por Gilbert N. Lewis em 1916.
 
-Para chegar a essa configuração estável, os átomos seguem três caminhos: alguns perdem elétrons, outros ganham e outros compartilham. Esses três caminhos dão origem aos três tipos básicos de ligação química que esta unidade vai explorar: iônica, covalente e metálica.
+Para chegar a essa configuração estável, os átomos seguem três caminhos: alguns perdem elétrons, outros ganham e outros compartilham. Esses três caminhos dão origem aos três tipos básicos de ligação química: iônica, covalente e metálica.
 
 ---
 
