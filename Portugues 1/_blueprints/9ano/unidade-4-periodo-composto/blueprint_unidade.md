@@ -6,7 +6,7 @@
 - Ano/Série: 9º Ano — Ensino Fundamental II
 - Bimestre: 2º
 - Unidade: 4 de 8
-- Tema central: Período Composto — coordenação, subordinação e orações adjetivas.
+- Tema central: Período Composto — coordenação, conjunções subordinativas e orações subordinadas (com foco nas adjetivas).
 - Tipo da unidade: A — Análise Linguística
 - Recorte geral: consolidar a análise do período composto, levando o aluno a reconhecer relações de sentido entre orações e a usar conjunções e pronomes relativos para construir textos mais coesos.
 - Capítulos previstos: 3
@@ -74,8 +74,8 @@
 | Capítulo | Título | Coração conceitual | Personagem | VP específico |
 |---|---|---|---|---|
 | 1 | Conjunções e Orações Coordenadas | orações independentes em paralelo e cinco tipos de coordenação sindética | Mário Barreto | integridade como coerência horizontal entre pensamento, palavra e ação |
-| 2 | Conjunções e Orações Subordinadas | orações em hierarquia e relações lógicas de dependência | Álvaro Ferdinando de Sousa da Silveira | valores centrais orientando decisões específicas |
-| 3 | Orações Adjetivas | restrição, explicação, pronomes relativos e efeitos de pontuação | João de Barros | escolhas que caracterizam quem a pessoa é |
+| 2 | Conjunções Subordinativas | dez tipos de conjunções subordinativas e as relações lógicas que elas estabelecem entre principal e subordinada | Álvaro Ferdinando de Sousa da Silveira | valores centrais orientando decisões específicas |
+| 3 | Orações Subordinadas | panorama das três classes (substantivas, adjetivas, adverbiais) + aprofundamento nas adjetivas: restrição, explicação, pronomes relativos e efeitos de pontuação | João de Barros | escolhas que caracterizam quem a pessoa é |
 
 ## 10. Ganchos transversais
 - Enquanto isso: paralelismo nos Provérbios; parábolas com subordinação condicional; João de Barros e a dignidade das línguas vernáculas no Renascimento.
@@ -96,8 +96,8 @@ A unidade está adequada se:
 - nenhum arquivo foi salvo em `blueprints/`, `PIPELINE_CONTEUDO/PLANEJADOR/`, `teste_unidade-3-coordenadas-e-solo/` ou diretamente em `Blueprint/`;
 - todos os arquivos estão em `Blueprint/Portugues 1/9ano/unidade-4-periodo-composto/`;
 - o Capítulo 1 cobre período simples × composto, coordenação assindética e sindética, cinco tipos de coordenadas sindéticas, locuções coordenativas e relações de sentido;
-- o Capítulo 2 cobre conjunções subordinativas, locuções subordinativas, oração principal e subordinada, relações de sentido e identificação em texto;
-- o Capítulo 3 cobre orações adjetivas restritivas e explicativas, pronomes relativos e efeitos de sentido da pontuação;
+- o Capítulo 2 cobre conjunções subordinativas, locuções subordinativas, oração principal e subordinada (como pré-requisito), relações de sentido e identificação em texto;
+- o Capítulo 3 apresenta o panorama das três classes de orações subordinadas (substantivas, adjetivas e adverbiais) e aprofunda as adjetivas: restritivas e explicativas, pronomes relativos e efeitos de sentido da pontuação — sem antecipar análise sintática por função das substantivas e adverbiais (conteúdo de EM);
 - os personagens definidos no framework são preservados: Mário Barreto, Álvaro Ferdinando de Sousa da Silveira e João de Barros;
 - a abordagem de Norma × Uso mostra a importância da escrita formal sem desqualificar usos orais;
 - não há antecipação de análise sintática completa das subordinadas substantivas/adverbiais nem período misto integrado;

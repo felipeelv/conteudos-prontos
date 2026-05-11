@@ -1,38 +1,61 @@
-# CAPÍTULO 3 — ORAÇÕES ADJETIVAS
+# CAPÍTULO 3 — ORAÇÕES SUBORDINADAS
 
 ---
 
 ## ESTUDO DA LÍNGUA
 
-## ***Duas vírgulas podem mudar tudo?***
+## ***Uma oração pode ocupar o lugar de uma palavra?***
 
-Em um aviso escolar, duas frases pareciam quase idênticas: "Os alunos que estudaram passaram" e "Os alunos, que estudaram, passaram". As palavras eram as mesmas, mas a primeira frase dizia que apenas alguns alunos passaram; a segunda, que todos passaram.
+Compare três pares de frases: "Quero **paz**" e "Quero **que tudo dê certo**"; "Comprei o livro **azul**" e "Comprei o livro **que estava na vitrine**"; "Cheguei **tarde**" e "Cheguei **quando o sinal tocou**". Em cada par, uma palavra simples (substantivo, adjetivo, advérbio) é substituída por uma oração inteira — e é exatamente aí que aparecem as três classes de orações subordinadas.
 
-## 1. Quando Uma Oração Caracteriza Um Nome
+## 1. As Três Classes de Orações Subordinadas
 
-Algumas orações subordinadas funcionam como adjetivos expandidos — caracterizam um nome dentro do período.
+Toda oração subordinada faz, dentro do período, o papel de uma palavra simples — e isso define sua classe.
 
-### 1.1 Oração adjetiva e antecedente
+### 1.1 Substantivas, adjetivas e adverbiais
 
-A **oração adjetiva** é a oração subordinada que **caracteriza um antecedente**, funcionando como um adjetivo em forma de oração. O **antecedente** é a palavra à qual o pronome relativo se refere.
+A **oração subordinada substantiva** ocupa o lugar de um **substantivo**. A **oração subordinada adjetiva** ocupa o lugar de um **adjetivo** (caracteriza um nome). A **oração subordinada adverbial** ocupa o lugar de um **advérbio** (indica circunstância — tempo, causa, condição etc.).
 
-Observe as frases:
+Observe os pares:
+
+- *Quero **paz**.* → *Quero **que tudo dê certo**.*  
+  (substantiva — "que tudo dê certo" ocupa o lugar do substantivo "paz")
+- *Comprei o livro **azul**.* → *Comprei o livro **que estava na vitrine**.*  
+  (adjetiva — "que estava na vitrine" caracteriza "livro", como o adjetivo "azul")
+- *Cheguei **tarde**.* → *Cheguei **quando o sinal tocou**.*  
+  (adverbial — "quando o sinal tocou" indica circunstância de tempo, como o advérbio "tarde")
+
+### 1.2 Como reconhecer cada classe
+
+Há três pistas rápidas para identificar a classe de uma oração subordinada: a **conjunção ou pronome** que a introduz, a **palavra a que ela se liga** e o **papel que ela cumpre** no período.
+
+| Classe | Introduzida por | Faz papel de | Pergunta-teste |
+|---|---|---|---|
+| substantiva | conjunção integrante (que, se) | substantivo | substitui por "isso"? |
+| adjetiva | pronome relativo (que, o qual, cujo, onde) | adjetivo | caracteriza um nome? |
+| adverbial | conjunção subordinativa (porque, quando, embora, se, para que…) | advérbio | indica circunstância (causa, tempo, condição…)? |
+
+> ✅ **Oração subordinada:**  
+> Oração que ocupa o lugar de uma palavra simples — substantivo, adjetivo ou advérbio — dentro de outra oração.
+
+Neste capítulo, vamos aprofundar as **orações subordinadas adjetivas**, que são as mais cobradas no 9º ano por causa do efeito de sentido da pontuação. As substantivas e as adverbiais voltam a ser estudadas em detalhe no Ensino Médio.
+
+## 2. Orações Subordinadas Adjetivas
+
+As orações adjetivas caracterizam um nome — funcionam como um adjetivo expandido em forma de oração.
+
+### 2.1 Antecedente e pronome relativo
+
+A **oração subordinada adjetiva** caracteriza um **antecedente** (a palavra à qual o pronome relativo se refere). O **pronome relativo** é o conectivo que retoma o antecedente e introduz a oração adjetiva.
+
+Observe:
 
 - *O livro **que ganhei de aniversário** estava sobre a mesa.*  
-  (oração adjetiva — "que ganhei de aniversário" caracteriza o antecedente "livro")
-- *A professora **que ensinou matemática no ano passado** se aposentou.*  
-  (oração adjetiva — "que ensinou matemática" caracteriza o antecedente "professora")
+  (antecedente: "livro" / pronome relativo: "que")
+- *A escola **onde estudei** fica perto do centro.*  
+  (antecedente: "escola" / pronome relativo: "onde")
 
-### 1.2 Pronomes relativos
-
-O **pronome relativo** é a palavra que retoma o antecedente e introduz a oração adjetiva. Os principais são **que**, **o qual / a qual**, **quem**, **cujo / cuja** e **onde**.
-
-Compare:
-
-- *Conheço o jovem **cuja** família mudou-se para o bairro.*  
-  (pronome relativo "cujo" — indica relação de posse, sem artigo)
-- *A escola **onde** estudei fica perto do centro.*  
-  (pronome relativo "onde" — usado com antecedente de lugar físico)
+Os principais pronomes relativos são **que**, **o qual / a qual**, **quem**, **cujo / cuja** e **onde**.
 
 | Pronome relativo | Uso típico |
 |---|---|
@@ -42,14 +65,7 @@ Compare:
 | cujo / cuja | indica posse; nunca acompanhado de artigo |
 | onde | apenas com antecedente de lugar físico |
 
-> ✅ **Oração adjetiva:**  
-> Oração subordinada que caracteriza um antecedente, introduzida por pronome relativo.
-
-## 2. Restritivas e Explicativas
-
-A oração adjetiva pode delimitar o sentido do antecedente ou apenas acrescentar uma informação sobre ele.
-
-### 2.1 Restritiva: delimitar o sentido
+### 2.2 Restritiva: delimitar o sentido
 
 A **oração adjetiva restritiva** **delimita** o sentido do antecedente — restringe o grupo a que ele se refere. Ela **não vem isolada por vírgulas**.
 
@@ -60,7 +76,7 @@ Observe:
 - *O livro **que comprei na feira** era bem antigo.*  
   (restritiva — entre vários livros, o específico que comprei na feira)
 
-### 2.2 Explicativa: acrescentar informação
+### 2.3 Explicativa: acrescentar informação
 
 A **oração adjetiva explicativa** **acrescenta** uma informação sobre o antecedente, sem restringir seu sentido. Ela **vem isolada por vírgulas**.
 
@@ -124,10 +140,11 @@ A oração adjetiva caracteriza pessoas, objetos e grupos por uma escolha — e,
 
 ## Simplificando
 
-A oração adjetiva caracteriza um antecedente e é introduzida por pronome relativo (que, o qual, quem, cujo, onde); a **restritiva** delimita o sentido do antecedente e não vem entre vírgulas; a **explicativa** acrescenta informação sobre o antecedente e vem isolada por vírgulas — e a pontuação altera completamente o sentido da frase.
+Orações subordinadas ocupam, dentro de outra oração, o papel de um substantivo, de um adjetivo ou de um advérbio — daí as três classes: substantivas, adjetivas e adverbiais. As **adjetivas** caracterizam um antecedente e são introduzidas por pronome relativo; podem ser **restritivas** (delimitam o sentido, sem vírgula) ou **explicativas** (acrescentam informação, com vírgulas) — e a pontuação altera completamente o sentido da frase.
 
 ## Para não esquecer
 
+- **Três classes** — substantiva (faz papel de substantivo), adjetiva (faz papel de adjetivo), adverbial (faz papel de advérbio)
 - **Oração adjetiva** — caracteriza um antecedente; introduzida por pronome relativo
 - **Restritiva × explicativa** — delimita o grupo (sem vírgula) × acrescenta informação (com vírgulas)
 - **Cujo e onde** — "cujo" indica posse, sem artigo; "onde" só para lugar físico (para abstrato, "em que")

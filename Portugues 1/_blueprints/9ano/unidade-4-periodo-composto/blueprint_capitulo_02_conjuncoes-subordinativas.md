@@ -1,4 +1,4 @@
-# Blueprint Técnico — Capítulo 2: Conjunções e Orações Subordinadas
+# Blueprint Técnico — Capítulo 2: Conjunções Subordinativas
 
 ## 1. Identificação
 - Disciplina: Português 1 — Língua Portuguesa
@@ -6,7 +6,7 @@
 - Bimestre: 2º
 - Unidade: 4 — Período Composto
 - Capítulo: 2 de 3
-- Título: Conjunções e Orações Subordinadas
+- Título: Conjunções Subordinativas
 - Códigos BNCC: EF09LP14
 - Profundidade geral: N3-N4
 
@@ -103,8 +103,8 @@ O capítulo NÃO DEVE:
 - Não iniciar com "Neste capítulo vamos estudar...".
 
 ## 12. Estrutura do capítulo (slots a preencher)
-- Título: `# Capítulo 2 — Conjunções e Orações Subordinadas`
-- Pergunta-problema: `## Quando uma ideia depende da outra?`
+- Título: `# Capítulo 2 — Conjunções Subordinativas`
+- Pergunta-problema: `## Qual conectivo carrega cada relação lógica?`
 - Abertura narrativa: um aluno transforma frases curtas em um parágrafo argumentativo com causa, condição e finalidade. Encerrar com chamada 💭.
 - Para Conversar de intro: "Dizer `fui porque precisava` é o mesmo que dizer `fui para que ajudasse`?"
 - Desenvolvimento em 3 blocos numerados:

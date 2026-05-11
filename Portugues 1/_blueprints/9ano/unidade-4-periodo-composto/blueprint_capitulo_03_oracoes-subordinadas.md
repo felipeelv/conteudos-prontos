@@ -1,4 +1,4 @@
-# Blueprint Técnico — Capítulo 3: Orações Adjetivas
+# Blueprint Técnico — Capítulo 3: Orações Subordinadas
 
 ## 1. Identificação
 - Disciplina: Português 1 — Língua Portuguesa
@@ -6,12 +6,12 @@
 - Bimestre: 2º
 - Unidade: 4 — Período Composto
 - Capítulo: 3 de 3
-- Título: Orações Adjetivas
+- Título: Orações Subordinadas
 - Códigos BNCC: EF09LP14
 - Profundidade geral: N3-N4
 
 ## 2. Objetivo do capítulo
-Levar o aluno a identificar orações adjetivas, distinguir restritivas e explicativas, reconhecer pronomes relativos e analisar como a pontuação altera o alcance e o sentido da caracterização de um antecedente.
+Levar o aluno a (a) reconhecer o panorama das três classes de orações subordinadas (substantivas, adjetivas e adverbiais), identificando que cada uma faz, no período, o papel de uma palavra simples (substantivo, adjetivo ou advérbio); e (b) aprofundar nas orações adjetivas, distinguindo restritivas e explicativas, reconhecendo pronomes relativos e analisando como a pontuação altera o alcance e o sentido da caracterização de um antecedente. A análise sintática por função das substantivas e adverbiais fica reservada ao Ensino Médio.
 
 ## 3. Pergunta-problema
 *Em "Os alunos que estudaram passaram" e "Os alunos, que estudaram, passaram", as palavras são quase as mesmas. Por que as vírgulas mudam quem passou?*
@@ -97,8 +97,8 @@ O capítulo NÃO DEVE:
 - Não iniciar com "Neste capítulo vamos estudar...".
 
 ## 12. Estrutura do capítulo (slots a preencher)
-- Título: `# Capítulo 3 — Orações Adjetivas`
-- Pergunta-problema: `## Duas vírgulas podem mudar tudo?`
+- Título: `# Capítulo 3 — Orações Subordinadas`
+- Pergunta-problema: `## Uma oração pode ocupar o lugar de uma palavra?`
 - Abertura narrativa: boletim, notícia ou aviso escolar com par de frases quase iguais, uma restritiva e outra explicativa. Encerrar com chamada 💭.
 - Para Conversar de intro: "Na frase `os alunos que estudaram passaram`, todos os alunos passaram ou apenas alguns?"
 - Desenvolvimento em 3 blocos numerados:
