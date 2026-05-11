@@ -95,7 +95,15 @@ Every chapter follows this architecture, in order:
 
 | Fórmula | Validação | Validada em | Data |
 |---|---|---|---|
-| _(nenhuma ainda)_ | | | |
+| `z = ρ(cos θ + i sin θ)` (forma trigonométrica de complexo) | ✅ canônica | 3serie/Un4/Cap1 | 2026-05-11 |
+| `z_k = ⁿ√ρ [cos((θ+2kπ)/n) + i sin((θ+2kπ)/n)]`, `k=0,…,n-1` (De Moivre — raízes n-ésimas) | ✅ canônica | 3serie/Un4/Cap1 | 2026-05-11 |
+| `z_k = e^(2kπi/n)` (raízes n-ésimas da unidade, forma exponencial) | ✅ canônica | 3serie/Un4/Cap1 | 2026-05-11 |
+| `Δθ = 2π/n` (espaçamento angular entre raízes n-ésimas) | ✅ correto | 3serie/Un4/Cap1 | 2026-05-11 |
+| `Z = R + jX` (impedância em CA, j no lugar de i) | ✅ canônica | 3serie/Un4/Cap2 | 2026-05-11 |
+| `|Z| = √(R² + X²)` (módulo da impedância) | ✅ canônica | 3serie/Un4/Cap2 | 2026-05-11 |
+| `y(t) = A cos(ωt + φ)` (oscilação harmônica) | ✅ canônica | 3serie/Un4/Cap2 | 2026-05-11 |
+| `y(t) = Re[A · e^(i(ωt+φ))]` (escrita complexa da oscilação) | ✅ canônica (Re recupera cosseno) | 3serie/Un4/Cap2 | 2026-05-11 |
+| `w = z · e^(iθ)` (rotação no plano complexo) | ✅ canônica | 3serie/Un4/Cap2 | 2026-05-11 |
 
 ### Cálculos passo-a-passo verificados
 
@@ -113,6 +121,13 @@ Every chapter follows this architecture, in order:
 | `5 · 10 + 5 · 4 = 50 + 20 = 70` | ✅ correto (distributiva confere) | 4ano/Un4/Cap1 | 2026-05-01 |
 | `2 · (6+3) = 2 · 9 = 18` | ✅ correto | 4ano/Un4/Cap1 | 2026-05-01 |
 | `2 · 6 + 2 · 3 = 12 + 6 = 18` | ✅ correto (distributiva confere) | 4ano/Un4/Cap1 | 2026-05-01 |
+| `cos(2π/3) + i sin(2π/3) = -1/2 + i√3/2` | ✅ correto (cos 120° = -1/2; sin 120° = √3/2) | 3serie/Un4/Cap1 | 2026-05-11 |
+| `cos(4π/3) + i sin(4π/3) = -1/2 - i√3/2` | ✅ correto (cos 240° = -1/2; sin 240° = -√3/2) | 3serie/Un4/Cap1 | 2026-05-11 |
+| Raízes quartas da unidade: `{1, i, -1, -i}` | ✅ correto | 3serie/Un4/Cap1 | 2026-05-11 |
+| `(2+i)² − 4(2+i) + 5 = 0` | ✅ correto (2+i é raiz de x²-4x+5) | 3serie/Un4/Cap2 | 2026-05-11 |
+| `(2-i)² − 4(2-i) + 5 = 0` | ✅ correto (par conjugado) | 3serie/Un4/Cap2 | 2026-05-11 |
+| `|Z| = √(3² + 4²) = √(9+16) = √25 = 5` | ✅ correto (pitagórico 3-4-5) | 3serie/Un4/Cap2 | 2026-05-11 |
+| `1 · e^(iπ/2) = cos(π/2) + i sin(π/2) = 0 + i = i` | ✅ correto (rotação 90°) | 3serie/Un4/Cap2 | 2026-05-11 |
 
 ### Personagens / dados históricos validados
 
@@ -144,6 +159,8 @@ Every chapter follows this architecture, in order:
 | Adrien-Marie Legendre | matemático francês, 18 set 1752 – 9 jan 1833. *Éléments de géométrie* (1794), referência didática por décadas; apresentou o método dos mínimos quadrados em 1805 (*Nouvelles méthodes pour la détermination des orbites des comètes*). | Perplexity (Wikipedia EN, Britannica, MacTutor) | 1serie/Un4/Cap2 | 2026-05-01 |
 | Carl Gustav Jacob Jacobi | matemático alemão, 10 dez 1804 (Potsdam) – 18 fev 1851 (Berlim). Sistematizou a teoria dos determinantes incluindo o determinante funcional (jacobiano), em obras como *De Formatione et Proprietatibus Determinantium*. Teorema de Jacobi: $\det(\mathrm{adj}(A)) = (\det A)^{n-1}$. | Perplexity (Wikipedia EN, Britannica, MacTutor) | 2serie/Un4/Cap1 | 2026-05-01 |
 | Pierre-Simon Laplace | matemático e astrônomo francês, 23 mar 1749 – 5 mar 1827. Mecânica celeste (*Mécanique Céleste*, 1799–1825); ligado ao desenvolvimento de determinantes por cofatores (expansão de Laplace, artigo de 1772). Importantes contribuições à análise e probabilidade. | Perplexity (Britannica, Wikipedia EN, MacTutor) | 2serie/Un4/Cap2 | 2026-05-01 |
+| Charles-François Sturm | matemático suíço-francês (nasceu Genebra 29 set 1803, naturalizou-se francês; atuou na École Polytechnique até morrer em Paris 15 dez 1855). Teorema de Sturm publicado em 1829 (*Mémoire sur la résolution des équations numériques*, Bulletin de Férussac) — método para contar raízes reais de um polinômio em um intervalo sem resolvê-lo. | Conhecimento canônico do modelo (Perplexity API com cota esgotada; reconfirmar via MacTutor https://mathshistory.st-andrews.ac.uk/Biographies/Sturm/) | 3serie/Un4/Cap1 | 2026-05-11 |
+| Charles Proteus Steinmetz | engenheiro e matemático germano-americano, 9 abr 1865 (Breslau) – 26 out 1923 (Schenectady, NY). Artigo *Complex Quantities and Their Use in Electrical Engineering* apresentado em 1893 no International Electrical Congress (Chicago); trabalhou na General Electric; pioneiro do uso de números complexos (fasores) na análise de circuitos CA. | Conhecimento canônico (Britannica, IEEE, Wikipedia EN) | 3serie/Un4/Cap2 | 2026-05-11 |
 
 ### Versículos confirmados (ARA — Almeida Revista e Atualizada)
 
@@ -156,9 +173,9 @@ Every chapter follows this architecture, in order:
 | Salmo 119:105 | "Lâmpada para os meus pés é a tua palavra e, luz para os meus caminhos." | 4ano/Un4/Cap5 | 2026-05-01 |
 | Provérbios 3:6 | "Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas." | 4ano/Un4/Cap6 | 2026-05-01 |
 | Provérbios 16:11 | "Peso e balança justos pertencem ao SENHOR; obra sua são todos os pesos da bolsa." | 5ano/Un4/Cap2; 8ano/Un4/Cap1 | 2026-05-01 |
-| Daniel 6:4 | "Então, os presidentes e os sátrapas procuravam ocasião para acusar a Daniel a respeito do reino; mas não puderam achá-la, nem culpa alguma; porque ele era fiel, e não se achava nele nenhum erro nem culpa." | 6ano/Un4/Cap2; 7ano/Un4/Cap2; 1serie/Un4/Cap2; 2serie/Un4/Cap2 | 2026-05-01 |
+| Daniel 6:4 | "Então, os presidentes e os sátrapas procuravam ocasião para acusar a Daniel a respeito do reino; mas não puderam achá-la, nem culpa alguma; porque ele era fiel, e não se achava nele nenhum erro nem culpa." | 6ano/Un4/Cap2; 7ano/Un4/Cap2; 1serie/Un4/Cap2; 2serie/Un4/Cap2; 3serie/Un4/Cap2 | 2026-05-11 |
 | 1 Coríntios 12:14 | "Porque também o corpo não é um só membro, mas muitos." | 6ano/Un4/Cap3 | 2026-05-01 |
-| Provérbios 11:3 | "A integridade dos retos os guia; mas, aos pérfidos, a sua mesma falsidade os destrói." | 7ano/Un4/Cap3; 9ano/Un4/Cap1 | 2026-05-01 |
+| Provérbios 11:3 | "A integridade dos retos os guia; mas, aos pérfidos, a sua mesma falsidade os destrói." | 7ano/Un4/Cap3; 9ano/Un4/Cap1; 3serie/Un4/Cap1 | 2026-05-11 |
 | Daniel 6:10 | "Daniel, pois, quando soube que a escritura estava assinada, entrou em sua casa e, em cima, no seu quarto, onde havia janelas abertas do lado de Jerusalém, três vezes por dia, se punha de joelhos, e orava, e dava graças, diante do seu Deus, como costumava fazer." | 7ano/Un4/Cap4 | 2026-05-01 |
 | Filipenses 4:8 | "Finalmente, irmãos, tudo o que é verdadeiro, tudo o que é respeitável, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se alguma virtude há e se algum louvor existe, seja isso o que ocupe o vosso pensamento." | 8ano/Un4/Cap2 | 2026-05-01 |
 | Tiago 1:22 | "Tornai-vos, pois, praticantes da palavra e não somente ouvintes, enganando-vos a vós mesmos." | 8ano/Un4/Cap3 | 2026-05-01 |

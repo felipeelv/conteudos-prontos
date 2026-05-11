@@ -1,12 +1,12 @@
 # Progresso da Disciplina — Matemática 1
 
-> ✅ **UN 4 COMPLETA EM TODAS AS SÉRIES (2026-05-01)** — 6+4+3+4+3+4+2+2 = 28 capítulos entregues e validados.
-> **Cobertura total:** 4º ano → 2ª série EM (todas as 8 séries do escopo ativo).
-> **Marco:** missão "uma Un 4 por série" concluída.
+> ✅ **UN 4 COMPLETA EM TODAS AS 9 SÉRIES (2026-05-11)** — 6+4+3+4+3+4+2+2+2 = 30 capítulos entregues e validados.
+> **Cobertura total:** 4º ano → 3ª série EM (todas as 9 séries do escopo ativo).
+> **Marco:** missão "uma Un 4 por série" concluída — agora incluindo 3ª série EM com Raízes Complexas e Aplicações.
 
 > Arquivo de memória de trabalho. Sempre que abrir uma nova sessão para esta disciplina, **leia este arquivo primeiro**, depois `_autor/memoria-autor.md` (especialmente a seção `## Cache de validações`).
 
-**Última atualização:** 2026-05-01 (**Un 4 da 2ª série EM fechada — Determinantes.** 2 capítulos com profundidade EM completa: definição, Sarrus, Laplace, propriedades, Teorema de Jacobi, inversa via adjunta. **Marco editorial:** Cap 1 teve 3 correções LaTeX (`\qquad`, `\text{}`, `\,`) — registrada nova regra: **matrizes não podem usar `\begin{pmatrix}` no AutoLaTeX, devem ser TikZ ou descrição em prosa**. 4 figuras TikZ produzidas para representar matrizes 2x2, Sarrus 3x3, sinais de cofatores e fluxo cofator→adjunta→inversa. **MISSÃO COMPLETA: Un 4 fechada em todas as 8 séries do escopo ativo.**)
+**Última atualização:** 2026-05-11 (**Un 4 da 3ª série EM fechada — Raízes Complexas e Aplicações.** 2 capítulos com profundidade EM completa: raízes n-ésimas via De Moivre, raízes da unidade, polígono regular no plano complexo; TFA, raízes conjugadas em polinômios reais, impedância `Z = R + jX`, oscilações com escrita complexa e rotações por multiplicação por `e^(iθ)`. **Marco:** Cap 2 teve 1 correção LaTeX (`\ \Omega` removido). Sturm e Steinmetz validados como personagens novos. Provérbios 11:3 e Daniel 6:4 reusados do cache. **MISSÃO COMPLETA: Un 4 fechada em todas as 9 séries do escopo ativo, incluindo agora 3ª série EM.**)
 **Skill responsável:** `autor-matematica-1` (em `~/.claude/skills/autor-matematica-1/SKILL.md`)
 **Validador:** `validador-matematica-1` (em `~/.claude/agents/validador-matematica-1.md`)
 
@@ -14,7 +14,7 @@
 
 ## Status atual
 
-**28 capítulos validados** — Un 4 fechada em **todas as 8 séries** do escopo ativo.
+**30 capítulos validados** — Un 4 fechada em **todas as 9 séries** do escopo ativo (incluindo 3ª série EM).
 
 ```
 ✅ 4º ano — Un 4 (Frações, Decimais e Plano Cartesiano) — 6/6 caps
@@ -60,6 +60,10 @@
 ✅ 2ª série EM — Un 4 (Determinantes) — 2/2 caps
    ├─ Cap 1: Cálculo de Determinantes (ordem 1, 2, Sarrus 3x3, Laplace; com 3 TikZ: matriz 2x2, Sarrus, sinais de cofatores; com Fórmulas do capítulo)
    └─ Cap 2: Propriedades e Aplicações (transposta, troca, anulação, escala, produto, Jacobi, inversa via adjunta; com TikZ: fluxo cofator→adjunta→inversa; com Fórmulas do capítulo)
+
+✅ 3ª série EM — Un 4 (Raízes Complexas e Aplicações) — 2/2 caps
+   ├─ Cap 1: Raízes n-ésimas (De Moivre, n raízes distintas, raízes da unidade, polígono regular; Sturm como referência histórica; com Fórmulas do capítulo)
+   └─ Cap 2: Aplicações dos Complexos (TFA, raízes conjugadas, impedância Z=R+jX, oscilações, rotações no plano; Steinmetz como referência histórica; com Fórmulas do capítulo)
 ```
 
 **Pendentes nas oito unidades:** nenhum. **Missão Un 4 concluída.**
@@ -86,6 +90,7 @@
 | 2026-05-01 | +4 (9º ano, Un4, Caps 1–4 — modo unidade-inteira) | **Un 4 do 9º ano fechada — Função Afim.** Cap 1 Definição e Gráfico (Nicole Oresme 1320–1382, latitude de formas; Provérbios 11:3 reuso). Cap 2 Coeficientes e Comportamento (Pierre de Fermat reuso, geometria analítica; Provérbios 10:9 reuso). Cap 3 Zero e Estudo do Sinal (Brahmagupta reuso, regras para zero/negativos; Lucas 16:10 reuso) — **dedução algébrica de $x_0 = -\dfrac{b}{a}$ explicitada (pico N4 controlado).** Cap 4 Casos Particulares e Aplicações (Liu Hui c. 220–280, *Jiuzhang Suanshu*; Gálatas 6:7 ARA match exato). 12 regras LaTeX/estrutura OK. **Segunda unidade consecutiva sem correções na 1ª validação.** **6º e 7º uso do TikZ:** `comparacao-coeficiente-angular.png` (Cap 2) e `estudo-do-sinal-2x-menos-6.png` (Cap 3) — com regiões coloridas por sinal. **Nova regra editorial registrada** (a partir de feedback do Felipe): sem auto-referência curricular em subtítulos ou texto (não dizer "do Nº ano", "como vimos antes"). Cap 1 do 8º ano corrigido retroativamente. Cache: +2 personagens (Oresme, Liu Hui), +1 versículo (Gálatas 6:7), +5 reusos registrados. |
 | 2026-05-01 | +2 (1ª série EM, Un4, Caps 1–2 — modo unidade-inteira) | **Un 4 da 1ª série EM fechada — Funções e Função Afim.** Cap 1 Conceito de Função (Karl Weierstrass 1815–1897, "pai da análise moderna", rigor formal a função/limite/continuidade; Provérbios 10:9 reuso) — definição rigorosa Dom/CDom/Im, classificação injetora/sobrejetora/bijetora, função composta $(f \circ g)(x) = f(g(x))$, função inversa com condição de bijetividade. Cap 2 Função Afim (Adrien-Marie Legendre 1752–1833, *Éléments de géométrie* 1794, mínimos quadrados 1805; Daniel 6:4 reuso) — revisita formal com modelagem (assistência técnica $C(t)=12t+80$) e ponto de equilíbrio entre dois planos ($m=50$). 12 regras LaTeX/estrutura OK. **Terceira unidade consecutiva sem correções na 1ª validação.** **8º e 9º uso do TikZ:** `relacao-funcao-vs-nao-funcao.png` (Cap 1) e `comparacao-planos-telefonia.png` (Cap 2) — segundo TikZ refeito por escala incorreta na 1ª tentativa. Cache: +2 personagens (Weierstrass, Legendre), +2 reusos registrados. |
 | 2026-05-01 | +2 (2ª série EM, Un4, Caps 1–2 — modo unidade-inteira) | **Un 4 da 2ª série EM fechada — Determinantes. MISSÃO Un 4 COMPLETA EM TODAS AS SÉRIES.** Cap 1 Cálculo de Determinantes (Carl Gustav Jacob Jacobi 1804–1851; Provérbios 10:9 reuso) — ordem 1 e 2, Sarrus 3x3, menor complementar, cofator $A_{ij} = (-1)^{i+j} M_{ij}$, desenvolvimento de Laplace por linha/coluna. **Necessárias 3 correções LaTeX (`\qquad`, `\text{}`, `\,`)** capturadas pela validação automática. Cap 2 Propriedades e Aplicações (Pierre-Simon Laplace 1749–1827, expansão de Laplace 1772, *Mécanique Céleste*; Daniel 6:4 reuso) — propriedades (transposta, troca de linhas, anulação, escala $\det(\lambda A) = \lambda^n \det A$, produto $\det(AB) = \det A \cdot \det B$, Teorema de Jacobi $\det(\mathrm{adj}(A)) = (\det A)^{n-1}$), inversa via adjunta. **10º a 13º uso do TikZ:** `matriz-2x2-ad-menos-bc.png`, `sarrus-3x3.png`, `sinais-cofatores-3x3.png`, `fluxo-matriz-inversa.png`. **Nova regra editorial registrada:** matrizes não podem usar `\begin{pmatrix}` no AutoLaTeX — sempre via TikZ ou descrição em prosa. Cache: +2 personagens (Jacobi, Laplace), +2 reusos. |
+| 2026-05-11 | +2 (3ª série EM, Un4, Caps 1–2 — modo unidade-inteira) | **Un 4 da 3ª série EM fechada — Raízes Complexas e Aplicações. MISSÃO Un 4 COMPLETA EM TODAS AS 9 SÉRIES (4º ano → 3ª série EM).** Cap 1 Raízes n-ésimas (Charles-François Sturm 1803–1855, Teorema de Sturm 1829; Provérbios 11:3 reuso) — condição `w^n = z`, fórmula geral via De Moivre `z_k = ⁿ√ρ[cos((θ+2kπ)/n) + i sin((θ+2kπ)/n)]`, índice `k = 0,…,n-1`, n raízes distintas, raízes da unidade `z_k = e^(2kπi/n)`, espaçamento angular `2π/n`, polígono regular inscrito. Exemplo completo das raízes cúbicas de 1. Cap 2 Aplicações dos Complexos (Charles Proteus Steinmetz 1865–1923, *Complex Quantities and Their Use in Electrical Engineering* 1893; Daniel 6:4 reuso) — TFA, raízes conjugadas em polinômios reais (exemplo `x² − 4x + 5` com raízes `2 ± i`), impedância `Z = R + jX`, módulo `|Z| = √(R² + X²)` (exemplo R=3, X=4 → |Z|=5), oscilações harmônicas `y(t) = A cos(ωt + φ)` e escrita complexa `Re[A·e^(i(ωt+φ))]`, rotações no plano por `w = z·e^(iθ)`. **Nota editorial:** Cap 2 teve 1 correção LaTeX (`\ \Omega` → `\Omega`, separador proibido pela regra 2). Cache: +2 personagens (Sturm, Steinmetz), +9 fórmulas, +7 cálculos, +2 reusos (Provérbios 11:3, Daniel 6:4). |
 
 ---
 
