@@ -11,6 +11,8 @@ A turma do 7º ano coletou, em pesquisa de feira de ciências, o meio de transpo
 
 ## 1. Escolher antes de desenhar
 
+Construir gráfico começa por uma decisão, não por um traço.
+
 ### 1.1 A pergunta manda no gráfico
 
 Cada gráfico responde a um tipo de pergunta:
@@ -42,6 +44,8 @@ Cada gráfico responde a um tipo de pergunta:
 
 ## 2. Escalas honestas
 
+Escolhido o tipo, vem a régua que organiza os números.
+
 ### 2.1 Marcas regulares e passo redondo
 
 - **Escala**: regra que distribui valores no eixo;
@@ -60,6 +64,8 @@ Cada gráfico responde a um tipo de pergunta:
 
 ## 3. Título, legenda e fonte
 
+Gráfico sem título, unidade ou fonte é gráfico incompleto.
+
 ### 3.1 O título como primeira leitura
 
 O **título informativo** diz três coisas: assunto, grupo pesquisado e período.
@@ -77,6 +83,8 @@ O **título informativo** diz três coisas: assunto, grupo pesquisado e período
 ---
 
 ## 4. Precisão e clareza
+
+Gráfico bom é o que o leitor entende rápido e sem erro.
 
 ### 4.1 Menos enfeite, mais informação
 

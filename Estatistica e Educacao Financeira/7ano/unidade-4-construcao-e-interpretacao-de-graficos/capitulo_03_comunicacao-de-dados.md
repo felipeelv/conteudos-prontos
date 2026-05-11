@@ -1,4 +1,4 @@
-# Capítulo 4 — Comunicação de Dados
+# Capítulo 3 — Comunicação de Dados
 
 ## Como transformar dados em uma comunicação clara?
 
@@ -10,6 +10,8 @@ A pesquisa do bimestre terminou. A turma coletou 30 respostas sobre meio de tran
 ---
 
 ## 1. Cada formato tem uma função
+
+Texto, tabela e gráfico fazem coisas diferentes — comunicar bem é escolher o certo para cada parte.
 
 ### 1.1 Texto, tabela e gráfico
 
@@ -34,6 +36,8 @@ A escolha do formato vem da pergunta que o leitor precisa responder. Quando o me
 
 ## 2. O relatório em cinco partes
 
+Relatório curto de pesquisa cabe em cinco partes, sempre na mesma ordem.
+
 ### 2.1 Problema e método
 
 - **Problema de pesquisa**: a pergunta que orientou a coleta;
@@ -56,6 +60,8 @@ Sem problema, o leitor não sabe o que se mede; sem método, não sabe se pode c
 ---
 
 ## 3. Planilhas como apoio
+
+Planilha eletrônica é ferramenta digital para tabelas e gráficos.
 
 ### 3.1 Organizar dados em linhas e colunas
 
@@ -87,6 +93,8 @@ A revisão manual segue o checklist do Capítulo 1.
 ---
 
 ## 4. Revisar para comunicar
+
+A última etapa é reler tudo com olhos de leitor.
 
 ### 4.1 Clareza, fonte e coerência
 
