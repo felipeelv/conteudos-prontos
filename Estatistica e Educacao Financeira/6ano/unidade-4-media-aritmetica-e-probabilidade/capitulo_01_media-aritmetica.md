@@ -2,7 +2,7 @@
 
 ## Onde está a média quando ninguém tirou exatamente aquela nota?
 
-Sexta-feira, dia de boletim. Sua mãe pergunta como foi em Matemática e você lê as notas do bimestre: 5, 8, 6, 8 e 8. Embaixo aparece "Média do bimestre: 7,0" — mas em prova nenhuma você tirou 7. De onde veio esse número?
+Boletim do bimestre: notas 5, 8, 6, 8, 8. Média 7,0 — mas em prova nenhuma você tirou 7. De onde vem esse número?
 
 > 💭 **Pense um pouco:**  
 > A média da turma conta a história de cada aluno?
@@ -11,118 +11,93 @@ Sexta-feira, dia de boletim. Sua mãe pergunta como foi em Matemática e você l
 
 ## 1. Somar e Repartir
 
-A média é a maneira de repartir um total igualmente entre todas as partes.
+A média reparte o total igualmente entre todas as partes.
 
-### 1.1 A ideia de dividir igualmente
+### 1.1 Dividir igualmente
 
-4 amigos com chocolates dividem por igual:
+4 amigos com 6, 4, 5 e 1 chocolates. Total 16; repartido em partes iguais: 16 ÷ 4 = 4 cada. Esse 4 é a média.
 
-1. cada um tem uma quantidade — 6, 4, 5 e 1 chocolates;
-2. juntam tudo: 6 + 4 + 5 + 1 = 16 chocolates;
-3. repartem em partes iguais: 16 ÷ 4 = 4 cada.
-
-Esse 4 é a média do grupo.
-
-### 1.2 A fórmula da média
-
-A média aritmética é a soma dos valores dividida pela quantidade de valores.
+### 1.2 A fórmula
 
 $$ \bar{x} = \frac{x_1 + x_2 + \ldots + x_n}{n} $$
 
-Onde $$\bar{x}$$ é a média, $$x_1, \ldots, x_n$$ são os valores e $$n$$ é a quantidade.
+Onde $$\bar{x}$$ é a média, $$x_i$$ são os valores e $$n$$ a quantidade.
 
-> Chocolates: $$\bar{x} = \frac{6 + 4 + 5 + 1}{4} = \frac{16}{4} = 4$$.
-
-> 📐 **Fazendo as Contas:**  
-> Boletim 5, 8, 6, 8, 8: soma = 35 e $$\bar{x} = 35 \div 5 = 7$$.
+> Boletim: $$\bar{x} = (5 + 8 + 6 + 8 + 8) / 5 = 7$$.
 
 ---
 
 ## 2. O Que a Média Representa
 
-A média descreve o conjunto inteiro, não cada valor isolado.
+A média descreve o conjunto, não cada valor isolado.
 
 ### 2.1 Valor típico
 
-A média é um **valor típico** — um número que representa o comportamento geral. No boletim, "média 7" significa que, se todas as provas tivessem a mesma nota, essa nota seria 7.
+A média é um **valor típico** — número que representa o comportamento geral. "Média 7" significa: se todas as provas tivessem a mesma nota, seria 7.
 
-### 2.2 Média pode não ser um valor real da lista
+### 2.2 Pode não ser um valor da lista
 
-> Boletim 5, 8, 6, 8, 8: média 7, mas nenhuma prova vale 7.
+> Boletim com média 7, mas nenhuma prova vale 7.
 
 Acontece porque:
 
-- a média é um cálculo, não cópia de um dado;
-- representa o conjunto, não um valor específico;
-- fica sempre entre o menor e o maior da lista — entre 5 e 8.
+- é cálculo, não cópia de um dado;
+- representa o conjunto, não um valor;
+- fica entre o menor e o maior — aqui, entre 5 e 8.
 
 > 💡 **Você sabia?**  
-> O belga Adolphe Quetelet (1796-1874) usou médias para estudar populações inteiras — e chamou isso de "homem médio".
+> Adolphe Quetelet (1796-1874) usou médias para estudar populações inteiras e cunhou o termo "homem médio".
 
 ---
 
 ## 3. Calculando em Situações Simples
 
-A média aparece em qualquer situação que precise resumir um grupo de números.
+A média aparece sempre que precisamos resumir um grupo de números.
 
-### 3.1 Notas escolares
+### 3.1 Notas
 
-Notas em História: 8, 7 e 9.
+Notas 8, 7, 9: $$\bar{x} = 24/3 = 8$$.
 
-$$ \bar{x} = \frac{8 + 7 + 9}{3} = \frac{24}{3} = 8 $$
+### 3.2 Mesada e tempo de tela
 
-### 3.2 Mesada, consumo e tempo de tela
+Mesada de 4 semanas — R$ 20, 30, 25, 25: $$\bar{x} = 100/4 = 25$$.
 
-Quatro semanas de mesada: R$ 20, R$ 30, R$ 25, R$ 25.
-
-$$ \bar{x} = \frac{20 + 30 + 25 + 25}{4} = \frac{100}{4} = 25 $$
-
-A média semanal foi R$ 25.
-
-> 📈 **No Dia a Dia:**  
-> Quando o app mostra "tempo médio de tela: 2h por dia", ele somou as horas da semana e dividiu por 7.
+App de celular: 14 h de tela na semana → $$\bar{x} = 14/7 = 2$$ h/dia.
 
 ---
 
 ## 4. Média em Tabelas de Frequência
 
-Quando um valor aparece várias vezes, a tabela de frequência organiza sem repetir tudo.
+Quando um valor aparece várias vezes, a tabela organiza sem repetir.
 
-### 4.1 Quando um valor aparece várias vezes
+### 4.1 Cada valor vezes sua frequência
 
-Turma respondeu: "quantos livros leu nas férias?".
+"Quantos livros leu nas férias?":
 
-| Livros | Alunos (frequência) |
+| Livros | Alunos ($$f$$) |
 |:---:|:---:|
 | 0 | 5 |
 | 1 | 8 |
 | 2 | 4 |
 | 3 | 3 |
 
-Total: 20 alunos. Cada valor entra na soma tantas vezes quanto sua frequência:
+20 alunos no total:
 
 $$ \bar{x} = \frac{0 \cdot 5 + 1 \cdot 8 + 2 \cdot 4 + 3 \cdot 3}{20} = \frac{25}{20} = 1{,}25 $$
 
-Em média, cada aluno leu 1,25 livros — valor que ninguém leu exatamente, mas que descreve o conjunto.
+### 4.2 Conferir antes de fechar
 
-### 4.2 Conferir se todos os dados entraram
-
-Antes de concluir uma média:
-
-- somei todos os valores?
+- somei todos?
 - dividi pela quantidade certa?
 - não esqueci ninguém?
 
 Qualquer "não" muda o resultado.
 
-> ⏸️ **Pare e Pense:**  
-> Se um aluno faltou e a nota dele não entrou na média da turma, a média mostra a turma de verdade?
-
 ---
 
 ## NA VIDA REAL
 
-O boletim resume cinco notas em um número só, e a média é uma balança: o que ficou acima compensa o que ficou abaixo. O mesmo cálculo aparece em "tempo médio de tela", "gasto médio do mês" e "média de gols por jogo".
+"Tempo médio de tela", "gasto médio do mês", "média de gols por jogo" — mesma matemática do boletim, em outra escala.
 
 ---
 
@@ -130,7 +105,7 @@ O boletim resume cinco notas em um número só, e a média é uma balança: o qu
 
 > "O Senhor abomina balanças desonestas, mas os pesos exatos lhe são agradáveis." (Provérbios 11:1)
 
-Integridade é aceitar a conta completa. Esconder um valor para subir a média não muda a verdade do conjunto — só muda o número que sai.
+Integridade é aceitar a conta completa: esconder um valor para subir a média não muda a verdade do conjunto.
 
 - **Pese tudo, mesmo o que pesa contra você.** Pesos justos não escolhem o que medir (Provérbios 11:1).
 
@@ -141,12 +116,12 @@ Integridade é aceitar a conta completa. Esconder um valor para subir a média n
 
 ## Simplificando
 
-Média aritmética é o total repartido igualmente: soma dividida pela quantidade — representa o conjunto inteiro, mesmo quando ninguém tem exatamente o valor calculado.
+Média é o total repartido igualmente entre todos os valores — soma dividida pela quantidade.
 
 ---
 
 ## Para não esquecer
 
 - **Soma:** todos os valores entram, sem exceção;
-- **Quantidade:** divida pelo número total de valores, não pelo número de linhas da tabela;
-- **Valor típico:** a média descreve o conjunto e pode não estar na lista.
+- **Quantidade:** divida pelo total, não pelas linhas da tabela;
+- **Valor típico:** descreve o conjunto, pode não estar na lista.

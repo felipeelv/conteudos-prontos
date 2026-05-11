@@ -2,7 +2,7 @@
 
 ## Que gráfico mostra melhor estes dados?
 
-A turma do 7º ano coletou, em pesquisa de feira de ciências, o meio de transporte usado para chegar à escola. As 30 respostas viraram quatro colunas numa tabela. Falta transformar tabela em gráfico — é onde mais se erra.
+A turma do 7º ano coletou o meio de transporte usado para chegar à escola: 30 respostas em quatro categorias. Falta transformar tabela em gráfico — é onde mais se erra.
 
 > 💭 **Pense um pouco:**  
 > Você escolheria o gráfico pelo que fica mais bonito ou pelo que responde melhor à pergunta?
@@ -21,7 +21,7 @@ Cada gráfico responde a um tipo de pergunta:
 - **Setores** — mostram parte e todo;
 - **Linhas** — revelam evolução no tempo.
 
-| Meio de transporte | Frequência (alunos) |
+| Meio de transporte | Frequência |
 |---|---:|
 | A pé | 8 |
 | Bicicleta | 4 |
@@ -66,19 +66,17 @@ Escolhido o tipo, vem a régua que organiza os números.
 
 Gráfico sem título, unidade ou fonte é gráfico incompleto.
 
-### 3.1 O título como primeira leitura
+### 3.1 Título informativo
 
-O **título informativo** diz três coisas: assunto, grupo pesquisado e período.
+Diz três coisas: assunto, grupo pesquisado e período.
 
-> Não basta "Transporte". Escreva: *Meio de transporte usado por alunos do 7º ano — pesquisa de feira de ciências, 2026*.
+> *Meio de transporte usado por alunos do 7º ano — pesquisa de feira de ciências, 2026* (não basta "Transporte").
 
-### 3.2 Legenda, unidade e origem do dado
+### 3.2 Legenda, unidade e fonte
 
 - **Eixos**: nome + unidade (número solto não significa nada);
-- **Legenda**: explica cores/séries — dispensa-se com uma só série;
-- **Fonte**: de onde vieram os dados (IBGE, INEP, OMS, Banco Central ou coleta da turma).
-
-> No exemplo: horizontal "meio de transporte"; vertical "número de alunos"; fonte "pesquisa com 30 alunos do 7º ano em maio de 2026".
+- **Legenda**: explica cores/séries — dispensa-se com uma só;
+- **Fonte**: de onde vieram os dados (IBGE, INEP, OMS, BC ou coleta da turma).
 
 ---
 
@@ -93,13 +91,11 @@ Cortar do gráfico:
 - sombra, fundo decorado, efeito 3D;
 - cores aleatórias (só diferentes quando indicam categorias diferentes);
 - rótulos longos;
-- barras coladas — deixar espaço entre elas.
+- barras coladas — deixar espaço.
 
-Planilha gera em um clique, mas o que sai pronto raramente está bom — revisar é parte de construir.
+### 4.2 Checklist final
 
-### 4.2 Checklist final do gráfico
-
-| Item | Pergunta de revisão |
+| Item | Pergunta |
 |---|---|
 | Tipo | Responde à pergunta da pesquisa? |
 | Escala | Marcas regulares e barra começando em 0? |
@@ -113,7 +109,7 @@ Planilha gera em um clique, mas o que sai pronto raramente está bom — revisar
 
 ## NA VIDA REAL
 
-Painéis do IBGE e do INEP publicam gráficos com título, fonte, escala e período visíveis — esse padrão separa dado público de imagem solta de internet.
+Painéis do IBGE e do INEP publicam gráficos com título, fonte, escala e período visíveis — o padrão que separa dado público de imagem solta de internet.
 
 ---
 
@@ -121,7 +117,7 @@ Painéis do IBGE e do INEP publicam gráficos com título, fonte, escala e perí
 
 > "Quem é fiel no pouco, também é fiel no muito." (Lucas 16:10)
 
-Cada decisão na construção de um gráfico — tipo, escala, título — é escolha de fidelidade ao dado. O leitor recebe o resultado sem saber que a escolha foi feita.
+Cada decisão na construção — tipo, escala, título — é escolha de fidelidade ao dado; o leitor recebe o resultado sem saber que a escolha foi feita.
 
 - **Cuidar do detalhe é cuidar da verdade.** Escala mal feita ou título genérico mudam a leitura inteira, mesmo com números certos (Provérbios 11:3).
 
@@ -138,6 +134,6 @@ Construir gráfico é decidir tipo, escala, título, legenda e fonte com fidelid
 
 ## Para não esquecer
 
-- **Tipo:** a pergunta e a variável escolhem o gráfico, não o gosto.
-- **Escala:** marcas regulares, passo redondo e barra começando em 0.
-- **Identificação:** título informativo, eixos nomeados, legenda quando precisar e fonte sempre.
+- **Tipo:** a pergunta e a variável escolhem o gráfico, não o gosto;
+- **Escala:** marcas regulares, passo redondo e barra começando em 0;
+- **Identificação:** título, eixos, legenda quando precisar e fonte sempre.

@@ -2,7 +2,7 @@
 
 ## Qual número representa melhor o conjunto?
 
-Final de ano, cinco amigos se encontram em um bar. Em algum momento surge: "qual é a renda média do nosso grupo?". Quatro deles ganham entre R$ 3.000 e R$ 5.500 por mês; o quinto — sócio de uma empresa — ganha R$ 49.500. A média dá pouco mais de R$ 13.000 e ninguém se reconhece nela. A média conta a verdade desse grupo, ou só uma parte distorcida dela?
+Cinco amigos em um bar discutem a renda média do grupo. Quatro ganham entre R$ 3.000 e R$ 5.500; o quinto, sócio de empresa, ganha R$ 49.500. A média dá R$ 13.400 — e ninguém se reconhece nela.
 
 > 💭 **Pense um pouco:**  
 > Se a média sobe, todos melhoraram?
@@ -11,67 +11,54 @@ Final de ano, cinco amigos se encontram em um bar. Em algum momento surge: "qual
 
 ## 1. Média: Repartir a Soma
 
-A média aritmética é a primeira medida de tendência central — útil em dados homogêneos, frágil em valores extremos.
+A média é a primeira medida de tendência central — útil em dados homogêneos, frágil em valores extremos.
 
 ### 1.1 Média aritmética simples
 
-A **média aritmética simples** ($$\bar{x}$$) é a soma dos valores dividida pela quantidade:
+$$ \bar{x} = \frac{\sum x_i}{n} $$
 
-$$ \bar{x} = \frac{x_1 + x_2 + \ldots + x_n}{n} = \frac{\sum x_i}{n} $$
-
-> Mesa do bar (R$ 3.000, 4.000, 5.000, 5.500, 49.500):
-
-$$ \bar{x} = \frac{67000}{5} = 13.400 $$
-
-Número que não se aproxima de nenhuma renda real do conjunto.
+> Bar (3.000, 4.000, 5.000, 5.500, 49.500): $$\bar{x} = 67.000 / 5 = 13.400$$ — número que não se aproxima de nenhuma renda real do conjunto.
 
 ### 1.2 Média ponderada
 
-A **média ponderada** ($$\bar{x}_p$$) considera importâncias (pesos) distintas para cada valor:
+Considera importâncias (pesos) distintas:
 
 $$ \bar{x}_p = \frac{\sum (x_i \cdot p_i)}{\sum p_i} $$
 
-> Boletim — prova mensal (peso 2): 7,0; prova bimestral (peso 4): 6,5; seminário (peso 1): 9,0.
+> Boletim — mensal (peso 2) 7,0; bimestral (peso 4) 6,5; seminário (peso 1) 9,0:
 
-$$ \bar{x}_p = \frac{7{,}0 \cdot 2 + 6{,}5 \cdot 4 + 9{,}0 \cdot 1}{2 + 4 + 1} = \frac{49}{7} = 7{,}0 $$
+$$ \bar{x}_p = \frac{14 + 26 + 9}{7} = 7{,}0 $$
 
 O peso 4 da bimestral puxou a média final.
 
 > 💡 **Você sabia?**  
-> No início do século XIX, Carl Friedrich Gauss desenvolveu o método dos mínimos quadrados, mostrando que a média aritmética é a estimativa que minimiza a soma dos erros quadráticos.
+> Carl Friedrich Gauss desenvolveu o método dos mínimos quadrados, mostrando que a média aritmética minimiza a soma dos erros quadráticos.
 
 ---
 
 ## 2. Mediana e Moda
 
-Quando há valores extremos, a média deixa de representar o grupo — mediana e moda contam outra parte da história.
+Quando há valores extremos, a média deixa de representar o grupo.
 
 ### 2.1 Mediana: o valor central
 
-A **mediana** ($$Md$$) é o valor central do conjunto ordenado (rol) — divide a lista em duas metades iguais. Posição central:
+A **mediana** ($$Md$$) é o valor central do conjunto ordenado (rol). Posição $$P = (n+1)/2$$:
 
-$$ P = \frac{n+1}{2} $$
+- **$$n$$ ímpar**: $$Md = x_{(n+1)/2}$$;
+- **$$n$$ par**: $$Md = (x_{n/2} + x_{n/2+1})/2$$.
 
-- **$$n$$ ímpar**: $$Md = x_{\frac{n+1}{2}}$$;
-- **$$n$$ par**: $$Md = \frac{x_{n/2} + x_{n/2+1}}{2}$$.
-
-> Bar ($$n = 5$$): rol 3.000, 4.000, 5.000, 5.500, 49.500. Posição $$P = 3$$ → $$Md = 5.000$$ — bem mais próxima da maioria que a média de 13.400.
+> Bar ($$n = 5$$): rol 3.000, 4.000, 5.000, 5.500, 49.500 → $$Md = 5.000$$ — bem mais próxima da maioria que a média de 13.400.
 
 ### 2.2 Moda e distribuição modal
 
-A **moda** ($$Mo$$) é o valor que aparece com maior frequência — não exige cálculo, só contagem.
-
-Classificação:
+A **moda** ($$Mo$$) é o valor que aparece com maior frequência:
 
 - **amodal**: nenhum valor se destaca;
 - **unimodal**: uma moda;
-- **bimodal**: duas modas com mesma frequência máxima;
+- **bimodal**: duas modas com mesma frequência;
 - **multimodal**: três ou mais.
 
-> {7, 8, 8, 9, 10}: moda = 8 (unimodal). {6, 7, 7, 8, 9, 9}: modas 7 e 9 (bimodal).
-
-> ⏸️ **Pare e Pense:**  
-> Se em um grupo a média é R$ 13.400 e a mediana é R$ 5.000, qual número você usaria para descrever "a renda do grupo" — e por quê?
+> {7, 8, 8, 9, 10}: moda 8 (unimodal). {6, 7, 7, 8, 9, 9}: modas 7 e 9 (bimodal).
 
 ---
 
@@ -81,13 +68,11 @@ Quando os dados estão em classes (intervalos), a mediana exige interpolação.
 
 ### 3.1 Classe mediana e frequência acumulada
 
-Em dados agrupados:
+- **Classes**: intervalos;
+- **Frequência** ($$f$$): quantos caem em cada classe;
+- **Frequência acumulada** ($$F_{ac}$$): soma progressiva.
 
-- **classes**: intervalos (substituem valores individuais);
-- **frequência** ($$f$$): quantos valores caem em cada classe;
-- **frequência acumulada** ($$F_{ac}$$): soma progressiva.
-
-Localizar a **classe mediana**: calcule $$n/2$$ e procure a primeira classe cuja $$F_{ac}$$ atinge ou ultrapassa esse valor.
+Calcule $$n/2$$ e procure a primeira classe cuja $$F_{ac}$$ atinge esse valor — é a **classe mediana**.
 
 | Salário (R$) | $$f$$ | $$F_{ac}$$ |
 |:---|:---:|:---:|
@@ -97,20 +82,15 @@ Localizar a **classe mediana**: calcule $$n/2$$ e procure a primeira classe cuja
 | 4.500 ⊢ 5.500 | 7 | 47 |
 | 5.500 ⊢ 6.500 | 3 | 50 |
 
-$$n = 50$$ → $$n/2 = 25$$. Classe mediana: 3.500 ⊢ 4.500 (primeira em que $$F_{ac} \geq 25$$).
+$$n = 50$$, $$n/2 = 25$$ → classe mediana 3.500 ⊢ 4.500.
 
-### 3.2 Interpolação da mediana
+### 3.2 Interpolação
 
 $$ Md = L_i + \frac{(n/2 - F_{ant})}{f_{Md}} \cdot h $$
 
-Onde $$L_i$$ é o limite inferior da classe mediana, $$F_{ant}$$ é a $$F_{ac}$$ da classe anterior, $$f_{Md}$$ é a frequência da classe mediana e $$h$$ é a amplitude.
+Onde $$L_i$$ é limite inferior da classe mediana, $$F_{ant}$$ a $$F_{ac}$$ anterior, $$f_{Md}$$ a frequência e $$h$$ a amplitude.
 
-> $$L_i = 3.500$$, $$F_{ant} = 22$$, $$f_{Md} = 18$$, $$h = 1.000$$:
-
-$$ Md = 3.500 + \frac{(25 - 22)}{18} \cdot 1.000 = 3.500 + 166{,}67 \approx 3.666{,}67 $$
-
-> 📐 **Fazendo as Contas:**  
-> Mediana de 30 valores ordenados ($$n = 30$$, par): $$Md = (x_{15} + x_{16}) / 2$$.
+> $$Md = 3.500 + \frac{(25 - 22)}{18} \cdot 1.000 \approx 3.666{,}67$$.
 
 ---
 
@@ -120,26 +100,26 @@ Cada medida conta uma parte da história — comparar as três produz interpreta
 
 ### 4.1 Outliers e assimetria
 
-Um **outlier** é um valor muito distante do padrão:
+Um **outlier** é valor muito distante do padrão:
 
 - **média**: muito sensível (puxa em direção ao extremo);
 - **mediana**: pouco sensível (só posição);
-- **moda**: independe de outliers (só repetição).
+- **moda**: independe de outliers.
 
-Quando há cauda longa:
+Cauda longa:
 
-- **assimetria positiva** (cauda à direita): $$\bar{x} > Md > Mo$$;
-- **assimetria negativa** (cauda à esquerda): $$\bar{x} < Md < Mo$$;
+- **assimetria positiva** (direita): $$\bar{x} > Md > Mo$$;
+- **assimetria negativa** (esquerda): $$\bar{x} < Md < Mo$$;
 - **simétrica**: $$\bar{x} \approx Md \approx Mo$$.
 
 > 📊 **Nos Números:**  
-> No Brasil, a renda domiciliar mediana é cerca da metade da renda média — assimetria positiva, em que poucos ganham muito mais que a maioria.
+> No Brasil, a renda mediana é cerca da metade da renda média — assimetria positiva, em que poucos ganham muito mais que a maioria.
 
-### 4.2 Quando usar média, mediana ou moda
+### 4.2 Quando usar cada uma
 
-- dados homogêneos, sem outliers → **média** comunica bem;
-- há outliers ou cauda longa → **mediana** é mais representativa;
-- pergunta é sobre o valor mais comum → **moda** responde diretamente.
+- dados homogêneos, sem outliers → **média**;
+- outliers ou cauda longa → **mediana**;
+- valor mais comum → **moda**.
 
 Não existe medida certa universal — existe medida adequada à pergunta.
 
@@ -147,7 +127,7 @@ Não existe medida certa universal — existe medida adequada à pergunta.
 
 ## NA VIDA REAL
 
-Quando uma reportagem noticia "a renda média subiu", a frase pode esconder concentração: a mediana costuma indicar melhor a renda do brasileiro típico. Escolher a medida estatística é decisão editorial — tem efeito direto sobre como o leitor entende a realidade.
+Quando uma reportagem noticia "a renda média subiu", a frase pode esconder concentração — a mediana costuma indicar melhor a renda do brasileiro típico.
 
 ---
 
@@ -155,7 +135,7 @@ Quando uma reportagem noticia "a renda média subiu", a frase pode esconder conc
 
 > "O Senhor abomina balanças desonestas, mas os pesos exatos lhe são agradáveis." (Provérbios 11:1)
 
-Integridade estatística é apresentar a medida que responde à pergunta, não a que sustenta a conclusão desejada. Trocar mediana por média (ou o contrário) sem justificar é quebrar a balança de modo sofisticado.
+Integridade estatística é apresentar a medida que responde à pergunta, não a que sustenta a conclusão desejada.
 
 - **Escolha a medida pelo que ela mostra, não pelo que ela esconde.** Apresentar média quando há outlier — sabendo que a mediana representaria melhor — é manipular a verdade dos dados (Provérbios 11:1).
 
@@ -174,4 +154,4 @@ Média, mediana e moda são três retratos do mesmo conjunto — escolher a medi
 
 - **Média ponderada:** soma dos valores multiplicados pelos pesos, dividida pela soma dos pesos;
 - **Mediana:** valor central do conjunto ordenado; pouco sensível a outliers;
-- **Assimetria:** quando há cauda longa, $$\bar{x}$$, $$Md$$ e $$Mo$$ se separam — sinal para investigar antes de concluir.
+- **Assimetria:** quando há cauda longa, $$\bar{x}$$, $$Md$$ e $$Mo$$ se separam.

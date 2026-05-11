@@ -2,7 +2,7 @@
 
 ## Como mapas, plantas e maquetes ajudam a decidir no mundo real?
 
-Sua família vai pintar o quarto que você divide com sua irmã, e o pintor pediu a planta para calcular o tapete novo. Na planta em escala 1:100, o quarto aparece com 4 cm de comprimento e 3 cm de largura. O pintor cobra R$ 50 por metro quadrado para cobrir o piso inteiro. Como mapas, plantas e maquetes ajudam a decidir no mundo real?
+Sua família vai pintar o quarto. Na planta em escala 1:100, o quarto tem 4 cm × 3 cm. O pintor cobra R$ 50/m² para cobrir o piso inteiro. Como traduzir o desenho em decisão real?
 
 > 💭 **Pense um pouco:**  
 > Que erro poderia acontecer se uma planta estivesse fora de escala?
@@ -15,26 +15,18 @@ Mapa útil traz escala, legenda e orientação — sem isso, é só um desenho.
 
 ### 1.1 Ler escala, legenda e orientação
 
-Um mapa útil sempre traz:
-
-- **escala** (numérica e/ou gráfica) — define a razão entre desenho e real;
-- **legenda** — explica os símbolos (rios, estradas, cidades);
-- **orientação** — seta indicando o norte.
-
-Sem esses três, o mapa é só um desenho.
+- **Escala** (numérica e/ou gráfica) — razão entre desenho e real;
+- **Legenda** — símbolos (rios, estradas, cidades);
+- **Orientação** — seta indicando o norte.
 
 ### 1.2 Calcular distâncias em km
 
 Aplicando $$d_r = d_d \cdot n$$ do Capítulo 1:
 
-> Mapa do estado em escala 1:500.000, duas cidades a 6 cm de distância no papel:
-
-$$ d_r = 6 \cdot 500.000 = 3.000.000 \, \mathrm{cm} = 30 \, \mathrm{km} $$
-
-A distância real é 30 km. A escala gráfica permitiria estimar isso visualmente, sem fazer a conta.
+> Mapa do estado 1:500.000, duas cidades a 6 cm no papel: $$d_r = 6 \cdot 500.000 = 3.000.000$$ cm = 30 km.
 
 > 💡 **Você sabia?**  
-> Em 1569, o cartógrafo flamengo Gerardus Mercator publicou um mapa-múndi para navegação — preserva rumos retos, mas distorce áreas de regiões próximas aos polos.
+> Em 1569, Mercator publicou um mapa-múndi para navegação — preserva rumos retos, mas distorce áreas próximas aos polos.
 
 ---
 
@@ -44,28 +36,17 @@ A **planta baixa** é a representação em escala de um espaço visto **de cima*
 
 ### 2.1 Vista superior e dimensões reais
 
-Em uma planta baixa, cada parede vira uma linha; cada cômodo, um retângulo. As medidas anotadas chamam-se **cotas**, e a escala (geralmente 1:50 ou 1:100) traduz cm da planta para m da realidade.
+Cada parede vira uma linha; cada cômodo, um retângulo. As medidas anotadas são **cotas**; a escala (1:50 ou 1:100) traduz cm da planta para m do real.
 
-> Quarto da família: 4 cm × 3 cm na planta em escala 1:100.
-
-$$ \mathrm{comprimento} = 4 \cdot 100 = 400 \, \mathrm{cm} = 4 \, \mathrm{m} $$
-
-$$ \mathrm{largura} = 3 \cdot 100 = 300 \, \mathrm{cm} = 3 \, \mathrm{m} $$
+> Quarto 4 cm × 3 cm em 1:100: $$4 \cdot 100 = 400$$ cm = 4 m; $$3 \cdot 100 = 300$$ cm = 3 m.
 
 ### 2.2 Área de cômodos retangulares
 
-A área só deve ser calculada **depois** de converter as dimensões para metros:
+A área é calculada **depois** de converter para metros:
 
 $$ A = b \cdot h = 4 \cdot 3 = 12 \, \mathrm{m^2} $$
 
-O custo do tapete fica:
-
-$$ \mathrm{custo} = 12 \cdot 50 = R\$ \, 600 $$
-
-A planta de 4 cm × 3 cm representa um quarto real de 12 m² — e o tapete sai por R$ 600.
-
-> 📊 **Nos Números:**  
-> Plantas residenciais no Brasil costumam usar escala 1:50 para projetos detalhados e 1:100 para visualização geral — 1:200 já é esquemática.
+Custo do tapete: $$12 \cdot 50 = R\$ \, 600$$.
 
 ---
 
@@ -75,21 +56,21 @@ Uma **maquete** é representação tridimensional — preserva proporção em co
 
 ### 3.1 Reduzir mantendo proporção
 
-A regra crítica: todas as três dimensões precisam ser reduzidas pela **mesma escala**.
+Regra crítica: todas as três dimensões pela **mesma escala**.
 
-> Maquete escolar de uma casa em escala 1:50. Casa real: 10 m × 8 m × 3 m. Na maquete: 20 cm × 16 cm × 6 cm.
+> Maquete escolar em 1:50. Casa real 10 m × 8 m × 3 m → maquete 20 cm × 16 cm × 6 cm.
 
-Se o aluno reduzisse o comprimento em 1:50 mas a altura em 1:25, a casa pareceria espremida — a representação deixaria de ser fiel.
+Se o aluno reduzisse comprimento em 1:50 e altura em 1:25, a casa pareceria espremida.
 
 ### 3.2 Conferir comprimento, largura e altura
 
-Antes de aceitar uma maquete como representação válida, conferir:
+Antes de aceitar:
 
-- todas as dimensões seguem a **mesma escala**?
-- as proporções entre comprimento, largura e altura são as mesmas do real?
-- detalhes pequenos (porta, janela) também respeitam a escala?
+- todas as dimensões na **mesma escala**?
+- as proporções entre comprimento, largura e altura batem com o real?
+- detalhes pequenos (porta, janela) respeitam a escala?
 
-Quando uma das três dimensões foge, a maquete vira aproximação visual — útil para decoração, ruim para projeto.
+Quando uma dimensão foge, a maquete vira ilustração — boa para decoração, ruim para projeto.
 
 ---
 
@@ -97,35 +78,33 @@ Quando uma das três dimensões foge, a maquete vira aproximação visual — ú
 
 Mapa, planta e maquete são ferramentas de decisão — viagem, reforma, projeto.
 
-### 4.1 Viagem, obra e organização do espaço
-
-Cada representação serve a uma decisão:
+### 4.1 Cada representação, uma decisão
 
 | Representação | Decisão típica |
 |:---|:---|
 | **Mapa do Brasil/região** | tempo de viagem, combustível, rota |
-| **Mapa urbano** | trânsito, localização de ponto de encontro |
-| **Planta baixa** | espaço para móveis, área de pintura ou piso |
-| **Maquete** | visualização de projeto antes da obra |
+| **Mapa urbano** | trânsito, ponto de encontro |
+| **Planta baixa** | espaço para móveis, área de piso |
+| **Maquete** | visualização antes da obra |
 
 ### 4.2 Quando a escala ajuda a escolher
 
-Antes de qualquer decisão baseada numa representação:
+Antes de qualquer decisão:
 
-- qual é a escala do desenho?
-- a unidade final (m, km, cm) está adequada ao problema?
-- a proporção parece coerente com a realidade conhecida?
+- qual é a escala?
+- a unidade final (m, km, cm) está adequada?
+- a proporção parece coerente com o conhecido?
 
-Quem ignora essas perguntas pode comprar tapete de 6 m² para um quarto de 12 m² — ou planejar viagem de 4 cm como se fosse de 40 km.
+Quem ignora compra tapete de 6 m² para um quarto de 12 m².
 
 > ⏸️ **Pare e Pense:**  
-> Em qual decisão da sua família alguém usou uma planta, mapa ou maquete — e o que mudou por causa dessa representação?
+> Em qual decisão da sua família alguém usou uma planta, mapa ou maquete — e o que mudou por causa dela?
 
 ---
 
 ## NA VIDA REAL
 
-Google Maps, plantas de imóveis em sites de aluguel, maquetes em estandes de venda de apartamento e mapas turísticos são representações em escala que aparecem no dia a dia. Em todos os casos, a escala precisa ser conferida antes de qualquer decisão — área, distância e proporção dependem dela.
+Google Maps, plantas em sites de aluguel, maquetes em estandes e mapas turísticos — a escala precisa ser conferida antes de qualquer decisão.
 
 ---
 
@@ -133,9 +112,9 @@ Google Maps, plantas de imóveis em sites de aluguel, maquetes em estandes de ve
 
 > "Para onde me irei do teu Espírito? Se subir aos céus, lá estás tu." (Salmo 139:7-8)
 
-Integridade informacional é declarar a escala e os limites do que se mostra. Toda representação faz escolhas — uma decisão íntegra exige saber o que o desenho preserva e o que ele distorce.
+Integridade informacional é declarar a escala e os limites do que se mostra; toda representação faz escolhas — decisão íntegra exige saber o que o desenho preserva e o que ele distorce.
 
-- **Saiba o que a representação mostra e o que ela esconde.** Mapa, planta e maquete são ferramentas honestas quando declaram sua escala e suas escolhas (Salmo 139:7-8).
+- **Saiba o que a representação mostra e o que esconde.** Mapa, planta e maquete são ferramentas honestas quando declaram sua escala e suas escolhas (Salmo 139:7-8).
 
 > 💬 **Para Conversar:**  
 > Que decisão real da sua família foi tomada com base numa planta ou mapa — e o que poderia ter dado errado se a escala estivesse incorreta?
@@ -152,4 +131,4 @@ Mapa, planta e maquete aplicam escala para transformar medidas do desenho em med
 
 - **Mapa, planta, maquete:** três aplicações da mesma matemática — razão entre desenho e realidade;
 - **Área da planta:** converter dimensões para metros antes de calcular $$A = b \cdot h$$;
-- **Maquete fiel:** comprimento, largura e altura devem usar a mesma escala — se uma dimensão foge, a representação vira ilustração.
+- **Maquete fiel:** comprimento, largura e altura na mesma escala.
