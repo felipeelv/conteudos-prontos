@@ -11,6 +11,8 @@ Você está com seu primo planejando uma viagem de carro do Rio de Janeiro a Sã
 
 ## 1. Desenho e Realidade
 
+Toda representação reduzida precisa preservar a proporção entre as medidas.
+
 ### 1.1 A ideia de representar mantendo proporção
 
 Reduzir um lugar grande para um papel pequeno só funciona se tudo for reduzido na **mesma proporção**. Se a porta encolhe à metade mas a janela à terça parte, o desenho fica falso.
@@ -32,6 +34,8 @@ A escala costuma ser escrita na forma $$1:n$$, onde $$n$$ é o **fator de reduç
 
 ## 2. Duas Formas de Mostrar a Escala
 
+A mesma razão pode aparecer como número ou como barra desenhada.
+
 ### 2.1 Escala numérica
 
 A **escala numérica** é a razão escrita na forma $$1:n$$ ou $$\frac{1}{n}$$. Leitura: "1 unidade no mapa equivale a $$n$$ da mesma unidade no real". Em 1:10.000.000, se a unidade for cm, então 1 cm no mapa = 10.000.000 cm = 100 km.
@@ -50,6 +54,8 @@ A **escala gráfica** é uma barra desenhada no mapa com marcações em km (ou m
 ---
 
 ## 3. Reduzir e Ampliar
+
+Escala pode encolher o mundo num papel ou ampliar o que é pequeno demais para ver.
 
 ### 3.1 Escalas de redução
 
@@ -73,6 +79,8 @@ A **escala de ampliação** é o oposto — o desenho é maior que o real, escri
 ---
 
 ## 4. Calculando Distâncias Reais
+
+Com a escala, qualquer distância no desenho vira distância real em dois passos.
 
 ### 4.1 Multiplicar pela escala
 

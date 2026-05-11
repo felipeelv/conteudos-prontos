@@ -28,6 +28,8 @@ Quando alguém empresta R$ 100 para você devolver em 6 meses, o dinheiro tem do
 
 ## 2. Os Três Dados da Conta
 
+Toda operação de juros simples é definida por capital, taxa e tempo.
+
 ### 2.1 Capital, taxa e tempo
 
 - **Capital ($$C$$)**: valor inicial em reais;
@@ -50,6 +52,8 @@ Regra prática: divida o número por 100 (ou desloque a vírgula duas casas para
 ---
 
 ## 3. A Fórmula dos Juros Simples
+
+Identificados os três dados, basta substituí-los na fórmula.
 
 ### 3.1 Substituir em $$J = C \cdot i \cdot t$$
 
@@ -83,6 +87,8 @@ Mantenha taxa e tempo **sempre na mesma unidade**.
 ---
 
 ## 4. Montante
+
+O montante é o valor final — capital somado aos juros.
 
 ### 4.1 Somar capital e juros
 

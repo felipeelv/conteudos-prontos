@@ -2,7 +2,7 @@
 
 ## Onde está a média quando ninguém tirou exatamente aquela nota?
 
-Sexta-feira, dia de boletim. Sua mãe pergunta como foi em Matemática e você lê em voz alta as notas do bimestre: 5, 8, 6, 8 e 8. Embaixo aparece "Média do bimestre: 7,0" — mas em prova nenhuma você tirou 7. De onde veio esse número?
+Sexta-feira, dia de boletim. Sua mãe pergunta como foi em Matemática e você lê as notas do bimestre: 5, 8, 6, 8 e 8. Embaixo aparece "Média do bimestre: 7,0" — mas em prova nenhuma você tirou 7. De onde veio esse número?
 
 > 💭 **Pense um pouco:**  
 > A média da turma conta a história de cada aluno?
@@ -15,11 +15,11 @@ A média é a maneira de repartir um total igualmente entre todas as partes.
 
 ### 1.1 A ideia de dividir igualmente
 
-Imagine 4 amigos com chocolates. Veja o que acontece quando eles dividem por igual:
+4 amigos com chocolates dividem por igual:
 
-1. cada um tem uma quantidade diferente — 6, 4, 5 e 1 chocolates;
-2. juntam tudo na mesa: 6 + 4 + 5 + 1 = 16 chocolates;
-3. repartem em partes iguais entre os 4: 16 ÷ 4 = 4 chocolates para cada.
+1. cada um tem uma quantidade — 6, 4, 5 e 1 chocolates;
+2. juntam tudo: 6 + 4 + 5 + 1 = 16 chocolates;
+3. repartem em partes iguais: 16 ÷ 4 = 4 cada.
 
 Esse 4 é a média do grupo.
 
@@ -29,17 +29,9 @@ A média aritmética é a soma dos valores dividida pela quantidade de valores.
 
 $$ \bar{x} = \frac{x_1 + x_2 + \ldots + x_n}{n} $$
 
-Onde $$\bar{x}$$ é a média; $$x_1, x_2, \ldots, x_n$$ são os valores; e $$n$$ é a quantidade de valores.
+Onde $$\bar{x}$$ é a média, $$x_1, \ldots, x_n$$ são os valores e $$n$$ é a quantidade.
 
-Veja só, no caso dos chocolates:
-
-$$ \bar{x} = \frac{6 + 4 + 5 + 1}{4} $$
-
-$$ \bar{x} = \frac{16}{4} $$
-
-$$ \bar{x} = 4 $$
-
-A média é 4 chocolates por amigo.
+> Chocolates: $$\bar{x} = \frac{6 + 4 + 5 + 1}{4} = \frac{16}{4} = 4$$.
 
 > 📐 **Fazendo as Contas:**  
 > Boletim 5, 8, 6, 8, 8: soma = 35 e $$\bar{x} = 35 \div 5 = 7$$.
@@ -52,19 +44,17 @@ A média descreve o conjunto inteiro, não cada valor isolado.
 
 ### 2.1 Valor típico
 
-A média é um **valor típico**: um número que representa o comportamento geral do conjunto.
+A média é um **valor típico** — um número que representa o comportamento geral. No boletim, "média 7" significa que, se todas as provas tivessem a mesma nota, essa nota seria 7.
 
-No boletim, "média 7,0" significa que, se todas as provas tivessem a mesma nota, essa nota seria 7.
+### 2.2 Média pode não ser um valor real da lista
 
-### 2.2 Média não é sempre um valor real da lista
+> Boletim 5, 8, 6, 8, 8: média 7, mas nenhuma prova vale 7.
 
-> No boletim com notas 5, 8, 6, 8 e 8, a média é 7. Mas nenhuma prova tem nota 7.
+Acontece porque:
 
-Isso acontece porque:
-
-- a média é um cálculo, não uma cópia de um dado;
-- ela representa o conjunto inteiro, não um valor específico;
-- ela sempre fica entre o menor e o maior valor da lista — no boletim, entre 5 e 8.
+- a média é um cálculo, não cópia de um dado;
+- representa o conjunto, não um valor específico;
+- fica sempre entre o menor e o maior da lista — entre 5 e 8.
 
 > 💡 **Você sabia?**  
 > O belga Adolphe Quetelet (1796-1874) usou médias para estudar populações inteiras — e chamou isso de "homem médio".
@@ -73,73 +63,55 @@ Isso acontece porque:
 
 ## 3. Calculando em Situações Simples
 
-A média aparece em qualquer situação onde queremos resumir um grupo de números.
+A média aparece em qualquer situação que precise resumir um grupo de números.
 
 ### 3.1 Notas escolares
 
-Suas notas em História foram 8, 7 e 9.
+Notas em História: 8, 7 e 9.
 
-$$ \bar{x} = \frac{8 + 7 + 9}{3} $$
-
-$$ \bar{x} = \frac{24}{3} $$
-
-$$ \bar{x} = 8 $$
-
-Sua média em História é 8.
+$$ \bar{x} = \frac{8 + 7 + 9}{3} = \frac{24}{3} = 8 $$
 
 ### 3.2 Mesada, consumo e tempo de tela
 
-Em quatro semanas, você ganhou de mesada: R$ 20, R$ 30, R$ 25 e R$ 25.
+Quatro semanas de mesada: R$ 20, R$ 30, R$ 25, R$ 25.
 
-$$ \bar{x} = \frac{20 + 30 + 25 + 25}{4} $$
+$$ \bar{x} = \frac{20 + 30 + 25 + 25}{4} = \frac{100}{4} = 25 $$
 
-$$ \bar{x} = \frac{100}{4} $$
-
-$$ \bar{x} = 25 $$
-
-A média semanal de mesada foi R$ 25.
+A média semanal foi R$ 25.
 
 > 📈 **No Dia a Dia:**  
-> Quando o app de celular mostra "tempo médio de tela: 2h por dia", ele somou as horas da semana e dividiu por 7.
+> Quando o app mostra "tempo médio de tela: 2h por dia", ele somou as horas da semana e dividiu por 7.
 
 ---
 
 ## 4. Média em Tabelas de Frequência
 
-Quando um valor aparece várias vezes, a tabela de frequência organiza os dados sem repetir tudo.
+Quando um valor aparece várias vezes, a tabela de frequência organiza sem repetir tudo.
 
 ### 4.1 Quando um valor aparece várias vezes
 
-A turma respondeu: "quantos livros você leu nas férias?". Veja a tabela abaixo.
+Turma respondeu: "quantos livros leu nas férias?".
 
-| Livros lidos | Quantidade de alunos (frequência) |
+| Livros | Alunos (frequência) |
 |:---:|:---:|
 | 0 | 5 |
 | 1 | 8 |
 | 2 | 4 |
 | 3 | 3 |
 
-A turma tem 20 alunos (5 + 8 + 4 + 3).
+Total: 20 alunos. Cada valor entra na soma tantas vezes quanto sua frequência:
 
-Para calcular a média, cada valor entra na soma tantas vezes quanto sua frequência:
+$$ \bar{x} = \frac{0 \cdot 5 + 1 \cdot 8 + 2 \cdot 4 + 3 \cdot 3}{20} = \frac{25}{20} = 1{,}25 $$
 
-$$ \bar{x} = \frac{0 \cdot 5 + 1 \cdot 8 + 2 \cdot 4 + 3 \cdot 3}{20} $$
-
-$$ \bar{x} = \frac{0 + 8 + 8 + 9}{20} $$
-
-$$ \bar{x} = \frac{25}{20} $$
-
-$$ \bar{x} = 1{,}25 $$
-
-Em média, cada aluno leu 1,25 livros — um valor que ninguém leu exatamente, mas que descreve o conjunto.
+Em média, cada aluno leu 1,25 livros — valor que ninguém leu exatamente, mas que descreve o conjunto.
 
 ### 4.2 Conferir se todos os dados entraram
 
-Antes de concluir uma média, faça a verificação:
+Antes de concluir uma média:
 
 - somei todos os valores?
-- dividi pela quantidade certa de valores?
-- não esqueci ninguém na lista?
+- dividi pela quantidade certa?
+- não esqueci ninguém?
 
 Qualquer "não" muda o resultado.
 
@@ -169,7 +141,7 @@ Integridade é aceitar a conta completa. Esconder um valor para subir a média n
 
 ## Simplificando
 
-Média aritmética é o total repartido igualmente entre todos os valores: soma dividida pela quantidade. Ela representa o conjunto inteiro, mesmo quando ninguém tem exatamente o valor calculado.
+Média aritmética é o total repartido igualmente: soma dividida pela quantidade — representa o conjunto inteiro, mesmo quando ninguém tem exatamente o valor calculado.
 
 ---
 

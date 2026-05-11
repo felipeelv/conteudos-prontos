@@ -11,6 +11,8 @@ Sua família vai pintar o quarto que você divide com sua irmã, e o pintor pedi
 
 ## 1. Escala nos Mapas
 
+Mapa útil traz escala, legenda e orientação — sem isso, é só um desenho.
+
 ### 1.1 Ler escala, legenda e orientação
 
 Um mapa útil sempre traz:
@@ -92,6 +94,8 @@ Quando uma das três dimensões foge, a maquete vira aproximação visual — ú
 ---
 
 ## 4. Problemas Práticos
+
+Mapa, planta e maquete são ferramentas de decisão — viagem, reforma, projeto.
 
 ### 4.1 Viagem, obra e organização do espaço
 
