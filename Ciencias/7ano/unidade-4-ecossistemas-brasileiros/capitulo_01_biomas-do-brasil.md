@@ -16,7 +16,7 @@ Antes de visitar cada bioma brasileiro, precisamos entender o que esse termo sig
 
 ### 1.1 Mais do que uma cor no mapa
 
-**Bioma** é um grande conjunto natural que reúne, em uma mesma região, características marcantes de **clima, solo, vegetação e fauna**. É comum vê-los como áreas coloridas em mapas, mas esse desenho é só o resultado visível. O que define um bioma é a combinação desses fatores: tipo de clima, tipo de solo, vegetação característica e animais adaptados a essas condições.
+**Bioma** é um grande conjunto natural que reúne, em uma mesma região, características marcantes de **clima, solo, vegetação e fauna**. É comum vê-los como áreas coloridas em mapas, mas esse desenho é só o resultado visível. O que define um bioma é a combinação desses fatores: tipo de clima, tipo de solo, vegetação característica e animais adaptados.
 
 Dois pontos diferentes dentro do mesmo bioma podem ter pequenas variações, mas seguem a mesma lógica geral.
 
@@ -42,7 +42,7 @@ O solo, surpreendentemente, é pobre em nutrientes: a maior parte da fertilidade
 
 O **Cerrado** é a savana brasileira. Suas árvores baixas e tortuosas não são "florestas mal formadas" — são adaptadas a um ambiente com duas estações claras (úmida e seca), solo ácido e fogo natural. As plantas têm **raízes profundas** que alcançam água em camadas mais fundas, **casca grossa** que protege contra o fogo e folhas duras ou caducas em épocas secas.
 
-O Cerrado ocupa boa parte do interior do Brasil, incluindo a região de Ribeirão Preto.
+> Aquela árvore retorcida da estrada paulista não está mal — ela está exatamente adaptada ao chão ácido e à seca prolongada do Cerrado.
 
 > 💡 **Você sabia?** O Cerrado é considerado o "berço das águas" do Brasil: nele nascem rios que alimentam três das principais bacias hidrográficas do país.
 
@@ -50,7 +50,7 @@ O Cerrado ocupa boa parte do interior do Brasil, incluindo a região de Ribeirã
 
 A **Mata Atlântica** é uma floresta costeira que originalmente cobria toda a faixa leste do Brasil. Hoje resta apenas uma pequena parte, em fragmentos espalhados. Tem alta umidade, vegetação densa em várias camadas e enorme biodiversidade — com muitas espécies **endêmicas** (que só existem nela).
 
-A **fragmentação** acontece quando um ambiente contínuo é quebrado em pedaços menores e isolados — e isso dificulta a sobrevivência das espécies.
+A **fragmentação** acontece quando um ambiente contínuo é quebrado em pedaços menores e isolados — o que dificulta a sobrevivência das espécies.
 
 ---
 
@@ -60,13 +60,13 @@ Os outros três biomas mostram que o Brasil é muito mais diverso do que parece 
 
 ### 3.1 Caatinga: vida no semiárido
 
-A **Caatinga** é o único bioma exclusivamente brasileiro. Predomina no Nordeste, em clima semiárido — quente, com poucas chuvas concentradas em poucos meses. Suas plantas têm adaptações para economizar água: espinhos, caules suculentos e perda de folhas em períodos secos (chamada **caducifolia**).
+A **Caatinga** é o único bioma exclusivamente brasileiro. Predomina no Nordeste, em clima semiárido — quente, com poucas chuvas concentradas em poucos meses. Suas plantas têm adaptações para economizar água: espinhos, caules suculentos e perda de folhas em períodos secos (**caducifolia**).
 
 A Caatinga não é "morta" nem "vazia" — apenas vive em outro ritmo, mais lento e econômico.
 
 ### 3.2 Pantanal: o ritmo das cheias
 
-O **Pantanal** é uma vasta planície alagável. Sua vida segue o pulso da água: na estação chuvosa, os rios sobem e inundam grandes áreas; na seca, a água recua e revela campos antes alagados. A fauna inclui jacarés, capivaras, tuiuiús e onças-pintadas, com muitas espécies de comportamento sazonal.
+O **Pantanal** é uma vasta planície alagável. Sua vida segue o pulso da água: na chuvosa, os rios sobem e inundam grandes áreas; na seca, a água recua e revela campos antes alagados. A fauna inclui jacarés, capivaras, tuiuiús e onças-pintadas, com muitas espécies de comportamento sazonal.
 
 É considerado uma das maiores áreas úmidas do mundo.
 
@@ -74,7 +74,7 @@ O **Pantanal** é uma vasta planície alagável. Sua vida segue o pulso da água
 
 Os **Pampas** são campos abertos do sul do Brasil, principalmente no Rio Grande do Sul. Tem clima subtropical com estações bem definidas, solo geralmente fértil e predominância de **gramíneas** — pouca presença de árvores.
 
-São campos historicamente usados para criação de gado, e hoje enfrentam pressão de plantações que substituem a vegetação original.
+São campos historicamente usados para criação de gado, hoje sob pressão de plantações que substituem a vegetação original.
 
 > ⏸️ **Pare e Pense:** Por que chamar a Caatinga ou os Pampas de biomas "menores" ou "menos importantes" seria um julgamento injusto?
 
@@ -99,7 +99,7 @@ Cada um responde a uma combinação única de clima, solo, flora e fauna. Não h
 
 Para quem mora em Ribeirão Preto, o **Cerrado** é o bioma original da região. Cerca de meio dia de viagem leva a fragmentos preservados, e mesmo dentro da cidade ainda existem áreas com vegetação típica. Conhecer o bioma local é o primeiro passo para reconhecer as relações ecológicas que sustentam a paisagem onde vivemos.
 
-> 📏 **Medidas Interessantes:** O botânico **Karl Friedrich Philipp von Martius** (1794–1868) percorreu mais de 10 mil km pelo Brasil entre 1817 e 1820 e coletou cerca de 6.500 espécies de plantas, fundando o estudo sistemático da vegetação brasileira na obra *Flora Brasiliensis*.
+> 📏 **Medidas Interessantes:** O botânico **Karl Friedrich Philipp von Martius** (1794–1868) percorreu mais de 10 mil km pelo Brasil entre 1817 e 1820 e coletou cerca de 6.500 espécies, fundando o estudo sistemático da vegetação brasileira na obra *Flora Brasiliensis*.
 
 ---
 
@@ -107,9 +107,9 @@ Para quem mora em Ribeirão Preto, o **Cerrado** é o bioma original da região.
 
 Escolha um bioma brasileiro e monte uma ficha de 1 página com:
 
-1. **Nome, clima e paisagem** em frases curtas.
-2. **Duas plantas e dois animais** representativos (nome popular).
-3. **Uma adaptação importante** observada nesse bioma, com explicação simples de por que ela ajuda a viver ali.
+1. **Nome, clima e paisagem** em frases curtas;
+2. **Duas plantas e dois animais** representativos (nome popular);
+3. **Uma adaptação importante** e por que ela ajuda a viver ali.
 
 Compartilhe sua ficha com um colega que tenha escolhido outro bioma — comparem.
 
@@ -117,11 +117,9 @@ Compartilhe sua ficha com um colega que tenha escolhido outro bioma — comparem
 
 ## O que a Bíblia diz sobre observar com fidelidade
 
-A ciência depende de uma postura simples, mas profunda: observar o que existe sem tentar forçar o objeto a ser outra coisa. Esse é um tipo de honestidade que a Bíblia valoriza.
-
 > *"Quem anda em integridade anda seguro, mas o que perverte os seus caminhos será conhecido."* — **Provérbios 10:9**
 
-Descrever um bioma com fidelidade — não como versão "fraca" de outro — é uma forma de integridade. Quando dizemos que o Cerrado "deu errado" ou que a Caatinga é "morta", estamos pervertendo a descrição. Von Martius percorreu o Brasil por anos para descrever com cuidado o que realmente existia em cada região.
+Descrever um bioma com fidelidade — não como versão "fraca" de outro — é uma forma de integridade. Dizer que o Cerrado "deu errado" ou que a Caatinga é "morta" é perverter a descrição. Von Martius percorreu o Brasil por anos para descrever com cuidado o que realmente existia em cada região.
 
 **Olhe como você pode fazer:**
 
@@ -132,13 +130,13 @@ Descrever um bioma com fidelidade — não como versão "fraca" de outro — é 
 
 ## Simplificando
 
-Um bioma é um sistema integrado de clima, solo, vegetação e fauna. O Brasil tem seis — Amazônia, Cerrado, Mata Atlântica, Caatinga, Pantanal e Pampa — e cada um tem identidade própria, com adaptações específicas que conectam ambiente e seres vivos.
+Um bioma é um sistema integrado de clima, solo, vegetação e fauna. O Brasil tem seis — Amazônia, Cerrado, Mata Atlântica, Caatinga, Pantanal e Pampa — e cada um tem identidade própria, com adaptações que conectam ambiente e seres vivos.
 
 ---
 
 ## Para não esquecer
 
-- **Bioma:** sistema integrado de clima, solo, flora e fauna — não apenas uma região no mapa.
-- **Seis biomas brasileiros:** Amazônia, Cerrado, Mata Atlântica, Caatinga, Pantanal e Pampa.
+- **Bioma:** sistema integrado de clima, solo, flora e fauna.
+- **Seis biomas brasileiros:** Amazônia, Cerrado, Mata Atlântica, Caatinga, Pantanal, Pampa.
 - **Cerrado:** savana com raízes profundas, casca grossa e fogo natural — bioma da região de Ribeirão Preto.
-- **Endemismo e fragmentação:** Mata Atlântica é especialmente afetada — espécies exclusivas vivem em pedaços isolados.
+- **Endemismo e fragmentação:** Mata Atlântica é especialmente afetada.

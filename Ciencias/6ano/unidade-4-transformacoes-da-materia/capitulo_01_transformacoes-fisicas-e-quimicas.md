@@ -28,19 +28,21 @@ Três tipos de mudança aparecem muito no cotidiano:
 
 ### 1.2 O que significa a composição permanecer?
 
-**Composição** é aquilo de que a matéria é feita. Quando a composição permanece, a mudança pode ser grande aos olhos, mas não cria um material diferente.
+**Composição** é aquilo de que a matéria é feita. Quando a composição permanece, a mudança pode ser grande aos olhos, mas não cria material diferente.
 
-Derreter gelo costuma ser reversível, porque a água pode congelar de novo. Já rasgar uma folha não volta ao estado anterior — mas ainda é transformação física, porque não formou outra substância. A reversibilidade ajuda, mas não é uma regra absoluta.
+Derreter gelo costuma ser reversível — a água pode congelar de novo. Rasgar uma folha não volta ao estado anterior, mas ainda é transformação física, porque não formou outra substância. A reversibilidade ajuda, mas não é regra absoluta.
 
 ## 2. Quando Surge uma Nova Substância
 
-Algumas mudanças vão além da aparência. Nelas, a matéria se transforma de tal modo que aparecem uma ou mais **substâncias novas**.
+Algumas mudanças vão além da aparência. Nelas, aparecem uma ou mais **substâncias novas**.
 
 ### 2.1 O que muda na transformação química?
 
 **Transformação química** é a mudança que forma substância nova. Cozinhar um ovo, queimar papel e enferrujar um prego são exemplos: a matéria passa a apresentar características que antes não existiam.
 
-A pergunta principal sempre é a mesma: houve formação de substância nova? Se sim, a composição deixou de ser a mesma e as propriedades finais são diferentes das iniciais.
+> O ovo na panela é o caso mais direto: o líquido transparente vira branco firme, e a clara não volta a ser clara nem se o ovo esfriar.
+
+A pergunta principal sempre é a mesma: houve formação de substância nova? Se sim, a composição mudou e as propriedades finais são diferentes das iniciais.
 
 > ⏸️ **Pare e Pense:** Um alimento cozido muda só de aparência ou passa a ter características que antes não tinha?
 
@@ -66,7 +68,7 @@ Três evidências comuns indicam transformação química:
 
 ### 3.2 Cheiro e precipitado
 
-Mudança de cheiro também pode indicar substâncias novas: alimento estragado ou queimado mostra que algo diferente está acontecendo na matéria. Outro sinal é o **precipitado** — um sólido que aparece em uma mistura líquida.
+Mudança de cheiro também pode indicar substâncias novas: alimento estragado ou queimado mostra que algo diferente está acontecendo. Outro sinal é o **precipitado** — um sólido que aparece em uma mistura líquida.
 
 Cuidado importante: sentir cheiro nunca deve envolver colocar o rosto perto de substâncias desconhecidas. Na escola, qualquer investigação com cheiro ou precipitado segue orientação do professor.
 
@@ -93,19 +95,17 @@ Uma boa comparação pergunta se houve mudança de composição:
 
 ### 4.2 Por que justificar é mais importante que chutar?
 
-"É física" ou "é química" só fica científica quando vem com motivo. A justificativa mostra se você observou a matéria ou apenas seguiu uma impressão. Uma boa justificativa costuma ter três partes: **observação** (o que foi visto), **critério** (formou substância nova?) e **classificação** (física ou química).
+"É física" ou "é química" só fica científica quando vem com motivo. Uma boa justificativa tem três partes: **observação** (o que foi visto), **critério** (formou substância nova?) e **classificação** (física ou química).
 
 ---
 
 ## 🤝 Sua Parte
 
-Escolha três situações seguras em casa ou na escola — gelo derretendo, papel sendo cortado, fruta escurecendo ou vinagre com bicarbonato sob supervisão. Para cada uma, registre primeiro o que observou e só depois classifique como transformação física ou química, explicando se houve ou não formação de substância nova.
+Escolha três situações seguras em casa ou na escola — gelo derretendo, papel cortado, fruta escurecendo, vinagre com bicarbonato sob supervisão. Para cada uma, registre primeiro o que observou e só depois classifique como física ou química, explicando se houve formação de substância nova.
 
 ---
 
 ## O que a Bíblia diz sobre observar com integridade
-
-A ciência exige precisão, e a integridade também. Quando Daniel foi observado por seus opositores, eles não acharam nele desonestidade nem descuido, porque sua vida era coerente.
 
 > *"Então os presidentes e os sátrapas procuravam achar ocasião contra Daniel a respeito do reino; mas não puderam achar ocasião ou culpa alguma."* — **Daniel 6:4**
 
@@ -113,20 +113,20 @@ Registrar uma transformação com honestidade é uma forma pequena, mas real, de
 
 **Olhe como você pode fazer:**
 
-- anote primeiro o que foi observado e depois escreva a conclusão;
+- anote primeiro o observado e depois escreva a conclusão;
 - corrija sua classificação quando uma evidência mostrar que sua primeira ideia estava errada.
 
 ---
 
 ## Simplificando
 
-Transformação física muda estado, forma ou aparência sem formar substância nova. Transformação química forma uma ou mais substâncias novas e pode deixar evidências como mudança de cor, gás, temperatura, cheiro ou precipitado. O ponto principal é sempre o mesmo: mudou a composição ou só mudou o aspecto?
+Transformação física muda estado, forma ou aparência sem formar substância nova. Transformação química forma substância nova — e deixa evidências como cor, gás, temperatura, cheiro ou precipitado. A pergunta-guia é sempre: mudou a composição ou só o aspecto?
 
 ---
 
 ## Para não esquecer
 
-- **Transformação física:** mudança sem formação de substância nova.
-- **Transformação química:** mudança que forma uma ou mais substâncias novas.
-- **Evidência observável:** sinal que pode ser visto, sentido, medido ou registrado.
-- **Justificativa:** explicação baseada no que foi observado, não em chute.
+- **Transformação física:** sem formação de substância nova.
+- **Transformação química:** forma uma ou mais substâncias novas.
+- **Evidência observável:** sinal visto, sentido, medido ou registrado.
+- **Justificativa:** explicação baseada no observado, não em chute.

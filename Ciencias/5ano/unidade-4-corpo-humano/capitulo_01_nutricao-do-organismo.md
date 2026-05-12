@@ -62,7 +62,9 @@ Vitaminas e minerais também são absorvidos e participam de várias funções.
 
 ### 3.2 Oxigênio ajuda as células a obter energia
 
-O oxigênio também viaja pelo sangue até as células. Lá, as células usam **nutrientes + oxigênio** para liberar a energia de que precisamos para mover, pensar e crescer. Sem oxigênio, mesmo com alimento, as células não produzem essa energia direito — por isso ficamos sem ar muito mais rápido do que sem comida.
+O oxigênio também viaja pelo sangue até as células. Lá, elas usam **nutrientes + oxigênio** para liberar a energia de que precisamos para mover, pensar e crescer. Sem oxigênio, mesmo com alimento, as células não produzem essa energia direito — por isso ficamos sem ar muito mais rápido do que sem comida.
+
+> Foi exatamente o que aconteceu com Pedro: o pão deu a matéria-prima, mas o ar correndo pelo nariz é que fez a energia chegar até os músculos.
 
 > 💡 **Você sabia?** O químico alemão **Justus von Liebig** (1803–1873) foi um dos primeiros a explicar como proteínas, gorduras e carboidratos participam do funcionamento do corpo.
 
@@ -82,7 +84,7 @@ Três atitudes simples ajudam todo esse sistema a funcionar bem:
 
 ### 4.2 O que entra no corpo importa
 
-O alimento que entra na boca e o ar que entra no nariz se transformam em energia, em materiais para crescer e até em humor. Não dá para ser indiferente ao que escolhemos comer e ao ambiente onde respiramos.
+O alimento que entra na boca e o ar que entra no nariz se transformam em energia, em materiais para crescer e até em humor. Não dá para ser indiferente ao que comemos e ao ambiente onde respiramos.
 
 > ⏸️ **Pare e Pense:** Se você prestasse atenção em uma única escolha alimentar diferente nesta semana, qual seria?
 
@@ -90,23 +92,19 @@ O alimento que entra na boca e o ar que entra no nariz se transformam em energia
 
 ## 🤝 Sua Parte
 
-Faça este pequeno experimento:
+1. Sentado, respire normalmente por 1 minuto e conte as inspirações. Anote.
+2. Faça movimentos leves por 1 minuto (caminhar rápido, polichinelos, subir degraus).
+3. Sente-se e conte de novo. Anote o segundo número.
 
-1. Sentado, respire normalmente por 1 minuto e conte quantas vezes inspira. Anote.
-2. Faça movimentos leves por 1 minuto (caminhar rápido, polichinelos, subir alguns degraus).
-3. Sente-se de novo e conte as inspirações em 1 minuto. Anote o segundo número.
-
-Compare e escreva uma frase: "Por que o corpo respirou mais vezes depois do movimento?" Nunca prenda a respiração — o experimento é só observação.
+Em uma frase: por que o corpo respirou mais vezes depois do movimento? Nunca prenda a respiração — o experimento é só observação.
 
 ---
 
 ## O que a Bíblia diz sobre cuidar do corpo
 
-A Bíblia trata o corpo como criação valiosa. Aquilo que sabemos sobre cuidar dele deveria aparecer nas pequenas escolhas do dia a dia. Em Daniel, encontramos um exemplo bem direto:
-
 > *"Daniel, porém, resolveu firmemente não contaminar-se com as finas iguarias do rei, nem com o vinho que ele bebia."* — **Daniel 1:8**
 
-Daniel não escolheu sua alimentação por capricho, mas por convicção. Cuidar do que entra no corpo é uma forma simples de viver com integridade.
+Daniel escolheu sua alimentação por convicção, não por capricho. Cuidar do que entra no corpo é uma forma simples de viver com integridade.
 
 **Olhe como você pode fazer:**
 
@@ -117,7 +115,7 @@ Daniel não escolheu sua alimentação por capricho, mas por convicção. Cuidar
 
 ## Simplificando
 
-O sistema digestório recebe e quebra o alimento em nutrientes que entram no sangue. O sistema respiratório recebe o oxigênio do ar e o entrega ao sangue pelos alvéolos. Juntos, nutrientes e oxigênio chegam às células e fornecem a energia que o corpo precisa para viver.
+O sistema digestório quebra o alimento em nutrientes; o sistema respiratório leva o oxigênio do ar até o sangue. Juntos, nutrientes e oxigênio chegam às células e produzem a energia que o corpo precisa.
 
 ---
 
@@ -125,5 +123,5 @@ O sistema digestório recebe e quebra o alimento em nutrientes que entram no san
 
 - **Sistema digestório:** boca, esôfago, estômago, intestinos — caminho do alimento.
 - **Sistema respiratório:** nariz, traqueia, pulmões, alvéolos — caminho do ar.
-- **Nutrientes:** partes úteis do alimento que entram no sangue no intestino delgado.
+- **Nutrientes:** partes úteis do alimento, absorvidas no intestino delgado.
 - **Oxigênio + nutrientes:** chegam às células pelo sangue e produzem energia.
