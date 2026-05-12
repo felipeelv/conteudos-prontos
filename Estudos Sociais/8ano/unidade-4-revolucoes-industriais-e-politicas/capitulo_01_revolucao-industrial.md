@@ -1,71 +1,141 @@
 # Capítulo 1 — Revolução Industrial
 
-## Como a Inglaterra podia ser o país mais rico do mundo e o lugar onde crianças de 6 anos trabalhavam 14 horas por dia?
+## Como a Inglaterra podia ser, ao mesmo tempo, o país mais rico do mundo e o lugar onde crianças de 6 anos trabalhavam 14 horas por dia?
 
-A mesma revolução que multiplicou a produção multiplicou jornadas exaustivas, doenças e bairros miseráveis.
+Manchester, por volta de 1840, antes do amanhecer. Uma menina de 9 anos atravessa a rua escura e entra numa fábrica têxtil. O turno vai até a noite. Lá fora, as chaminés cobrem o céu de fumaça. A mesma revolução que multiplicou a produção também multiplicou jornadas exaustivas. 💭
 
 > 💬 **Para Conversar:**
-> Uma invenção é boa se melhora a produção, mas piora a vida de quem trabalha?
+> Uma invenção pode ser considerada boa se melhora a produção, mas piora a vida de quem trabalha?
 
 ---
 
 ## 1. Por que a Inglaterra?
 
+A Revolução Industrial não começou em qualquer lugar. A Inglaterra do século XVIII reunia condições raras que abriram caminho para a mecanização da produção.
+
 ### 1.1 Capital, terras e cercamentos
 
-A Inglaterra acumulou capital com comércio colonial, tráfico de escravizados e Revolução Agrícola. Os **cercamentos** (privatização das terras comuns) expulsaram camponeses do campo — virando mão de obra para as cidades.
+A Inglaterra acumulou capital com o comércio colonial, o tráfico de escravizados e a Revolução Agrícola. Os **cercamentos** (privatização das terras comuns) expulsaram camponeses do campo, criando mão de obra disponível nas cidades. Esse processo combinou três mudanças:
 
-### 1.2 Carvão, ferro e mercados
+- riqueza concentrada em comerciantes e proprietários;
+- aumento da produção agrícola com novas técnicas;
+- êxodo rural forçado pela perda de acesso à terra.
 
-O território tinha **carvão e ferro** abundantes. Portos e marinha garantiam acesso a mercados mundiais. A Revolução Gloriosa (1688) protegeu contratos e propriedade.
+### 1.2 Carvão, ferro, portos e mercados
+
+O território inglês tinha **carvão e ferro** abundantes — matérias-primas centrais da industrialização. Portos e marinha garantiam acesso a mercados na Europa, África, Ásia e Américas. Após a Revolução Gloriosa de 1688, instituições políticas estáveis protegiam contratos e propriedade.
+
+> 💡 **Você sabia?**
+> A Inglaterra produzia, em 1800, mais carvão do que toda a Europa continental somada.
+
+---
 
 ## 2. Máquinas, fábricas e energia
 
+A novidade não foi só inventar máquinas. Foi reunir essas máquinas num lugar só, com energia constante e divisão estrita de tarefas.
+
 ### 2.1 Do fio à fábrica
 
-A indústria têxtil mecanizou primeiro: **Spinning Jenny** (1764) e **tear mecânico** (1785). Oficinas viraram **sistema fabril**: máquinas, horário, divisão de tarefas.
+A indústria têxtil foi a primeira a se mecanizar. A **Spinning Jenny** (1764) fiava várias linhas ao mesmo tempo; o **tear mecânico** (1785) acelerou a produção. Oficinas artesanais foram substituídas pelo **sistema fabril**: produção em fábricas, com máquinas, disciplina de horário e divisão de tarefas.
 
-### 2.2 A máquina a vapor
+### 2.2 A máquina a vapor acelera a produção
 
-Em 1769, **James Watt** aperfeiçoou a máquina a vapor com um condensador separado. Fábricas saíram dos rios, minas foram esvaziadas com bombas potentes, e trens e navios a vapor encurtaram distâncias.
+Em 1769, **James Watt** aperfeiçoou a máquina a vapor com um condensador separado, tornando o motor muito mais eficiente. Fábricas puderam ser instaladas longe dos rios, minas foram esvaziadas com bombas e o transporte ganhou trens e navios a vapor. A nova energia transformou três frentes:
 
-### 2.3 Disciplina fabril
+- **produção:** máquinas funcionando 24h, sem depender da força animal;
+- **mineração:** carvão e minério extraídos em escala muito maior;
+- **transporte:** trens e navios encurtando distâncias.
 
-A metalurgia usou **coque** (carvão processado) para produzir ferro em massa. Na fábrica, relógio e apito ditavam o ritmo — operários cumpriam tarefas repetitivas.
+### 2.3 Carvão, ferro e disciplina fabril
 
-## 3. Nova sociedade industrial
+A metalurgia se reinventou com o uso do **coque** (carvão processado), permitindo produzir ferro em massa. Dentro da fábrica, o tempo passou a ser controlado pelo relógio e pelo apito. Operários cumpriam tarefas repetitivas, sem variar de função.
 
-### 3.1 Burguesia e proletariado
+> ⏸️ **Pare e Pense:**
+> O que muda na vida de uma pessoa quando o ritmo do trabalho passa a ser ditado pela máquina, e não mais pela luz do sol?
 
-O **capitalismo industrial** opôs duas classes: **burguesia industrial** (donos de fábricas) e **proletariado** (trabalhadores assalariados, em **trabalho assalariado**). A burguesia controlava meios e regras; o proletariado tinha apenas sua força de trabalho.
+---
 
-### 3.2 Cidades inchadas e trabalho brutal
+## 3. Uma nova sociedade industrial
 
-Manchester, Londres e Liverpool cresceram sem saneamento — cortiços, cólera, tifo. Jornadas de **12-16 horas**, sem férias, sem aposentadoria. Crianças desde **5-6 anos** trabalhavam em fábricas e minas — pequenas, ágeis e baratas.
+A indústria não criou apenas riqueza. Criou também duas classes sociais em conflito permanente, e cidades que cresceram mais rápido do que conseguiam comportar gente.
 
-## 4. Industrialização global
+### 3.1 Capitalismo industrial e proletariado
 
-Bélgica, França e Alemanha seguiram no século XIX, cada uma a seu modo. EUA aceleraram após 1865, com ferrovias, aço e produção em massa — viraram potência industrial. A industrialização deixou de ser fenômeno inglês e virou processo global.
+O **capitalismo industrial** é o sistema em que o lucro vem da produção mecanizada em fábricas. Ele opôs duas classes: a **burguesia industrial** (donos de fábricas e capital) e o **proletariado** (trabalhadores que vendem sua força por salário, em **trabalho assalariado**). A relação era desigual:
+
+- a burguesia controlava meios de produção e definia regras;
+- o proletariado tinha apenas a própria força de trabalho;
+- a posição social dependia de quem possuía o quê.
+
+### 3.2 Cidades que cresceram rápido demais
+
+A **urbanização acelerada** trouxe milhões para Manchester, Londres, Liverpool e Birmingham. Sem saneamento ou moradia suficientes, os bairros operários viraram cortiços insalubres. Doenças como cólera e tifo se espalharam:
+
+- moradias amontoadas, sem ventilação ou esgoto;
+- ar e rios contaminados por fábricas e dejetos;
+- mortalidade infantil altíssima nas zonas operárias.
+
+### 3.3 Trabalho longo, salário baixo e infância interrompida
+
+As **condições de trabalho** eram brutais. Jornadas de **12 a 16 horas**, salários baixos, sem férias, sem aposentadoria. Mulheres ganhavam menos que homens. Crianças desde os **5 ou 6 anos** trabalhavam em fábricas e minas — eram pequenas, ágeis e custavam barato.
+
+> 💭 **Pense um pouco:**
+> Quando uma sociedade considera "normal" colocar crianças de 6 anos numa fábrica, o que isso revela sobre quem ela vê como gente de verdade?
+
+---
+
+## 4. A industrialização se espalha
+
+A Inglaterra não ficou sozinha por muito tempo. Em algumas décadas, outros países começaram a industrializar — cada um a seu modo.
+
+### 4.1 Da Inglaterra para o continente
+
+Bélgica, França e Alemanha foram as primeiras a seguir no século XIX:
+
+- **Bélgica:** primeiro país continental a industrializar, com carvão e ferro próprios;
+- **França:** industrialização mais lenta, ligada a indústrias de luxo e químicas;
+- **Alemanha:** industrialização tardia, mas com forte apoio do Estado e foco em metalurgia pesada.
+
+### 4.2 Estados Unidos e novos centros industriais
+
+Os **Estados Unidos** aceleraram a industrialização após a guerra civil (1865), com ferrovias, aço e produção em massa. Em algumas décadas, viraram potência industrial. A industrialização deixou de ser fenômeno inglês e virou processo global.
+
+> ⏸️ **Pare e Pense:**
+> Por que países que industrializaram primeiro tendem a permanecer mais ricos do que aqueles que industrializaram depois?
 
 ---
 
 ## 🤝 Sua Parte
 
-Reconheça benefício e custo ao mesmo tempo — vale para a máquina a vapor e para o algoritmo do TikTok.
+A Revolução Industrial trouxe luz elétrica, transporte rápido e medicina moderna — e também trabalho infantil e desigualdade brutal. Sua parte é reconhecer benefício e custo ao mesmo tempo — vale para a máquina a vapor e para o algoritmo do TikTok.
+
+---
+
+#### 📚 Curiosidade dos Estudos Sociais
+
+A unidade de potência "watt", usada hoje em lâmpadas, eletrodomésticos e usinas, recebeu esse nome em homenagem a James Watt — um engenheiro que mal estudou em escola formal.
+
+---
 
 ## Enquanto isso...
 
-Reavivamentos cristãos pressionavam por dignidade do trabalho. **William Wilberforce** liderou a luta pelo fim do tráfico transatlântico de escravizados, conquistada em 1807.
+Enquanto fábricas funcionavam dia e noite, reavivamentos cristãos e o evangelicalismo inglês ganhavam força. **William Wilberforce** liderou a luta pelo fim do tráfico transatlântico de escravizados, conquistada em 1807.
+
+O que estava em jogo:
+
+- a reação cristã contra exploração e escravização em ambiente industrial;
+- a tensão entre lucro acelerado e dignidade humana.
 
 ## E para hoje...
 
-"Eis que o salário dos trabalhadores... clama." (Tiago 5:4)
-Progresso técnico sem responsabilidade aumenta produção e diminui dignidade.
+"Eis que o salário dos trabalhadores que ceifaram as vossas terras, e o qual por vós foi diminuído, clama; e os clamores dos que ceifaram entraram nos ouvidos do Senhor dos exércitos." (Tiago 5:4)
 
-* Olhe quem paga a conta. Inovação que ignora o trabalhador não é progresso completo (Tiago 5:4).
+Progresso técnico sem responsabilidade pode aumentar a produção e diminuir a dignidade. Integridade exige perguntar quem paga o custo humano da inovação.
+
+- Olhe quem paga a conta. Inovação que ignora o trabalhador não é progresso completo — toda novidade técnica devolve perguntas éticas a quem a usa (Tiago 5:4).
 
 > 💬 **Para Conversar:**
-> Quando uma novidade melhora a vida de alguns e piora a de outros, é progresso?
+> Quando uma novidade melhora a vida de alguns e piora a de outros, como avaliar se ela é realmente progresso?
 
 ---
 
@@ -73,20 +143,29 @@ Progresso técnico sem responsabilidade aumenta produção e diminui dignidade.
 
 **James Watt (1736–1819)**
 
-- Engenheiro escocês; em 1769 patenteou a máquina a vapor com condensador separado, peça central da Revolução Industrial.
-- A unidade de potência "watt" leva seu nome.
+- Engenheiro e inventor escocês; em 1769, patenteou aperfeiçoamentos importantes na máquina a vapor.
+- Sua tecnologia ajudou a mover fábricas, minas, bombas e transportes, virando peça central da Revolução Industrial.
+- A unidade de potência "watt" recebeu seu nome — referência mantida em lâmpadas, motores e usinas até hoje.
 
-🏛️ **Legado:** uma inovação técnica pode acelerar mudanças econômicas e sociais em escala mundial.
+🏛️ **Legado:** mostra como uma única inovação técnica pode acelerar mudanças econômicas, sociais e ambientais em escala mundial.
+
+---
+
+## Você já pensou nisso?
+
+Uma máquina não decide sozinha se vai libertar ou explorar pessoas; quem organiza o trabalho, define salários, impõe jornadas e concentra lucros são seres humanos e instituições — por isso, a Revolução Industrial deve ser analisada como mudança técnica e social ao mesmo tempo.
 
 ---
 
 ## Simplificando
 
-A Inglaterra industrializou primeiro porque reunia capital, mão de obra, carvão, ferro e mercados — criando o capitalismo industrial com riqueza e exploração lado a lado.
+A Revolução Industrial começou na Inglaterra porque o país reunia capital, mão de obra, carvão, ferro e mercados. Máquinas como a de Watt aceleraram a produção; as fábricas criaram o capitalismo industrial, opondo burguesia e proletariado; a riqueza cresceu junto com jornadas exaustivas e trabalho infantil.
+
+---
 
 ## Para não esquecer
 
-- **1ª Revolução Industrial:** Inglaterra, 1760–1850.
+- **Primeira Revolução Industrial:** Inglaterra, 1760–1850.
 - **Máquina a vapor + sistema fabril:** novo ritmo da produção.
-- **Burguesia × proletariado:** novas classes em conflito.
+- **Capitalismo industrial:** burguesia × proletariado.
 - **Riqueza e exploração:** dois lados da mesma mudança.
