@@ -101,12 +101,6 @@ Cada caminho gera substâncias com aparência, dureza, ponto de fusão e comport
 
 ---
 
-## 🤝 Sua Parte
-
-Em um caderno, desenhe três cartões — um para o sódio (Na), um para o cloro (Cl) e um para o oxigênio (O). Em cada cartão, escreva o total de elétrons e quantos estão na valência (Na: 1, Cl: 7, O: 6) e represente esses elétrons como pontos ao redor do símbolo (estilo Lewis). Ao lado, indique a tendência mais provável — perder, ganhar ou compartilhar — e justifique pela quantidade de elétrons de valência.
-
----
-
 ## O que a Bíblia diz sobre integridade e estabilidade
 
 > *"Quem anda em integridade vive seguro, mas quem anda em caminhos tortuosos será descoberto."* — **Provérbios 10:9**

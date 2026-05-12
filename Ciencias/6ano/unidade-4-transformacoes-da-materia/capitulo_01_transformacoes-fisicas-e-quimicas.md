@@ -99,12 +99,6 @@ Uma boa comparação pergunta se houve mudança de composição:
 
 ---
 
-## 🤝 Sua Parte
-
-Escolha três situações seguras em casa ou na escola — gelo derretendo, papel cortado, fruta escurecendo, vinagre com bicarbonato sob supervisão. Para cada uma, registre primeiro o que observou e só depois classifique como física ou química, explicando se houve formação de substância nova.
-
----
-
 ## O que a Bíblia diz sobre observar com integridade
 
 > *"Então os presidentes e os sátrapas procuravam achar ocasião contra Daniel a respeito do reino; mas não puderam achar ocasião ou culpa alguma."* — **Daniel 6:4**

@@ -103,18 +103,6 @@ Para quem mora em Ribeirão Preto, o **Cerrado** é o bioma original da região.
 
 ---
 
-## 🤝 Sua Parte
-
-Escolha um bioma brasileiro e monte uma ficha de 1 página com:
-
-1. **Nome, clima e paisagem** em frases curtas;
-2. **Duas plantas e dois animais** representativos (nome popular);
-3. **Uma adaptação importante** e por que ela ajuda a viver ali.
-
-Compartilhe sua ficha com um colega que tenha escolhido outro bioma — comparem.
-
----
-
 ## O que a Bíblia diz sobre observar com fidelidade
 
 > *"Quem anda em integridade anda seguro, mas o que perverte os seus caminhos será conhecido."* — **Provérbios 10:9**

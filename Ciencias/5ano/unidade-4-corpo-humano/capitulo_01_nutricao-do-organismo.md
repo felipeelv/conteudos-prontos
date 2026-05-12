@@ -90,16 +90,6 @@ O alimento que entra na boca e o ar que entra no nariz se transformam em energia
 
 ---
 
-## 🤝 Sua Parte
-
-1. Sentado, respire normalmente por 1 minuto e conte as inspirações. Anote.
-2. Faça movimentos leves por 1 minuto (caminhar rápido, polichinelos, subir degraus).
-3. Sente-se e conte de novo. Anote o segundo número.
-
-Em uma frase: por que o corpo respirou mais vezes depois do movimento? Nunca prenda a respiração — o experimento é só observação.
-
----
-
 ## O que a Bíblia diz sobre cuidar do corpo
 
 > *"Daniel, porém, resolveu firmemente não contaminar-se com as finas iguarias do rei, nem com o vinho que ele bebia."* — **Daniel 1:8**

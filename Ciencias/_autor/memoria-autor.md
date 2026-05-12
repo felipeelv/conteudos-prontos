@@ -33,7 +33,7 @@ Production via the new pipeline (`PIPELINE_CONTEUDO/AUTOR/scripts/criar_capitulo
   - `# Capítulo X — TEMA` → `## Pergunta-problema` → introdução narrativa → `💭 Pense um pouco`
   - Numbered sections `## 1.`, `## 2.`, ... with subtopics `### 1.1`, `### 1.2` framed as guiding questions
   - Mínimo um box por seção (`💭 ⏸️ 💡 📏 🔬`), sempre em blockquote
-  - Blocos pós-conteúdo na ordem: 🤝 Sua Parte → O que a Bíblia diz → Simplificando → Para não esquecer
+  - Blocos pós-conteúdo na ordem: O que a Bíblia diz → Simplificando → Para não esquecer (bloco "🤝 Sua Parte" foi removido a partir da U4 v3, 2026-05-12)
 - **No tables, no code** unless explicitly requested.
 - **Markdown headings without bold** (`## 1. Título`, never `## **1. Título**`).
 - **Adaptação por série**: structure is invariant across grades; only language, abstraction and analogy depth shift (analogias infantis em EF1; modelos científicos em 8º–9º).

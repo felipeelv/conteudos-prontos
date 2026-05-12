@@ -82,17 +82,6 @@ Imagine uma floresta sem decompositores: folhas, frutas e galhos ficariam empilh
 
 ---
 
-## 🤝 Sua Parte
-
-Escolha **uma** observação para fazer durante uma semana:
-
-1. **Folhas:** marque uma área pequena com árvores. Desenhe as folhas no primeiro dia e de novo 3 dias depois. Anote o que mudou.
-2. **Pão (com adulto):** coloque um pedaço de pão úmido em um pote fechado. Olhe pelo vidro a cada 2 dias e desenhe. No final, jogue o pote fora sem abrir.
-
-Em uma frase: o que esse trabalho me ensinou sobre o que acontece quando ninguém está olhando?
-
----
-
 ## O que a Bíblia diz sobre o trabalho invisível
 
 > *"Pois você é pó, e ao pó retornará."* — **Gênesis 3:19**
