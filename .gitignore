@@ -15,3 +15,6 @@ Geometria/_autor/referencias/pgf/
 
 # macOS
 .DS_Store
+
+# Claude Code local state
+.claude/
