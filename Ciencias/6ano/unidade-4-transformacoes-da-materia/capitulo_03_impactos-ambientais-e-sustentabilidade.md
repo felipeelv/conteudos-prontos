@@ -12,7 +12,7 @@ Depois do recreio, a lixeira recebe copos, embalagens, canudos e restos de lanch
 
 ## 1. Por que usamos materiais sintéticos?
 
-Porque eles resolvem problemas reais do dia a dia.
+Porque eles combinam propriedades que dificilmente aparecem juntas na natureza — como leveza com resistência, ou baixo custo com produção em grande quantidade.
 
 ### 1.1 Quais benefícios são reais
 
