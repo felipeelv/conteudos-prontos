@@ -123,14 +123,14 @@ Apesar das diferenças, em todos eles a explicação química básica é a mesma
 
 ---
 
-## O que a Bíblia diz sobre integridade que sustenta o todo
+## O que a Bíblia diz sobre o que se torna comum
 
-> *"Quem é fiel no muito pouco também é fiel no muito; e quem é injusto no muito pouco também é injusto no muito."* — **Lucas 16:10**
+> *"E ninguém considerava própria coisa alguma do que possuía, mas todas as coisas lhes eram comuns."* — **Atos 4:32**
 
-Um único átomo de cobre não conduz corrente nem brilha, mas quando muitos contribuem com seus elétrons de valência para uma estrutura comum, surgem propriedades que mudam a vida humana. A integridade humana tem essa mesma dimensão coletiva:
+Na ligação metálica, cada átomo entrega seus elétrons de valência para um "mar comum" — e dessa entrega coletiva surgem o brilho, a condução e a maleabilidade. Estruturas coletivas humanas costumam funcionar pelo mesmo princípio:
 
-- cada elétron contribui para o brilho do metal; cada compromisso íntegro contribui para a saúde de um grupo;
-- estruturas coletivas dependem da fidelidade de cada participante, não só dos resultados visíveis.
+- aquilo que cada um coloca em comum sustenta propriedades que ninguém teria sozinho;
+- a força do grupo aparece na contribuição constante, não em gestos isolados.
 
 > **💬 Para Conversar**
 >

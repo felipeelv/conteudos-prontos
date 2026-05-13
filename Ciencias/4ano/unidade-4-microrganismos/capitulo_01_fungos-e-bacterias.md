@@ -101,18 +101,18 @@ Imagine uma floresta sem decompositores: folhas, frutas e galhos ficariam empilh
 
 ---
 
-## O que a Bíblia diz sobre o trabalho invisível
+## O que a Bíblia diz sobre descobrir o que está escondido
 
-> *"Quem é fiel no pouco também é fiel no muito."* — **Lucas 16:10**
+> *"A glória de Deus é encobrir as coisas, mas a glória dos reis é esquadrinhá-las."* — **Provérbios 25:2**
 
-Leeuwenhoek passou anos observando o que ninguém via e abriu uma janela para um mundo inteiro. O cuidado com o pequeno também aparece no nosso dia a dia:
+Leeuwenhoek passou anos olhando com atenção para o que ninguém via e abriu uma janela para um mundo inteiro. A curiosidade científica é uma forma de honrar o que está oculto na criação:
 
-- cuide das tarefas pequenas, mesmo quando ninguém estiver olhando;
-- tenha paciência para observar o que parece sem importância.
+- olhe com atenção para coisas que parecem pequenas demais;
+- faça perguntas sobre o que ainda não tem resposta pronta.
 
 > **💬 Para Conversar**
 >
-> Qual tarefa pequena do seu dia ninguém vê, mas faz diferença?
+> Qual coisa pequena ao seu redor merece um olhar mais demorado?
 
 ---
 

@@ -120,14 +120,14 @@ A **conservação** busca preservar não apenas espécies individuais, mas as re
 
 ---
 
-## O que a Bíblia diz sobre cuidar do pequeno
+## O que a Bíblia diz sobre a riqueza da criação
 
-> *"Quem é fiel no pouco também é fiel no muito; e quem é injusto no pouco também é injusto no muito."* — **Lucas 16:10**
+> *"Quão variadas são as tuas obras, Senhor! Todas as fizeste com sabedoria; cheia está a terra das tuas riquezas."* — **Salmo 104:24**
 
-Wallace passou anos observando detalhes minúsculos da distribuição das espécies, e foi dessa fidelidade ao pequeno que nasceu uma ciência inteira. Cuidar de um bioma segue a mesma lógica:
+Cada espécie adaptada a um ambiente — da caatinga ao pantanal — é parte dessa variedade. Conservar não é apenas proteger animais bonitos: é reconhecer um patrimônio que recebemos pronto:
 
 - conhecer as espécies do bioma local antes de falar sobre conservação geral;
-- agir em pequenas atitudes consistentes, em vez de esperar gestos grandiosos.
+- agir em pequenas atitudes consistentes que reduzam pressões sobre os habitats.
 
 > **💬 Para Conversar**
 >

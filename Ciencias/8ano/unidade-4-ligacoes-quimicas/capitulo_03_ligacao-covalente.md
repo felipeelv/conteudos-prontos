@@ -132,9 +132,9 @@ Quando você dissolve sal em água, a solução conduz eletricidade. Quando voc�
 
 ## O que a Bíblia diz sobre compartilhar e sustentar
 
-> *"Quem anda em integridade vive seguro, mas quem anda em caminhos tortuosos será descoberto."* — **Provérbios 10:9**
+> *"Não atendendo cada um ao que é propriamente seu, mas também ao que é dos outros."* — **Filipenses 2:4**
 
-Na ligação covalente, a estabilidade não nasce de um átomo tomar tudo do outro, mas de uma estrutura em que cada parte contribui com algo seu. Relações duradouras costumam funcionar pelo mesmo princípio:
+Na ligação covalente, a estabilidade não nasce de um átomo tomar tudo do outro, mas de cada um colocar um par de elétrons em comum. Relações duradouras costumam funcionar pelo mesmo princípio:
 
 - estruturas firmes nascem de partilha real, não de domínio de um sobre o outro;
 - contribuir com algo seu fortalece a relação mais do que tentar absorver o trabalho dos outros.

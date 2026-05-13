@@ -109,18 +109,18 @@ Cada caminho gera substâncias com aparência, dureza, ponto de fusão e comport
 
 ---
 
-## O que a Bíblia diz sobre integridade e estabilidade
+## O que a Bíblia diz sobre buscar estabilidade junto
 
-> *"Quem anda em integridade vive seguro, mas quem anda em caminhos tortuosos será descoberto."* — **Provérbios 10:9**
+> *"Melhor é serem dois do que um, porque têm melhor paga do seu trabalho. Porque, se um cair, o outro levanta o seu companheiro."* — **Eclesiastes 4:9–10**
 
-Estabilidade no átomo surge da organização clara dos elétrons de valência. Em escala humana, integridade tem sentido parecido:
+Átomos sozinhos costumam ser instáveis; ao se ligarem, encontram a configuração de valência completa que buscavam. A vida humana segue um princípio análogo:
 
-- viver de modo coerente, com bases firmes, mesmo quando ninguém está olhando;
-- buscar caminhos honestos para crescer, em vez de soluções que só tampam um vazio.
+- buscar parcerias firmes em vez de tentar resolver tudo isolado;
+- reconhecer que estabilidade real costuma vir de relações honestas e duradouras.
 
 > **💬 Para Conversar**
 >
-> Em que área você ainda está "incompleto" e que caminho honesto poderia te ajudar a crescer?
+> Em que área da sua vida você está tentando se "estabilizar" sozinho — e onde uma boa parceria faria diferença?
 
 ---
 

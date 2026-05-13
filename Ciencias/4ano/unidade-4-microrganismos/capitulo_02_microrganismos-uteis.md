@@ -95,16 +95,16 @@ O **antibiótico** é um medicamento usado contra algumas infecções causadas p
 
 ## O que a Bíblia diz sobre o pequeno que serve
 
-> *"Quem é fiel no pouco também é fiel no muito."* — **Lucas 16:10**
+> *"Antes, os membros do corpo que parecem ser os mais fracos são necessários."* — **1 Coríntios 12:22**
 
-Fleming poderia ter descartado a placa contaminada e seguido em frente. Ele escolheu olhar com atenção um detalhe que parecia "errado":
+As leveduras do pão e o mofo da penicilina são minúsculos, mas indispensáveis. Aquilo que parece pequeno demais para ter valor pode ser exatamente o que sustenta o todo:
 
-- preste atenção ao detalhe estranho antes de desistir dele;
-- valorize as coisas pequenas que tornam algo bom possível.
+- não despreze o que parece pequeno antes de entender o que ele faz;
+- valorize as partes "invisíveis" do trabalho que tornam algo bom possível.
 
 > **💬 Para Conversar**
 >
-> Que detalhe pequeno do seu dia merece um pouco mais de atenção?
+> Quem ou o quê, no seu dia a dia, parece pequeno demais — mas, sem ele, nada funcionaria?
 
 ---
 

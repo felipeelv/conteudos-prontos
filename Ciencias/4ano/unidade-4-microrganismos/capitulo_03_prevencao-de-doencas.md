@@ -123,12 +123,12 @@ A partir das observações de Chagas, foi possível organizar formas de prevenç
 
 ## O que a Bíblia diz sobre cuidar uns dos outros
 
-> *"Quem é fiel no pouco também é fiel no muito."* — **Lucas 16:10**
+> *"O prudente vê o mal e esconde-se; mas os simples passam adiante e sofrem o dano."* — **Provérbios 22:3**
 
-Lavar as mãos, cobrir o espirro com o braço e manter as vacinas em dia são gestos pequenos, mas mostram um cuidado real:
+Carlos Chagas não esperou a doença atacar para agir — ele observou e organizou prevenção. Prevenir é um gesto de cuidado tanto com você quanto com quem convive ao seu redor:
 
-- cuide da sua higiene pensando também em quem convive com você;
-- seja fiel a hábitos simples mesmo quando ninguém estiver olhando.
+- aja antes do problema, com hábitos simples que reduzem o risco;
+- pense em quem está perto quando cuida da sua higiene.
 
 > **💬 Para Conversar**
 >

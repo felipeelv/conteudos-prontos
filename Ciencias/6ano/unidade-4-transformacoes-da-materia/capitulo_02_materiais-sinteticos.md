@@ -127,12 +127,12 @@ Todo material em um objeto foi escolhido por alguma razão — preço, resistên
 
 ## O que a Bíblia diz sobre criar com responsabilidade
 
-> *"Quem é fiel no pouco também é fiel no muito; e quem é injusto no pouco também é injusto no muito."* — **Lucas 16:10**
+> *"Tomou, pois, o Senhor Deus o homem e o pôs no jardim do Éden para o lavrar e o guardar."* — **Gênesis 2:15**
 
-Usar bem um material e pensar no destino do que descartamos são atitudes pequenas que treinam integridade. A responsabilidade começa no objeto simples que passa pela nossa mão:
+Criar um material novo é uma forma de "lavrar" — transformar matéria para resolver problemas reais. Mas o mandato da criação inclui também o "guardar": pensar no destino do que produzimos:
 
-- usar bem um material reduz desperdício e prolonga sua função;
-- escolher e descartar com cuidado revela fidelidade naquilo que recebemos.
+- escolher um material pela função, não só pelo preço ou pela aparência;
+- assumir o destino do que se cria, do uso ao descarte correto.
 
 > **💬 Para Conversar**
 >

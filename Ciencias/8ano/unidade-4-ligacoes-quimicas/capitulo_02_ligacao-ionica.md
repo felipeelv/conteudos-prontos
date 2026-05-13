@@ -140,18 +140,18 @@ Por isso, soluções de sais (como a água do mar) conduzem eletricidade, enquan
 
 ---
 
-## O que a Bíblia diz sobre compromissos que custam algo
+## O que a Bíblia diz sobre ceder para ganhar
 
-> *"Quem é fiel no muito pouco também é fiel no muito; e quem é injusto no muito pouco também é injusto no muito."* — **Lucas 16:10**
+> *"Mais bem-aventurada coisa é dar do que receber."* — **Atos 20:35**
 
-Na ligação iônica, o sódio entrega seu elétron de valência e se transforma na transação. A estrutura cristalina do sal é sustentada por um número enorme de pequenas atrações, repetidas ponto a ponto:
+Na ligação iônica, o sódio cede o elétron que tinha em excesso e o cloro recebe o que lhe faltava — os dois saem mais estáveis do que entraram. Ceder no momento certo nem sempre é perda; pode ser construção:
 
-- pequenas fidelidades sustentam estruturas maiores, no átomo e na vida;
-- ceder no momento certo pode formar algo mais estável depois.
+- abrir mão de algo que não é essencial pode estabilizar uma relação;
+- dar antes de receber muda a química de qualquer encontro.
 
 > **💬 Para Conversar**
 >
-> Que pequena escolha do seu dia (um horário, uma palavra, uma promessa) você pode tratar com mais seriedade esta semana?
+> Em que situação recente "ceder" no momento certo deixou tudo mais estável do que insistir?
 
 ---
 

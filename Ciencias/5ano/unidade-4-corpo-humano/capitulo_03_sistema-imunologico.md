@@ -112,14 +112,14 @@ Quando muitas pessoas de uma comunidade estão vacinadas, a doença tem mais dif
 
 ---
 
-## O que a Bíblia diz sobre fidelidade no invisível
+## O que a Bíblia diz sobre estar preparado
 
-> *"Quem é fiel no pouco também é fiel no muito."* — **Lucas 16:10**
+> *"Revesti-vos de toda a armadura de Deus, para que possais estar firmes."* — **Efésios 6:11**
 
-Muito do que o sistema imunológico faz acontece em silêncio, sem que a gente perceba. Cuidar do corpo com pequenos gestos é uma forma de fidelidade discreta:
+O sistema imunológico funciona como uma armadura interna: barreiras, células de defesa e vacinas formam camadas que protegem o corpo o tempo todo. Estar preparado é diferente de ter medo — é viver com cuidado tranquilo:
 
-- manter hábitos de cuidado mesmo quando ninguém está olhando;
-- pensar na saúde como cuidado também com quem está perto.
+- mantenha hábitos que fortalecem suas defesas antes da doença chegar;
+- cuide do corpo pensando também em quem está perto e mais frágil.
 
 > **💬 Para Conversar**
 >
