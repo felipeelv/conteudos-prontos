@@ -12,7 +12,7 @@ Depois do recreio, a lixeira recebe copos, embalagens, canudos e restos de lanch
 
 ## 1. Por que usamos materiais sintéticos?
 
-Porque eles ajudam a resolver problemas reais de alimentação, saúde, transporte e segurança — antes de pensar nos impactos, vale entender o que eles oferecem.
+Porque eles resolvem problemas reais do dia a dia.
 
 ### 1.1 Quais benefícios são reais
 
@@ -42,7 +42,7 @@ Durar é bom no uso, mas vira problema no descarte rápido:
 
 ## 2. Que impactos os sintéticos causam no ambiente?
 
-**Impacto ambiental** é uma mudança no ambiente causada por uma ação ou material. Nos sintéticos, ele vem da produção, do uso e — principalmente — do descarte.
+**Impacto ambiental** é uma mudança que uma ação humana causa no ambiente. Nos sintéticos, o problema maior está no descarte.
 
 ### 2.1 Decomposição lenta e acúmulo
 
@@ -73,7 +73,7 @@ Durar é bom no uso, mas vira problema no descarte rápido:
 
 ## 3. O que é consumo consciente?
 
-**Consumo consciente** é comprar, usar e descartar pensando nas consequências — em casa, na escola, nas empresas e nas políticas de coleta.
+**Consumo consciente** é comprar, usar e descartar pensando nas consequências.
 
 ### 3.1 Reduzir vem antes de reutilizar e reciclar
 
@@ -102,7 +102,7 @@ Os 3 Rs seguem ordem de prioridade — do mais importante ao último recurso:
 
 ## 4. Por que medicamentos exigem cuidado especial?
 
-Porque são sintéticos que entram no corpo: podem salvar vidas, mas também causar danos se forem usados ou descartados sem orientação.
+Porque são sintéticos que entram no corpo. Podem salvar vidas, mas também fazer mal se forem usados errado.
 
 ### 4.1 Pesquisa, uso responsável e automedicação
 
