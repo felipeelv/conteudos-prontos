@@ -12,11 +12,11 @@ Depois do recreio, a lixeira recebe copos, embalagens, canudos e restos de lanch
 
 ## 1. Por que usamos materiais sintéticos
 
-Antes de falar dos impactos, vale lembrar os benefícios. Os sintéticos ajudaram a resolver problemas de alimentação, saúde, transporte e segurança.
+Antes dos impactos, vale reconhecer os benefícios reais.
 
 ### 1.1 Quais benefícios são reais
 
-**Materiais sintéticos** podem ser duráveis, leves, baratos e impermeáveis. Por isso, muitos objetos ficaram mais acessíveis:
+**Materiais sintéticos** podem ser duráveis, leves, baratos e impermeáveis — e isso ajuda em várias áreas:
 
 - **alimentação:** embalagens protegem alimentos contra sujeira e umidade;
 - **saúde:** luvas, seringas e embalagens estéreis reduzem contaminação;
@@ -29,7 +29,7 @@ Antes de falar dos impactos, vale lembrar os benefícios. Os sintéticos ajudara
 
 ### 1.2 Quando a vantagem vira problema
 
-Durar é bom enquanto o objeto está em uso. Vira problema quando um material feito pra durar é jogado fora rápido:
+Durar é bom no uso, mas vira problema no descarte rápido:
 
 - **uso curto:** copos e embalagens podem durar só minutos;
 - **vida longa:** alguns plásticos ficam no ambiente por muitos anos;
@@ -42,11 +42,11 @@ Durar é bom enquanto o objeto está em uso. Vira problema quando um material fe
 
 ## 2. Impactos no ambiente
 
-**Impacto ambiental** é uma mudança no ambiente causada por uma ação ou material. Nos sintéticos, o impacto vem do modo como o material é produzido, usado e descartado.
+**Impacto ambiental** é uma mudança no ambiente causada por uma ação ou material. Nos sintéticos, ele vem da produção, do uso e do descarte.
 
 ### 2.1 Decomposição lenta e acúmulo
 
-**Decomposição** é o processo pelo qual um material se desfaz no ambiente. Alguns resíduos se decompõem rápido; outros ficam por décadas ou séculos em aterros, rios e praias:
+**Decomposição** é o processo pelo qual um material se desfaz no ambiente. Quando ela demora demais, os resíduos se acumulam:
 
 - **aterros mais cheios:** o lixo ocupa espaço por muito tempo;
 - **poluição urbana:** embalagens entopem bueiros e sujam ruas;
@@ -59,7 +59,7 @@ Durar é bom enquanto o objeto está em uso. Vira problema quando um material fe
 
 ### 2.2 Microplásticos e o aviso de Rachel Carson
 
-**Microplásticos** são pedaços minúsculos de plástico que se espalham pela água, solo e alimentos. Eles aparecem quando o plástico maior se quebra por causa do sol, do atrito e da água:
+**Microplásticos** são pedaços minúsculos que aparecem quando o plástico se quebra com sol, atrito e água:
 
 - plásticos descartados errado se quebram em pedaços muito pequenos;
 - esses fragmentos chegam a rios, oceanos e seres vivos;
@@ -73,11 +73,11 @@ Durar é bom enquanto o objeto está em uso. Vira problema quando um material fe
 
 ## 3. Consumo consciente
 
-**Consumo consciente** é comprar, usar e descartar pensando nas consequências — em casa, na escola, nas empresas e nas políticas de coleta.
+**Consumo consciente** é comprar, usar e descartar pensando nas consequências.
 
 ### 3.1 Reduzir vem antes de reutilizar e reciclar
 
-Os 3 Rs não têm o mesmo peso. **Reduzir** vem primeiro: o melhor resíduo é o que nem chega a existir. **Reutilizar** estende a vida do objeto. **Reciclar** transforma o resíduo em matéria-prima, mas depende de coleta:
+Os 3 Rs seguem ordem de prioridade — do mais importante ao último recurso:
 
 - **reduzir:** consumir menos e evitar itens desnecessários;
 - **reutilizar:** usar de novo antes de descartar, quando houver segurança;
@@ -90,23 +90,23 @@ Os 3 Rs não têm o mesmo peso. **Reduzir** vem primeiro: o melhor resíduo é o
 
 ### 3.2 Descarte correto e escolhas sustentáveis
 
-**Descarte correto** é encaminhar o resíduo pro lugar certo. Coleta seletiva, pontos de entrega e separação em casa ou na escola diminuem os impactos:
+**Descarte correto** é encaminhar o resíduo pro lugar certo — em 3 atitudes simples:
 
 - separar recicláveis limpos quando houver coleta seletiva;
 - evitar misturar restos de comida com materiais recicláveis;
 - preferir reutilizáveis quando substituírem descartáveis de verdade.
 
-> **Biodegradável** é o material que seres vivos conseguem decompor em pouco tempo. Mesmo assim, ele precisa de destino correto — não pode ser jogado em qualquer lugar.
+> **Biodegradável** é o material que seres vivos conseguem decompor em pouco tempo. Mesmo assim, precisa de destino correto — não pode ser jogado em qualquer lugar.
 
 ---
 
 ## 4. Medicamentos: benefício e cuidado
 
-Medicamentos são materiais sintéticos especiais: protegem a saúde e salvam vidas. Por isso mesmo, exigem orientação e descarte adequado.
+Medicamentos são sintéticos especiais: salvam vidas, mas exigem orientação e descarte cuidadoso.
 
 ### 4.1 Pesquisa, uso responsável e automedicação
 
-**Medicamentos** dependem de estudo, testes e tecnologia para tratar doenças e aliviar sintomas. **Automedicação** é usar remédio sem orientação — incluindo compartilhar, guardar sobras ou mudar a dose por conta. O uso responsável tem atitudes claras:
+**Automedicação** é usar remédio sem orientação — incluindo compartilhar, guardar sobras ou mudar a dose por conta. O uso responsável tem 3 atitudes:
 
 - seguir orientação de profissional de saúde e responsável adulto;
 - não compartilhar remédio com colegas ou familiares;
@@ -116,7 +116,7 @@ Medicamentos são materiais sintéticos especiais: protegem a saúde e salvam vi
 
 ### 4.2 Como o descarte protege a água
 
-Medicamento vencido ou sobrando não pode ir pra pia, vaso ou lixo comum. O descarte errado leva substâncias pra água, o solo e os seres vivos. O caminho correto é:
+Medicamento vencido não pode ir pra pia, vaso ou lixo comum. O caminho correto é:
 
 - separar os medicamentos vencidos ou sem uso;
 - manter a embalagem quando possível, pra identificação;
@@ -132,7 +132,7 @@ Medicamento vencido ou sobrando não pode ir pra pia, vaso ou lixo comum. O desc
 
 > *"Porque sabemos que toda a criação, a um só tempo, geme e suporta angústias até agora."* — **Romanos 8:22**
 
-A criação responde às escolhas humanas. Cuidar do descarte é uma forma prática de responsabilidade — começa nas pequenas decisões:
+A criação responde às escolhas humanas. Cuidar do descarte é responsabilidade prática que começa nas pequenas decisões:
 
 - reduzir um descartável repetido na rotina escolar ou familiar;
 - levar medicamentos vencidos a um ponto de coleta com um adulto.
