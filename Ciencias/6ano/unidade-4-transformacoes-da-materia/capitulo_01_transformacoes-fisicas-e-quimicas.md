@@ -10,13 +10,13 @@ Na cozinha, um cubo de gelo derrete sobre a pia. O açúcar some dentro do copo 
 
 ---
 
-## 1. Quando a matéria muda sem virar outra
+## 1. Quando a matéria muda sem virar outra coisa?
 
-Nem toda mudança forma substância nova. Às vezes, a matéria só muda de estado, forma ou aparência.
+Quando ela só muda de estado, forma ou aparência — sem virar um material diferente.
 
 ### 1.1 Mudanças de estado, forma e aparência
 
-Uma **transformação física** acontece quando a matéria muda sem formar substância nova. O gelo derretido continua sendo água. O papel cortado continua sendo papel. Três tipos aparecem com frequência:
+Uma **transformação física** é a mudança que não forma substância nova. Três tipos aparecem com frequência:
 
 - **mudança de estado:** sólido vira líquido, líquido vira gás e por aí vai;
 - **mudança de forma:** cortar, amassar, dobrar, esticar;
@@ -26,7 +26,7 @@ Uma **transformação física** acontece quando a matéria muda sem formar subst
 >
 > Amassar uma folha muda a forma, mas o papel continua sendo papel.
 
-### 1.2 O que significa a composição permanecer
+### 1.2 O que significa a composição permanecer?
 
 **Composição** é o material de que algo é feito. Quando ela não muda, nada novo aparece — mesmo que a aparência fique bem diferente.
 
@@ -34,39 +34,39 @@ Uma **transformação física** acontece quando a matéria muda sem formar subst
 
 ---
 
-## 2. Quando surge uma nova substância
+## 2. Quando surge uma substância nova?
 
-Algumas mudanças vão além da aparência. Nelas, surgem substâncias diferentes, com propriedades novas.
+Quando a mudança forma uma ou mais substâncias diferentes das iniciais — com propriedades próprias.
 
-### 2.1 O que muda na transformação química
+### 2.1 O que muda na transformação química?
 
-A **transformação química** é a mudança que forma substância nova. Cozinhar um ovo, queimar papel e enferrujar um prego são exemplos típicos:
+A **transformação química** é a mudança que forma substância nova. Três exemplos típicos:
 
-- o ovo na panela vira branco firme e não volta a ser claro;
-- o papel queimado vira cinzas, com cheiro e cor diferentes;
-- o prego enferrujado ganha uma camada laranja-amarronzada.
+- **ovo na panela:** vira branco firme e não volta a ser claro;
+- **papel queimado:** vira cinzas, com cheiro e cor diferentes;
+- **prego enferrujado:** ganha uma camada laranja-amarronzada.
 
-A pergunta-chave é sempre a mesma: apareceu substância nova? Se sim, a composição mudou.
+A pergunta-chave é sempre a mesma: apareceu substância nova?
 
 > **⏸️ Pare e Pense**
 >
 > Um alimento cozido só muda de aparência ou ganha características que antes não tinha?
 
-### 2.2 Por que nem sempre dá para voltar
+### 2.2 Por que nem sempre dá para voltar?
 
-Muitas transformações químicas parecem **irreversíveis** no dia a dia. O ovo cozido não volta a ser cru na cozinha. A folha queimada não vira folha inteira de novo.
+Muitas transformações químicas parecem **irreversíveis** no dia a dia: o ovo cozido não volta a ser cru, a folha queimada não vira folha inteira de novo.
 
 > Difícil de voltar pode indicar mudança química, mas não é regra. O critério principal continua sendo: apareceu substância nova?
 
 ---
 
-## 3. As evidências da transformação química
+## 3. Quais sinais mostram que houve transformação química?
 
-Nem sempre dá pra ver a substância nova diretamente. Por isso usamos **evidências observáveis** — sinais que dá pra ver, sentir ou medir.
+Cinco **evidências observáveis** — sinais que dá pra ver, sentir ou medir.
 
 ### 3.1 Cor, gás, temperatura, cheiro e precipitado
 
-Cinco evidências aparecem com frequência no cotidiano:
+Os cinco sinais mais comuns no cotidiano:
 
 - **mudança de cor:** como na ferrugem ou no alimento queimado;
 - **liberação de gás:** bolhas que surgem, como em vinagre com bicarbonato;
@@ -80,9 +80,9 @@ Cinco evidências aparecem com frequência no cotidiano:
 >
 > No século XIX, Jöns Jacob Berzelius criou símbolos e nomes claros para os elementos químicos, deixando a linguagem da Química muito mais precisa.
 
-### 3.2 Por que uma evidência precisa de interpretação
+### 3.2 Por que uma evidência sozinha não basta?
 
-Uma evidência sozinha nem sempre prova tudo. Mudança de cor pode ser só mistura de tintas. Bolhas podem ser ar saindo do líquido, não gás novo. Por isso, juntamos sinais:
+Porque o sinal pode ter outra causa: cor pode ser só mistura de tintas, bolhas podem ser ar saindo do líquido. Por isso juntamos pistas:
 
 - observar mais de uma evidência ao mesmo tempo;
 - comparar como estava antes e como ficou depois;
@@ -90,13 +90,13 @@ Uma evidência sozinha nem sempre prova tudo. Mudança de cor pode ser só mistu
 
 ---
 
-## 4. Classificar pelo que se observa
+## 4. Como classificar uma transformação?
 
-Classificar uma transformação não é chutar. É decidir com base em critério, exemplo e justificativa.
+Não é chutar — é decidir com base em critério, exemplo e justificativa.
 
 ### 4.1 Comparando exemplos cotidianos
 
-Uma boa comparação pergunta se houve mudança de composição. Veja dois grupos comuns:
+Uma boa comparação pergunta se houve mudança de composição:
 
 - **físicas:** gelo derretendo, papel cortado, açúcar dissolvido em água — não formam substância nova;
 - **químicas:** ovo cozido, papel queimado, leite talhado, prego enferrujado — formam substância nova.
@@ -105,7 +105,7 @@ Uma boa comparação pergunta se houve mudança de composição. Veja dois grupo
 >
 > Que evidência você usaria para defender que vinagre com bicarbonato passou por transformação química?
 
-### 4.2 Por que justificar é mais importante que chutar
+### 4.2 Por que justificar é mais importante que chutar?
 
 Dizer "é física" ou "é química" só vira ciência quando vem com motivo. Uma boa justificativa tem três partes:
 

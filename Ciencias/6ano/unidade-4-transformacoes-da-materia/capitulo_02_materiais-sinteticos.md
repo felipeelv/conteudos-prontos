@@ -10,13 +10,13 @@ Tiago abre a mochila e olha o que tem dentro: garrafa PET, estojo plástico, emb
 
 ---
 
-## 1. Natural ou sintético
+## 1. Qual a diferença entre natural e sintético?
 
-Pra entender os materiais do dia a dia, precisamos perguntar de onde eles vêm. Alguns vêm direto da natureza. Outros dependem de processos químicos feitos pelo ser humano.
+Natural vem direto da natureza ou de seres vivos. Sintético é feito pelo ser humano em fábricas, com processos químicos que formam substâncias novas.
 
 ### 1.1 O que a natureza oferece
 
-**Material natural** é aquele encontrado na natureza ou tirado direto de seres vivos ou minerais. Muitos ainda passam por corte, limpeza ou secagem antes do uso:
+**Material natural** é o que vem da natureza ou de seres vivos e minerais. Exemplos:
 
 - **algodão:** vem da planta e pode virar tecido;
 - **madeira:** vem de árvores e pode virar móvel, lápis ou papel;
@@ -29,19 +29,19 @@ Pra entender os materiais do dia a dia, precisamos perguntar de onde eles vêm. 
 
 ### 1.2 O que o ser humano produz
 
-**Material sintético** é feito pelo ser humano em fábricas, com processos químicos que formam substâncias novas. Ele não aparece pronto na natureza com aquela forma e propriedade.
+**Material sintético** é feito pelo ser humano em fábricas, com processos químicos que formam substâncias novas.
 
 > Nem todo objeto fabricado é sintético no sentido químico. Uma cadeira de madeira foi feita pelo ser humano, mas a madeira é natural. Já uma cadeira plástica depende de material sintético.
 
 ---
 
-## 2. Os sintéticos no cotidiano
+## 2. Onde encontramos materiais sintéticos no dia a dia?
 
-Materiais sintéticos estão em embalagens, roupas, pneus, brinquedos e até remédios. Eles se espalharam porque combinam propriedades muito úteis.
+Em embalagens, roupas, pneus, brinquedos e até remédios — sempre que precisamos de propriedades como leveza, resistência ou impermeabilidade.
 
 ### 2.1 Plásticos e tecidos sintéticos
 
-**Plástico** é um material sintético moldável, presente em garrafas PET, sacolas, potes e brinquedos. **Tecido sintético** é feito com fibras industriais como poliéster, nylon e elastano. Eles são escolhidos por propriedades práticas:
+**Plástico** é um sintético moldável (PET, sacolas, potes, brinquedos). **Tecido sintético** usa fibras como poliéster, nylon e elastano. São escolhidos por propriedades práticas:
 
 - **leveza e moldagem:** facilitam o transporte e dão muitos formatos;
 - **resistência:** o objeto dura mais e o tecido rasga menos;
@@ -54,7 +54,7 @@ Materiais sintéticos estão em embalagens, roupas, pneus, brinquedos e até rem
 
 ### 2.2 Borrachas sintéticas e materiais tecnológicos
 
-**Borracha sintética** é um material elástico produzido pela indústria. Ela aparece em pneus, solados, mangueiras e vedações. Cimento, vidro e tintas têm origem natural, mas viram tecnológicos pelo modo como são produzidos:
+**Borracha sintética** é um material elástico produzido pela indústria (pneus, solados, mangueiras). Cimento, vidro e tintas viram tecnológicos pelo modo de produção:
 
 - **elasticidade e aderência:** dão segurança a pneus e solados;
 - **durabilidade:** aumentam o tempo de uso das peças;
@@ -67,13 +67,13 @@ Materiais sintéticos estão em embalagens, roupas, pneus, brinquedos e até rem
 
 ---
 
-## 3. Tecnologia, propriedades e responsabilidade
+## 3. Por que criar materiais novos é também assumir responsabilidade?
 
-Criar um material novo não é só fabricar algo diferente. É escolher propriedades pra resolver problemas reais.
+Porque todo material útil continua existindo depois do uso — quem cria precisa pensar no destino, não só na função.
 
-### 3.1 Por que criar um material novo
+### 3.1 Por que a indústria pesquisa novas propriedades
 
-**Propriedade** é uma característica do material, como resistência, elasticidade, leveza ou impermeabilidade. A indústria pesquisa materiais pra unir essas propriedades a necessidades humanas:
+**Propriedade** é uma característica do material — resistência, elasticidade, leveza, impermeabilidade. A indústria une propriedades a necessidades humanas:
 
 - **saúde:** seringas, luvas e embalagens estéreis;
 - **alimentação:** embalagens que protegem alimentos por mais tempo;
@@ -84,9 +84,9 @@ Criar um material novo não é só fabricar algo diferente. É escolher propried
 >
 > Dois marcos dos sintéticos: a baquelita (1907), de Leo Baekeland — primeiro plástico industrial — e o nylon (1935), de Wallace Carothers, que revolucionou as fibras.
 
-### 3.2 Criar é assumir destino
+### 3.2 O que significa assumir o destino
 
-Um material útil continua existindo depois do uso. A sacola que carregou uma compra por poucos minutos ainda precisa de destino. Responsabilidade começa antes do descarte:
+Responsabilidade começa antes do descarte — em quatro decisões:
 
 - **escolher:** perguntar se aquele material é mesmo necessário;
 - **usar bem:** aproveitar o objeto enquanto serve;
@@ -97,13 +97,13 @@ Um material útil continua existindo depois do uso. A sacola que carregou uma co
 
 ---
 
-## 4. Matéria projetada ao nosso redor
+## 4. Como classificar a matéria projetada do nosso cotidiano?
 
-Camiseta, garrafa e pneu são exemplos de matéria projetada. As transformações químicas não ficam só no laboratório: chegam à mochila, à casa, à rua e ao hospital.
+Olhando o material principal de cada objeto — e considerando que muitos juntam vários materiais ao mesmo tempo.
 
 ### 4.1 Como classificar objetos mistos
 
-Muitos objetos têm mais de um material. Um tênis pode reunir tecido sintético, borracha, cola, espuma e partes metálicas. Pra classificar sem simplificar demais:
+Muitos objetos juntam vários materiais (um tênis tem tecido sintético, borracha, cola, espuma e metal). Pra classificar sem simplificar demais:
 
 - **natural:** o material principal vem direto da natureza, como madeira ou algodão;
 - **sintético:** o material principal foi produzido por processo químico, como plástico ou nylon;
@@ -112,7 +112,7 @@ Muitos objetos têm mais de um material. Um tênis pode reunir tecido sintético
 
 ### 4.2 Ligar material, propriedade e uso
 
-Todo material foi escolhido por alguma razão — preço, resistência, leveza, higiene ou transparência. Uma boa análise liga quatro pontos:
+Todo material foi escolhido por alguma razão. Uma boa análise liga quatro pontos:
 
 - **objeto:** aquilo que você está observando;
 - **material:** do que ele é feito;
