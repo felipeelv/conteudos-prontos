@@ -65,6 +65,10 @@ A **Mata Atlântica** é uma floresta costeira que originalmente cobria toda a f
 
 A **fragmentação** acontece quando um ambiente contínuo é quebrado em pedaços menores e isolados, o que dificulta a sobrevivência das espécies.
 
+> **💡 Você sabia?**
+>
+> O botânico alemão Carl von Martius (1794–1868) percorreu vários biomas brasileiros no século XIX e organizou a *Flora Brasiliensis*, a maior obra já feita sobre as plantas do Brasil.
+
 ---
 
 ## 3. Ambientes de seca, água e campos

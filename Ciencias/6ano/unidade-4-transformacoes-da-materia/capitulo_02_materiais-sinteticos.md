@@ -2,7 +2,7 @@
 
 ## Por que tantos objetos do seu dia não existem prontos na natureza?
 
-Um aluno abre a mochila e encontra uma garrafa PET, um estojo plástico, um uniforme com poliéster, um tênis com borracha sintética e uma embalagem de remédio. Esses objetos parecem comuns, mas quase nenhum deles existe pronto na natureza. A matéria foi transformada para ganhar leveza, resistência, elasticidade ou proteção. A pergunta é perceber o poder dessa criação antes de decidir como usar e descartar.
+Tiago abre a mochila e olha o que tem dentro: garrafa PET, estojo plástico, embalagem de remédio. Olha para o próprio corpo: o uniforme tem poliéster, o tênis tem borracha sintética. Esses objetos parecem comuns, mas quase nenhum deles existe pronto na natureza. A matéria foi transformada para ganhar leveza, resistência, elasticidade ou proteção — e perceber esse poder de criação ajuda a decidir como usar e descartar.
 
 > **💭 Pense um pouco**
 >
@@ -82,7 +82,7 @@ Criar um material novo não é só fabricar algo diferente. É escolher propried
 
 > **💡 Você sabia?**
 >
-> Leo Baekeland criou a baquelita em 1907, um dos primeiros plásticos sintéticos de grande uso industrial. Ela suportava calor melhor que muitos materiais da época e ajudou a fabricar objetos elétricos com mais segurança.
+> Dois marcos da era dos sintéticos: a baquelita (1907) de Leo Baekeland — primeiro plástico de uso industrial — e o nylon (1935) de Wallace Carothers, que revolucionou tecidos e abriu caminho para as fibras sintéticas modernas.
 
 ### 3.2 Criar é assumir destino
 
